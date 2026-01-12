@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260112T163000Z
+DTSTART:20260112T163444Z
 SUMMARY:Round 1: VP.F vs SASHI.A
 UID:cs-go-exort-series-21-2026-1317351@tournamentics
 END:VEVENT
@@ -23,8 +23,8 @@ SUMMARY:Round 1: OXUJI vs PEEP
 UID:cs-go-exort-series-21-2026-1317349@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: B8 Academy: 2 | Young TigeRES: 0\nStream: No official stream linked
+DTEND:20260112T154444Z
 DTSTART:20260112T134912Z
 SUMMARY:Round 1: B8 Academy vs Y.TigeRES
 UID:cs-go-exort-series-21-2026-1317350@tournamentics
