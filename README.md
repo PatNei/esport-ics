@@ -171,18 +171,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalC
 </details>
 
 <details>
-<summary>Iron Egg Cup</summary>
-
-### 2025
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/IronEggCup/2025.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/IronEggCup/2025.ics
-```
-
-</details>
-
-<details>
 <summary>META Cup</summary>
 
 ### Season 3 2026
@@ -269,18 +257,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEspla
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/UrbanRiga/Open22026.ics
-```
-
-</details>
-
-<details>
-<summary>VOID Masters</summary>
-
-### 2025
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/VoidMasters/2025.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/VoidMasters/2025.ics
 ```
 
 </details>
