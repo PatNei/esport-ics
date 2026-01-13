@@ -291,3 +291,21 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMa
 ```
 
 </details>
+
+## License
+
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+This means:
+- ✅ You can freely use, share, and adapt these calendar files
+- ✅ Organizations can use this repository for any purpose
+- ✅ You must give appropriate credit to the repository creators
+- ✅ If you distribute modified versions, you must use the same license
+- ❌ You cannot place these files behind paywalls
+- ❌ You cannot add additional restrictions
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
