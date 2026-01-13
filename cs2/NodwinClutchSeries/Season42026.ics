@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260114T090000Z
-SUMMARY:Decider match: BMB vs TBD
+SUMMARY:Decider match: BMB vs 777
 UID:cs-go-nodwin-clutch-series-4-2026-1314665@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -478,8 +478,8 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313505@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: The glecs: 1 | 777: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260113T210853Z
 DTSTART:20260113T184214Z
 SUMMARY:Elimination match: GLECS vs 777
 UID:cs-go-nodwin-clutch-series-4-2026-1314663@tournamentics
