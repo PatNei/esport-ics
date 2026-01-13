@@ -3,6 +3,13 @@
 This repository contains automatically updated iCalendar (.ics) files for various Counter-Strike 2 tournaments.
 You can subscribe to these calendars by clicking the **Link** or by manually adding the **HTTPS** links provided in the code blocks below.
 
+## 🌍 Global Schedule
+
+Subscribe to every tournament at once:
+[**All Matches (.ics)**](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/all.ics)
+
+---
+
 ## A Tier
 
 <details>
