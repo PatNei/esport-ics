@@ -429,13 +429,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Unite
 
 ---
 
-### Christmas Cup 2025
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/ChristmasCup2025.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/ChristmasCup2025.ics
-```
-
 ### Season 43 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Season432026.ics)
 
