@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260115T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: STA vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312246@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -333,7 +333,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260114T121500Z
+DTSTART:20260114T123000Z
 SUMMARY:ARC vs MINLATE
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312245@tournamentics
 END:VEVENT
@@ -544,12 +544,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260115T150000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: FORZE.R vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312247@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: FORZE Reload: 2 | STATE: 1\nStream: https://kick.com/cct_cs
+DTEND:20260114T121254Z
 DTSTART:20260114T090437Z
 SUMMARY:FORZE.R vs STA
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312244@tournamentics
