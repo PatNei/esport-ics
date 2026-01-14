@@ -569,9 +569,9 @@ SUMMARY:VNM vs F5
 UID:cs-go-fragadelphia-miami-2026-1305142@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260114T140000Z
+DTSTART:20260114T141009Z
 SUMMARY:Decider match: LK vs STA
 UID:cs-go-european-pro-league-series-4-play-in-2026-1306396@tournamentics
 END:VEVENT
@@ -1034,7 +1034,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260115T150000Z
-SUMMARY:Winners match: FORZE.R vs TBD
+SUMMARY:Winners match: FORZE.R vs ARC
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312247@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1433,7 +1433,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260115T090000Z
-SUMMARY:Elimination match: STA vs TBD
+SUMMARY:Elimination match: STA vs MINLATE
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312246@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1829,8 +1829,8 @@ SUMMARY:Quarterfinal 2: AAB vs OlyBet SB
 UID:cs-go-urban-riga-open-2-2026-1294175@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | MINLATE: 0\nStream: https://kick.com/cct_cs
+DTEND:20260114T141615Z
 DTSTART:20260114T123055Z
 SUMMARY:ARC vs MINLATE
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312245@tournamentics
