@@ -1566,7 +1566,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260115T113000Z
-SUMMARY:Elimination match: GRG vs TBD
+SUMMARY:Elimination match: GRG vs MANA
 UID:cs-go-roman-imperium-cup-4-2026-1315208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1923,7 +1923,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260115T113000Z
-SUMMARY:Winners match: MOUZ.N vs TBD
+SUMMARY:Winners match: MOUZ.N vs IGW
 UID:cs-go-roman-imperium-cup-4-2026-1315207@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2291,8 +2291,8 @@ SUMMARY:TRI vs HERO.A
 UID:cs-go-playr-masters-1-2026-1318732@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Impulse GW: 1 | MANA eSports: 0\nStream: https://www.twitch.tv/rmncs
+DTEND:20260115T112002Z
 DTSTART:20260115T103031Z
 SUMMARY:IGW vs MANA
 UID:cs-go-roman-imperium-cup-4-2026-1315206@tournamentics
