@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260115T133000Z
+DTSTART:20260115T125000Z
 SUMMARY:Round of 32 match 9: 3DMAX vs ICE
 UID:cs-go-blast-bounty-winter-2026-1314682@tournamentics
 END:VEVENT
@@ -149,8 +149,8 @@ SUMMARY:Round of 32 match 16: FAL vs ECS
 UID:cs-go-blast-bounty-winter-2026-1314684@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Gentle Mates: 2 | M80: 0\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260115T123750Z
 DTSTART:20260115T110343Z
 SUMMARY:Round of 32 match 3: M8 vs M80
 UID:cs-go-blast-bounty-winter-2026-1314681@tournamentics
