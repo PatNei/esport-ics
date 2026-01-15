@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260115T193000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: LA MASIA vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315213@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:Decider match: IGW vs MANA
 UID:cs-go-roman-imperium-cup-4-2026-1315209@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 1 | LA MASIA: 0\nStream: https://www.twitch.tv/rmncs
+DTEND:20260115T190517Z
 DTSTART:20260115T182550Z
 SUMMARY:BMB vs LA MASIA
 UID:cs-go-roman-imperium-cup-4-2026-1315210@tournamentics
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260115T193000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: BMB vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315212@tournamentics
 END:VEVENT
 BEGIN:VEVENT
