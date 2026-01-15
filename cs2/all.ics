@@ -291,7 +291,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260115T170000Z
+DTSTART:20260115T173000Z
 SUMMARY:BCA vs ASC
 UID:cs-go-roman-imperium-cup-4-2026-1315211@tournamentics
 END:VEVENT
@@ -662,7 +662,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260115T170000Z
+DTSTART:20260115T173000Z
 SUMMARY:BMB vs LA MASIA
 UID:cs-go-roman-imperium-cup-4-2026-1315210@tournamentics
 END:VEVENT
@@ -1215,7 +1215,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260115T133000Z
+DTSTART:20260115T140000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315209@tournamentics
 END:VEVENT
@@ -1416,9 +1416,9 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-zhi-tech-elite-masters-2026-1318726@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260115T103000Z
+DTSTART:20260115T104118Z
 SUMMARY:Round 2: PEEP vs JUMBO
 UID:cs-go-exort-series-21-2026-1320306@tournamentics
 END:VEVENT
@@ -1565,7 +1565,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260115T110000Z
+DTSTART:20260115T113000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315208@tournamentics
 END:VEVENT
@@ -1922,7 +1922,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260115T110000Z
+DTSTART:20260115T113000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315207@tournamentics
 END:VEVENT
@@ -3467,8 +3467,8 @@ SUMMARY:ALLIN vs MSC
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312240@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nResult: Bebop: 2 | ALGO Esports: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260115T104116Z
 DTSTART:20260115T090925Z
 SUMMARY:BBP vs ALGO
 UID:cs-go-european-pro-league-series-4-play-in-2026-1306412@tournamentics
@@ -3511,7 +3511,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260115T203000Z
+DTSTART:20260115T210000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315214@tournamentics
 END:VEVENT
@@ -3833,7 +3833,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260115T180000Z
+DTSTART:20260115T183000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315213@tournamentics
 END:VEVENT
@@ -4176,7 +4176,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260115T180000Z
+DTSTART:20260115T183000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315212@tournamentics
 END:VEVENT
