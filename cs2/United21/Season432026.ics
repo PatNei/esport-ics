@@ -2,32 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: MASONIC: 2 | Shadows: 0\nStream: https://kick.com/united21_en
-DTEND:20260106T102837Z
-DTSTART:20260106T091242Z
-SUMMARY:Upper bracket semifinal 1: MSC vs SHD
-UID:cs-go-united21-43-2026-1308211@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: BIG Academy: 2 | megoshort: 1\nStream: https://kick.com/united21_en
-DTEND:20260112T112938Z
-DTSTART:20260112T091324Z
-SUMMARY:Upper bracket final: BIG.A vs megoshort
-UID:cs-go-united21-43-2026-1308223@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: Truck Drivers: 2 | Sangal ALTERS: 1\nStream: https://kick.com/united21_en
-DTEND:20260114T140749Z
-DTSTART:20260114T113936Z
-SUMMARY:Lower bracket final: TD vs SNG
-UID:cs-go-united21-43-2026-1308220@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: Truck Drivers: 0 | Sangal ALTERS: 2\nStream: https://kick.com/united21_en
-DTEND:20260106T155117Z
-DTSTART:20260106T140837Z
-SUMMARY:Upper bracket semifinal 1: TD vs SNG
-UID:cs-go-united21-43-2026-1308216@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260116T090000Z
+SUMMARY:Upper bracket quarterfinal 1: MSC vs Midnight
+UID:cs-go-united21-43-2026-1322446@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: Imperial Academy: 1 | FUT Academy: 2\nStream: https://kick.com/united21_en
@@ -35,13 +14,6 @@ DTEND:20260113T124214Z
 DTSTART:20260113T090045Z
 SUMMARY:Upper bracket final: Imperial.A vs FUT.A
 UID:cs-go-united21-43-2026-1308228@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: MASONIC: 2 | ChickenBurger: 0\nStream: https://kick.com/united21_en
-DTEND:20260110T103912Z
-DTSTART:20260110T091207Z
-SUMMARY:Upper bracket final: MSC vs ChickenBurger
-UID:cs-go-united21-43-2026-1308213@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: megoshort: 2 | XI Esport: 0\nStream: https://kick.com/united21_en
@@ -65,18 +37,25 @@ SUMMARY:Lower bracket final: ChickenBurger vs EF.A
 UID:cs-go-united21-43-2026-1308215@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: FUT Academy: 2 | Midnight: 0\nStream: https://kick.com/united21_en
-DTEND:20260109T131019Z
-DTSTART:20260109T113925Z
-SUMMARY:Upper bracket semifinal 2: FUT.A vs Midnight
-UID:cs-go-united21-43-2026-1308227@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: ChickenBurger: 2 | Eternal Fire Academy: 0\nStream: https://kick.com/united21_en
 DTEND:20260106T125417Z
 DTSTART:20260106T114131Z
 SUMMARY:Upper bracket semifinal 2: ChickenBurger vs EF.A
 UID:cs-go-united21-43-2026-1308212@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260117T090000Z
+SUMMARY:Upper bracket quarterfinal 3: BIG.A vs TD
+UID:cs-go-united21-43-2026-1322448@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: FUT Academy: 2 | Midnight: 0\nStream: https://kick.com/united21_en
+DTEND:20260109T131019Z
+DTSTART:20260109T113925Z
+SUMMARY:Upper bracket semifinal 2: FUT.A vs Midnight
+UID:cs-go-united21-43-2026-1308227@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: Prestige: 2 | XI Esport: 0\nStream: https://kick.com/united21_en
@@ -91,6 +70,27 @@ DTEND:20260108T104843Z
 DTSTART:20260108T090704Z
 SUMMARY:Upper bracket semifinal 1: PRE vs BIG.A
 UID:cs-go-united21-43-2026-1308221@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: Shadows: 1 | Eternal Fire Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260110T142052Z
+DTSTART:20260110T113652Z
+SUMMARY:Lower bracket semifinal: SHD vs EF.A
+UID:cs-go-united21-43-2026-1308214@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: MASONIC: 2 | Shadows: 0\nStream: https://kick.com/united21_en
+DTEND:20260106T102837Z
+DTSTART:20260106T091242Z
+SUMMARY:Upper bracket semifinal 1: MSC vs SHD
+UID:cs-go-united21-43-2026-1308211@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260117T113000Z
+SUMMARY:Upper bracket quarterfinal 2: NAVI.J vs PRE
+UID:cs-go-united21-43-2026-1322447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: Misa Esports: 0 | Midnight: 2\nStream: https://kick.com/united21_en
@@ -114,10 +114,38 @@ SUMMARY:Upper bracket semifinal 1: MISA vs Imperial.A
 UID:cs-go-united21-43-2026-1308226@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: Shadows: 1 | Eternal Fire Academy: 2\nStream: https://kick.com/united21_en
-DTEND:20260110T142052Z
-DTSTART:20260110T113652Z
-SUMMARY:Lower bracket semifinal: SHD vs EF.A
-UID:cs-go-united21-43-2026-1308214@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: BIG Academy: 2 | megoshort: 1\nStream: https://kick.com/united21_en
+DTEND:20260112T112938Z
+DTSTART:20260112T091324Z
+SUMMARY:Upper bracket final: BIG.A vs megoshort
+UID:cs-go-united21-43-2026-1308223@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: Truck Drivers: 2 | Sangal ALTERS: 1\nStream: https://kick.com/united21_en
+DTEND:20260114T140749Z
+DTSTART:20260114T113936Z
+SUMMARY:Lower bracket final: TD vs SNG
+UID:cs-go-united21-43-2026-1308220@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: Truck Drivers: 0 | Sangal ALTERS: 2\nStream: https://kick.com/united21_en
+DTEND:20260106T155117Z
+DTSTART:20260106T140837Z
+SUMMARY:Upper bracket semifinal 1: TD vs SNG
+UID:cs-go-united21-43-2026-1308216@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: MASONIC: 2 | ChickenBurger: 0\nStream: https://kick.com/united21_en
+DTEND:20260110T103912Z
+DTSTART:20260110T091207Z
+SUMMARY:Upper bracket final: MSC vs ChickenBurger
+UID:cs-go-united21-43-2026-1308213@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260116T113000Z
+SUMMARY:Upper bracket quarterfinal 4: FUT.A vs ChickenBurger
+UID:cs-go-united21-43-2026-1322449@tournamentics
 END:VEVENT
 END:VCALENDAR
