@@ -3211,7 +3211,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
 DTSTART:20260116T190000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: GG vs TBD
 UID:cs-go-betboom-rush-b-summit-2026-1317684@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3449,7 +3449,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260115T210000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: LA MASIA vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315214@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3754,8 +3754,8 @@ SUMMARY:Round of 32 match 5: AUR vs HOTU
 UID:cs-go-blast-bounty-winter-2026-1314675@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sinon__cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: LA MASIA: 2 | TEAM ASCEND: 0\nStream: https://www.twitch.tv/sinon__cs
+DTEND:20260115T205735Z
 DTSTART:20260115T194503Z
 SUMMARY:Elimination match: LA MASIA vs ASC
 UID:cs-go-roman-imperium-cup-4-2026-1315213@tournamentics
@@ -3838,8 +3838,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313575@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nResult: Gaimin Gladiators: 2 | Game Hunters: 0\nStream: https://www.twitch.tv/btsbrasiltv
+DTEND:20260115T205837Z
 DTSTART:20260115T190253Z
 SUMMARY:Lower bracket round 1 match 1: GG vs GH
 UID:cs-go-betboom-rush-b-summit-2026-1317682@tournamentics
