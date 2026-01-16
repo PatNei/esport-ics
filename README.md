@@ -306,6 +306,34 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalL
 </details>
 
 <details>
+<summary>IEM</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics
+```
+
+---
+
+### Rio: Americas Open Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasOpenQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasOpenQualifier2026.ics
+```
+
+### Rio: Global Open Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalOpenQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalOpenQualifier2026.ics
+```
+
+</details>
+
+<details>
 <summary>NODWIN Clutch Series</summary>
 
 ### Full Schedule
