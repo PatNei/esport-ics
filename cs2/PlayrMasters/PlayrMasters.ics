@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aabesport
 DURATION:PT2H
-DTSTART:20260116T171000Z
+DTSTART:20260116T173000Z
 SUMMARY:aimclub vs AAB
 UID:cs-go-playr-masters-1-2026-1318755@tournamentics
 END:VEVENT
@@ -123,13 +123,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
 DURATION:PT2H
-DTSTART:20260116T171000Z
+DTSTART:20260116T173000Z
 SUMMARY:JS vs STA
 UID:cs-go-playr-masters-1-2026-1318754@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 0 | aimclub: 1\nStream: https://www.twitch.tv/esportstudion
+DTEND:20260116T172539Z
 DTSTART:20260116T164224Z
 SUMMARY:JS vs aimclub
 UID:cs-go-playr-masters-1-2026-1318751@tournamentics
@@ -214,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
 DURATION:PT2H
-DTSTART:20260116T171000Z
+DTSTART:20260116T173000Z
 SUMMARY:INF vs PRE
 UID:cs-go-playr-masters-1-2026-1318756@tournamentics
 END:VEVENT
