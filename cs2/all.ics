@@ -1516,7 +1516,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
 DURATION:PT2H
-DTSTART:20260116T153000Z
+DTSTART:20260116T180000Z
 SUMMARY:JS vs AAB
 UID:cs-go-playr-masters-1-2026-1318757@tournamentics
 END:VEVENT
@@ -2459,8 +2459,8 @@ SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310812@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | MASONIC: 1\nStream: https://kick.com/cct_cs
+DTEND:20260116T151957Z
 DTSTART:20260116T120904Z
 SUMMARY:Decider match: LK vs MSC
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312243@tournamentics
@@ -2685,7 +2685,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
 DURATION:PT2H
-DTSTART:20260116T154500Z
+DTSTART:20260116T171000Z
 SUMMARY:JS vs STA
 UID:cs-go-playr-masters-1-2026-1318754@tournamentics
 END:VEVENT
@@ -3271,7 +3271,7 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313487@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
 DURATION:PT2H
 DTSTART:20260116T154500Z
 SUMMARY:megoshort vs Hemmaplan
@@ -3691,9 +3691,9 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313526@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/premierleague_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/premierleague_cs2
 DURATION:PT2H
-DTSTART:20260116T150000Z
+DTSTART:20260116T151632Z
 SUMMARY:Semifinal match 1: ChickenBurger vs WSG
 UID:cs-go-premier-league-1-2026-1322465@tournamentics
 END:VEVENT
@@ -4092,7 +4092,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
 DURATION:PT2H
-DTSTART:20260116T151000Z
+DTSTART:20260116T152000Z
 SUMMARY:SASHI vs TRI
 UID:cs-go-playr-masters-1-2026-1318739@tournamentics
 END:VEVENT
