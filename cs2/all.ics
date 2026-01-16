@@ -2651,7 +2651,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/premierleague_cs2
 DURATION:PT2H
 DTSTART:20260117T140000Z
-SUMMARY:Grand final: ChickenBurger vs TBD
+SUMMARY:Grand final: ChickenBurger vs AUR.YB
 UID:cs-go-premier-league-1-2026-1322468@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2888,7 +2888,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
 DURATION:PT2H
-DTSTART:20260116T160000Z
+DTSTART:20260116T173000Z
 SUMMARY:SASHI vs SFE
 UID:cs-go-playr-masters-1-2026-1318742@tournamentics
 END:VEVENT
@@ -3022,7 +3022,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/premierleague_cs2
 DURATION:PT2H
 DTSTART:20260117T110000Z
-SUMMARY:Third Place match: WSG vs TBD
+SUMMARY:Third Place match: WSG vs ENJOY
 UID:cs-go-premier-league-1-2026-1322467@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3376,8 +3376,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313527@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/premierleague_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 1 | ENJOY: 0\nStream: https://www.twitch.tv/premierleague_cs2
+DTEND:20260116T170600Z
 DTSTART:20260116T161453Z
 SUMMARY:Semifinal match 2: AUR.YB vs ENJOY
 UID:cs-go-premier-league-1-2026-1322466@tournamentics
@@ -3733,9 +3733,9 @@ SUMMARY:Round 2: paiN.A vs HWGA
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315167@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260116T170000Z
+DTSTART:20260116T170327Z
 SUMMARY:Round of 32 match 11: FURIA vs 9INE
 UID:cs-go-blast-bounty-winter-2026-1314687@tournamentics
 END:VEVENT
