@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
 DURATION:PT2H
-DTSTART:20260116T184500Z
+DTSTART:20260116T190000Z
 SUMMARY:STA vs PRE
 UID:cs-go-playr-masters-1-2026-1318758@tournamentics
 END:VEVENT
@@ -109,20 +109,20 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
-DTSTART:20260116T193000Z
+DTSTART:20260116T200000Z
 SUMMARY:TBD vs TBD
 UID:cs-go-playr-masters-1-2026-1318761@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
 DURATION:PT2H
-DTSTART:20260116T184500Z
+DTSTART:20260116T190000Z
 SUMMARY:JS vs AAB
 UID:cs-go-playr-masters-1-2026-1318757@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 0 | STATE: 1\nStream: https://www.twitch.tv/esportstudion
+DTEND:20260116T185527Z
 DTSTART:20260116T180054Z
 SUMMARY:JS vs STA
 UID:cs-go-playr-masters-1-2026-1318754@tournamentics
@@ -200,20 +200,20 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
 DURATION:PT2H
-DTSTART:20260116T184500Z
+DTSTART:20260116T190000Z
 SUMMARY:aimclub vs INF
 UID:cs-go-playr-masters-1-2026-1318759@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
-DTSTART:20260116T193000Z
+DTSTART:20260116T200000Z
 SUMMARY:TBD vs TBD
 UID:cs-go-playr-masters-1-2026-1318760@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: Infinite: 1 | Prestige: 0\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
+DTEND:20260116T185628Z
 DTSTART:20260116T180151Z
 SUMMARY:INF vs PRE
 UID:cs-go-playr-masters-1-2026-1318756@tournamentics
