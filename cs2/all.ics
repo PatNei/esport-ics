@@ -2587,7 +2587,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260117T160000Z
+DTSTART:20260117T161000Z
 SUMMARY:Round of 16 match 3: GL vs AUR
 UID:cs-go-blast-bounty-winter-2026-1314690@tournamentics
 END:VEVENT
@@ -3180,8 +3180,8 @@ SUMMARY:Round 2: CRASH vs 4M
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315169@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Gentle Mates: 1 | Liquid: 2\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260117T155437Z
 DTSTART:20260117T131446Z
 SUMMARY:Round of 16 match 2: M8 vs TL
 UID:cs-go-blast-bounty-winter-2026-1314689@tournamentics
