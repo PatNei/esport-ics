@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260117T181500Z
-SUMMARY:Quarterfinal match 3: TBD vs TBD
+SUMMARY:Quarterfinal match 3: NTR vs ENCE
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323627@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -30,9 +30,9 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310827@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nolik_2k
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nolik_2k
 DURATION:PT2H
-DTSTART:20260117T180000Z
+DTSTART:20260117T175455Z
 SUMMARY:Round of 16 match 8: URSA vs Leo
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323617@tournamentics
 END:VEVENT
@@ -198,8 +198,8 @@ SUMMARY:Round of 16 match 2: SHIN vs FDB
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323607@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bambikxde
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: ENCE: 1 | eLITenergy: 0\nStream: https://www.twitch.tv/bambikxde
+DTEND:20260117T175856Z
 DTSTART:20260117T171435Z
 SUMMARY:Round of 16 match 5: ENCE vs eLITenergy
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323619@tournamentics
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260117T181500Z
-SUMMARY:Quarterfinal match 1: TBD vs TBD
+SUMMARY:Quarterfinal match 1: SNG vs TBD
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -401,8 +401,8 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310825@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/virtuspro
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Virtus.pro: 0 | Nuclear TigeRES: 1\nStream: https://www.twitch.tv/virtuspro
+DTEND:20260117T175806Z
 DTSTART:20260117T171052Z
 SUMMARY:Round of 16 match 6: VP vs NTR
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323615@tournamentics
@@ -422,8 +422,8 @@ SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310818@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nolik_2k
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: BULGARIAPEEK: 0 | Sangal: 1\nStream: https://www.twitch.tv/nolik_2k
+DTEND:20260117T175114Z
 DTSTART:20260117T171100Z
 SUMMARY:Round of 16 match 2: BULGARIAPEEK vs SNG
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323612@tournamentics
