@@ -1447,7 +1447,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
 DTSTART:20260117T160000Z
-SUMMARY:3rd place match: megoshort vs TBD
+SUMMARY:3rd place match: megoshort vs STA
 UID:cs-go-playr-masters-1-2026-1318769@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1542,8 +1542,8 @@ SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306439@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Zhi-Tech Elite Masters - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.douyu.com/9392697?dyshid=0-0d8d51f175aba03c17f39dce00001601
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Zhi-Tech Elite Masters - Closed Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 2 | TEAM XDM: 1\nStream: https://www.douyu.com/9392697?dyshid=0-0d8d51f175aba03c17f39dce00001601
+DTEND:20260117T162610Z
 DTSTART:20260117T132120Z
 SUMMARY:Round of 16 match 3: THE vs XDM
 UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1323601@tournamentics
@@ -1846,7 +1846,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
 DTSTART:20260117T190000Z
-SUMMARY:Grand final: TRI vs TBD
+SUMMARY:Grand final: TRI vs JS
 UID:cs-go-playr-masters-1-2026-1318768@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2606,8 +2606,8 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 2 | STATE: 1\nStream: https://www.twitch.tv/esportstudion
+DTEND:20260117T162336Z
 DTSTART:20260117T124348Z
 SUMMARY:Semifinal 1: JS vs STA
 UID:cs-go-playr-masters-1-2026-1318766@tournamentics
