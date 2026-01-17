@@ -222,7 +222,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260118T140000Z
-SUMMARY:Semifinal 2: BIG vs TBD
+SUMMARY:Semifinal 2: BIG vs RBLS
 UID:cs-go-roman-imperium-cup-4-2026-1315534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1038,8 +1038,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313583@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 0 | Rebels Gaming: 2\nStream: https://www.twitch.tv/rmncs
+DTEND:20260117T200443Z
 DTSTART:20260117T175258Z
 SUMMARY:Quarterfinal 4: BMB vs RBLS
 UID:cs-go-roman-imperium-cup-4-2026-1315532@tournamentics
@@ -1444,8 +1444,8 @@ SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: megoshort: 1 | STATE: 2\nStream: https://www.twitch.tv/playrmasters
+DTEND:20260117T195747Z
 DTSTART:20260117T170945Z
 SUMMARY:3rd place match: megoshort vs STA
 UID:cs-go-playr-masters-1-2026-1318769@tournamentics
@@ -1845,7 +1845,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
-DTSTART:20260117T200000Z
+DTSTART:20260117T203000Z
 SUMMARY:Grand final: JS vs TRI
 UID:cs-go-playr-masters-1-2026-1318768@tournamentics
 END:VEVENT

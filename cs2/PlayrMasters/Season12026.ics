@@ -11,7 +11,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
-DTSTART:20260117T200000Z
+DTSTART:20260117T203000Z
 SUMMARY:Grand final: JS vs TRI
 UID:cs-go-playr-masters-1-2026-1318768@tournamentics
 END:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:SFE vs megoshort
 UID:cs-go-playr-masters-1-2026-1318731@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: megoshort: 1 | STATE: 2\nStream: https://www.twitch.tv/playrmasters
+DTEND:20260117T195747Z
 DTSTART:20260117T170945Z
 SUMMARY:3rd place match: megoshort vs STA
 UID:cs-go-playr-masters-1-2026-1318769@tournamentics
