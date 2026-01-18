@@ -1208,7 +1208,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260118T090000Z
+DTSTART:20260118T091000Z
 SUMMARY:Lower bracket round 1 match 1: Midnight vs PRE
 UID:cs-go-united21-43-2026-1322450@tournamentics
 END:VEVENT
@@ -1575,6 +1575,13 @@ DTEND:20260117T115204Z
 DTSTART:20260117T091928Z
 SUMMARY:MZP vs BBP
 UID:cs-go-european-pro-league-series-4-2026-1306416@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: GenOne: 1 | Acend: 0\nStream: No official stream linked
+DTEND:20260116T215000Z
+DTSTART:20260116T211000Z
+SUMMARY:Round of 32 match 8: G1 vs ACE
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
@@ -3166,6 +3173,13 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313562@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Sangal: 1 | Strael-Bora: 0\nStream: No official stream linked
+DTEND:20260116T215000Z
+DTSTART:20260116T211000Z
+SUMMARY:Round of 32 match 4: SNG vs Strael-Bora
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324891@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260119T120000Z
@@ -3455,7 +3469,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260118T090000Z
+DTSTART:20260118T091000Z
 SUMMARY:Round 1: 1WIN vs ex-RUBY
 UID:cs-go-cct-europe-series-13-3-2026-1313516@tournamentics
 END:VEVENT
@@ -3514,6 +3528,13 @@ DTEND:20260113T144646Z
 DTSTART:20260113T132418Z
 SUMMARY:Round 1: PB vs lospegadinhas
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315157@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | Leo Team: 1\nStream: No official stream linked
+DTEND:20260116T220000Z
+DTSTART:20260116T212000Z
+SUMMARY:Round of 32 match 16: AM vs Leo
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324903@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
@@ -3577,6 +3598,13 @@ DTEND:20260118T000317Z
 DTSTART:20260117T222728Z
 SUMMARY:Quarterfinal match 4: FA vs RED
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323632@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: The Continental: 0 | BULGARIAPEEK: 1\nStream: No official stream linked
+DTEND:20260116T215000Z
+DTSTART:20260116T211000Z
+SUMMARY:Round of 32 match 3: TC vs BULGARIAPEEK
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324890@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -4116,6 +4144,13 @@ DURATION:PT2H
 DTSTART:20260125T150000Z
 SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315202@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: KOLESIE: 1 | ALLINNERS: 0\nStream: No official stream linked
+DTEND:20260116T215500Z
+DTSTART:20260116T211500Z
+SUMMARY:Round of 32 match 1: KOL vs ALLIN
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324889@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -4697,6 +4732,13 @@ DTEND:20260109T214109Z
 DTSTART:20260109T200641Z
 SUMMARY:Round 1: EF vs STA
 UID:cs-go-a1-gaming-league-11-2026-1312622@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | RUSTEC: 0\nStream: No official stream linked
+DTEND:20260116T215500Z
+DTSTART:20260116T211500Z
+SUMMARY:Round of 32 match 12: NTR vs RUST
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324899@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
