@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 0 | Ursa: 1\nStream: No official stream linked
+DTEND:20260116T223000Z
+DTSTART:20260116T214500Z
+SUMMARY:Round of 32 match 15: ex-GANK Esports vs URSA
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324902@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | ENCE: 1\nStream: https://www.twitch.tv/Trottah
 DTEND:20260117T202746Z
 DTSTART:20260117T181621Z
@@ -30,11 +37,32 @@ SUMMARY:Round of 16 match 4: QWE vs G1
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323614@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Virtus.pro: 1 | Lazer Cats: 0\nStream: No official stream linked
+DTEND:20260116T223000Z
+DTSTART:20260116T214500Z
+SUMMARY:Round of 32 match 11: VP vs LC
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324898@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: GenOne: 1 | Acend: 0\nStream: No official stream linked
 DTEND:20260116T215000Z
 DTSTART:20260116T211000Z
 SUMMARY:Round of 32 match 8: G1 vs ACE
 UID:cs-go-iem-rio-global-open-qualifier-2026-1324895@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Fingers Crossed: 0 | BIG Academy: 1\nStream: No official stream linked
+DTEND:20260116T223000Z
+DTSTART:20260116T214000Z
+SUMMARY:Round of 32 match 5: Fingers vs BIG.A
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324892@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: 1WIN: 1 | Nemiga: 0\nStream: No official stream linked
+DTEND:20260116T223000Z
+DTSTART:20260116T214000Z
+SUMMARY:Round of 32 match 14: 1WIN vs NEMI
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324901@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: BIG Academy: 2 | GenOne: 0\nStream: https://www.twitch.tv/krl_stream2
@@ -63,6 +91,13 @@ DTEND:20260117T173914Z
 DTSTART:20260117T171229Z
 SUMMARY:Round of 16 match 3: BIG.A vs LFO
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323613@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: eLITenergy: 1 | Hedensted X SERA: 0\nStream: No official stream linked
+DTEND:20260116T233000Z
+DTSTART:20260116T224000Z
+SUMMARY:Round of 32 match 10: eLITenergy vs SERA
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324897@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Grindas: 0 | QWENTRY: 1\nStream: No official stream linked
@@ -126,6 +161,20 @@ DTEND:20260116T215500Z
 DTSTART:20260116T211500Z
 SUMMARY:Round of 32 match 12: NTR vs RUST
 UID:cs-go-iem-rio-global-open-qualifier-2026-1324899@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: ENCE: 1 | BakS eSports: 0\nStream: No official stream linked
+DTEND:20260116T230000Z
+DTSTART:20260116T220500Z
+SUMMARY:Round of 32 match 9: ENCE vs BAKS
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324896@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: ROC Team: 0 | LFO: 1\nStream: No official stream linked
+DTEND:20260116T215500Z
+DTSTART:20260116T212500Z
+SUMMARY:Round of 32 match 6: ROC vs LFO
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324893@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: KOLESIE: 1 | ALLINNERS: 0\nStream: No official stream linked
