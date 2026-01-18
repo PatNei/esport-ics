@@ -46,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260118T160000Z
+DTSTART:20260118T150000Z
 SUMMARY:Round of 16 match 7: EYE vs VIT
 UID:cs-go-blast-bounty-winter-2026-1314695@tournamentics
 END:VEVENT
@@ -121,8 +121,8 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-blast-bounty-winter-2026-1314736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 0 | Spirit: 2\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260118T142823Z
 DTSTART:20260118T124944Z
 SUMMARY:Round of 16 match 6: ICE vs TS
 UID:cs-go-blast-bounty-winter-2026-1314694@tournamentics
