@@ -305,7 +305,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260118T183000Z
+DTSTART:20260118T181000Z
 SUMMARY:Round of 16 match 8: FUT vs FURIA
 UID:cs-go-blast-bounty-winter-2026-1314696@tournamentics
 END:VEVENT
@@ -716,8 +716,8 @@ SUMMARY:Round of 16 match 7: AST vs paiN
 UID:cs-go-iem-krakow-2026-1324062@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 0 | Vitality: 2\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260118T175822Z
 DTSTART:20260118T153812Z
 SUMMARY:Round of 16 match 7: EYE vs VIT
 UID:cs-go-blast-bounty-winter-2026-1314695@tournamentics
@@ -2305,9 +2305,9 @@ SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260118T180000Z
+DTSTART:20260118T180452Z
 SUMMARY:Round 1: AM vs UNiTY
 UID:cs-go-cct-europe-series-13-3-2026-1313519@tournamentics
 END:VEVENT
