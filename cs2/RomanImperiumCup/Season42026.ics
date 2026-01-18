@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | Betclic Apogee Esports: 2\nStream: https://www.twitch.tv/rmncs
+DTEND:20260118T140221Z
 DTSTART:20260118T110339Z
 SUMMARY:Semifinal 1: MOUZ.N vs BCA
 UID:cs-go-roman-imperium-cup-4-2026-1315533@tournamentics
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260118T173000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: BCA vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315535@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -130,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260118T140000Z
+DTSTART:20260118T143000Z
 SUMMARY:Semifinal 2: BIG vs RBLS
 UID:cs-go-roman-imperium-cup-4-2026-1315534@tournamentics
 END:VEVENT

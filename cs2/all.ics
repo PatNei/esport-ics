@@ -221,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260118T140000Z
+DTSTART:20260118T143000Z
 SUMMARY:Semifinal 2: BIG vs RBLS
 UID:cs-go-roman-imperium-cup-4-2026-1315534@tournamentics
 END:VEVENT
@@ -646,8 +646,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313584@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | Betclic Apogee Esports: 2\nStream: https://www.twitch.tv/rmncs
+DTEND:20260118T140221Z
 DTSTART:20260118T110339Z
 SUMMARY:Semifinal 1: MOUZ.N vs BCA
 UID:cs-go-roman-imperium-cup-4-2026-1315533@tournamentics
@@ -3022,7 +3022,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260122T113000Z
-SUMMARY:Winners Match: MSC vs TBD
+SUMMARY:Winners Match: MSC vs EF
 UID:cs-go-european-pro-league-series-4-2026-1306424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3435,7 +3435,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260122T090000Z
-SUMMARY:Elimination Match: FORZE.R vs TBD
+SUMMARY:Elimination Match: FORZE.R vs ACE
 UID:cs-go-european-pro-league-series-4-2026-1306423@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3810,8 +3810,8 @@ SUMMARY:Lower bracket semifinal: SHD vs EF.A
 UID:cs-go-united21-43-2026-1308214@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Acend: 0 | Eternal Fire: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260118T135455Z
 DTSTART:20260118T113754Z
 SUMMARY:ACE vs EF
 UID:cs-go-european-pro-league-series-4-2026-1306422@tournamentics
@@ -4660,7 +4660,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260118T173000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: BCA vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315535@tournamentics
 END:VEVENT
 BEGIN:VEVENT

@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260122T090000Z
-SUMMARY:Elimination Match: FORZE.R vs TBD
+SUMMARY:Elimination Match: FORZE.R vs ACE
 UID:cs-go-european-pro-league-series-4-2026-1306423@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -205,8 +205,8 @@ SUMMARY:japczany vs 777
 UID:cs-go-european-pro-league-series-4-play-in-2026-1306397@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Acend: 0 | Eternal Fire: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260118T135455Z
 DTSTART:20260118T113754Z
 SUMMARY:ACE vs EF
 UID:cs-go-european-pro-league-series-4-2026-1306422@tournamentics
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260122T113000Z
-SUMMARY:Winners Match: MSC vs TBD
+SUMMARY:Winners Match: MSC vs EF
 UID:cs-go-european-pro-league-series-4-2026-1306424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
