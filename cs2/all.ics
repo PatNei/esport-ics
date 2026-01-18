@@ -1773,11 +1773,11 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313554@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | PCIFIC: 2\nStream: https://kick.com/exort_en2
-DTEND:20260113T213331Z
-DTSTART:20260113T193410Z
-SUMMARY:Round 1: 3DMAX.A vs PCF
-UID:cs-go-exort-series-21-2026-1317358@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260118T163000Z
+SUMMARY: Phantom Academy vs OXUJI
+UID:cs-go-exort-series-21-2026-1324888@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -1785,6 +1785,13 @@ DURATION:PT2H
 DTSTART:20260205T150000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313515@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | PCIFIC: 2\nStream: https://kick.com/exort_en2
+DTEND:20260113T213331Z
+DTSTART:20260113T193410Z
+SUMMARY:Round 1: 3DMAX.A vs PCF
+UID:cs-go-exort-series-21-2026-1317358@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
@@ -2172,6 +2179,13 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313514@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260118T133000Z
+SUMMARY:WTRML0N vs B8 Academy
+UID:cs-go-exort-series-21-2026-1324887@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Dark Tigers: 0 |  Phantom Academy: 2\nStream: https://kick.com/exort_en2
 DTEND:20260113T180039Z
 DTSTART:20260113T163806Z
@@ -2555,6 +2569,13 @@ DURATION:PT2H
 DTSTART:20260205T090000Z
 SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313513@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260118T103000Z
+SUMMARY:Y.TigeRES vs gothboiclique
+UID:cs-go-exort-series-21-2026-1324886@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: WATERMELON: 2 | gothboiclique: 0\nStream: https://kick.com/exort_en2
