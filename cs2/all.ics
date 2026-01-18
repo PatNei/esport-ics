@@ -3225,7 +3225,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260119T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: PGE vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1314671@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3509,8 +3509,8 @@ SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315191@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 0 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
+DTEND:20260118T112130Z
 DTSTART:20260118T090925Z
 SUMMARY:Round 1: 1WIN vs ex-RUBY
 UID:cs-go-cct-europe-series-13-3-2026-1313516@tournamentics
@@ -4202,8 +4202,8 @@ SUMMARY:Round of 32 match 1: KOL vs ALLIN
 UID:cs-go-iem-rio-global-open-qualifier-2026-1324889@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: hindsight: 1 | Pigeons: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260118T112158Z
 DTSTART:20260118T090837Z
 SUMMARY:Elimination match: hindsight vs PGE
 UID:cs-go-nodwin-clutch-series-4-2026-1314669@tournamentics
