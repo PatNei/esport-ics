@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: Midnight: 0 | Prestige: 2\nStream: https://kick.com/united21_en
+DTEND:20260118T103227Z
 DTSTART:20260118T091048Z
 SUMMARY:Lower bracket round 1 match 1: Midnight vs PRE
 UID:cs-go-united21-43-2026-1322450@tournamentics
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260120T090000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: PRE vs TBD
 UID:cs-go-united21-43-2026-1322454@tournamentics
 END:VEVENT
 BEGIN:VEVENT
