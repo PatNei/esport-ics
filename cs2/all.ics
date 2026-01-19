@@ -338,6 +338,13 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313483@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260119T160000Z
+SUMMARY:Round 1: ECS vs PRE
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1326174@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: FaZe: 1 | EYEBALLERS: 2\nStream: https://www.twitch.tv/BLASTPremier
 DTEND:20260113T154719Z
 DTSTART:20260113T131803Z
@@ -352,18 +359,18 @@ SUMMARY:Round of 16 match 7: LVG vs WTT
 UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1323604@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Betclic Apogee Esports: 1 | TEAM ASCEND: 0\nStream: https://www.twitch.tv/dred_
-DTEND:20260115T192536Z
-DTSTART:20260115T184948Z
-SUMMARY:BCA vs ASC
-UID:cs-go-roman-imperium-cup-4-2026-1315211@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260125T090000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-zhi-tech-elite-masters-2026-1318729@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Betclic Apogee Esports: 1 | TEAM ASCEND: 0\nStream: https://www.twitch.tv/dred_
+DTEND:20260115T192536Z
+DTSTART:20260115T184948Z
+SUMMARY:BCA vs ASC
+UID:cs-go-roman-imperium-cup-4-2026-1315211@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: megoshort: 2 | XI Esport: 0\nStream: https://kick.com/united21_en
@@ -1416,11 +1423,11 @@ SUMMARY:BIG vs EXSAD Gaming
 UID:cs-go-roman-imperium-cup-4-2026-1315220@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Impulse GW: 1 | MANA eSports: 2\nStream: https://www.twitch.tv/rmncs
-DTEND:20260115T172252Z
-DTSTART:20260115T145638Z
-SUMMARY:Decider match: IGW vs MANA
-UID:cs-go-roman-imperium-cup-4-2026-1315209@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: M80: 2 | BOSS: 0\nStream: https://www.twitch.tv/fl0m
+DTEND:20260110T223534Z
+DTSTART:20260110T210749Z
+SUMMARY:Winners Match: M80 vs BOSS
+UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306461@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -1437,18 +1444,18 @@ SUMMARY:LILMIX vs LuleFlames
 UID:cs-go-united21-x-esplay-challenge-1-2025-1313996@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: M80: 2 | BOSS: 0\nStream: https://www.twitch.tv/fl0m
-DTEND:20260110T223534Z
-DTSTART:20260110T210749Z
-SUMMARY:Winners Match: M80 vs BOSS
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306461@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260123T090000Z
 SUMMARY:Elimination Match: DUNDU vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306428@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Impulse GW: 1 | MANA eSports: 2\nStream: https://www.twitch.tv/rmncs
+DTEND:20260115T172252Z
+DTSTART:20260115T145638Z
+SUMMARY:Decider match: IGW vs MANA
+UID:cs-go-roman-imperium-cup-4-2026-1315209@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nResult: Bebop: 2 | los kogutos: 0\nStream: https://kick.com/eplcs_en
@@ -2074,9 +2081,9 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-blast-bounty-winter-2026-1314739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260119T094500Z
+DTSTART:20260119T095902Z
 SUMMARY:ECF vs rottweilers
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324182@tournamentics
 END:VEVENT
@@ -2247,6 +2254,13 @@ DTEND:20260116T133332Z
 DTSTART:20260116T125029Z
 SUMMARY:SASHI vs megoshort
 UID:cs-go-playr-masters-1-2026-1318733@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260126T190000Z
+SUMMARY:Round 1: sketch vs ST
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1326181@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: PARIVISION: 2 | ENCE: 0\nStream: https://www.twitch.tv/BLASTPremier
@@ -2660,6 +2674,13 @@ DTEND:20260116T121959Z
 DTSTART:20260116T114952Z
 SUMMARY:TRI vs HERO.A
 UID:cs-go-playr-masters-1-2026-1318732@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260126T190000Z
+SUMMARY:Round 1: TRI vs FOR
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1326180@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Impulse GW: 1 | MANA eSports: 0\nStream: https://www.twitch.tv/rmncs
@@ -3257,6 +3278,13 @@ SUMMARY:Round 1: CRASH vs STL
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315158@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260126T160000Z
+SUMMARY:Round 1: struggletony vs CUT
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1326179@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Natus Vincere: 1 | Monte: 2\nStream: https://www.twitch.tv/BLASTPremier
 DTEND:20260114T190116Z
 DTSTART:20260114T154519Z
@@ -3691,6 +3719,13 @@ SUMMARY:Round 1: PB vs lospegadinhas
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315157@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260126T160000Z
+SUMMARY:Round 1: AAB vs Invicta
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1326178@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | Leo Team: 1\nStream: No official stream linked
 DTEND:20260116T220000Z
 DTSTART:20260116T212000Z
@@ -4053,6 +4088,13 @@ DTEND:20260116T162046Z
 DTSTART:20260116T155334Z
 SUMMARY:HERO.A vs SFE
 UID:cs-go-playr-masters-1-2026-1318740@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260119T190000Z
+SUMMARY:Round 1: Vendetta Gaming vs WAZ
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1326177@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 0 | Ursa: 1\nStream: No official stream linked
@@ -4445,6 +4487,13 @@ DURATION:PT2H
 DTSTART:20260127T150000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313485@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260119T190000Z
+SUMMARY:Round 1: SASHI vs SERA
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1326176@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: 1WIN: 1 | Nemiga: 0\nStream: No official stream linked
@@ -4886,6 +4935,13 @@ DTEND:20260116T215500Z
 DTSTART:20260116T212500Z
 SUMMARY:Round of 32 match 13: SIN vs NEM
 UID:cs-go-iem-rio-global-open-qualifier-2026-1324900@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260119T160000Z
+SUMMARY:Round 1: MSC vs XI
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1326175@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Astralis: 2 | fnatic: 1\nStream: https://www.twitch.tv/BLASTPremier
