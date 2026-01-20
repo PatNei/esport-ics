@@ -33,6 +33,29 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Krakow2026
 
 </details>
 
+## A Tier
+
+<details>
+<summary>BLAST Bounty</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/BlastBounty.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/BlastBounty.ics
+```
+
+---
+
+### Winter 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/Winter2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/Winter2026.ics
+```
+
+</details>
+
 ## B Tier
 
 <details>
@@ -46,6 +69,13 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/CctE
 ```
 
 ---
+
+### Series #13 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series13Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series13Season32026.ics
+```
 
 ### Series #14 season 3 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series14Season32026.ics)
@@ -100,7 +130,77 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmeric
 
 </details>
 
+<details>
+<summary>European Pro League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
+```
+
+---
+
+### Series 4 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics
+```
+
+</details>
+
+<details>
+<summary>IEM</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics
+```
+
+---
+
+### Rio: Americas Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasClosedQualifier2026.ics
+```
+
+### Rio: Global Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalClosedQualifier2026.ics
+```
+
+</details>
+
 ## D Tier
+
+<details>
+<summary>A1 Gaming League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics
+```
+
+---
+
+### Season 11 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/Season112026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/Season112026.ics
+```
+
+</details>
 
 <details>
 <summary>CCT Europe</summary>
@@ -114,6 +214,13 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/CctE
 
 ---
 
+### Closed Qualifier: Series #13 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/ClosedQualifierSeries13Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/ClosedQualifierSeries13Season32026.ics
+```
+
 ### Open Qualifier #14 season 3 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/OpenQualifier14Season32026.ics)
 
@@ -126,6 +233,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Open
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series14PlayInSeason32026.ics
+```
+
+</details>
+
+<details>
+<summary>Circuit X</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CircuitX/CircuitX.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CircuitX/CircuitX.ics
+```
+
+---
+
+### Betboom Redemption Curitiba 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CircuitX/BetboomRedemptionCuritiba2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CircuitX/BetboomRedemptionCuritiba2026.ics
 ```
 
 </details>
@@ -173,6 +301,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Esea/AdvancedE
 </details>
 
 <details>
+<summary>European Pro League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
+```
+
+---
+
+### Series 4 Play-In 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series4PlayIn2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series4PlayIn2026.ics
+```
+
+</details>
+
+<details>
 <summary>Exort Series</summary>
 
 ### Full Schedule
@@ -189,6 +338,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortSeries/Ex
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortSeries/Season212026.ics
+```
+
+</details>
+
+<details>
+<summary>fl0m's Mythical LAN</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalLan/Fl0mSMythicalLan.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalLan/Fl0mSMythicalLan.ics
+```
+
+---
+
+### Las Vegas 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalLan/LasVegas2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalLan/LasVegas2026.ics
 ```
 
 </details>
@@ -243,6 +413,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalO
 </details>
 
 <details>
+<summary>NODWIN Clutch Series</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/NodwinClutchSeries.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/NodwinClutchSeries.ics
+```
+
+---
+
+### Season 4 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/Season42026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/Season42026.ics
+```
+
+</details>
+
+<details>
 <summary>PLAYR Masters</summary>
 
 ### Full Schedule
@@ -264,6 +455,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PlayrMasters/S
 </details>
 
 <details>
+<summary>Premier League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PremierLeague/PremierLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PremierLeague/PremierLeague.ics
+```
+
+---
+
+### Season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PremierLeague/Season12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PremierLeague/Season12026.ics
+```
+
+</details>
+
+<details>
 <summary>Roman Imperium Cup</summary>
 
 ### Full Schedule
@@ -280,6 +492,48 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/RomanImperiumC
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/RomanImperiumCup/Season42026.ics
+```
+
+</details>
+
+<details>
+<summary>United21</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/United21.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/United21.ics
+```
+
+---
+
+### Season 43 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Season432026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Season432026.ics
+```
+
+</details>
+
+<details>
+<summary>United21 x Esplay Challenge</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/United21XEsplayChallenge.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/United21XEsplayChallenge.ics
+```
+
+---
+
+### Season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/Season12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/Season12026.ics
 ```
 
 </details>
