@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dranzart1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: HAVU: 0 | RUSTEC: 1\nStream: https://www.twitch.tv/dranzart1
+DTEND:20260120T155545Z
 DTSTART:20260120T151439Z
 SUMMARY:HAVU vs RUST
 UID:cs-go-esea-advanced-europe-56-2026-1327443@tournamentics
@@ -226,7 +226,7 @@ SUMMARY:EP vs BRUTE
 UID:cs-go-esea-advanced-europe-56-2026-1319924@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dranzart1
 DURATION:PT2H
 DTSTART:20260120T160000Z
 SUMMARY:WTRML0N vs TS.A
