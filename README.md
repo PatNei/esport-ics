@@ -434,27 +434,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSe
 </details>
 
 <details>
-<summary>Perfect World National League Community Series</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PerfectWorldNationalLeagueCommunitySeries/PerfectWorldNationalLeagueCommunitySeries.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PerfectWorldNationalLeagueCommunitySeries/PerfectWorldNationalLeagueCommunitySeries.ics
-```
-
----
-
-### Fall 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PerfectWorldNationalLeagueCommunitySeries/Fall2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PerfectWorldNationalLeagueCommunitySeries/Fall2026.ics
-```
-
-</details>
-
-<details>
 <summary>PLAYR Masters</summary>
 
 ### Full Schedule
