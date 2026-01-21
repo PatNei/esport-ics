@@ -11,7 +11,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260121T190000Z
+DTSTART:20260121T183000Z
 SUMMARY:QUA vs SS
 UID:cs-go-esea-advanced-europe-56-2026-1328938@tournamentics
 END:VEVENT
@@ -86,9 +86,9 @@ SUMMARY:LFO YinYang vs ME
 UID:cs-go-esea-advanced-europe-56-2026-1317224@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/goyarego
 DURATION:PT2H
-DTSTART:20260121T150000Z
+DTSTART:20260121T151028Z
 SUMMARY:AUR.YB vs BMB
 UID:cs-go-esea-advanced-europe-56-2026-1328925@tournamentics
 END:VEVENT
@@ -261,8 +261,8 @@ SUMMARY:Imperial.A vs ZOTIX
 UID:cs-go-esea-advanced-europe-56-2026-1319923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/goyarego
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 1 | CYBERSHOKE Prospects: 0\nStream: https://www.twitch.tv/goyarego
+DTEND:20260121T150202Z
 DTSTART:20260121T141201Z
 SUMMARY:BW vs CYBERSHOKE Prospects
 UID:cs-go-esea-advanced-europe-56-2026-1328924@tournamentics
@@ -361,7 +361,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260121T190000Z
+DTSTART:20260127T190000Z
 SUMMARY:EP vs AHK
 UID:cs-go-esea-advanced-europe-56-2026-1328936@tournamentics
 END:VEVENT
