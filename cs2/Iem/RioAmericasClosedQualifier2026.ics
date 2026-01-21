@@ -33,12 +33,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260122T170000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: 9z vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9z: 2 | Sharks: 0\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260121T232217Z
 DTSTART:20260121T210727Z
 SUMMARY:Lower bracket round 1 match 1: 9z vs SHK
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310737@tournamentics
