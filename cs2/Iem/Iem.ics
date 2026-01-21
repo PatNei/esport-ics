@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T160000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: NTR vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310812@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -254,8 +254,8 @@ SUMMARY:Upper bracket round 1 match 7: KOL vs FNC
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310809@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfultvb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | Gentle Mates: 2\nStream: https://www.twitch.tv/watchfultvb
+DTEND:20260121T134011Z
 DTSTART:20260121T102236Z
 SUMMARY:Upper bracket round 1 match 4: NTR vs M8
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310806@tournamentics
@@ -271,7 +271,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T160000Z
-SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 2: M8 vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310800@tournamentics
 END:VEVENT
 BEGIN:VEVENT
