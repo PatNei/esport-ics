@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260122T170000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: ODK vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310742@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/michel
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | Fluxo: 1\nStream: https://www.twitch.tv/michel
+DTEND:20260122T004227Z
 DTSTART:20260121T205940Z
 SUMMARY:Lower bracket round 1 match 2: ODK vs FX
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310738@tournamentics
@@ -74,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260122T001500Z
+DTSTART:20260122T010000Z
 SUMMARY:Upper bracket semifinal 2: BST vs SHIN
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310740@tournamentics
 END:VEVENT
