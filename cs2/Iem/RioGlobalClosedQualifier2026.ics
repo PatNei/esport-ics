@@ -82,12 +82,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260122T190000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: 9INE vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310823@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTV
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: HOTU: 2 | 9INE: 0\nStream: https://www.twitch.tv/watchfulTV
+DTEND:20260122T175316Z
 DTSTART:20260122T161029Z
 SUMMARY:Upper bracket semifinal 1: HOTU vs 9INE
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310819@tournamentics
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260123T160000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: HOTU vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310825@tournamentics
 END:VEVENT
 BEGIN:VEVENT
