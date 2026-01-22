@@ -361,7 +361,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260128T110000Z
+DTSTART:20260128T123000Z
 SUMMARY:Round of 16 match 8: NRG vs B8
 UID:cs-go-iem-krakow-2026-1324063@tournamentics
 END:VEVENT
@@ -809,7 +809,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260128T110000Z
+DTSTART:20260128T123000Z
 SUMMARY:Round of 16 match 7: AST vs paiN
 UID:cs-go-iem-krakow-2026-1324062@tournamentics
 END:VEVENT
@@ -1257,7 +1257,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260128T110000Z
+DTSTART:20260128T150000Z
 SUMMARY:Round of 16 match 6: FUT vs 3DMAX
 UID:cs-go-iem-krakow-2026-1324061@tournamentics
 END:VEVENT
@@ -1733,7 +1733,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260128T110000Z
+DTSTART:20260128T150000Z
 SUMMARY:Round of 16 match 5: LGC vs BCG
 UID:cs-go-iem-krakow-2026-1324060@tournamentics
 END:VEVENT
@@ -2419,7 +2419,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260128T110000Z
+DTSTART:20260128T173000Z
 SUMMARY:Round of 16 match 4: PSSN.UA vs G2
 UID:cs-go-iem-krakow-2026-1324059@tournamentics
 END:VEVENT
@@ -2865,6 +2865,13 @@ SUMMARY:ALL vs Sidequest
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314013@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260122T230000Z
+SUMMARY:PLS vs Bad Luck
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1330648@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260122T190000Z
@@ -2909,7 +2916,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260128T110000Z
+DTSTART:20260128T173000Z
 SUMMARY:Round of 16 match 3: TL vs NIP
 UID:cs-go-iem-krakow-2026-1324058@tournamentics
 END:VEVENT
@@ -3371,7 +3378,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260128T110000Z
+DTSTART:20260128T100000Z
 SUMMARY:Round of 16 match 2: HERO vs PRV
 UID:cs-go-iem-krakow-2026-1324057@tournamentics
 END:VEVENT
@@ -3847,7 +3854,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260128T110000Z
+DTSTART:20260128T100000Z
 SUMMARY:Round of 16 match 1: AUR vs GL
 UID:cs-go-iem-krakow-2026-1324056@tournamentics
 END:VEVENT
