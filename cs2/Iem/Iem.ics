@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260122T170000Z
-SUMMARY:Lower bracket quarterfinal 2: ODK vs TBD
+SUMMARY:Lower bracket quarterfinal 2: ODK vs IMP
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310742@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -163,8 +163,8 @@ SUMMARY:Round of 32 match 15: ex-GANK Esports vs URSA
 UID:cs-go-iem-rio-global-open-qualifier-2026-1324902@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: Imperial: 1 | RED Canids: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260122T030738Z
 DTSTART:20260122T000139Z
 SUMMARY:Upper bracket semifinal 1: IMP vs RED
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310739@tournamentics
@@ -481,7 +481,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260122T200000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: RED vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310743@tournamentics
 END:VEVENT
 BEGIN:VEVENT
