@@ -75,12 +75,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260122T220000Z
-SUMMARY:Elimination match: RED vs TBD
+SUMMARY:Elimination match: RED vs A FUNDACAO
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322384@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rnakano
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nResult: Gaimin Gladiators: 2 | A FUNDACAO: 0\nStream: https://www.twitch.tv/rnakano
+DTEND:20260122T201338Z
 DTSTART:20260122T191050Z
 SUMMARY:GG vs A FUNDACAO
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322381@tournamentics
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260122T220000Z
-SUMMARY:Winners match: BST.A vs TBD
+SUMMARY:Winners match: BST.A vs GG
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322383@tournamentics
 END:VEVENT
 BEGIN:VEVENT
