@@ -376,7 +376,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260123T183000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: MINLATE vs TBD
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -490,13 +490,6 @@ DURATION:PT2H
 DTSTART:20260123T120000Z
 SUMMARY:Round 3: SNG vs FAV
 UID:cs-go-cct-europe-series-13-3-2026-1313537@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260122T150803Z
-SUMMARY:Round 3: NEM vs NEMI
-UID:cs-go-cct-europe-series-13-3-2026-1313534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | illwill: 2\nStream: https://kick.com/cct_cs
@@ -730,8 +723,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326462@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: MASONIC: 1 | MINLATE: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260122T154252Z
 DTSTART:20260122T124527Z
 SUMMARY:Elimination match: MSC vs MINLATE
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324199@tournamentics
