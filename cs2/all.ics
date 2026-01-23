@@ -894,7 +894,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260124T100000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: JJH vs TBD
 UID:cs-go-zhi-tech-elite-masters-2026-1318728@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1635,7 +1635,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260123T110000Z
+DTSTART:20260123T111000Z
 SUMMARY:LILMIX vs LuleFlames
 UID:cs-go-united21-x-esplay-challenge-1-2025-1313996@tournamentics
 END:VEVENT
@@ -2116,8 +2116,8 @@ SUMMARY:Elimination match: MOUZ.N vs ALLIN
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nResult: BIG: 1 | LuleFlames: 0\nStream: https://kick.com/united21_en
+DTEND:20260123T105537Z
 DTSTART:20260123T102918Z
 SUMMARY:BIG vs LuleFlames
 UID:cs-go-united21-x-esplay-challenge-1-2025-1313995@tournamentics
@@ -2389,8 +2389,8 @@ SUMMARY:Round of 16 match 2: Morningstar vs EG
 UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1323600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nResult: Rare Atom: 1 | JiJieHao: 2\nStream: https://www.twitch.tv/Trottah
+DTEND:20260123T104913Z
 DTSTART:20260123T073738Z
 SUMMARY:Quarterfinal 3: RA vs JJH
 UID:cs-go-zhi-tech-elite-masters-2026-1318725@tournamentics
@@ -3439,7 +3439,7 @@ SUMMARY:Round 1: Fingers vs 777
 UID:cs-go-a1-gaming-league-11-2026-1312627@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/trottah
 DURATION:PT2H
 DTSTART:20260123T110000Z
 SUMMARY:Quarterfinal 1: FLY vs CW
