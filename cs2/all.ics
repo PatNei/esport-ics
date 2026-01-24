@@ -177,9 +177,9 @@ SUMMARY:EF vs MINLATE
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260124T093000Z
+DTSTART:20260124T093557Z
 SUMMARY:ECF vs MINLATE
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1326116@tournamentics
 END:VEVENT
@@ -4137,6 +4137,13 @@ DTEND:20260116T121441Z
 DTSTART:20260116T115245Z
 SUMMARY:SASHI vs Hemmaplan
 UID:cs-go-playr-masters-1-2026-1318730@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260124T210000Z
+SUMMARY:BST.A vs METANOIAGG
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1333077@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: Ursa: 2 | Bebop: 1\nStream: https://kick.com/cct_cs2
