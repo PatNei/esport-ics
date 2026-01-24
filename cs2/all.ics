@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260124T150000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: MIBR vs YAW
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322388@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -189,6 +189,13 @@ DTEND:20260123T143537Z
 DTSTART:20260123T140502Z
 SUMMARY:JS vs INF
 UID:cs-go-united21-x-esplay-challenge-1-2025-1313999@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260124T233000Z
+SUMMARY:TNT vs AM
+UID:cs-go-esea-advanced-europe-56-2026-1332992@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
@@ -586,7 +593,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260124T120000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: GG vs SHK
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322387@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -714,6 +721,13 @@ DTEND:20260123T134200Z
 DTSTART:20260123T130413Z
 SUMMARY:INF vs EXEN
 UID:cs-go-united21-x-esplay-challenge-1-2025-1313998@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260124T140000Z
+SUMMARY:BMB vs BW
+UID:cs-go-esea-advanced-europe-56-2026-1332991@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
@@ -1048,7 +1062,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260124T120000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: FDB vs 9z
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5381,7 +5395,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260124T150000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: GH vs RED
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322389@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5553,8 +5567,8 @@ SUMMARY:FUT.A vs MSC
 UID:cs-go-european-pro-league-series-4-play-in-2026-1306398@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: RED Canids: 2 | BESTIA: 1\nStream: https://www.twitch.tv/eslcs
+DTEND:20260124T030947Z
 DTSTART:20260123T234505Z
 SUMMARY:Grand final: RED vs BST
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310746@tournamentics
