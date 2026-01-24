@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nResult: SemperFi Esports: 0 | HAVU: 2\nStream: https://www.twitch.tv/elisaviihdesport
+DTEND:20260124T205812Z
 DTSTART:20260124T190459Z
 SUMMARY:Semifinal 1: SFE vs HAVU
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314019@tournamentics
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260125T130000Z
-SUMMARY:Grand final: BIG vs TBD
+SUMMARY:Grand final: BIG vs HAVU
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314022@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260125T100000Z
-SUMMARY:3rd place decider: ALL vs TBD
+SUMMARY:3rd place decider: ALL vs SFE
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314021@tournamentics
 END:VEVENT
 BEGIN:VEVENT
