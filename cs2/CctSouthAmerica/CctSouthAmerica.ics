@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nResult: MIBR: 2 | FOLHA AMARELA: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260124T225224Z
 DTSTART:20260124T211543Z
 SUMMARY:Quarterfinal 1: MIBR vs FA
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315198@tournamentics
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260125T150000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: MIBR vs TBD
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315202@tournamentics
 END:VEVENT
 BEGIN:VEVENT
