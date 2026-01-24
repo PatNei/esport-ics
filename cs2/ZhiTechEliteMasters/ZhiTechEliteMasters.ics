@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nResult: FlyQuest: 2 | Morningstar: 0\nStream: https://www.twitch.tv/Trottah
+DTEND:20260124T085402Z
 DTSTART:20260124T070410Z
 SUMMARY:Semifinal 1: FLY vs Morningstar
 UID:cs-go-zhi-tech-elite-masters-2026-1318727@tournamentics
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260125T090000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: FLY vs TBD
 UID:cs-go-zhi-tech-elite-masters-2026-1318729@tournamentics
 END:VEVENT
 BEGIN:VEVENT
