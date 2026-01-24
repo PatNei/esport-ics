@@ -620,7 +620,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260124T181000Z
+DTSTART:20260124T182000Z
 SUMMARY:Round 4: NEM vs G1
 UID:cs-go-cct-europe-series-13-3-2026-1313542@tournamentics
 END:VEVENT
@@ -961,8 +961,8 @@ SUMMARY:Round 4: 1WIN vs NEMI
 UID:cs-go-cct-europe-series-13-3-2026-1313544@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/officialhyper
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Oramond: 1 | Favbet: 2\nStream: https://www.twitch.tv/officialhyper
+DTEND:20260124T180704Z
 DTSTART:20260124T150830Z
 SUMMARY:Round 4: ORM vs FAV
 UID:cs-go-cct-europe-series-13-3-2026-1313541@tournamentics
