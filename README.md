@@ -406,6 +406,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalO
 </details>
 
 <details>
+<summary>Myskill Pro League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/MyskillProLeague/MyskillProLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/MyskillProLeague/MyskillProLeague.ics
+```
+
+---
+
+### Season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/MyskillProLeague/Season12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/MyskillProLeague/Season12026.ics
+```
+
+</details>
+
+<details>
 <summary>NODWIN Clutch Series</summary>
 
 ### Full Schedule
