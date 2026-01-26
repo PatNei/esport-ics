@@ -912,18 +912,18 @@ SUMMARY:Round 3: PB vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315175@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
-DURATION:PT2H
-DTSTART:20260127T080000Z
-SUMMARY:BB vs GGS
-UID:cs-go-myskill-pro-league-1-2026-1333748@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260131T230000Z
 SUMMARY:Qualification match: TBD vs TBD
 UID:cs-go-fireconter-1-2026-1335661@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
+DURATION:PT2H
+DTSTART:20260127T080000Z
+SUMMARY:BB vs GGS
+UID:cs-go-myskill-pro-league-1-2026-1333748@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | Infinite: 0\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
@@ -4146,6 +4146,13 @@ SUMMARY:AAB vs LILMIX
 UID:cs-go-nodwin-clutch-series-4-2026-1312259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260131T140000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1335667@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | K27: 0\nStream: https://www.twitch.tv/k27_ceo
 DTEND:20260121T181640Z
 DTSTART:20260121T165452Z
@@ -4477,7 +4484,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260126T094000Z
+DTSTART:20260126T100000Z
 SUMMARY:Round 1: 67 vs MGC
 UID:cs-go-cct-europe-series-14-3-2026-1326384@tournamentics
 END:VEVENT
@@ -4704,6 +4711,13 @@ DTEND:20260115T195128Z
 DTSTART:20260115T181514Z
 SUMMARY:BBP vs STA
 UID:cs-go-nodwin-clutch-series-4-2026-1312258@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260131T170000Z
+SUMMARY:Qualification match: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1335666@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: Ursa: 2 | BC.Game Esports: 0\nStream: https://www.twitch.tv/trottah
@@ -5166,6 +5180,13 @@ DTEND:20260118T224455Z
 DTSTART:20260118T193615Z
 SUMMARY:Round 3: VSC vs 4M
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315179@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260131T140000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1335665@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: ALLINNERS: 0 | MASONIC: 2\nStream: https://kick.com/cct_cs
@@ -5635,6 +5656,13 @@ DTEND:20260118T185733Z
 DTSTART:20260118T160900Z
 SUMMARY:Round 3: Bad Luck vs Charrados
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315178@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260131T170000Z
+SUMMARY:Qualification match: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1335664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 0 | ALGO Esports: 2\nStream: https://kick.com/eplcs_en
