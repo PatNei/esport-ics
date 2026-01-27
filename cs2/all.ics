@@ -229,7 +229,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260129T120000Z
-SUMMARY:Quarterfinal 2: NEMI vs TBD
+SUMMARY:Quarterfinal 2: NEMI vs 33
 UID:cs-go-cct-europe-series-13-3-2026-1313558@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2158,8 +2158,8 @@ SUMMARY:Hemmaplan vs HERO.A
 UID:cs-go-playr-masters-1-2026-1318734@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 0 | FOLHA AMARELA: 2\nStream: No official stream linked
+DTEND:20260127T202015Z
 DTSTART:20260127T181345Z
 SUMMARY:Winners match: RED.A vs FA
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1337930@tournamentics
@@ -3014,7 +3014,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260128T200000Z
+DTSTART:20260127T201500Z
 SUMMARY:Winners match: LDP vs METANOIAGG
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1337929@tournamentics
 END:VEVENT
@@ -3348,8 +3348,8 @@ SUMMARY:Falcons Force vs STA
 UID:cs-go-esea-advanced-europe-56-2026-1317216@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: GamerLegion: 0 | 33: 2\nStream: https://kick.com/cct_cs
+DTEND:20260127T201544Z
 DTSTART:20260127T180845Z
 SUMMARY:Round of 16 match 4: GL vs 33
 UID:cs-go-cct-europe-series-13-3-2026-1313552@tournamentics
@@ -4811,9 +4811,9 @@ SUMMARY:EPG Family vs AUR.YB
 UID:cs-go-esea-advanced-europe-56-2026-1317213@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rob1nfall
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rob1nfall
 DURATION:PT2H
-DTSTART:20260127T201500Z
+DTSTART:20260127T201742Z
 SUMMARY:Falcons Force vs XI
 UID:cs-go-esea-advanced-europe-56-2026-1336668@tournamentics
 END:VEVENT
