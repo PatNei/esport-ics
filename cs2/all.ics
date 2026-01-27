@@ -1412,7 +1412,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
 DURATION:PT2H
 DTSTART:20260127T140000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: mix52 vs TBD
 UID:cs-go-myskill-pro-league-1-2026-1333747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1941,8 +1941,8 @@ SUMMARY:Round 3: ELI vs HWGA
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315173@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nResult: HOTU: 2 | mix52: 0\nStream: https://www.twitch.tv/myskill_top
+DTEND:20260127T135429Z
 DTSTART:20260127T112952Z
 SUMMARY:Winners match: HOTU vs mix52
 UID:cs-go-myskill-pro-league-1-2026-1333746@tournamentics
