@@ -53,9 +53,23 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260128T200000Z
+SUMMARY:Winners match: LDP vs METANOIAGG
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1337929@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260127T190000Z
 SUMMARY:Elimination match: VEXA vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1334273@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260127T180000Z
+SUMMARY:Winners match: RED.A vs FA
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1337930@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: Guara Esports: 1 | paiN Academy: 0\nStream: No official stream linked
@@ -63,5 +77,12 @@ DTEND:20260120T215420Z
 DTSTART:20260120T212153Z
 SUMMARY:GE vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1327666@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T180000Z
+SUMMARY:Elimination match: BST.A vs Alzon
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1337928@tournamentics
 END:VEVENT
 END:VCALENDAR
