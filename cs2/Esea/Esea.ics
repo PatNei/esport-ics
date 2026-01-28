@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cybershoke_tv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 0 | WATERMELON: 1\nStream: https://www.twitch.tv/cybershoke_tv
+DTEND:20260128T155105Z
 DTSTART:20260128T151730Z
 SUMMARY:CYBERSHOKE Prospects vs WTRML0N
 UID:cs-go-esea-advanced-europe-56-2026-1337967@tournamentics
@@ -212,8 +212,8 @@ SUMMARY:CYBERSHOKE Prospects vs AUR.YB
 UID:cs-go-esea-advanced-europe-56-2026-1331690@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: FUT Academy: 1 | SIUUUUUU: 0\nStream: No official stream linked
+DTEND:20260128T155058Z
 DTSTART:20260128T152104Z
 SUMMARY:FUT.A vs SIU
 UID:cs-go-esea-advanced-europe-56-2026-1335447@tournamentics
@@ -583,9 +583,9 @@ SUMMARY:CYBERSHOKE Prospects vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1327447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lzrcats
 DURATION:PT2H
-DTSTART:20260128T153000Z
+DTSTART:20260128T154500Z
 SUMMARY:ECF vs LC
 UID:cs-go-esea-advanced-europe-56-2026-1337968@tournamentics
 END:VEVENT
