@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260129T153000Z
-SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 2: TL vs TBD
 UID:cs-go-iem-krakow-2026-1331848@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -508,7 +508,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260128T190000Z
+DTSTART:20260128T191000Z
 SUMMARY:DEPO vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1337986@tournamentics
 END:VEVENT
@@ -996,9 +996,9 @@ SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260128T191000Z
+DTSTART:20260128T191507Z
 SUMMARY:UNiTY vs eLITenergy
 UID:cs-go-esea-advanced-europe-56-2026-1337985@tournamentics
 END:VEVENT
@@ -1353,8 +1353,8 @@ SUMMARY:Decider match: mix52 vs NVQ
 UID:cs-go-myskill-pro-league-1-2026-1333747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: FUT Esports: 1 | 3DMAX: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260128T190839Z
 DTSTART:20260128T155452Z
 SUMMARY:Round of 16 match 6: FUT vs 3DMAX
 UID:cs-go-iem-krakow-2026-1324061@tournamentics
@@ -1622,7 +1622,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260130T130000Z
-SUMMARY:Lower bracket round 1 match 3: LGC vs TBD
+SUMMARY:Lower bracket round 1 match 3: LGC vs FUT
 UID:cs-go-iem-krakow-2026-1331845@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2133,7 +2133,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260129T130000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: NIP vs TBD
 UID:cs-go-iem-krakow-2026-1331844@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2559,7 +2559,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260128T190000Z
+DTSTART:20260128T191500Z
 SUMMARY:AM vs SIU
 UID:cs-go-esea-advanced-europe-56-2026-1337982@tournamentics
 END:VEVENT
@@ -2683,9 +2683,9 @@ SUMMARY:Upper bracket quarterfinal 4: EYE vs URSA
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310802@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
 DURATION:PT2H
-DTSTART:20260128T191500Z
+DTSTART:20260128T192000Z
 SUMMARY:Round of 16 match 4: PSSN.UA vs G2
 UID:cs-go-iem-krakow-2026-1324059@tournamentics
 END:VEVENT
@@ -3110,9 +3110,9 @@ SUMMARY:Grand final: TD vs PRE
 UID:cs-go-united21-43-2026-1322459@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260128T190000Z
+DTSTART:20260128T191344Z
 SUMMARY:BMB vs ENRAGE
 UID:cs-go-esea-advanced-europe-56-2026-1337981@tournamentics
 END:VEVENT
@@ -3236,8 +3236,8 @@ SUMMARY:Upper bracket quarterfinal 3: BB vs KOL
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310801@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Liquid: 2 | NIP: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260128T191600Z
 DTSTART:20260128T173102Z
 SUMMARY:Round of 16 match 3: TL vs NIP
 UID:cs-go-iem-krakow-2026-1324058@tournamentics
@@ -3651,7 +3651,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/peepcs2
 DURATION:PT2H
-DTSTART:20260128T190000Z
+DTSTART:20260128T191500Z
 SUMMARY:PEEP vs OldBoys
 UID:cs-go-esea-advanced-europe-56-2026-1337980@tournamentics
 END:VEVENT
@@ -4321,9 +4321,9 @@ SUMMARY:Elimination Match: FORZE.R vs ACE
 UID:cs-go-european-pro-league-series-4-2026-1306423@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xtom223
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tudsonn
 DURATION:PT2H
-DTSTART:20260128T190000Z
+DTSTART:20260128T191000Z
 SUMMARY:OLDBOYS- vs ME
 UID:cs-go-esea-advanced-europe-56-2026-1337990@tournamentics
 END:VEVENT
@@ -4337,7 +4337,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260128T190000Z
+DTSTART:20260202T180000Z
 SUMMARY:BIG.E vs BRUTE
 UID:cs-go-esea-advanced-europe-56-2026-1337979@tournamentics
 END:VEVENT
@@ -4960,7 +4960,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260128T190000Z
+DTSTART:20260128T191000Z
 SUMMARY:LK vs TNT
 UID:cs-go-esea-advanced-europe-56-2026-1337989@tournamentics
 END:VEVENT
@@ -5238,9 +5238,9 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313587@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rob1nfall
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rob1nfall
 DURATION:PT2H
-DTSTART:20260128T190000Z
+DTSTART:20260128T191011Z
 SUMMARY:ZOTIX vs AHK
 UID:cs-go-esea-advanced-europe-56-2026-1337977@tournamentics
 END:VEVENT
@@ -5413,9 +5413,9 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260128T190000Z
+DTSTART:20260128T191457Z
 SUMMARY:FS vs aimclub
 UID:cs-go-esea-advanced-europe-56-2026-1337988@tournamentics
 END:VEVENT
@@ -5549,7 +5549,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260129T180000Z
-SUMMARY:Upper bracket quarterfinal 3: BCG vs TBD
+SUMMARY:Upper bracket quarterfinal 3: BCG vs 3DMAX
 UID:cs-go-iem-krakow-2026-1331849@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5919,7 +5919,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260128T190000Z
+DTSTART:20260209T170000Z
 SUMMARY:ex-GANK Esports vs 777
 UID:cs-go-esea-advanced-europe-56-2026-1337987@tournamentics
 END:VEVENT
