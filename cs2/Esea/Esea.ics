@@ -247,20 +247,6 @@ SUMMARY:PEEP vs AHK
 UID:cs-go-esea-advanced-europe-56-2026-1321132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260128T191000Z
-SUMMARY:LK vs TNT
-UID:cs-go-esea-advanced-europe-56-2026-1337989@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260128T191000Z
-SUMMARY:DEPO vs HAVU
-UID:cs-go-esea-advanced-europe-56-2026-1337986@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/peepcs2
 DURATION:PT2H
 DTSTART:20260128T193603Z
@@ -534,8 +520,8 @@ SUMMARY:eLITenergy vs LC
 UID:cs-go-esea-advanced-europe-56-2026-1321131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Flame Sharks: 0 | aimclub: 1\nStream: No official stream linked
+DTEND:20260128T194331Z
 DTSTART:20260128T191457Z
 SUMMARY:FS vs aimclub
 UID:cs-go-esea-advanced-europe-56-2026-1337988@tournamentics
@@ -546,13 +532,6 @@ DURATION:PT2H
 DTSTART:20260128T191507Z
 SUMMARY:UNiTY vs eLITenergy
 UID:cs-go-esea-advanced-europe-56-2026-1337985@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260128T191500Z
-SUMMARY:AM vs SIU
-UID:cs-go-esea-advanced-europe-56-2026-1337982@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: OLDBOYS-: 1 | Peekaboo: 0\nStream: https://www.twitch.tv/tudsonn
@@ -828,8 +807,8 @@ SUMMARY:ex-GANK Esports vs 777
 UID:cs-go-esea-advanced-europe-56-2026-1337987@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: MASONIC: 0 | BakS eSports: 1\nStream: No official stream linked
+DTEND:20260128T194322Z
 DTSTART:20260128T192039Z
 SUMMARY:MSC vs BAKS
 UID:cs-go-esea-advanced-europe-56-2026-1337984@tournamentics
