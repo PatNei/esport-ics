@@ -285,7 +285,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260129T153000Z
-SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 1: AUR vs TBD
 UID:cs-go-iem-krakow-2026-1331847@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -492,8 +492,8 @@ SUMMARY:Lower bracket round 1 match 4: TBD vs TBD
 UID:cs-go-iem-krakow-2026-1331846@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | GamerLegion: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260128T114627Z
 DTSTART:20260128T100059Z
 SUMMARY:Round of 16 match 1: AUR vs GL
 UID:cs-go-iem-krakow-2026-1324056@tournamentics
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260129T130000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: GL vs TBD
 UID:cs-go-iem-krakow-2026-1331843@tournamentics
 END:VEVENT
 BEGIN:VEVENT
