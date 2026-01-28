@@ -121,13 +121,6 @@ SUMMARY:Round of 32 match 15: TS vs SIN
 UID:cs-go-blast-bounty-winter-2026-1314685@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 2 | EXSAD Gaming: 0\nStream: https://www.twitch.tv/pascoalcantaim
-DTEND:20260116T194231Z
-DTSTART:20260116T180448Z
-SUMMARY:Elimination match: FCF vs EXSAD Gaming
-UID:cs-go-roman-imperium-cup-4-2026-1315223@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 1 | MINLATE: 2\nStream: https://kick.com/cct_cs2
 DTEND:20260125T135546Z
 DTSTART:20260125T094603Z
@@ -261,13 +254,6 @@ SUMMARY:Winners match: AAB vs BBP
 UID:cs-go-nodwin-clutch-series-4-2026-1314667@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260202T130000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
-UID:cs-go-iem-krakow-2026-1331893@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: B8 Academy: 2 | Young TigeRES: 0\nStream: https://kick.com/exort_en2
 DTEND:20260112T154444Z
 DTSTART:20260112T134912Z
@@ -275,11 +261,11 @@ SUMMARY:Round 1: B8 Academy vs Y.TigeRES
 UID:cs-go-exort-series-21-2026-1317350@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: BIG: 2 | Rebels Gaming: 0\nStream: https://www.twitch.tv/rmncs
-DTEND:20260118T165800Z
-DTSTART:20260118T151828Z
-SUMMARY:Semifinal 2: BIG vs RBLS
-UID:cs-go-roman-imperium-cup-4-2026-1315534@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260202T130000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-iem-krakow-2026-1331893@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: UNiTY esports: 0 | ALGO Esports: 1\nStream: https://www.twitch.tv/joshua_official
@@ -422,18 +408,18 @@ SUMMARY:Round 3:  Phantom Academy vs gothboiclique
 UID:cs-go-exort-series-21-2026-1334277@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Betclic Apogee Esports: 1 | TEAM ASCEND: 0\nStream: https://www.twitch.tv/dred_
-DTEND:20260115T192536Z
-DTSTART:20260115T184948Z
-SUMMARY:BCA vs ASC
-UID:cs-go-roman-imperium-cup-4-2026-1315211@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nResult: FlyQuest: 3 | JiJieHao: 0\nStream: https://www.twitch.tv/Trottah
 DTEND:20260125T131830Z
 DTSTART:20260125T093325Z
 SUMMARY:Grand final: FLY vs JJH
 UID:cs-go-zhi-tech-elite-masters-2026-1318729@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Sashi Academy: 2 | Eternal Fire Academy: 0\nStream: https://kick.com/exort_en2
+DTEND:20260115T212106Z
+DTSTART:20260115T193751Z
+SUMMARY:Round 2: SASHI.A vs EF.A
+UID:cs-go-exort-series-21-2026-1320309@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | Brute: 0\nStream: https://www.twitch.tv/enthycia
@@ -450,13 +436,6 @@ SUMMARY:Upper bracket semifinal 2: megoshort vs XI
 UID:cs-go-united21-43-2026-1308222@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: japczany: 0 | UNiTY esports: 2\nStream: https://kick.com/eplcs_en
-DTEND:20260125T103704Z
-DTSTART:20260125T090630Z
-SUMMARY:Decider Match: japczany vs UNiTY
-UID:cs-go-european-pro-league-series-4-2026-1306430@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Team PeeP: 1 | AKA HERO KAJO: 0\nStream: https://www.twitch.tv/peepcs2
 DTEND:20260115T190732Z
 DTSTART:20260115T183922Z
@@ -471,11 +450,11 @@ SUMMARY:Decider match: rottweilers vs BW
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324186@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Metizport: 0 | ex-RUBY: 2\nStream: https://kick.com/eplcs_en
-DTEND:20260119T131124Z
-DTSTART:20260119T113815Z
-SUMMARY:Winners Match: MZP vs ex-RUBY
-UID:cs-go-european-pro-league-series-4-2026-1306419@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: japczany: 0 | UNiTY esports: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260125T103704Z
+DTSTART:20260125T090630Z
+SUMMARY:Decider Match: japczany vs UNiTY
+UID:cs-go-european-pro-league-series-4-2026-1306430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Fingers Crossed: 1 | magic: 2\nStream: https://kick.com/cct_cs
@@ -485,11 +464,11 @@ SUMMARY:Round 2: Fingers vs MGC
 UID:cs-go-cct-europe-series-14-3-2026-1326438@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Sashi Academy: 2 | Eternal Fire Academy: 0\nStream: https://kick.com/exort_en2
-DTEND:20260115T212106Z
-DTSTART:20260115T193751Z
-SUMMARY:Round 2: SASHI.A vs EF.A
-UID:cs-go-exort-series-21-2026-1320309@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Metizport: 0 | ex-RUBY: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260119T131124Z
+DTSTART:20260119T113815Z
+SUMMARY:Winners Match: MZP vs ex-RUBY
+UID:cs-go-european-pro-league-series-4-2026-1306419@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
@@ -646,13 +625,6 @@ SUMMARY:Round of 32 match 16: FAL vs ECS
 UID:cs-go-blast-bounty-winter-2026-1314684@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: HyperSpirit: 1 | BIG: 2\nStream: https://www.twitch.tv/zonixxcs
-DTEND:20260116T212035Z
-DTSTART:20260116T180354Z
-SUMMARY:Winners match: HS vs BIG
-UID:cs-go-roman-imperium-cup-4-2026-1315222@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Favbet: 1 | illwill: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260124T120220Z
 DTSTART:20260124T090153Z
@@ -786,13 +758,6 @@ SUMMARY:Upper bracket quarterfinal 4: TBD vs FAL
 UID:cs-go-iem-krakow-2026-1331892@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | Betclic Apogee Esports: 2\nStream: https://www.twitch.tv/rmncs
-DTEND:20260118T140221Z
-DTSTART:20260118T110339Z
-SUMMARY:Semifinal 1: MOUZ.N vs BCA
-UID:cs-go-roman-imperium-cup-4-2026-1315533@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: OldBoys: 0 | aimclub: 1\nStream: No official stream linked
 DTEND:20260121T194757Z
 DTSTART:20260121T191808Z
@@ -912,18 +877,18 @@ SUMMARY:Round 3: HERO.A vs AUR.YB
 UID:cs-go-exort-series-21-2026-1334276@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 1 | LA MASIA: 0\nStream: https://www.twitch.tv/rmncs
-DTEND:20260115T190517Z
-DTSTART:20260115T182550Z
-SUMMARY:BMB vs LA MASIA
-UID:cs-go-roman-imperium-cup-4-2026-1315210@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nResult: JiJieHao: 2 | Lynn Vision: 1\nStream: https://www.twitch.tv/Trottah
 DTEND:20260124T125945Z
 DTSTART:20260124T100331Z
 SUMMARY:Semifinal 2: JJH vs LVG
 UID:cs-go-zhi-tech-elite-masters-2026-1318728@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Young TigeRES: 2 | 3DMAX Academy: 0\nStream: https://kick.com/exort_en2
+DTEND:20260115T174805Z
+DTSTART:20260115T163537Z
+SUMMARY:Round 2: Y.TigeRES vs 3DMAX.A
+UID:cs-go-exort-series-21-2026-1320308@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ZOTIX: 1 | TNC: 0\nStream: https://www.twitch.tv/rob1nfall
@@ -938,13 +903,6 @@ DTEND:20260108T104843Z
 DTSTART:20260108T090704Z
 SUMMARY:Upper bracket semifinal 1: PRE vs BIG.A
 UID:cs-go-united21-43-2026-1308221@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Young TigeRES: 2 | 3DMAX Academy: 0\nStream: https://kick.com/exort_en2
-DTEND:20260115T174805Z
-DTSTART:20260115T163537Z
-SUMMARY:Round 2: Y.TigeRES vs 3DMAX.A
-UID:cs-go-exort-series-21-2026-1320308@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: eLITenergy: 0 | Lazer Cats: 1\nStream: No official stream linked
@@ -1003,6 +961,13 @@ SUMMARY:Round 1: CYBERSHOKE Prospects vs OXUJI
 UID:cs-go-exort-series-21-2026-1328921@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | Team PeeP: 1\nStream: https://kick.com/exort_en2
+DTEND:20260112T133108Z
+DTSTART:20260112T110144Z
+SUMMARY:Round 1: OXUJI vs PEEP
+UID:cs-go-exort-series-21-2026-1317349@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | 33: 1\nStream: https://kick.com/cct_cs
 DTEND:20260125T182502Z
 DTSTART:20260125T150710Z
@@ -1015,13 +980,6 @@ DURATION:PT2H
 DTSTART:20260203T150000Z
 SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313506@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | Team PeeP: 1\nStream: https://kick.com/exort_en2
-DTEND:20260112T133108Z
-DTSTART:20260112T110144Z
-SUMMARY:Round 1: OXUJI vs PEEP
-UID:cs-go-exort-series-21-2026-1317349@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 0 | HAVU: 1\nStream: https://www.twitch.tv/fyflo
@@ -1150,13 +1108,6 @@ SUMMARY:Round of 32 match 6: TL vs NIP
 UID:cs-go-blast-bounty-winter-2026-1314683@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | HyperSpirit: 1\nStream: https://www.twitch.tv/rmncs
-DTEND:20260116T173645Z
-DTSTART:20260116T170946Z
-SUMMARY:FCF vs HS
-UID:cs-go-roman-imperium-cup-4-2026-1315221@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Fingers Crossed: 1 | Betclic Apogee Esports: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260123T213254Z
 DTSTART:20260123T180546Z
@@ -1274,13 +1225,6 @@ DURATION:PT2H
 DTSTART:20260131T130000Z
 SUMMARY:Upper bracket quarterfinal 3: MOUZ vs TBD
 UID:cs-go-iem-krakow-2026-1331891@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 0 | Rebels Gaming: 2\nStream: https://www.twitch.tv/rmncs
-DTEND:20260117T200443Z
-DTSTART:20260117T175258Z
-SUMMARY:Quarterfinal 4: BMB vs RBLS
-UID:cs-go-roman-imperium-cup-4-2026-1315532@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Phantom: 2 | FORZE Reload: 0\nStream: https://kick.com/cct_cs
@@ -1423,18 +1367,18 @@ SUMMARY:Semifinal 1: FLY vs Morningstar
 UID:cs-go-zhi-tech-elite-masters-2026-1318727@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: Truck Drivers: 2 | Sangal ALTERS: 1\nStream: https://kick.com/united21_en
-DTEND:20260114T140749Z
-DTSTART:20260114T113936Z
-SUMMARY:Lower bracket final: TD vs SNG
-UID:cs-go-united21-43-2026-1308220@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: gothboiclique: 2 | Dark Tigers: 1\nStream: https://kick.com/exort_en2
 DTEND:20260115T153611Z
 DTSTART:20260115T133542Z
 SUMMARY:Round 2: gothboiclique vs DT
 UID:cs-go-exort-series-21-2026-1320307@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: Truck Drivers: 2 | Sangal ALTERS: 1\nStream: https://kick.com/united21_en
+DTEND:20260114T140749Z
+DTSTART:20260114T113936Z
+SUMMARY:Lower bracket final: TD vs SNG
+UID:cs-go-united21-43-2026-1308220@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: rottweilers: 2 | Pigeons: 0\nStream: https://kick.com/cct_cs2
@@ -1451,18 +1395,18 @@ SUMMARY:Round 2: AM vs MINLATE
 UID:cs-go-cct-europe-series-14-3-2026-1326436@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | ALLINNERS: 0\nStream: https://kick.com/eplcs_en
-DTEND:20260117T133823Z
-DTSTART:20260117T121016Z
-SUMMARY:ex-RUBY vs ALLIN
-UID:cs-go-european-pro-league-series-4-2026-1306417@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Dark Tigers: 2 | Sashi Academy: 1\nStream: https://kick.com/exort_en2
 DTEND:20260119T223618Z
 DTSTART:20260119T194635Z
 SUMMARY:Round 4: DT vs SASHI.A
 UID:cs-go-exort-series-21-2026-1325324@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | ALLINNERS: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260117T133823Z
+DTSTART:20260117T121016Z
+SUMMARY:ex-RUBY vs ALLIN
+UID:cs-go-european-pro-league-series-4-2026-1306417@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
@@ -1654,20 +1598,6 @@ SUMMARY:Round of 32 match 9: 3DMAX vs ICE
 UID:cs-go-blast-bounty-winter-2026-1314682@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: BIG: 1 | EXSAD Gaming: 0\nStream: https://www.twitch.tv/zonixxcs
-DTEND:20260116T174103Z
-DTSTART:20260116T170935Z
-SUMMARY:BIG vs EXSAD Gaming
-UID:cs-go-roman-imperium-cup-4-2026-1315220@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Impulse GW: 1 | MANA eSports: 2\nStream: https://www.twitch.tv/rmncs
-DTEND:20260115T172252Z
-DTSTART:20260115T145638Z
-SUMMARY:Decider match: IGW vs MANA
-UID:cs-go-roman-imperium-cup-4-2026-1315209@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | illwill: 0\nStream: https://kick.com/cct_cs2
 DTEND:20260122T175950Z
 DTSTART:20260122T161420Z
@@ -1757,13 +1687,6 @@ DURATION:PT2H
 DTSTART:20260131T130000Z
 SUMMARY:Upper bracket quarterfinal 2: TBD vs FaZe
 UID:cs-go-iem-krakow-2026-1331890@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MANA eSports: 0 | BIG: 2\nStream: https://www.twitch.tv/rmncs
-DTEND:20260117T184548Z
-DTSTART:20260117T170329Z
-SUMMARY:Quarterfinal 3: MANA vs BIG
-UID:cs-go-roman-imperium-cup-4-2026-1315531@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: LFO: 1 | Spirit Academy: 0\nStream: No official stream linked
@@ -1983,18 +1906,18 @@ SUMMARY:Round 2: KOL vs ex-RUBY
 UID:cs-go-cct-europe-series-14-3-2026-1326435@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Metizport: 2 | Bebop: 1\nStream: https://kick.com/eplcs_en
-DTEND:20260117T115204Z
-DTSTART:20260117T091928Z
-SUMMARY:MZP vs BBP
-UID:cs-go-european-pro-league-series-4-2026-1306416@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Team PeeP: 1 | VP.Future: 2\nStream: https://kick.com/exort_en2
 DTEND:20260119T191351Z
 DTSTART:20260119T163712Z
 SUMMARY:Round 4: PEEP vs VP.F
 UID:cs-go-exort-series-21-2026-1325323@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Metizport: 2 | Bebop: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260117T115204Z
+DTSTART:20260117T091928Z
+SUMMARY:MZP vs BBP
+UID:cs-go-european-pro-league-series-4-2026-1306416@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | HOTU: 1\nStream: https://www.twitch.tv/myskill_top
@@ -2172,13 +2095,6 @@ SUMMARY:Lower bracket final: Imperial.A vs Midnight
 UID:cs-go-united21-43-2026-1308230@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: GRINGOS: 0 | MANA eSports: 2\nStream: https://www.twitch.tv/dred_
-DTEND:20260115T131405Z
-DTSTART:20260115T114956Z
-SUMMARY:Elimination match: GRG vs MANA
-UID:cs-go-roman-imperium-cup-4-2026-1315208@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | ALLINNERS: 1\nStream: https://kick.com/cct_cs2
 DTEND:20260122T120855Z
 DTSTART:20260122T093709Z
@@ -2242,11 +2158,11 @@ SUMMARY:Lower bracket quarterfinal 1: 9z vs SHIN
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: ENCE: 2 | ex-RUBY: 1\nStream: https://kick.com/cct_cs
-DTEND:20260128T145050Z
-DTSTART:20260128T123823Z
-SUMMARY:Round of 16 match 3: ENCE vs ex-RUBY
-UID:cs-go-cct-europe-series-13-3-2026-1313554@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | PCIFIC: 2\nStream: https://kick.com/exort_en2
+DTEND:20260113T213331Z
+DTSTART:20260113T193410Z
+SUMMARY:Round 1: 3DMAX.A vs PCF
+UID:cs-go-exort-series-21-2026-1317358@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 2 | Oxuji Esports: 1\nStream: https://kick.com/exort_en2
@@ -2256,18 +2172,18 @@ SUMMARY:Round 4:  Phantom Academy vs OXUJI
 UID:cs-go-exort-series-21-2026-1324888@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: ENCE: 2 | ex-RUBY: 1\nStream: https://kick.com/cct_cs
+DTEND:20260128T145050Z
+DTSTART:20260128T123823Z
+SUMMARY:Round of 16 match 3: ENCE vs ex-RUBY
+UID:cs-go-cct-europe-series-13-3-2026-1313554@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260205T150000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313515@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | PCIFIC: 2\nStream: https://kick.com/exort_en2
-DTEND:20260113T213331Z
-DTSTART:20260113T193410Z
-SUMMARY:Round 1: 3DMAX.A vs PCF
-UID:cs-go-exort-series-21-2026-1317358@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 2 | Young TigeRES: 0\nStream: https://kick.com/exort_en2
@@ -2317,13 +2233,6 @@ DTEND:20260114T190147Z
 DTSTART:20260114T181755Z
 SUMMARY: CSDIILIT vs WOPA
 UID:cs-go-esea-advanced-europe-56-2026-1319919@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Betclic Apogee Esports: 2 | MINLATE: 1\nStream: https://www.twitch.tv/rmncs
-DTEND:20260117T163449Z
-DTSTART:20260117T140523Z
-SUMMARY:Quarterfinal 2: BCA vs MINLATE
-UID:cs-go-roman-imperium-cup-4-2026-1315530@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | illwill: 2\nStream: https://kick.com/cct_cs
@@ -2429,13 +2338,6 @@ DTEND:20260119T165709Z
 DTSTART:20260119T161905Z
 SUMMARY:HAVU vs AM
 UID:cs-go-esea-advanced-europe-56-2026-1326099@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 2 | SAW: 0\nStream: https://www.twitch.tv/rmncs
-DTEND:20260116T155808Z
-DTSTART:20260116T142021Z
-SUMMARY:Decider match: RBLS vs SAW
-UID:cs-go-roman-imperium-cup-4-2026-1315219@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
@@ -2732,13 +2634,6 @@ SUMMARY:Round of 32 match 12: PRV vs ENCE
 UID:cs-go-blast-bounty-winter-2026-1314680@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | Impulse GW: 1\nStream: https://www.twitch.tv/rmncs
-DTEND:20260115T142107Z
-DTSTART:20260115T114920Z
-SUMMARY:Winners match: MOUZ.N vs IGW
-UID:cs-go-roman-imperium-cup-4-2026-1315207@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: ALLINNERS: 0 | illwill: 2\nStream: https://kick.com/cct_cs2
 DTEND:20260121T145610Z
 DTSTART:20260121T131117Z
@@ -2802,6 +2697,20 @@ SUMMARY:Upper bracket semifinal 2: BST vs SHIN
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310740@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Dark Tigers: 0 |  Phantom Academy: 2\nStream: https://kick.com/exort_en2
+DTEND:20260113T180039Z
+DTSTART:20260113T163806Z
+SUMMARY:Round 1: DT vs  Phantom Academy
+UID:cs-go-exort-series-21-2026-1317357@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: WATERMELON: 2 | B8 Academy: 0\nStream: https://kick.com/exort_en2
+DTEND:20260118T145915Z
+DTSTART:20260118T134053Z
+SUMMARY:Round 4: WTRML0N vs B8 Academy
+UID:cs-go-exort-series-21-2026-1324887@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Sinners: 2 | Nuclear TigeRES: 0\nStream: https://kick.com/cct_cs
 DTEND:20260128T105626Z
 DTSTART:20260128T091832Z
@@ -2814,20 +2723,6 @@ DURATION:PT2H
 DTSTART:20260205T120000Z
 SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313514@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: WATERMELON: 2 | B8 Academy: 0\nStream: https://kick.com/exort_en2
-DTEND:20260118T145915Z
-DTSTART:20260118T134053Z
-SUMMARY:Round 4: WTRML0N vs B8 Academy
-UID:cs-go-exort-series-21-2026-1324887@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Dark Tigers: 0 |  Phantom Academy: 2\nStream: https://kick.com/exort_en2
-DTEND:20260113T180039Z
-DTSTART:20260113T163806Z
-SUMMARY:Round 1: DT vs  Phantom Academy
-UID:cs-go-exort-series-21-2026-1317357@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: BakS eSports: 2 |  Phantom Academy: 0\nStream: https://kick.com/exort_en2
@@ -2991,13 +2886,6 @@ SUMMARY:Winners match: LDP vs METANOIAGG
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1337929@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: DimoniX Esports: 0 | Rebels Gaming: 2\nStream: https://www.twitch.tv/muchapt
-DTEND:20260116T124857Z
-DTSTART:20260116T112643Z
-SUMMARY:Elimination match: DXE vs RBLS
-UID:cs-go-roman-imperium-cup-4-2026-1315218@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260201T100000Z
@@ -3138,13 +3026,6 @@ SUMMARY:QUA vs SS
 UID:cs-go-esea-advanced-europe-56-2026-1328938@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | FC Famalicão Esports: 0\nStream: https://www.twitch.tv/rmncs
-DTEND:20260117T123800Z
-DTSTART:20260117T110648Z
-SUMMARY:Quarterfinal 1: MOUZ.N vs FCF
-UID:cs-go-roman-imperium-cup-4-2026-1315529@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nResult: Legacy: 1 | MIBR: 2\nStream: https://www.twitch.tv/btsbrasiltv
 DTEND:20260118T042551Z
 DTSTART:20260118T010236Z
@@ -3271,13 +3152,6 @@ SUMMARY:Round 1: TRI vs FOR
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1326180@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Impulse GW: 1 | MANA eSports: 0\nStream: https://www.twitch.tv/rmncs
-DTEND:20260115T112002Z
-DTSTART:20260115T103031Z
-SUMMARY:IGW vs MANA
-UID:cs-go-roman-imperium-cup-4-2026-1315206@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | los kogutos: 2\nStream: https://kick.com/cct_cs2
 DTEND:20260121T125206Z
 DTSTART:20260121T094230Z
@@ -3327,6 +3201,20 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-iem-krakow-2026-1331900@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: WATERMELON: 2 | gothboiclique: 0\nStream: https://kick.com/exort_en2
+DTEND:20260113T145229Z
+DTSTART:20260113T133406Z
+SUMMARY:Round 1: WTRML0N vs gothboiclique
+UID:cs-go-exort-series-21-2026-1317356@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Young TigeRES: 2 | gothboiclique: 0\nStream: https://kick.com/exort_en2
+DTEND:20260118T121224Z
+DTSTART:20260118T103505Z
+SUMMARY:Round 4: Y.TigeRES vs gothboiclique
+UID:cs-go-exort-series-21-2026-1324886@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: GamerLegion: 0 | 33: 2\nStream: https://kick.com/cct_cs
 DTEND:20260127T201544Z
 DTSTART:20260127T180845Z
@@ -3339,20 +3227,6 @@ DURATION:PT2H
 DTSTART:20260205T090000Z
 SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313513@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260203T153000Z
-SUMMARY:Upper bracket final: TBD vs TBD
-UID:cs-go-iem-krakow-2026-1331899@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Young TigeRES: 2 | gothboiclique: 0\nStream: https://kick.com/exort_en2
-DTEND:20260118T121224Z
-DTSTART:20260118T103505Z
-SUMMARY:Round 4: Y.TigeRES vs gothboiclique
-UID:cs-go-exort-series-21-2026-1324886@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: aimclub: 1 | WATERMELON: 2\nStream: https://kick.com/exort_en2
@@ -3369,11 +3243,11 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-fireconter-1-2026-1333302@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: WATERMELON: 2 | gothboiclique: 0\nStream: https://kick.com/exort_en2
-DTEND:20260113T145229Z
-DTSTART:20260113T133406Z
-SUMMARY:Round 1: WTRML0N vs gothboiclique
-UID:cs-go-exort-series-21-2026-1317356@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260203T153000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-iem-krakow-2026-1331899@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: illwill: 2 | MASONIC: 0\nStream: https://kick.com/nodwin_cs2
@@ -3535,13 +3409,6 @@ DURATION:PT2H
 DTSTART:20260308T170000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313603@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MINLATE: 2 | SAW: 1\nStream: https://www.twitch.tv/rmncs
-DTEND:20260116T134815Z
-DTSTART:20260116T112737Z
-SUMMARY:Winners match: MINLATE vs SAW
-UID:cs-go-roman-imperium-cup-4-2026-1315217@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
@@ -3782,13 +3649,6 @@ SUMMARY:Round 3: Y.TigeRES vs FS
 UID:cs-go-exort-series-21-2026-1334282@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | GRINGOS: 0\nStream: https://www.twitch.tv/dred_
-DTEND:20260115T110303Z
-DTSTART:20260115T103158Z
-SUMMARY:MOUZ.N vs GRG
-UID:cs-go-roman-imperium-cup-4-2026-1315205@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Brute: 2 | MASONIC: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260120T194332Z
 DTSTART:20260120T180858Z
@@ -3831,6 +3691,13 @@ SUMMARY:Upper bracket semifinal 1: TD vs SNG
 UID:cs-go-united21-43-2026-1308216@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 0 | Endless Journey: 2\nStream: https://kick.com/exort_en2
+DTEND:20260113T122132Z
+DTSTART:20260113T104551Z
+SUMMARY:Round 1: JUMBO vs EJ
+UID:cs-go-exort-series-21-2026-1317355@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Virtus.pro: 0 | Nemiga: 2\nStream: https://kick.com/cct_cs
 DTEND:20260127T164707Z
 DTSTART:20260127T152933Z
@@ -3843,13 +3710,6 @@ DURATION:PT2H
 DTSTART:20260203T130000Z
 SUMMARY:Lower bracket semifinal 2: TBD vs TBD
 UID:cs-go-iem-krakow-2026-1331898@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 0 | Endless Journey: 2\nStream: https://kick.com/exort_en2
-DTEND:20260113T122132Z
-DTSTART:20260113T104551Z
-SUMMARY:Round 1: JUMBO vs EJ
-UID:cs-go-exort-series-21-2026-1317355@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: MAJOR WINNERS: 0 | Endless Journey: 2\nStream: https://kick.com/exort_en2
@@ -3997,13 +3857,6 @@ DURATION:PT2H
 DTSTART:20260307T163000Z
 SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313602@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 0 | SAW: 1\nStream: https://www.twitch.tv/rmncs
-DTEND:20260116T110627Z
-DTSTART:20260116T100957Z
-SUMMARY:RBLS vs SAW
-UID:cs-go-roman-imperium-cup-4-2026-1315216@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
@@ -4482,13 +4335,6 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MINLATE: 1 | DimoniX Esports: 0\nStream: https://www.twitch.tv/muchapt
-DTEND:20260116T103112Z
-DTSTART:20260116T100736Z
-SUMMARY:MINLATE vs DXE
-UID:cs-go-roman-imperium-cup-4-2026-1315215@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260201T160000Z
@@ -4685,6 +4531,13 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326464@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: WATERMELON: 2 | Flame Sharks: 1\nStream: https://kick.com/exort_en2
+DTEND:20260127T214141Z
+DTSTART:20260127T194153Z
+SUMMARY:Round 4: WTRML0N vs FS
+UID:cs-go-exort-series-21-2026-1336659@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 1 | Yawara Esports: 2\nStream: https://www.twitch.tv/gaulestv
 DTEND:20260123T144219Z
 DTSTART:20260123T121310Z
@@ -4697,13 +4550,6 @@ DURATION:PT2H
 DTSTART:20260131T113000Z
 SUMMARY:Quarterfinal 2: ICE vs FAV
 UID:cs-go-european-pro-league-series-4-2026-1306445@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: WATERMELON: 2 | Flame Sharks: 1\nStream: https://kick.com/exort_en2
-DTEND:20260127T214141Z
-DTSTART:20260127T194153Z
-SUMMARY:Round 4: WTRML0N vs FS
-UID:cs-go-exort-series-21-2026-1336659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: FORZE Reload: 2 | rottweilers: 1\nStream: https://kick.com/cct_cs2
@@ -4886,13 +4732,6 @@ DURATION:PT2H
 DTSTART:20260301T163000Z
 SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313600@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Betclic Apogee Esports: 2 | LA MASIA: 0\nStream: https://www.twitch.tv/rmncs
-DTEND:20260116T001526Z
-DTSTART:20260115T230503Z
-SUMMARY:Decider match: BCA vs LA MASIA
-UID:cs-go-roman-imperium-cup-4-2026-1315214@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
@@ -5112,6 +4951,13 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326463@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 2 | Endless Journey: 1\nStream: https://kick.com/exort_en2
+DTEND:20260127T190212Z
+DTSTART:20260127T163703Z
+SUMMARY:Round 4: AUR.YB vs EJ
+UID:cs-go-exort-series-21-2026-1336658@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nResult: naocopulas: 0 | Yawara Esports: 2\nStream: https://www.youtube.com/watch?v=AVYwfe4vpxY
 DTEND:20260121T181719Z
 DTSTART:20260121T165037Z
@@ -5124,13 +4970,6 @@ DURATION:PT2H
 DTSTART:20260131T090000Z
 SUMMARY:Quarterfinal 1: ex-RUBY vs KOL
 UID:cs-go-european-pro-league-series-4-2026-1306444@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 2 | Endless Journey: 1\nStream: https://kick.com/exort_en2
-DTEND:20260127T190212Z
-DTSTART:20260127T163703Z
-SUMMARY:Round 4: AUR.YB vs EJ
-UID:cs-go-exort-series-21-2026-1336658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: Ursa: 2 | illwill: 0\nStream: https://kick.com/cct_cs2
@@ -5334,13 +5173,6 @@ DTEND:20260126T121058Z
 DTSTART:20260126T104108Z
 SUMMARY:Round 3: EJ vs aimclub
 UID:cs-go-exort-series-21-2026-1334279@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: LA MASIA: 2 | TEAM ASCEND: 0\nStream: https://www.twitch.tv/sinon__cs
-DTEND:20260115T205735Z
-DTSTART:20260115T194503Z
-SUMMARY:Elimination match: LA MASIA vs ASC
-UID:cs-go-roman-imperium-cup-4-2026-1315213@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Haspers: 0 | LFO: 1\nStream: No official stream linked
@@ -5560,11 +5392,11 @@ SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338710@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 2 | HyperSpirit: 0\nStream: https://www.twitch.tv/rmncs
-DTEND:20260116T231656Z
-DTSTART:20260116T214823Z
-SUMMARY:Decider match: FCF vs HS
-UID:cs-go-roman-imperium-cup-4-2026-1315224@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: AM Gaming: 2 | Brute: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260124T182624Z
+DTSTART:20260124T150323Z
+SUMMARY:Round 1: AM vs BRUTE
+UID:cs-go-nodwin-clutch-series-4-2026-1313473@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -5574,11 +5406,11 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326462@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: AM Gaming: 2 | Brute: 1\nStream: https://kick.com/nodwin_cs2
-DTEND:20260124T182624Z
-DTSTART:20260124T150323Z
-SUMMARY:Round 1: AM vs BRUTE
-UID:cs-go-nodwin-clutch-series-4-2026-1313473@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | Falcons Force: 1\nStream: https://kick.com/exort_en2
+DTEND:20260127T160816Z
+DTSTART:20260127T134459Z
+SUMMARY:Round 4: OXUJI vs Falcons Force
+UID:cs-go-exort-series-21-2026-1336657@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -5600,13 +5432,6 @@ DTEND:20260124T140450Z
 DTSTART:20260124T123537Z
 SUMMARY:LK vs ACE
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1326117@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | Falcons Force: 1\nStream: https://kick.com/exort_en2
-DTEND:20260127T160816Z
-DTSTART:20260127T134459Z
-SUMMARY:Round 4: OXUJI vs Falcons Force
-UID:cs-go-exort-series-21-2026-1336657@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 2 | BIG Academy: 1\nStream: https://www.twitch.tv/redcs
@@ -5714,13 +5539,6 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-iem-krakow-2026-1331894@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: BIG: 2 | Betclic Apogee Esports: 0\nStream: https://www.twitch.tv/rmncs
-DTEND:20260118T201604Z
-DTSTART:20260118T183859Z
-SUMMARY:Grand final: BIG vs BCA
-UID:cs-go-roman-imperium-cup-4-2026-1315535@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: OLDBOYS-: 1 | kONO.ECF: 0\nStream: https://www.twitch.tv/rallencs2
 DTEND:20260121T195056Z
 DTSTART:20260121T191549Z
@@ -5824,13 +5642,6 @@ DTEND:20260119T065203Z
 DTSTART:20260119T050745Z
 SUMMARY:Round of 16 match 8: FDG vs ERUPT
 UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1323605@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 2 | Betclic Apogee Esports: 1\nStream: https://www.twitch.tv/rmncs
-DTEND:20260115T223424Z
-DTSTART:20260115T194733Z
-SUMMARY:Winners match: BMB vs BCA
-UID:cs-go-roman-imperium-cup-4-2026-1315212@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: megoshort: 0 | eternal premium: 1\nStream: No official stream linked
