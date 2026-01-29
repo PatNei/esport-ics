@@ -501,13 +501,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMa
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/2026.ics
 ```
 
-### Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/ClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/ClosedQualifier2026.ics
-```
-
 </details>
 
 ## License
