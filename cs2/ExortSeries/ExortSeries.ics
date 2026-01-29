@@ -193,6 +193,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
+DTSTART:20260201T193000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-exort-series-21-2026-1339732@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
 DTSTART:20260131T163000Z
 SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-exort-series-21-2026-1339728@tournamentics
@@ -359,11 +366,11 @@ SUMMARY:Round 5: EJ vs FS
 UID:cs-go-exort-series-21-2026-1339477@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Young TigeRES: 1 | Flame Sharks: 2\nStream: https://kick.com/exort_en2
-DTEND:20260126T215732Z
-DTSTART:20260126T194414Z
-SUMMARY:Round 3: Y.TigeRES vs FS
-UID:cs-go-exort-series-21-2026-1334282@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260201T163000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-exort-series-21-2026-1339731@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
@@ -371,6 +378,13 @@ DURATION:PT2H
 DTSTART:20260131T133000Z
 SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-exort-series-21-2026-1339727@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Young TigeRES: 1 | Flame Sharks: 2\nStream: https://kick.com/exort_en2
+DTEND:20260126T215732Z
+DTSTART:20260126T194414Z
+SUMMARY:Round 3: Y.TigeRES vs FS
+UID:cs-go-exort-series-21-2026-1334282@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
