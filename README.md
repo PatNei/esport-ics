@@ -89,27 +89,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Seri
 ## C Tier
 
 <details>
-<summary>BetBoom RUSH B!</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BetboomRushB/BetboomRushB.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BetboomRushB/BetboomRushB.ics
-```
-
----
-
-### Summit 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BetboomRushB/Summit2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BetboomRushB/Summit2026.ics
-```
-
-</details>
-
-<details>
 <summary>CCT South America</summary>
 
 ### Full Schedule
