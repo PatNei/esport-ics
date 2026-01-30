@@ -1117,7 +1117,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260131T130000Z
+DTSTART:20260131T153000Z
 SUMMARY:Upper bracket quarterfinal 4: AST vs TS
 UID:cs-go-iem-krakow-2026-1331880@tournamentics
 END:VEVENT
@@ -2993,7 +2993,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260131T130000Z
+DTSTART:20260131T153000Z
 SUMMARY:Upper bracket quarterfinal 1: FURIA vs FUT
 UID:cs-go-iem-krakow-2026-1331877@tournamentics
 END:VEVENT
@@ -3358,7 +3358,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
 DTSTART:20260131T163000Z
-SUMMARY:Quarterfinal 3: AUR.YB vs TBD
+SUMMARY:Quarterfinal 3: AUR.YB vs MOUZ.N
 UID:cs-go-exort-series-21-2026-1339728@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3693,7 +3693,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
-DTSTART:20260130T202000Z
+DTSTART:20260130T203000Z
 SUMMARY:Upper bracket semifinal 2: MIBR vs 9z
 UID:cs-go-fireconter-1-2026-1333313@tournamentics
 END:VEVENT
@@ -4097,8 +4097,8 @@ SUMMARY:Decider Match: MANA vs MOUZ.N
 UID:cs-go-european-pro-league-series-4-2026-1306435@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Oramond: 2 | magic: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260130T202933Z
 DTSTART:20260130T184338Z
 SUMMARY:Round 3: ORM vs MGC
 UID:cs-go-cct-europe-series-14-3-2026-1326454@tournamentics
