@@ -3680,7 +3680,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260130T170000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: SIN vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4132,8 +4132,8 @@ SUMMARY:Lower bracket round 1 match 2: ODK vs FXW7
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 1 | Sinners: 2\nStream: https://kick.com/cct_cs
+DTEND:20260130T140228Z
 DTSTART:20260130T110226Z
 SUMMARY:Semifinal 2: 1WIN vs SIN
 UID:cs-go-cct-europe-series-13-3-2026-1313562@tournamentics
@@ -4610,7 +4610,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260130T143000Z
+DTSTART:20260130T142000Z
 SUMMARY:Semifinal 1: NEMI vs BIG
 UID:cs-go-cct-europe-series-13-3-2026-1313561@tournamentics
 END:VEVENT
@@ -5763,9 +5763,9 @@ SUMMARY:Quarterfinal 4: BHE vs VSC
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
+DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
-DTSTART:20260130T140000Z
+DTSTART:20260130T140028Z
 SUMMARY:Upper bracket semifinal 2: MARS vs PCY
 UID:cs-go-fireconter-1-2026-1333309@tournamentics
 END:VEVENT
