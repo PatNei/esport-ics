@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260131T190000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: RUST vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338677@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
 DURATION:PT2H
-DTSTART:20260131T173000Z
+DTSTART:20260131T180000Z
 SUMMARY:Elimination match: VP vs WW
 UID:cs-go-exort-cataclysm-1-2025-1338676@tournamentics
 END:VEVENT
@@ -128,9 +128,9 @@ SUMMARY:Winners match: K27 vs WB
 UID:cs-go-exort-cataclysm-1-2025-1338669@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
-DTSTART:20260131T172000Z
+DTSTART:20260131T172950Z
 SUMMARY:Elimination match: WTRML0N vs FORZE.R
 UID:cs-go-exort-cataclysm-1-2025-1338670@tournamentics
 END:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:33 vs JUMBO
 UID:cs-go-exort-cataclysm-1-2025-1338704@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: RUSTEC: 1 | ARCRED: 2\nStream: https://kick.com/exort_en4
+DTEND:20260131T172938Z
 DTSTART:20260131T143805Z
 SUMMARY:Winners match: RUST vs ARC
 UID:cs-go-exort-cataclysm-1-2025-1338675@tournamentics
