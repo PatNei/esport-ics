@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260201T180000Z
-SUMMARY:Upper bracket semifinal 2: NAVI vs TBD
+SUMMARY:Upper bracket semifinal 2: NAVI vs TS
 UID:cs-go-iem-krakow-2026-1331882@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1136,8 +1136,8 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-united21-44-2026-1339677@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Spirit: 2 | Astralis: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260131T190304Z
 DTSTART:20260131T164616Z
 SUMMARY:Upper bracket quarterfinal 4: TS vs AST
 UID:cs-go-iem-krakow-2026-1331880@tournamentics
@@ -2249,9 +2249,9 @@ SUMMARY:Round 2:  Phantom Academy vs PCF
 UID:cs-go-exort-series-21-2026-1319967@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gaules
 DURATION:PT2H
-DTSTART:20260131T200000Z
+DTSTART:20260131T191000Z
 SUMMARY:Lower bracket final: SHK vs 9z
 UID:cs-go-fireconter-1-2026-1335659@tournamentics
 END:VEVENT
@@ -3012,8 +3012,8 @@ SUMMARY:Upper bracket final: IMP vs ODK
 UID:cs-go-fireconter-1-2026-1333303@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | Washington: 1\nStream: https://www.twitch.tv/a1gamingleague
+DTEND:20260131T190733Z
 DTSTART:20260131T163232Z
 SUMMARY:Round 4: AAB vs WSG
 UID:cs-go-a1-gaming-league-11-2026-1313580@tournamentics
@@ -5213,7 +5213,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260201T180000Z
-SUMMARY:Lower bracket quarterfinal 2: PRV vs TBD
+SUMMARY:Lower bracket quarterfinal 2: PRV vs AST
 UID:cs-go-iem-krakow-2026-1331884@tournamentics
 END:VEVENT
 BEGIN:VEVENT
