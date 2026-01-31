@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/forg1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Imperial: 0 | Bounty Hunters Esports: 2\nStream: https://www.twitch.tv/forg1
+DTEND:20260131T162849Z
 DTSTART:20260131T140845Z
 SUMMARY:Lower bracket final: IMP vs BHE
 UID:cs-go-fireconter-1-2026-1335667@tournamentics
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260131T170000Z
-SUMMARY:Qualification match: ODK vs TBD
+SUMMARY:Qualification match: ODK vs BHE
 UID:cs-go-fireconter-1-2026-1335666@tournamentics
 END:VEVENT
 BEGIN:VEVENT

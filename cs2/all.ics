@@ -1671,7 +1671,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260131T190000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: WB vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338671@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2202,7 +2202,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
-DTSTART:20260131T164000Z
+DTSTART:20260131T170000Z
 SUMMARY:Elimination match: WTRML0N vs FORZE.R
 UID:cs-go-exort-cataclysm-1-2025-1338670@tournamentics
 END:VEVENT
@@ -3040,8 +3040,8 @@ SUMMARY:PGE vs BAKS
 UID:cs-go-esea-advanced-europe-56-2026-1319918@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_ru3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: K27: 2 | WHITEBIRD: 1\nStream: https://kick.com/exort_ru3
+DTEND:20260131T161923Z
 DTSTART:20260131T134257Z
 SUMMARY:Winners match: K27 vs WB
 UID:cs-go-exort-cataclysm-1-2025-1338669@tournamentics
@@ -4104,8 +4104,8 @@ SUMMARY:AAB vs LILMIX
 UID:cs-go-nodwin-clutch-series-4-2026-1312259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/forg1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Imperial: 0 | Bounty Hunters Esports: 2\nStream: https://www.twitch.tv/forg1
+DTEND:20260131T162849Z
 DTSTART:20260131T140845Z
 SUMMARY:Lower bracket final: IMP vs BHE
 UID:cs-go-fireconter-1-2026-1335667@tournamentics
@@ -4625,7 +4625,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260131T170000Z
-SUMMARY:Qualification match: ODK vs TBD
+SUMMARY:Qualification match: ODK vs BHE
 UID:cs-go-fireconter-1-2026-1335666@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5205,7 +5205,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
 DURATION:PT2H
-DTSTART:20260131T164000Z
+DTSTART:20260131T170000Z
 SUMMARY:Elimination match: VP vs WW
 UID:cs-go-exort-cataclysm-1-2025-1338676@tournamentics
 END:VEVENT
