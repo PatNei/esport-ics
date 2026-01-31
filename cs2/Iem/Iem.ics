@@ -131,12 +131,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260202T130000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: 3DMAX vs TBD
 UID:cs-go-iem-krakow-2026-1331893@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: 3DMAX: 2 | FaZe: 0\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260131T201853Z
 DTSTART:20260131T181934Z
 SUMMARY:Upper bracket quarterfinal 2: 3DMAX vs FaZe
 UID:cs-go-iem-krakow-2026-1331890@tournamentics
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260202T130000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: FaZe vs TBD
 UID:cs-go-iem-krakow-2026-1331895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
