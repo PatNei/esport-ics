@@ -1187,7 +1187,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
-DTSTART:20260201T220000Z
+DTSTART:20260201T230000Z
 SUMMARY:Grand final: MIBR vs TBD
 UID:cs-go-fireconter-1-2026-1333318@tournamentics
 END:VEVENT
@@ -4860,8 +4860,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | Oxuji Esports: 0\nStream: https://kick.com/exort_en4
+DTEND:20260201T211206Z
 DTSTART:20260201T193232Z
 SUMMARY:Decider match: NEM vs OXUJI
 UID:cs-go-exort-cataclysm-1-2025-1338702@tournamentics
@@ -6197,8 +6197,8 @@ SUMMARY:Quarterfinal 1: ex-RUBY vs KOL
 UID:cs-go-european-pro-league-series-4-2026-1306444@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Fingers Crossed: 1 | los kogutos: 2\nStream: https://kick.com/cct_cs
+DTEND:20260201T211755Z
 DTSTART:20260201T183237Z
 SUMMARY:Round 4: Fingers vs LK
 UID:cs-go-cct-europe-series-14-3-2026-1326463@tournamentics
