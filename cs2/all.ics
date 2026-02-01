@@ -1185,7 +1185,7 @@ SUMMARY:Elimination Match: BBP vs ALLIN
 UID:cs-go-european-pro-league-series-4-2026-1306418@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
 DURATION:PT2H
 DTSTART:20260201T234500Z
 SUMMARY:Grand final: MIBR vs RED
@@ -1696,8 +1696,8 @@ SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326470@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: 33: 2 | JUMBO TEAM: 1\nStream: https://kick.com/exort_en3
+DTEND:20260201T233050Z
 DTSTART:20260201T203212Z
 SUMMARY:Decider match: 33 vs JUMBO
 UID:cs-go-exort-cataclysm-1-2025-1338707@tournamentics
@@ -6318,7 +6318,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260202T130000Z
+DTSTART:20260202T153000Z
 SUMMARY:Lower bracket quarterfinal 1: BCG vs FaZe
 UID:cs-go-iem-krakow-2026-1331895@tournamentics
 END:VEVENT
@@ -6913,7 +6913,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260202T153000Z
+DTSTART:20260202T130000Z
 SUMMARY:Upper bracket semifinal 2: MOUZ vs AUR
 UID:cs-go-iem-krakow-2026-1331894@tournamentics
 END:VEVENT
