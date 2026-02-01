@@ -473,13 +473,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Unite
 
 ---
 
-### Season 43 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Season432026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Season432026.ics
-```
-
 ### Season 44 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Season442026.ics)
 
