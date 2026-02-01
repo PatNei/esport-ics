@@ -12,12 +12,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260202T180000Z
-SUMMARY:Lower bracket semifinal 1: FURIA vs TBD
+SUMMARY:Lower bracket semifinal 1: FURIA vs NAVI
 UID:cs-go-iem-krakow-2026-1331885@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Natus Vincere: 0 | Spirit: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260201T213013Z
 DTSTART:20260201T193159Z
 SUMMARY:Upper bracket semifinal 2: NAVI vs TS
 UID:cs-go-iem-krakow-2026-1331882@tournamentics
@@ -943,7 +943,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260203T180000Z
-SUMMARY:Upper bracket final: G2 vs TBD
+SUMMARY:Upper bracket final: G2 vs TS
 UID:cs-go-iem-krakow-2026-1331888@tournamentics
 END:VEVENT
 END:VCALENDAR
