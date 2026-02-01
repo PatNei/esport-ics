@@ -1090,7 +1090,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
 DTSTART:20260201T193000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: ex-RUBY vs TBD
 UID:cs-go-exort-series-21-2026-1339732@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2326,8 +2326,8 @@ SUMMARY: CSDIILIT vs ZOTIX
 UID:cs-go-esea-advanced-europe-56-2026-1335444@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | MASONIC: 0\nStream: https://kick.com/exort_en2
+DTEND:20260201T151143Z
 DTSTART:20260201T133807Z
 SUMMARY:Semifinal 1: ex-RUBY vs MSC
 UID:cs-go-exort-series-21-2026-1339730@tournamentics
@@ -2382,9 +2382,9 @@ SUMMARY:Upper bracket final: BB vs HOTU
 UID:cs-go-myskill-pro-league-1-2026-1333895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
-DTSTART:20260201T150000Z
+DTSTART:20260201T150811Z
 SUMMARY:Semifinal 1: ODK vs MIBR
 UID:cs-go-fireconter-1-2026-1333316@tournamentics
 END:VEVENT
@@ -4562,7 +4562,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260204T180000Z
-SUMMARY:TBD vs TBD
+SUMMARY:WB vs PRIME
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4632,7 +4632,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260201T190000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: NEM vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338702@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5129,7 +5129,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260204T150000Z
-SUMMARY:TBD vs TBD
+SUMMARY:LK vs  CSDIILIT
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5497,9 +5497,9 @@ SUMMARY:Lower bracket quarterfinal 2: NRG vs TBD
 UID:cs-go-iem-krakow-2026-1331896@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Open Qualifier #16 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Open Qualifier #16 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260201T150000Z
+DTSTART:20260201T151003Z
 SUMMARY:Semifinal 2: Benched gods vs ENJOY
 UID:cs-go-cct-europe-open-qualifier-16-3-2026-1343160@tournamentics
 END:VEVENT
@@ -5658,8 +5658,8 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: Team Nemesis: 0 | Nemiga: 2\nStream: https://kick.com/exort_en4
+DTEND:20260201T151649Z
 DTSTART:20260201T131244Z
 SUMMARY:Winners match: NEM vs NEMI
 UID:cs-go-exort-cataclysm-1-2025-1338700@tournamentics
@@ -6218,9 +6218,9 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313509@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Open Qualifier #16 season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/goyarego
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Open Qualifier #16 season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/goyarego
 DURATION:PT2H
-DTSTART:20260201T150000Z
+DTSTART:20260201T151517Z
 SUMMARY:Semifinal 1: Atreides vs QUA
 UID:cs-go-cct-europe-open-qualifier-16-3-2026-1343159@tournamentics
 END:VEVENT
