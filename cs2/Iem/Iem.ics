@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260202T153000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: NRG vs TBD
 UID:cs-go-iem-krakow-2026-1331896@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -558,12 +558,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260202T153000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: MOUZ vs TBD
 UID:cs-go-iem-krakow-2026-1331894@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: MOUZ: 2 | NRG: 0\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260201T144908Z
 DTSTART:20260201T130050Z
 SUMMARY:Upper bracket quarterfinal 3: MOUZ vs NRG
 UID:cs-go-iem-krakow-2026-1331891@tournamentics
