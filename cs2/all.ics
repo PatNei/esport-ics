@@ -481,7 +481,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260202T150000Z
-SUMMARY:Lower bracket round 1 match 1: WB vs TBD
+SUMMARY:Lower bracket round 1 match 1: WB vs RUST
 UID:cs-go-exort-cataclysm-1-2025-1338720@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1108,8 +1108,8 @@ SUMMARY:Round 2: Fingers vs ARC
 UID:cs-go-nodwin-clutch-series-4-2026-1313482@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: K27: 2 | RUSTEC: 0\nStream: https://kick.com/exort_en3
+DTEND:20260202T140425Z
 DTSTART:20260202T122437Z
 SUMMARY:Upper bracket quarterfinal 1: K27 vs RUST
 UID:cs-go-exort-cataclysm-1-2025-1338708@tournamentics
@@ -5745,7 +5745,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260202T150000Z
-SUMMARY:Upper bracket semifinal 1: ARC vs TBD
+SUMMARY:Upper bracket semifinal 1: ARC vs K27
 UID:cs-go-exort-cataclysm-1-2025-1338712@tournamentics
 END:VEVENT
 BEGIN:VEVENT
