@@ -3861,7 +3861,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260202T150000Z
+DTSTART:20260202T153000Z
 SUMMARY:Round of 16 match 3: ICE vs BCA
 UID:cs-go-nodwin-clutch-series-4-2026-1313502@tournamentics
 END:VEVENT
@@ -4128,7 +4128,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260203T153000Z
-SUMMARY:Upper bracket final: VIT vs TBD
+SUMMARY:Upper bracket final: VIT vs AUR
 UID:cs-go-iem-krakow-2026-1331899@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5332,7 +5332,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260203T130000Z
-SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+SUMMARY:Lower bracket semifinal 1: MOUZ vs TBD
 UID:cs-go-iem-krakow-2026-1331897@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6025,7 +6025,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260203T150000Z
-SUMMARY:Winners match: AUR.YB vs TBD
+SUMMARY:Winners match: AUR.YB vs RBLS
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341919@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6536,7 +6536,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260203T090000Z
-SUMMARY:Elimination match: WW vs TBD
+SUMMARY:Elimination match: WW vs PGE
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341918@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7044,8 +7044,8 @@ SUMMARY:Round 1: VP.F vs SASHI.A
 UID:cs-go-exort-series-21-2026-1317351@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: MOUZ: 0 | Aurora Gaming: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260202T145552Z
 DTSTART:20260202T130119Z
 SUMMARY:Upper bracket semifinal 2: MOUZ vs AUR
 UID:cs-go-iem-krakow-2026-1331894@tournamentics
@@ -7149,8 +7149,8 @@ SUMMARY:Lower bracket round 1 match 2: 33 vs NEM
 UID:cs-go-exort-cataclysm-1-2025-1338721@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nResult: Pigeons: 1 | Rebels Gaming: 2\nStream: https://kick.com/cct_cs
+DTEND:20260202T145214Z
 DTSTART:20260202T120506Z
 SUMMARY:PGE vs RBLS
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341917@tournamentics
