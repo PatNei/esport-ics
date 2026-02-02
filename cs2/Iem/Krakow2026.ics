@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260202T183000Z
+DTSTART:20260202T181912Z
 SUMMARY:Lower bracket semifinal 1: FURIA vs NAVI
 UID:cs-go-iem-krakow-2026-1331885@tournamentics
 END:VEVENT
@@ -191,8 +191,8 @@ SUMMARY:Lower bracket round 1 match 2: NIP vs PSSN.UA
 UID:cs-go-iem-krakow-2026-1331844@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: NRG: 1 | Team Falcons: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260202T181720Z
 DTSTART:20260202T153058Z
 SUMMARY:Lower bracket quarterfinal 2: NRG vs FAL
 UID:cs-go-iem-krakow-2026-1331896@tournamentics
@@ -219,7 +219,7 @@ SUMMARY:Upper bracket quarterfinal 2: 3DMAX vs FaZe
 UID:cs-go-iem-krakow-2026-1331890@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
 DURATION:PT2H
 DTSTART:20260202T183000Z
 SUMMARY:Lower bracket semifinal 2: FUT vs AST
@@ -313,7 +313,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260203T130000Z
-SUMMARY:Lower bracket semifinal 2: 3DMAX vs TBD
+SUMMARY:Lower bracket semifinal 2: 3DMAX vs FAL
 UID:cs-go-iem-krakow-2026-1331898@tournamentics
 END:VEVENT
 BEGIN:VEVENT
