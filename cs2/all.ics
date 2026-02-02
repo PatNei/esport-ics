@@ -1734,7 +1734,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260203T183000Z
-SUMMARY:Round of 16 match 4: TBD vs TBD
+SUMMARY:Round of 16 match 8: SIN vs MGC
 UID:cs-go-cct-europe-series-14-3-2026-1326470@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2049,7 +2049,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260203T090000Z
-SUMMARY:Lower bracket quarterfinal 1: WB vs TBD
+SUMMARY:Lower bracket quarterfinal 1: WB vs NTR
 UID:cs-go-exort-cataclysm-1-2025-1338718@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4611,7 +4611,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260203T120000Z
-SUMMARY:Upper bracket final: ARC vs TBD
+SUMMARY:Upper bracket final: ARC vs NEMI
 UID:cs-go-exort-cataclysm-1-2025-1338714@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5175,8 +5175,8 @@ SUMMARY:Round of 16 match 1: AUR vs GL
 UID:cs-go-iem-krakow-2026-1324056@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | Nuclear TigeRES: 1\nStream: https://kick.com/exort_en3
+DTEND:20260202T212713Z
 DTSTART:20260202T180632Z
 SUMMARY:Upper bracket semifinal 2: NEMI vs NTR
 UID:cs-go-exort-cataclysm-1-2025-1338713@tournamentics
