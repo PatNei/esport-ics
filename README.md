@@ -198,13 +198,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaGlo
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasClosedQualifier2026.ics
 ```
 
-### Rio: Global Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalClosedQualifier2026.ics
-```
-
 </details>
 
 ## D Tier
