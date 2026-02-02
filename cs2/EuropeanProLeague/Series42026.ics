@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260204T090000Z
-SUMMARY:Grand Final: TBD vs TBD
+SUMMARY:Grand Final: ORM vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -221,15 +221,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260202T113000Z
-SUMMARY:Semifinal 2: MGC vs ORM
-UID:cs-go-european-pro-league-series-4-2026-1306449@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
 DTSTART:20260203T090000Z
-SUMMARY:3rd Place match: TBD vs TBD
+SUMMARY:3rd Place match: MGC vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306450@tournamentics
 END:VEVENT
 END:VCALENDAR
