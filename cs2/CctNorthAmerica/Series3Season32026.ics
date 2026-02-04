@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nResult: OverKnight: 0 | Outfit 49: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260204T025601Z
 DTSTART:20260204T013620Z
 SUMMARY:OverKnight vs O49
 UID:cs-go-cct-north-america-series-3-3-2026-1343582@tournamentics
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260206T013000Z
-SUMMARY:Elimination match: ZOMB vs TBD
+SUMMARY:Elimination match: ZOMB vs OverKnight
 UID:cs-go-cct-north-america-series-3-3-2026-1343584@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260205T013000Z
-SUMMARY:Winners match: LAG vs TBD
+SUMMARY:Winners match: LAG vs O49
 UID:cs-go-cct-north-america-series-3-3-2026-1343583@tournamentics
 END:VEVENT
 BEGIN:VEVENT
