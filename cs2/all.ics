@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260205T090000Z
-SUMMARY:Elimination match: home vs TBD
+SUMMARY:Elimination match: home vs NXS
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341928@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1388,8 +1388,8 @@ SUMMARY:Round 4: FAV vs BCA
 UID:cs-go-nodwin-clutch-series-4-2026-1313493@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nResult: Nexus: 1 | Bushido Wildcats: 2\nStream: https://kick.com/cct_cs
+DTEND:20260204T131151Z
 DTSTART:20260204T090708Z
 SUMMARY:NXS vs BW
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341926@tournamentics
@@ -1880,7 +1880,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260204T190000Z
+DTSTART:20260204T160000Z
 SUMMARY:WTRML0N vs BRUTE
 UID:cs-go-esea-advanced-europe-56-2026-1347243@tournamentics
 END:VEVENT
@@ -2902,7 +2902,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260204T150000Z
+DTSTART:20260204T160000Z
 SUMMARY:AUR.YB vs FUT.A
 UID:cs-go-esea-advanced-europe-56-2026-1347230@tournamentics
 END:VEVENT
@@ -3175,7 +3175,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260204T190000Z
+DTSTART:20260204T180000Z
 SUMMARY:MSC vs Stinky Rats
 UID:cs-go-esea-advanced-europe-56-2026-1347241@tournamentics
 END:VEVENT
@@ -6774,7 +6774,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260205T150000Z
-SUMMARY:Winners match: MSC vs TBD
+SUMMARY:Winners match: MSC vs BW
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341929@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7242,7 +7242,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260204T190000Z
+DTSTART:20260217T170000Z
 SUMMARY:Players vs QUA
 UID:cs-go-esea-advanced-europe-56-2026-1347246@tournamentics
 END:VEVENT
