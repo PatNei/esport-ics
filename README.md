@@ -566,27 +566,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Seaso
 
 </details>
 
-<details>
-<summary>United21 x Esplay Challenge</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/United21XEsplayChallenge.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/United21XEsplayChallenge.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/Season12026.ics
-```
-
-</details>
-
 ## License
 
 ### Calendar Data (.ics files)
