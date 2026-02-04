@@ -587,27 +587,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEspla
 
 </details>
 
-<details>
-<summary>Zhi-Tech Elite Masters</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/ZhiTechEliteMasters.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/ZhiTechEliteMasters.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/2026.ics
-```
-
-</details>
-
 ## License
 
 ### Calendar Data (.ics files)
