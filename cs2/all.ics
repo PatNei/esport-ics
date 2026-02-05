@@ -292,7 +292,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260205T190000Z
-SUMMARY:Round 2: TBD vs TBD
+SUMMARY:Round 2: SHIN vs BST.A
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343470@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -392,6 +392,13 @@ DTEND:20260202T111623Z
 DTSTART:20260202T090528Z
 SUMMARY:Upper bracket quarterfinal 2: ARC vs WB
 UID:cs-go-exort-cataclysm-1-2025-1338709@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260205T190000Z
+SUMMARY:SUNFALL vs MINLATE
+UID:cs-go-esea-advanced-europe-56-2026-1348429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Dark Tigers: 0 | Young TigeRES: 2\nStream: https://kick.com/exort_en2
@@ -732,7 +739,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260205T183000Z
+DTSTART:20260205T153000Z
 SUMMARY:Quarterfinal 4: EYE vs MGC
 UID:cs-go-cct-europe-series-14-3-2026-1326507@tournamentics
 END:VEVENT
@@ -903,6 +910,13 @@ DTEND:20260202T140425Z
 DTSTART:20260202T122437Z
 SUMMARY:Upper bracket quarterfinal 1: K27 vs RUST
 UID:cs-go-exort-cataclysm-1-2025-1338708@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260205T180000Z
+SUMMARY:TNT vs Falcons Force
+UID:cs-go-esea-advanced-europe-56-2026-1348428@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 1 | SIUUUUUU: 0\nStream: https://www.twitch.tv/dred_
@@ -1257,7 +1271,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260205T153000Z
+DTSTART:20260205T183000Z
 SUMMARY:Quarterfinal 3: ECS vs FAV
 UID:cs-go-cct-europe-series-14-3-2026-1326506@tournamentics
 END:VEVENT
@@ -1421,6 +1435,13 @@ DTEND:20260201T233050Z
 DTSTART:20260201T203212Z
 SUMMARY:Decider match: 33 vs JUMBO
 UID:cs-go-exort-cataclysm-1-2025-1338707@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260205T180000Z
+SUMMARY:Peekaboo vs RT
+UID:cs-go-esea-advanced-europe-56-2026-1348427@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: magic: 2 | MINLATE: 0\nStream: https://kick.com/cct_cs
@@ -1976,11 +1997,11 @@ SUMMARY:3rd Place match: ex-RUBY vs MGC
 UID:cs-go-european-pro-league-series-4-2026-1306450@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: kONO.ECF: 0 | UNiTY esports: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260123T162106Z
-DTSTART:20260123T150124Z
-SUMMARY:Round 1: ECF vs UNiTY
-UID:cs-go-nodwin-clutch-series-4-2026-1313469@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260205T180000Z
+SUMMARY:MISA vs Imperial.A
+UID:cs-go-esea-advanced-europe-56-2026-1348426@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: Gluck: 0 | JUMBO TEAM: 2\nStream: https://kick.com/exort_en3
@@ -2009,6 +2030,13 @@ DTEND:20260128T143700Z
 DTSTART:20260128T113732Z
 SUMMARY:Round of 16 match 4: FAV vs MOUZ.N
 UID:cs-go-european-pro-league-series-4-2026-1306439@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: kONO.ECF: 0 | UNiTY esports: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260123T162106Z
+DTSTART:20260123T150124Z
+SUMMARY:Round 1: ECF vs UNiTY
+UID:cs-go-nodwin-clutch-series-4-2026-1313469@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 1 | ZOTIX: 0\nStream: https://www.twitch.tv/csdiilit_com
@@ -2550,6 +2578,13 @@ SUMMARY:Round 4: 1WIN vs Leo
 UID:cs-go-cct-europe-series-14-3-2026-1326457@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260205T173000Z
+SUMMARY:WSG vs MINLATE
+UID:cs-go-esea-advanced-europe-56-2026-1348425@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | ALLINNERS: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260123T141429Z
 DTSTART:20260123T121242Z
@@ -2930,7 +2965,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260205T120000Z
+DTSTART:20260205T090000Z
 SUMMARY:Semifinal 2: G1 vs ECS
 UID:cs-go-nodwin-clutch-series-4-2026-1313514@tournamentics
 END:VEVENT
@@ -3101,6 +3136,13 @@ DTEND:20260131T143052Z
 DTSTART:20260131T123549Z
 SUMMARY:Round 4: JS vs MZP
 UID:cs-go-cct-europe-series-14-3-2026-1326456@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260205T170000Z
+SUMMARY:QWE vs Peekaboo
+UID:cs-go-esea-advanced-europe-56-2026-1348424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: XI Esport: 1 | MUERTA TEAM: 0\nStream: https://www.twitch.tv/untalentedkid785
@@ -3525,7 +3567,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260205T090000Z
+DTSTART:20260205T120000Z
 SUMMARY:Semifinal 1: NTR vs ILWL
 UID:cs-go-nodwin-clutch-series-4-2026-1313513@tournamentics
 END:VEVENT
@@ -3682,6 +3724,13 @@ DTEND:20260127T121136Z
 DTSTART:20260127T090347Z
 SUMMARY:Round of 16 match 1: AM vs ex-RUBY
 UID:cs-go-european-pro-league-series-4-2026-1306436@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260205T170000Z
+SUMMARY:aimclub vs URSA
+UID:cs-go-esea-advanced-europe-56-2026-1348423@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Pigeons: 0 | QWENTRY: 1\nStream: https://www.twitch.tv/torycs
@@ -4186,6 +4235,13 @@ DTEND:20260130T202933Z
 DTSTART:20260130T184338Z
 SUMMARY:Round 3: ORM vs MGC
 UID:cs-go-cct-europe-series-14-3-2026-1326454@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260205T160000Z
+SUMMARY:DRGN TEAM vs Imperial.A
+UID:cs-go-esea-advanced-europe-56-2026-1348422@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 0 | Lazer Cats: 1\nStream: https://www.twitch.tv/lzrcats
@@ -4699,6 +4755,13 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260205T160000Z
+SUMMARY:ALGO vs TNT
+UID:cs-go-esea-advanced-europe-56-2026-1348421@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: MUERTA TEAM: 0 | Oxuji Esports: 2\nStream: https://kick.com/exort_en4
 DTEND:20260201T182937Z
 DTSTART:20260201T162434Z
@@ -4835,7 +4898,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260205T160000Z
-SUMMARY:Round 2: TBD vs TBD
+SUMMARY:Round 2: PLS vs CRASH
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343462@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5191,6 +5254,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260205T153000Z
+SUMMARY:HAVU vs Falcons Force
+UID:cs-go-esea-advanced-europe-56-2026-1348420@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260205T170000Z
 SUMMARY:RT vs ME
 UID:cs-go-esea-advanced-europe-56-2026-1317224@tournamentics
@@ -5318,7 +5388,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260205T130000Z
-SUMMARY:Round 2: TBD vs TBD
+SUMMARY:Round 2: FURIA.F vs PB
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343461@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5924,6 +5994,13 @@ SUMMARY:Round 1: AM vs BRUTE
 UID:cs-go-nodwin-clutch-series-4-2026-1313473@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260205T150000Z
+SUMMARY:QWE vs WSG
+UID:cs-go-esea-advanced-europe-56-2026-1348419@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: LFO: 0 | DRGN TEAM: 1\nStream: No official stream linked
 DTEND:20260202T195619Z
 DTSTART:20260202T190840Z
@@ -6060,7 +6137,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260205T220000Z
-SUMMARY:Round 2: TBD vs TBD
+SUMMARY:Round 2: Curralzinho vs GH
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343471@tournamentics
 END:VEVENT
 BEGIN:VEVENT
