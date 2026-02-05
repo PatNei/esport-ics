@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Imperial Academy: 0 | VP.Prodigy: 2\nStream: https://kick.com/united21_en
+DTEND:20260205T105444Z
 DTSTART:20260205T091411Z
 SUMMARY:Winners match: Imperial.A vs VP.P
 UID:cs-go-united21-44-2026-1339676@tournamentics
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260207T113000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Imperial.A vs TBD
 UID:cs-go-united21-44-2026-1339678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
