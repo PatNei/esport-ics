@@ -578,6 +578,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Seaso
 
 </details>
 
+<details>
+<summary>Yuqilin</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Yuqilin/Yuqilin.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Yuqilin/Yuqilin.ics
+```
+
+---
+
+### Pinnacle of Battle season 2 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Yuqilin/PinnacleOfBattleSeason22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Yuqilin/PinnacleOfBattleSeason22026.ics
+```
+
+</details>
+
 ## License
 
 ### Calendar Data (.ics files)
