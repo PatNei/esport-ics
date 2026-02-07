@@ -33,6 +33,29 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Krakow2026
 
 </details>
 
+## A Tier
+
+<details>
+<summary>PGL</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Pgl/Pgl.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Pgl/Pgl.ics
+```
+
+---
+
+### Cluj-Napoca 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Pgl/ClujNapoca2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Pgl/ClujNapoca2026.ics
+```
+
+</details>
+
 ## B Tier
 
 <details>
@@ -66,6 +89,13 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Seri
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series15Season32026.ics
+```
+
+### Series #16 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series16Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series16Season32026.ics
 ```
 
 </details>
@@ -217,11 +247,11 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpr
 
 ---
 
-### BLAST Premier Rising Event 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/BlastPremierRisingEvent2026.ics)
+### 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/2026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/BlastPremierRisingEvent2026.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/2026.ics
 ```
 
 </details>
@@ -303,18 +333,25 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/CctE
 
 ---
 
-### Open Qualifier #16 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/OpenQualifier16Season32026.ics)
+### Closed Qualifier: Series #15 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/ClosedQualifierSeries15Season32026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/OpenQualifier16Season32026.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/ClosedQualifierSeries15Season32026.ics
 ```
 
-### Series #15 Play-In season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series15PlayInSeason32026.ics)
+### Closed Qualifier: Series #16 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/ClosedQualifierSeries16Season32026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series15PlayInSeason32026.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/ClosedQualifierSeries16Season32026.ics
+```
+
+### Open Qualifier: Series #16 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/OpenQualifierSeries16Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/OpenQualifierSeries16Season32026.ics
 ```
 
 </details>
@@ -490,6 +527,48 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/GamersClubLiga
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/GamersClubLigaSRieA/January2026.ics
+```
+
+</details>
+
+<details>
+<summary>IEM</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics
+```
+
+---
+
+### Atlanta: Global Open Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaGlobalOpenQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaGlobalOpenQualifier2026.ics
+```
+
+</details>
+
+<details>
+<summary>IstabuLAN</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istabulan/Istabulan.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istabulan/Istabulan.ics
+```
+
+---
+
+### 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istabulan/2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istabulan/2026.ics
 ```
 
 </details>

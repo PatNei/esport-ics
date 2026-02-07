@@ -25,14 +25,14 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
-DTSTART:20260208T013000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+DTSTART:20260209T013000Z
+SUMMARY:Quarterfinal 2: FLY.R vs SportsBetExpert
 UID:cs-go-cct-north-america-series-3-3-2026-1343587@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260206T013000Z
+DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nResult: Zomblers: 2 | OverKnight: 0\nStream: https://kick.com/cct_cs4
+DTEND:20260206T030935Z
+DTSTART:20260206T014727Z
 SUMMARY:Elimination match: ZOMB vs OverKnight
 UID:cs-go-cct-north-america-series-3-3-2026-1343584@tournamentics
 END:VEVENT
@@ -53,8 +53,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
-DTSTART:20260209T013000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+DTSTART:20260208T013000Z
+SUMMARY:Quarterfinal 4: SE vs LAG
 UID:cs-go-cct-north-america-series-3-3-2026-1343589@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260207T223000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: MARS vs ZOMB
 UID:cs-go-cct-north-america-series-3-3-2026-1343586@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -86,24 +86,24 @@ SUMMARY:Winners match: LAG vs O49
 UID:cs-go-cct-north-america-series-3-3-2026-1343583@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260206T223000Z
-SUMMARY:Decider match: REGAIN vs mouse
+DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nResult: mouse: 0 | regain: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260207T000918Z
+DTSTART:20260206T223916Z
+SUMMARY:Decider match: mouse vs REGAIN
 UID:cs-go-cct-north-america-series-3-3-2026-1343580@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260208T223000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: SR vs REGAIN
 UID:cs-go-cct-north-america-series-3-3-2026-1343588@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260207T013000Z
-SUMMARY:Decider match: O49 vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nResult: Outfit 49: 0 | Zomblers: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260207T031006Z
+DTSTART:20260207T014500Z
+SUMMARY:Decider match: O49 vs ZOMB
 UID:cs-go-cct-north-america-series-3-3-2026-1343585@tournamentics
 END:VEVENT
 END:VCALENDAR
