@@ -75,14 +75,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260208T181500Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: L00m1 vs TBD
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351395@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260208T181500Z
-SUMMARY:Quarterfinal 1: MOUZ.N vs TBD
+SUMMARY:Quarterfinal 1: MOUZ.N vs NTR
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351392@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -233,8 +233,8 @@ SUMMARY:Round of 16 match 5: LGC vs BCG
 UID:cs-go-iem-krakow-2026-1324060@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/muchapt
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: OG: 1 | Metizport: 0\nStream: https://www.twitch.tv/muchapt
+DTEND:20260208T174922Z
 DTSTART:20260208T171132Z
 SUMMARY:Round 16 match 6: OG vs MZP
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351389@tournamentics
@@ -334,12 +334,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260208T181500Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: OG vs TBD
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351394@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/misterhenrybatt
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: L00m1: 1 | WATERMELON: 0\nStream: https://www.twitch.tv/misterhenrybatt
+DTEND:20260208T175114Z
 DTSTART:20260208T170937Z
 SUMMARY:Round 16 match 8: L00m1 vs WTRML0N
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351391@tournamentics
@@ -464,8 +464,8 @@ SUMMARY:Round 16 match 5: BMB vs BL
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351388@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/streamross
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | HAVU: 0\nStream: https://www.twitch.tv/streamross
+DTEND:20260208T175027Z
 DTSTART:20260208T171247Z
 SUMMARY:Round 16 match 2: NTR vs HAVU
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351385@tournamentics
@@ -593,7 +593,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260208T181500Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: ARC vs TBD
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351393@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -723,8 +723,8 @@ SUMMARY:Round of 16 match 6: FUT vs 3DMAX
 UID:cs-go-iem-krakow-2026-1324061@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: VODKA: 0 | ARCRED: 1\nStream: No official stream linked
+DTEND:20260208T175031Z
 DTSTART:20260208T171138Z
 SUMMARY:Round 16 match 4: VOD vs ARC
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351387@tournamentics
