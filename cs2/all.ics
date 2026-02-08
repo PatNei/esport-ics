@@ -2125,7 +2125,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260208T183000Z
+DTSTART:20260208T184000Z
 SUMMARY:Quarterfinal 4: L00m1 vs 33
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351395@tournamentics
 END:VEVENT
@@ -2200,8 +2200,8 @@ SUMMARY:Round 2: SASHI.A vs B8 Academy
 UID:cs-go-exort-series-22-2026-1347263@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Ace North American Masters - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ligaaceesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Ace North American Masters - Spring 2026\nMatch Type: Best Of\nResult: NRG: 2 | Passion UA: 0\nStream: https://www.twitch.tv/ligaaceesports
+DTEND:20260208T183211Z
 DTSTART:20260208T170722Z
 SUMMARY:Grand final: NRG vs PSSN.UA
 UID:cs-go-ace-masters-1-2026-1348598@tournamentics
@@ -2851,9 +2851,9 @@ SUMMARY:Round of 16 match 5: HOTU vs FAV
 UID:cs-go-cct-europe-series-14-3-2026-1326469@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/phantomesports_
 DURATION:PT2H
-DTSTART:20260208T183000Z
+DTSTART:20260208T182640Z
 SUMMARY:Quarterfinal 3: OG vs PHA
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351394@tournamentics
 END:VEVENT
@@ -3532,8 +3532,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260208T183000Z
-SUMMARY:Quarterfinal 2: ARC vs TBD
+DTSTART:20260208T184000Z
+SUMMARY:Quarterfinal 2: ARC vs BMB
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351393@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6967,8 +6967,8 @@ SUMMARY:Round 5: OXUJI vs JUMBO
 UID:cs-go-exort-series-21-2026-1327556@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tchomi_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 1 | brazylijski luz: 0\nStream: https://www.twitch.tv/tchomi_
+DTEND:20260208T182852Z
 DTSTART:20260208T171228Z
 SUMMARY:Round 16 match 5: BMB vs BL
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351388@tournamentics
@@ -7177,9 +7177,9 @@ SUMMARY:Round 1: PLS vs Bad Luck
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343460@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260208T182000Z
+DTSTART:20260208T182717Z
 SUMMARY:Round 1: ASTRAL vs ex-Zero Tenacity
 UID:cs-go-cct-europe-series-15-3-2026-1343369@tournamentics
 END:VEVENT

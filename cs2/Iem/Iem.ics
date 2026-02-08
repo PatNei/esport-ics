@@ -74,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260208T183000Z
+DTSTART:20260208T184000Z
 SUMMARY:Quarterfinal 4: L00m1 vs 33
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351395@tournamentics
 END:VEVENT
@@ -331,9 +331,9 @@ SUMMARY:Lower bracket round 1 match 2: NIP vs PSSN.UA
 UID:cs-go-iem-krakow-2026-1331844@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/phantomesports_
 DURATION:PT2H
-DTSTART:20260208T183000Z
+DTSTART:20260208T182640Z
 SUMMARY:Quarterfinal 3: OG vs PHA
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351394@tournamentics
 END:VEVENT
@@ -457,8 +457,8 @@ SUMMARY:Round of 16 match 7: AST vs paiN
 UID:cs-go-iem-krakow-2026-1324062@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tchomi_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 1 | brazylijski luz: 0\nStream: https://www.twitch.tv/tchomi_
+DTEND:20260208T182852Z
 DTSTART:20260208T171228Z
 SUMMARY:Round 16 match 5: BMB vs BL
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351388@tournamentics
@@ -592,8 +592,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260208T183000Z
-SUMMARY:Quarterfinal 2: ARC vs TBD
+DTSTART:20260208T184000Z
+SUMMARY:Quarterfinal 2: ARC vs BMB
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351393@tournamentics
 END:VEVENT
 BEGIN:VEVENT
