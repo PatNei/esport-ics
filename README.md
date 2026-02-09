@@ -462,6 +462,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Esea/AdvancedE
 </details>
 
 <details>
+<summary>European Pro League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
+```
+
+---
+
+### Series 5 Play-In 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series5PlayIn2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series5PlayIn2026.ics
+```
+
+</details>
+
+<details>
 <summary>Exort Cataclysm</summary>
 
 ### Full Schedule
