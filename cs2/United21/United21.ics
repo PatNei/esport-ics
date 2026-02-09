@@ -117,12 +117,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260211T113000Z
-SUMMARY:Upper bracket semifinal 2: ex-FUT Academy vs TBD
+SUMMARY:Upper bracket semifinal 2: ex-FUT Academy vs VP.P
 UID:cs-go-united21-44-2026-1352361@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 2 | LAGUNA: 1\nStream: https://kick.com/united21_en
+DTEND:20260209T140019Z
 DTSTART:20260209T124211Z
 SUMMARY:Upper bracket quarterfinal 4: VP.P vs LAG
 UID:cs-go-united21-44-2026-1352357@tournamentics
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260210T113000Z
-SUMMARY:Lower bracket round 1 match 2: MID vs TBD
+SUMMARY:Lower bracket round 1 match 2: MID vs LAG
 UID:cs-go-united21-44-2026-1352359@tournamentics
 END:VEVENT
 BEGIN:VEVENT
