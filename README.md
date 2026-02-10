@@ -229,22 +229,22 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaGlo
 </details>
 
 <details>
-<summary>RES Showdown Spring</summary>
+<summary>RES Showdown</summary>
 
 ### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/ResShowdownSpring.ics)
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/ResShowdown.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/ResShowdownSpring.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/ResShowdown.ics
 ```
 
 ---
 
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/2026.ics)
+### Spring 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/Spring2026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/2026.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/Spring2026.ics
 ```
 
 </details>
@@ -665,22 +665,22 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSe
 </details>
 
 <details>
-<summary>RES Showdown Spring</summary>
+<summary>RES Showdown</summary>
 
 ### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/ResShowdownSpring.ics)
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/ResShowdown.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/ResShowdownSpring.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/ResShowdown.ics
 ```
 
 ---
 
-### East European Open Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/EastEuropeanOpenQualifier2026.ics)
+### East European Open Qualifier Spring 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/EastEuropeanOpenQualifierSpring2026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/EastEuropeanOpenQualifier2026.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/EastEuropeanOpenQualifierSpring2026.ics
 ```
 
 </details>
