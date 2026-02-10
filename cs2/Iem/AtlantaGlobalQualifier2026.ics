@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260210T174500Z
+DTSTART:20260210T180000Z
 SUMMARY:Upper bracket quarterfinal 2: ALL vs SIN
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344419@tournamentics
 END:VEVENT
@@ -37,8 +37,8 @@ SUMMARY:Upper bracket quarterfinal 3: FNC vs K27
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344420@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/grimyrannarrcsgo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | Tricked: 1\nStream: https://www.twitch.tv/grimyrannarrcsgo
+DTEND:20260210T174821Z
 DTSTART:20260210T133120Z
 SUMMARY:Upper bracket round 1 match 7: ICE vs TRI
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344416@tournamentics
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260210T190000Z
-SUMMARY:Lower bracket round 1 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 4: TRI vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344438@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -96,12 +96,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260211T160000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: BB vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344422@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/croissantstrike
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | ENCE: 0\nStream: https://www.twitch.tv/croissantstrike
+DTEND:20260210T174858Z
 DTSTART:20260210T160517Z
 SUMMARY:Upper bracket quarterfinal 1: BB vs ENCE
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344418@tournamentics
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260211T130000Z
-SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 1: ENCE vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344431@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260210T190000Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 4: ICE vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344421@tournamentics
 END:VEVENT
 BEGIN:VEVENT
