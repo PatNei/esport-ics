@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260211T190000Z
-SUMMARY:Lower bracket quarterfinal 1: BOSS vs TBD
+SUMMARY:Lower bracket quarterfinal 1: BOSS vs FC
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344449@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -369,7 +369,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260211T220000Z
-SUMMARY:Upper bracket final: PSSN.UA vs TBD
+SUMMARY:Upper bracket final: PSSN.UA vs WC
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344445@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -618,8 +618,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: Fisher College: 0 | Wildcard: 2\nStream: https://www.twitch.tv/Trottah
+DTEND:20260211T032435Z
 DTSTART:20260211T011448Z
 SUMMARY:Upper bracket semifinal 2: FC vs WC
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344444@tournamentics
