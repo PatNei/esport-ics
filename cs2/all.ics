@@ -1209,7 +1209,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260212T160000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: BB vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1719,7 +1719,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260211T190000Z
+DTSTART:20260211T191500Z
 SUMMARY:B8 Academy vs MEGO
 UID:cs-go-esea-advanced-europe-56-2026-1356661@tournamentics
 END:VEVENT
@@ -1955,9 +1955,9 @@ SUMMARY:Round 1:  CSDIILIT vs G1
 UID:cs-go-a1-gaming-league-11-2026-1312623@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
 DURATION:PT2H
-DTSTART:20260211T190000Z
+DTSTART:20260211T190958Z
 SUMMARY:Lower bracket quarterfinal 2: VOCA vs SportsBetExpert
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344450@tournamentics
 END:VEVENT
@@ -2833,7 +2833,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
 DURATION:PT2H
 DTSTART:20260211T200000Z
-SUMMARY:Lower bracket quarterfinal 1: JS vs TBD
+SUMMARY:Lower bracket quarterfinal 1: JS vs SIN
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344427@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4132,9 +4132,9 @@ SUMMARY:Round 4: AUR.YB vs EJ
 UID:cs-go-exort-series-21-2026-1336658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260211T190000Z
+DTSTART:20260211T191213Z
 SUMMARY:SUNFALL vs ENRAGE
 UID:cs-go-esea-advanced-europe-56-2026-1356660@tournamentics
 END:VEVENT
@@ -4727,8 +4727,8 @@ SUMMARY:Upper bracket quarterfinal 1: K27 vs RUST
 UID:cs-go-exort-cataclysm-1-2025-1338708@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/havugaming
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: HAVU: 1 | MUERTA TEAM: 0\nStream: https://www.twitch.tv/havugaming
+DTEND:20260211T190313Z
 DTSTART:20260211T181247Z
 SUMMARY:HAVU vs MUERTA TEAM
 UID:cs-go-esea-advanced-europe-56-2026-1356657@tournamentics
@@ -6134,8 +6134,8 @@ SUMMARY:Winners match: MSC vs BW
 UID:cs-go-cct-europe-closed-qualifier-series-15-3-2026-1341929@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | Sinners: 1\nStream: https://www.twitch.tv/trottah
+DTEND:20260211T190821Z
 DTSTART:20260211T160403Z
 SUMMARY:Upper bracket semifinal 1: BB vs SIN
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344422@tournamentics

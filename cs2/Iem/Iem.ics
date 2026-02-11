@@ -166,14 +166,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
 DURATION:PT2H
 DTSTART:20260211T200000Z
-SUMMARY:Lower bracket quarterfinal 1: JS vs TBD
+SUMMARY:Lower bracket quarterfinal 1: JS vs SIN
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344427@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260212T160000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: BB vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -471,9 +471,9 @@ SUMMARY:Round 16 match 2: NTR vs HAVU
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
 DURATION:PT2H
-DTSTART:20260211T190000Z
+DTSTART:20260211T190958Z
 SUMMARY:Lower bracket quarterfinal 2: VOCA vs SportsBetExpert
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344450@tournamentics
 END:VEVENT
@@ -660,8 +660,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344425@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | Sinners: 1\nStream: https://www.twitch.tv/trottah
+DTEND:20260211T190821Z
 DTSTART:20260211T160403Z
 SUMMARY:Upper bracket semifinal 1: BB vs SIN
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344422@tournamentics
