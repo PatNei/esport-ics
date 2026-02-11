@@ -1076,7 +1076,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260213T090000Z
-SUMMARY:Decider match: VP.P vs ENJOY
+SUMMARY:Decider match: ENJOY vs VP.P
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350043@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3838,8 +3838,8 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-european-pro-league-series-5-2026-1355897@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floofys
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nResult: FlyQuest RED: 1 | F5 Esports: 2\nStream: https://www.twitch.tv/floofys
+DTEND:20260211T042455Z
 DTSTART:20260211T012136Z
 SUMMARY:Round 3: FLY.R vs F5
 UID:cs-go-dust2-us-eagle-masters-6-2026-1353874@tournamentics
