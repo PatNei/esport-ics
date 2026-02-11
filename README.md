@@ -602,22 +602,22 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaGlo
 </details>
 
 <details>
-<summary>IstabuLAN</summary>
+<summary>IstanbuLAN</summary>
 
 ### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istabulan/Istabulan.ics)
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istanbulan/Istanbulan.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istabulan/Istabulan.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istanbulan/Istanbulan.ics
 ```
 
 ---
 
 ### 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istabulan/2026.ics)
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istanbulan/2026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istabulan/2026.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istanbulan/2026.ics
 ```
 
 </details>
