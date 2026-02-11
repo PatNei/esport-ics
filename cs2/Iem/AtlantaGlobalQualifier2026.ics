@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: ENCE: 2 | Alliance: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260211T185257Z
 DTSTART:20260211T164514Z
 SUMMARY:Lower bracket round 3 match 2: ENCE vs ALL
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344430@tournamentics
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260211T200000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: ENCE vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344428@tournamentics
 END:VEVENT
 BEGIN:VEVENT
