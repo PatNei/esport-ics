@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260212T090000Z
-SUMMARY:Lower bracket quarterfinal 1: MISA vs TBD
+SUMMARY:Lower bracket quarterfinal 1: MISA vs ex-FUT Academy
 UID:cs-go-united21-44-2026-1352362@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260213T090000Z
-SUMMARY:Upper bracket final: ALL vs TBD
+SUMMARY:Upper bracket final: ALL vs VP.P
 UID:cs-go-united21-44-2026-1352364@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:Decider match: SNG vs MISA
 UID:cs-go-united21-44-2026-1339564@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: ex-FUT Academy: 0 | VP.Prodigy: 2\nStream: https://kick.com/united21_en
+DTEND:20260211T132311Z
 DTSTART:20260211T114254Z
 SUMMARY:Upper bracket semifinal 2: ex-FUT Academy vs VP.P
 UID:cs-go-united21-44-2026-1352361@tournamentics
