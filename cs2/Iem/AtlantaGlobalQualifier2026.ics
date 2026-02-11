@@ -4,8 +4,8 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260211T163000Z
-SUMMARY:Lower bracket round 3 match 2: ENCE vs TBD
+DTSTART:20260211T164000Z
+SUMMARY:Lower bracket round 3 match 2: ENCE vs ALL
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -184,8 +184,8 @@ SUMMARY:Upper bracket round 1 match 2: ENCE vs CS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Alliance: 2 | OG: 1\nStream: https://www.twitch.tv/eslcs
+DTEND:20260211T161044Z
 DTSTART:20260211T130750Z
 SUMMARY:Lower bracket round 2 match 3: ALL vs OG
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344433@tournamentics
@@ -198,9 +198,9 @@ SUMMARY:Lower bracket round 1 match 2: JS vs NTR
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344436@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JohnnySpeeds
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JohnnySpeeds
 DURATION:PT2H
-DTSTART:20260211T160000Z
+DTSTART:20260211T161025Z
 SUMMARY:Lower bracket round 3 match 1: ICE vs JS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344429@tournamentics
 END:VEVENT

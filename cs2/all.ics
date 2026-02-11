@@ -2111,8 +2111,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260211T163000Z
-SUMMARY:Lower bracket round 3 match 2: ENCE vs TBD
+DTSTART:20260211T164000Z
+SUMMARY:Lower bracket round 3 match 2: ENCE vs ALL
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3901,8 +3901,8 @@ SUMMARY:Winners match: LK vs BRUTE
 UID:cs-go-nodwin-clutch-series-4-2026-1314670@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Alliance: 2 | OG: 1\nStream: https://www.twitch.tv/eslcs
+DTEND:20260211T161044Z
 DTSTART:20260211T130750Z
 SUMMARY:Lower bracket round 2 match 3: ALL vs OG
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344433@tournamentics
@@ -7016,9 +7016,9 @@ SUMMARY:Round 4: ACE vs BRUTE
 UID:cs-go-a1-gaming-league-11-2026-1313584@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JohnnySpeeds
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JohnnySpeeds
 DURATION:PT2H
-DTSTART:20260211T160000Z
+DTSTART:20260211T161025Z
 SUMMARY:Lower bracket round 3 match 1: ICE vs JS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344429@tournamentics
 END:VEVENT
@@ -7912,9 +7912,9 @@ SUMMARY:NTR vs GLU
 UID:cs-go-exort-cataclysm-1-2025-1338703@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/havugaming
 DURATION:PT2H
-DTSTART:20260211T160000Z
+DTSTART:20260211T161750Z
 SUMMARY:Imperial.A vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1356652@tournamentics
 END:VEVENT
