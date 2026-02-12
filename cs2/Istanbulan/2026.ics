@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nResult: HOTU: 2 | ROCEAN Lords: 0\nStream: https://www.twitch.tv/istanbulancs2
+DTEND:20260212T231236Z
 DTSTART:20260212T221433Z
 SUMMARY:Round 16 match 8: HOTU vs ROCEAN Lords
 UID:cs-go-istabulan-2026-1351039@tournamentics
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260213T153000Z
-SUMMARY:Quarterfinal 4: MANA vs TBD
+SUMMARY:Quarterfinal 4: MANA vs HOTU
 UID:cs-go-istabulan-2026-1351043@tournamentics
 END:VEVENT
 BEGIN:VEVENT
