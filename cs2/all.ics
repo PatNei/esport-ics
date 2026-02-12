@@ -4849,7 +4849,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260213T080000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: BW vs M8
 UID:cs-go-istabulan-2026-1351040@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6246,8 +6246,8 @@ SUMMARY:Round 1: AAB vs MSC
 UID:cs-go-a1-gaming-league-11-2026-1312625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2tr
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | G2 Ares: 0\nStream: https://www.twitch.tv/istanbulancs2tr
+DTEND:20260212T132543Z
 DTSTART:20260212T114037Z
 SUMMARY:Round 16 match 2: BW vs G2.A
 UID:cs-go-istabulan-2026-1350973@tournamentics
@@ -6911,8 +6911,8 @@ SUMMARY:Round 1: PHA vs HS
 UID:cs-go-a1-gaming-league-11-2026-1312624@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nResult: Gentle Mates: 2 | gothboiclique: 0\nStream: https://www.twitch.tv/istanbulancs2
+DTEND:20260212T133118Z
 DTSTART:20260212T113722Z
 SUMMARY:Round 16 match 1: M8 vs gothboiclique
 UID:cs-go-istabulan-2026-1350972@tournamentics
@@ -7032,7 +7032,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
 DURATION:PT2H
-DTSTART:20260212T123000Z
+DTSTART:20260212T133000Z
 SUMMARY:Elimination match: OXUJI vs BlinkDagger
 UID:cs-go-gluck-starpearl-1-2026-1358135@tournamentics
 END:VEVENT
@@ -7284,7 +7284,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_4
 DURATION:PT2H
-DTSTART:20260212T123000Z
+DTSTART:20260212T133000Z
 SUMMARY:Elimination match: SNZ.P vs RUST
 UID:cs-go-gluck-starpearl-1-2026-1358146@tournamentics
 END:VEVENT
@@ -7457,7 +7457,7 @@ SUMMARY:Round 16 match 5: BMB vs BL
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351388@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2
+DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://kick.com/istanbulancs2
 DURATION:PT2H
 DTSTART:20260212T130000Z
 SUMMARY:Round 16 match 3: MGC vs ex-GANK Esports
@@ -7648,7 +7648,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
-DTSTART:20260212T123000Z
+DTSTART:20260212T133000Z
 SUMMARY:Winners' match: ex-RUBY vs NEM
 UID:cs-go-gluck-starpearl-1-2026-1358134@tournamentics
 END:VEVENT
