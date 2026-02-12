@@ -455,6 +455,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Esea/AdvancedE
 </details>
 
 <details>
+<summary>ESL Challenger League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics
+```
+
+---
+
+### Europe Cup 1 season 50 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/EuropeCup1Season502026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/EuropeCup1Season502026.ics
+```
+
+</details>
+
+<details>
 <summary>European Pro League</summary>
 
 ### Full Schedule
