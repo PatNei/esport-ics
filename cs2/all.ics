@@ -3922,9 +3922,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-pgl-cluj-napoca-2026-1349989@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
-DTSTART:20260212T150000Z
+DTSTART:20260212T170112Z
 SUMMARY:Decider match: OXUJI vs ex-RUBY
 UID:cs-go-gluck-starpearl-1-2026-1358136@tournamentics
 END:VEVENT
@@ -5591,7 +5591,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260213T103000Z
-SUMMARY:Quarterfinal 2: MISA vs TBD
+SUMMARY:Quarterfinal 2: MISA vs MGC
 UID:cs-go-istabulan-2026-1351041@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8619,8 +8619,8 @@ SUMMARY:Round 2: G2.A vs  Phantom Academy
 UID:cs-go-exort-series-22-2026-1347810@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://kick.com/istanbulancs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nResult: magic: 2 | ex-GANK Esports: 0\nStream: https://kick.com/istanbulancs2
+DTEND:20260212T170342Z
 DTSTART:20260212T151009Z
 SUMMARY:Round 16 match 3: MGC vs ex-GANK Esports
 UID:cs-go-istabulan-2026-1350994@tournamentics
