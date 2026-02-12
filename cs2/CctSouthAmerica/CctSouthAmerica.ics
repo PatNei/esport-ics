@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260213T220000Z
+DTSTART:20260213T160000Z
 SUMMARY:Round of 16 match 8: ODK vs FDB
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343445@tournamentics
 END:VEVENT
@@ -119,6 +119,13 @@ DTEND:20260207T000544Z
 DTSTART:20260206T220721Z
 SUMMARY:Round 2: FDB vs 9z
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343528@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:❌ CANCELED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260212T130000Z
+SUMMARY:Round of 16 match 7: MIBR vs SHIN
+UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343444@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
@@ -228,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260213T160000Z
+DTSTART:20260213T220000Z
 SUMMARY:Round of 16 match 6: BHE vs 9z
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343443@tournamentics
 END:VEVENT
