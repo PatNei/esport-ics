@@ -19,13 +19,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260213T113000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: LAG vs TBD
 UID:cs-go-united21-44-2026-1352365@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260212T143000Z
+DTSTART:20260212T140000Z
 SUMMARY:Lower bracket quarterfinal 1: MISA vs ex-FUT Academy
 UID:cs-go-united21-44-2026-1352362@tournamentics
 END:VEVENT
@@ -177,11 +177,11 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-united21-44-2026-1352366@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260212T113000Z
-SUMMARY:Lower bracket quarterfinal 2: LAG vs AAB
-UID:cs-go-united21-44-2026-1352363@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | HEROIC Academy: 1\nStream: https://www.kick.com/united21_en
+DTEND:20260202T161711Z
+DTSTART:20260202T135426Z
+SUMMARY:Winners match: AAB vs HERO.A
+UID:cs-go-united21-44-2026-1339482@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Midnight: 0 | LAGUNA: 2\nStream: https://kick.com/united21_en
@@ -189,13 +189,6 @@ DTEND:20260210T130350Z
 DTSTART:20260210T114232Z
 SUMMARY:Lower bracket round 1 match 2: MID vs LAG
 UID:cs-go-united21-44-2026-1352359@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | HEROIC Academy: 1\nStream: https://www.kick.com/united21_en
-DTEND:20260202T161711Z
-DTSTART:20260202T135426Z
-SUMMARY:Winners match: AAB vs HERO.A
-UID:cs-go-united21-44-2026-1339482@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | BULGARIAPEEK: 1\nStream: https://kick.com/united21_en
