@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
 DURATION:PT2H
 DTSTART:20260212T201500Z
-SUMMARY:Decider match: LHC vs TBD
+SUMMARY:Decider match: LHC vs hindsight
 UID:cs-go-jb-pro-league-female-1-2026-1354011@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Winners match: BIG.E vs LHC
 UID:cs-go-jb-pro-league-female-1-2026-1354009@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: confidence: 1 | hindsight: 2\nStream: No official stream linked
+DTEND:20260212T193023Z
 DTSTART:20260212T171510Z
 SUMMARY:Elimination match: CONF vs hindsight
 UID:cs-go-jb-pro-league-female-1-2026-1354010@tournamentics
