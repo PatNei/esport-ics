@@ -4,30 +4,9 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
-DTSTART:20260213T090000Z
-SUMMARY:FORZE.R vs WW
-UID:cs-go-gluck-starpearl-1-2026-1358139@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
 DTSTART:20260213T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: WW vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1358140@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | ex-RUBY: 1\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260212T193409Z
-DTSTART:20260212T170112Z
-SUMMARY:Decider match: OXUJI vs ex-RUBY
-UID:cs-go-gluck-starpearl-1-2026-1358136@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 1 | ex-RUBY: 2\nStream: https://www.twitch.tv/gluck_esports_2
-DTEND:20260212T123124Z
-DTSTART:20260212T095551Z
-SUMMARY:OXUJI vs ex-RUBY
-UID:cs-go-gluck-starpearl-1-2026-1358133@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
@@ -44,6 +23,27 @@ SUMMARY:NTR vs B52
 UID:cs-go-gluck-starpearl-1-2026-1358148@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | ex-RUBY: 1\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260212T193409Z
+DTSTART:20260212T170112Z
+SUMMARY:Decider match: OXUJI vs ex-RUBY
+UID:cs-go-gluck-starpearl-1-2026-1358136@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: ex-RUBY: 1 | Team Nemesis: 2\nStream: https://www.twitch.tv/gluck_esports_3
+DTEND:20260212T162017Z
+DTSTART:20260212T134619Z
+SUMMARY:Winners' match: ex-RUBY vs NEM
+UID:cs-go-gluck-starpearl-1-2026-1358134@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 1 | ex-RUBY: 2\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260212T123124Z
+DTSTART:20260212T095551Z
+SUMMARY:OXUJI vs ex-RUBY
+UID:cs-go-gluck-starpearl-1-2026-1358133@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260213T150000Z
@@ -56,20 +56,6 @@ DURATION:PT2H
 DTSTART:20260213T090000Z
 SUMMARY:K27 vs DRGN TEAM
 UID:cs-go-gluck-starpearl-1-2026-1358138@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | BlinkDagger: 0\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260212T152213Z
-DTSTART:20260212T140236Z
-SUMMARY:Elimination match: OXUJI vs BlinkDagger
-UID:cs-go-gluck-starpearl-1-2026-1358135@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | BlinkDagger: 1\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260212T130640Z
-DTSTART:20260212T094602Z
-SUMMARY:NEM vs BlinkDagger
-UID:cs-go-gluck-starpearl-1-2026-1358132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
@@ -86,6 +72,20 @@ SUMMARY:Decider match: 33 vs RUST
 UID:cs-go-gluck-starpearl-1-2026-1358147@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | BlinkDagger: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260212T152213Z
+DTSTART:20260212T140236Z
+SUMMARY:Elimination match: OXUJI vs BlinkDagger
+UID:cs-go-gluck-starpearl-1-2026-1358135@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | BlinkDagger: 1\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260212T130640Z
+DTSTART:20260212T094602Z
+SUMMARY:NEM vs BlinkDagger
+UID:cs-go-gluck-starpearl-1-2026-1358132@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: 33: 2 | RUSTEC: 0\nStream: https://www.twitch.tv/gluck_esports_4
 DTEND:20260212T125002Z
 DTSTART:20260212T091503Z
@@ -96,15 +96,8 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260213T120000Z
-SUMMARY:Winners' match: TBD vs TBD
+SUMMARY:Winners' match: FORZE.R vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1358141@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: ex-RUBY: 1 | Team Nemesis: 2\nStream: https://www.twitch.tv/gluck_esports_3
-DTEND:20260212T162017Z
-DTSTART:20260212T134619Z
-SUMMARY:Winners' match: ex-RUBY vs NEM
-UID:cs-go-gluck-starpearl-1-2026-1358134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
