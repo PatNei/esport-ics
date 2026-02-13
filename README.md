@@ -651,6 +651,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/JbProLeague/Fe
 </details>
 
 <details>
+<summary>NA Revival Series</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NaRevivalSeries/NaRevivalSeries.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NaRevivalSeries/NaRevivalSeries.ics
+```
+
+---
+
+### Season 12 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NaRevivalSeries/Season122026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NaRevivalSeries/Season122026.ics
+```
+
+</details>
+
+<details>
 <summary>NODWIN Clutch Series</summary>
 
 ### Full Schedule
