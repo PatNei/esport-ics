@@ -721,27 +721,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSe
 </details>
 
 <details>
-<summary>RES Showdown</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/ResShowdown.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/ResShowdown.ics
-```
-
----
-
-### East European Open Qualifier Spring 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/EastEuropeanOpenQualifierSpring2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/EastEuropeanOpenQualifierSpring2026.ics
-```
-
-</details>
-
-<details>
 <summary>Roman Imperium Cup</summary>
 
 ### Full Schedule
