@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260214T113000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: M8 vs TBD
 UID:cs-go-istabulan-2026-1351044@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +79,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-istabulan-2026-1351055@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 0 | Gentle Mates: 2\nStream: No official stream linked
+DTEND:20260213T124234Z
 DTSTART:20260213T105347Z
 SUMMARY:Quarterfinal 1: BW vs M8
 UID:cs-go-istabulan-2026-1351040@tournamentics
