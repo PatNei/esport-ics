@@ -800,13 +800,6 @@ SUMMARY: CSDIILIT vs WOPA
 UID:cs-go-esea-advanced-europe-56-2026-1319919@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
-DTSTART:20260213T120000Z
-SUMMARY:Elimination match: WW vs DRGN TEAM
-UID:cs-go-gluck-starpearl-1-2026-1358140@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: SIUUUUUU: 1 | AKA HERO KAJO: 0\nStream: https://www.twitch.tv/titaanitv
 DTEND:20260209T193127Z
 DTSTART:20260209T190915Z
@@ -1759,9 +1752,9 @@ SUMMARY:Upper bracket quarterfinal 2: SportsBetExpert vs BOSS
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344440@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: 33: 2 | RUSTEC: 0\nStream: https://www.twitch.tv/gluck_esports_2
-DTEND:20260212T173129Z
-DTSTART:20260212T173104Z
+DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_4
+DURATION:PT2H
+DTSTART:20260213T111801Z
 SUMMARY:Decider match: 33 vs RUST
 UID:cs-go-gluck-starpearl-1-2026-1358147@tournamentics
 END:VEVENT
@@ -3138,7 +3131,7 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1359588@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2
 DURATION:PT2H
 DTSTART:20260213T140000Z
 SUMMARY:Quarterfinal 3: 9INE vs JJH
@@ -4909,10 +4902,10 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-pgl-cluj-napoca-2026-1349995@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
 DURATION:PT2H
-DTSTART:20260213T150000Z
-SUMMARY:Decider match: TBD vs TBD
+DTSTART:20260213T112500Z
+SUMMARY:Decider match: DRGN TEAM vs FORZE.R
 UID:cs-go-gluck-starpearl-1-2026-1358142@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7268,7 +7261,7 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ar3nagg
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lentbb
 DURATION:PT2H
 DTSTART:20260213T111500Z
 SUMMARY:Winners match: MNTE vs ILWL
@@ -7476,13 +7469,6 @@ DTEND:20260206T191905Z
 DTSTART:20260206T171035Z
 SUMMARY:Quarterfinal 2: GG vs 9z
 UID:cs-go-ace-south-american-masters-spring-2026-1348600@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
-DURATION:PT2H
-DTSTART:20260213T120000Z
-SUMMARY:Winners' match: FORZE.R vs K27
-UID:cs-go-gluck-starpearl-1-2026-1358141@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nResult: mouse: 0 | regain: 2\nStream: https://kick.com/cct_cs4
@@ -7753,8 +7739,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
-DTSTART:20260213T120000Z
-SUMMARY:Elimination match: C_S vs B52
+DTSTART:20260213T113000Z
+SUMMARY:Elimination match: B52 vs C_S
 UID:cs-go-gluck-starpearl-1-2026-1358151@tournamentics
 END:VEVENT
 BEGIN:VEVENT
