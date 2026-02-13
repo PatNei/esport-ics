@@ -887,7 +887,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 50 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260215T180000Z
-SUMMARY:Lower bracket round 1 match 9: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 9: AIRLYA vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359049@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1290,11 +1290,11 @@ SUMMARY:Decider match: NXS vs BW
 UID:cs-go-cct-europe-closed-qualifier-series-15-3-2026-1341930@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 50 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260213T180000Z
-SUMMARY:Upper bracket round 1 match 9: AIRLYA vs NXS
-UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358797@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: Leo Team: 0 | WHITEBIRD: 2\nStream: https://kick.com/cct_cs
+DTEND:20260212T165141Z
+DTSTART:20260212T151437Z
+SUMMARY:Round 3: Leo vs WB
+UID:cs-go-cct-europe-series-15-3-2026-1343384@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: MANA eSports: 0 | STATE: 1\nStream: No official stream linked
@@ -1302,13 +1302,6 @@ DTEND:20260121T200437Z
 DTSTART:20260121T191315Z
 SUMMARY:MANA vs STA
 UID:cs-go-esea-advanced-europe-56-2026-1328937@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: Leo Team: 0 | WHITEBIRD: 2\nStream: https://kick.com/cct_cs
-DTEND:20260212T165141Z
-DTSTART:20260212T151437Z
-SUMMARY:Round 3: Leo vs WB
-UID:cs-go-cct-europe-series-15-3-2026-1343384@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
@@ -3309,7 +3302,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 50 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260214T140000Z
-SUMMARY:Upper bracket round 2 match 6: G1 vs TBD
+SUMMARY:Upper bracket round 2 match 6: G1 vs VP.P
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358890@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4527,7 +4520,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 50 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260214T140000Z
-SUMMARY:Lower bracket round 1 match 6: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 6: NEM vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359030@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4989,7 +4982,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 50 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260214T180000Z
-SUMMARY:Upper bracket round 2 match 9: NTR vs TBD
+SUMMARY:Upper bracket round 2 match 9: NTR vs NXS
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358893@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8533,13 +8526,6 @@ DTEND:20260131T214626Z
 DTSTART:20260131T182802Z
 SUMMARY:Elimination match: VP vs WW
 UID:cs-go-exort-cataclysm-1-2025-1338676@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 50 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260213T140000Z
-SUMMARY:Upper bracket round 1 match 6: NEM vs VP.P
-UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358794@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: Phantom: 1 | VP.Prodigy: 2\nStream: https://kick.com/cct_cs
