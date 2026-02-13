@@ -655,7 +655,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2
 DURATION:PT2H
-DTSTART:20260213T163000Z
+DTSTART:20260213T173000Z
 SUMMARY:Quarterfinal 4: MANA vs HOTU
 UID:cs-go-istabulan-2026-1351043@tournamentics
 END:VEVENT
@@ -1045,8 +1045,8 @@ SUMMARY:Round 4: PCY vs BST.A
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: WHITEBIRD: 0 | Nuclear TigeRES: 2\nStream: https://www.twitch.tv/gluck_esports_3
+DTEND:20260213T130910Z
 DTSTART:20260213T114510Z
 SUMMARY:Winners' match: WB vs NTR
 UID:cs-go-gluck-starpearl-1-2026-1358150@tournamentics
@@ -2182,7 +2182,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
 DURATION:PT2H
 DTSTART:20260213T140000Z
-SUMMARY:Decider match: ENCE vs TBD
+SUMMARY:Decider match: ENCE vs ILWL
 UID:cs-go-copenhagen-gaming-week-showdown-2026-1353885@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3133,7 +3133,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2
 DURATION:PT2H
-DTSTART:20260213T140000Z
+DTSTART:20260213T153000Z
 SUMMARY:Quarterfinal 3: 9INE vs JJH
 UID:cs-go-istabulan-2026-1351042@tournamentics
 END:VEVENT
@@ -4895,8 +4895,8 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-pgl-cluj-napoca-2026-1349995@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: DRGN TEAM: 2 | FORZE Reload: 0\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260213T131229Z
 DTSTART:20260213T113259Z
 SUMMARY:Decider match: DRGN TEAM vs FORZE.R
 UID:cs-go-gluck-starpearl-1-2026-1358142@tournamentics
@@ -5269,7 +5269,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260213T150000Z
-SUMMARY:Decider match: B52 vs TBD
+SUMMARY:Decider match: B52 vs WB
 UID:cs-go-gluck-starpearl-1-2026-1358152@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5639,7 +5639,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260213T130000Z
+DTSTART:20260213T132000Z
 SUMMARY:Quarterfinal 2: MISA vs MGC
 UID:cs-go-istabulan-2026-1351041@tournamentics
 END:VEVENT
@@ -7247,8 +7247,8 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lentbb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nResult: Monte: 2 | illwill: 0\nStream: https://www.twitch.tv/lentbb
+DTEND:20260213T131543Z
 DTSTART:20260213T112600Z
 SUMMARY:Winners match: MNTE vs ILWL
 UID:cs-go-copenhagen-gaming-week-showdown-2026-1353883@tournamentics
@@ -8647,9 +8647,9 @@ SUMMARY:Lower bracket round 2 match 7: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359113@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260213T130000Z
+DTSTART:20260213T131431Z
 SUMMARY:Round of 16 match 1: FX vs GH
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343438@tournamentics
 END:VEVENT

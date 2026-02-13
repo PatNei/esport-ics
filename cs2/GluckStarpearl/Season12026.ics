@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260213T150000Z
-SUMMARY:Decider match: B52 vs TBD
+SUMMARY:Decider match: B52 vs WB
 UID:cs-go-gluck-starpearl-1-2026-1358152@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -65,8 +65,8 @@ SUMMARY:NTR vs B52
 UID:cs-go-gluck-starpearl-1-2026-1358148@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: DRGN TEAM: 2 | FORZE Reload: 0\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260213T131229Z
 DTSTART:20260213T113259Z
 SUMMARY:Decider match: DRGN TEAM vs FORZE.R
 UID:cs-go-gluck-starpearl-1-2026-1358142@tournamentics
@@ -191,8 +191,8 @@ SUMMARY:WB vs C_S
 UID:cs-go-gluck-starpearl-1-2026-1358149@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: WHITEBIRD: 0 | Nuclear TigeRES: 2\nStream: https://www.twitch.tv/gluck_esports_3
+DTEND:20260213T130910Z
 DTSTART:20260213T114510Z
 SUMMARY:Winners' match: WB vs NTR
 UID:cs-go-gluck-starpearl-1-2026-1358150@tournamentics
