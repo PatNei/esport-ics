@@ -2707,7 +2707,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
 DURATION:PT2H
 DTSTART:20260215T170000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: PGE vs TBD
 UID:cs-go-jb-pro-league-female-1-2026-1354017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4863,7 +4863,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260218T113000Z
-SUMMARY:Decider match: home vs TBD
+SUMMARY:Decider match: home vs BMB
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353991@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5171,7 +5171,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
 DURATION:PT2H
 DTSTART:20260214T183000Z
-SUMMARY:Lower bracket final: LHC vs TBD
+SUMMARY:Lower bracket final: LHC vs BIG.E
 UID:cs-go-jb-pro-league-female-1-2026-1354016@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7359,13 +7359,6 @@ SUMMARY:Round 2: AM vs EF
 UID:cs-go-nodwin-clutch-series-4-2026-1313480@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🕒 POSTPONED\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260214T120000Z
-SUMMARY:Winners match: BMB vs TLR
-UID:cs-go-european-pro-league-series-5-play-in-2026-1353990@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 1 | ZOTIX: 0\nStream: https://www.twitch.tv/csdiilit_com
 DTEND:20260126T195050Z
 DTSTART:20260126T190917Z
@@ -7590,8 +7583,8 @@ SUMMARY:Round 2: 67 vs MZP
 UID:cs-go-cct-europe-series-14-3-2026-1326411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | BIG EQUIPA: 0\nStream: https://kick.com/jbproleague
+DTEND:20260214T164508Z
 DTSTART:20260214T150912Z
 SUMMARY:Upper bracket final: PGE vs BIG.E
 UID:cs-go-jb-pro-league-female-1-2026-1354015@tournamentics
@@ -8052,13 +8045,6 @@ SUMMARY:Round 3: XI vs Vendetta Gaming
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1356457@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260214T163000Z
-SUMMARY:Round 2: G2.A vs BNS
-UID:cs-go-exort-series-22-2026-1359519@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: FUT Esports: 1 | Astralis: 2\nStream: https://www.twitch.tv/eslcsb
 DTEND:20260202T211124Z
 DTSTART:20260202T183255Z
@@ -8094,9 +8080,9 @@ SUMMARY:Upper bracket round 1 match 2: ENCE vs CS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
 DURATION:PT2H
-DTSTART:20260214T170000Z
+DTSTART:20260214T165000Z
 SUMMARY:Round 1: MGLZ vs paiN
 UID:cs-go-pgl-cluj-napoca-2026-1349967@tournamentics
 END:VEVENT
