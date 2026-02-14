@@ -1755,7 +1755,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260215T150000Z
-SUMMARY:Semifinal 1: RED vs TBD
+SUMMARY:Semifinal 1: RED vs LDP
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343450@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3376,8 +3376,8 @@ SUMMARY:Upper bracket semifinal 1: PSSN.UA vs SportsBetExpert
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344443@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Imperial Academy: 0 | Stinky Rats: 2\nStream: https://kick.com/exort_en2
+DTEND:20260214T205547Z
 DTSTART:20260214T194234Z
 SUMMARY:Round 2: Imperial.A vs Stinky Rats
 UID:cs-go-exort-series-22-2026-1359520@tournamentics
@@ -4748,8 +4748,8 @@ SUMMARY:Round 1: ACE vs ECF
 UID:cs-go-cct-europe-series-15-3-2026-1343366@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Game Hunters: 0 | largadosypelados: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260214T205823Z
 DTSTART:20260214T190448Z
 SUMMARY:Quarterfinal 1: GH vs LDP
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343446@tournamentics
