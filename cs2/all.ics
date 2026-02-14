@@ -397,7 +397,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260214T120000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: NEM vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1359579@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1164,8 +1164,8 @@ SUMMARY:Round 2: Stinky Rats vs BNS
 UID:cs-go-exort-series-22-2026-1347260@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | 33: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260214T105118Z
 DTSTART:20260214T091146Z
 SUMMARY:Upper bracket quarterfinal 1: NEM vs 33
 UID:cs-go-gluck-starpearl-1-2026-1359575@tournamentics
@@ -3236,8 +3236,8 @@ SUMMARY:Round 2: NEMI vs ILWL
 UID:cs-go-nodwin-clutch-series-4-2026-1313479@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nResult: MASONIC: 0 | home: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260214T105539Z
 DTSTART:20260214T092212Z
 SUMMARY:Elimination match: MSC vs home
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353989@tournamentics
@@ -4146,9 +4146,9 @@ SUMMARY:Round 3: PRE vs SERA
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1356455@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260214T103000Z
+DTSTART:20260214T105222Z
 SUMMARY:Round 2: CYBERSHOKE Prospects vs WAVE
 UID:cs-go-exort-series-22-2026-1359517@tournamentics
 END:VEVENT
@@ -4996,7 +4996,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260218T113000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: home vs TBD
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353991@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6508,7 +6508,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260214T120000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: 33 vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1359583@tournamentics
 END:VEVENT
 BEGIN:VEVENT
