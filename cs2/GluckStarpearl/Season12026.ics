@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
 DURATION:PT2H
 DTSTART:20260214T120000Z
-SUMMARY:Upper bracket semifinal 2: 1WIN vs TBD
+SUMMARY:Upper bracket semifinal 2: 1WIN vs K27
 UID:cs-go-gluck-starpearl-1-2026-1359580@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1359582@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: K27: 2 | WHITEBIRD: 1\nStream: https://www.twitch.tv/gluck_esports_4
+DTEND:20260214T124326Z
 DTSTART:20260214T090607Z
 SUMMARY:Upper bracket quarterfinal 4: K27 vs WB
 UID:cs-go-gluck-starpearl-1-2026-1359578@tournamentics
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_4
 DURATION:PT2H
 DTSTART:20260214T120000Z
-SUMMARY:Lower bracket round 1 match 2: OXUJI vs TBD
+SUMMARY:Lower bracket round 1 match 2: OXUJI vs WB
 UID:cs-go-gluck-starpearl-1-2026-1359584@tournamentics
 END:VEVENT
 BEGIN:VEVENT
