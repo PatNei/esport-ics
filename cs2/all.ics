@@ -284,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260215T120000Z
+DTSTART:20260215T121000Z
 SUMMARY:WB vs MSC
 UID:cs-go-nodwin-clutch-series-5-2026-1355220@tournamentics
 END:VEVENT
@@ -744,18 +744,18 @@ SUMMARY:PGE vs hindsight
 UID:cs-go-esea-advanced-europe-56-2026-1349943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: G2: 0 | MOUZ: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260206T203040Z
-DTSTART:20260206T180710Z
-SUMMARY:Quarterfinal 2: G2 vs MOUZ
-UID:cs-go-iem-krakow-2026-1331902@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Stinky Rats: 1 | Square Sausages: 0\nStream: No official stream linked
 DTEND:20260208T154014Z
 DTSTART:20260208T151621Z
 SUMMARY:Stinky Rats vs SS
 UID:cs-go-esea-advanced-europe-56-2026-1317218@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: G2: 0 | MOUZ: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260206T203040Z
+DTSTART:20260206T180710Z
+SUMMARY:Quarterfinal 2: G2 vs MOUZ
+UID:cs-go-iem-krakow-2026-1331902@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 1 | Charrados FC: 0\nStream: No official stream linked
@@ -1150,18 +1150,18 @@ SUMMARY:Upper bracket quarterfinal 1: NEM vs 33
 UID:cs-go-gluck-starpearl-1-2026-1359575@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Vitality: 2 | Aurora Gaming: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260203T212843Z
-DTSTART:20260203T184035Z
-SUMMARY:Upper bracket final: VIT vs AUR
-UID:cs-go-iem-krakow-2026-1331899@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 0 | illwill: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260205T140307Z
 DTSTART:20260205T120325Z
 SUMMARY:Semifinal 1: NTR vs ILWL
 UID:cs-go-nodwin-clutch-series-4-2026-1313513@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Vitality: 2 | Aurora Gaming: 0\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260203T212843Z
+DTSTART:20260203T184035Z
+SUMMARY:Upper bracket final: VIT vs AUR
+UID:cs-go-iem-krakow-2026-1331899@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1295,6 +1295,13 @@ DTEND:20260121T200437Z
 DTSTART:20260121T191315Z
 SUMMARY:MANA vs STA
 UID:cs-go-esea-advanced-europe-56-2026-1328937@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260216T020000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
@@ -2844,18 +2851,18 @@ SUMMARY:Round 4: FDB vs Bad Luck
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: Fingers Crossed: 0 |  CSDIILIT: 2\nStream: https://www.twitch.tv/a1gamingleague
-DTEND:20260131T132918Z
-DTSTART:20260131T114313Z
-SUMMARY:Round 4: Fingers vs  CSDIILIT
-UID:cs-go-a1-gaming-league-11-2026-1313582@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | BASEMENT BOYS: 1\nStream: https://kick.com/nodwin_cs2
 DTEND:20260113T182635Z
 DTSTART:20260113T150424Z
 SUMMARY:Winners match: ARC vs BMB
 UID:cs-go-nodwin-clutch-series-4-2026-1314664@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: Fingers Crossed: 0 |  CSDIILIT: 2\nStream: https://www.twitch.tv/a1gamingleague
+DTEND:20260131T132918Z
+DTSTART:20260131T114313Z
+SUMMARY:Round 4: Fingers vs  CSDIILIT
+UID:cs-go-a1-gaming-league-11-2026-1313582@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 0 | Sinners: 2\nStream: https://www.twitch.tv/vanfantv
@@ -3187,18 +3194,18 @@ SUMMARY:Round 1: sketch vs ST
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1326181@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 0 | FURIA: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260206T163405Z
-DTSTART:20260206T144902Z
-SUMMARY:Quarterfinal 1: AUR vs FURIA
-UID:cs-go-iem-krakow-2026-1331901@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: hindsight: 0 | QUAZAR: 1\nStream: https://www.twitch.tv/goyarego
 DTEND:20260112T194244Z
 DTSTART:20260112T191058Z
 SUMMARY:hindsight vs QUA
 UID:cs-go-esea-advanced-europe-56-2026-1317217@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 0 | FURIA: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260206T163405Z
+DTSTART:20260206T144902Z
+SUMMARY:Quarterfinal 1: AUR vs FURIA
+UID:cs-go-iem-krakow-2026-1331901@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: MIBR Academy: 1 | Vexa: 0\nStream: No official stream linked
@@ -3285,11 +3292,11 @@ SUMMARY:BMB vs ENRAGE
 UID:cs-go-esea-advanced-europe-56-2026-1337981@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: G2: 1 | Spirit: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260203T185525Z
-DTSTART:20260203T153127Z
-SUMMARY:Upper bracket final: G2 vs TS
-UID:cs-go-iem-krakow-2026-1331888@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 1 | Betclic Apogee Esports: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260202T181416Z
+DTSTART:20260202T153008Z
+SUMMARY:Round of 16 match 3: ICE vs BCA
+UID:cs-go-nodwin-clutch-series-4-2026-1313502@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: GenOne: 2 | VP.Prodigy: 1\nStream: https://www.twitch.tv/virtuspro
@@ -3306,11 +3313,11 @@ SUMMARY:Lower bracket round 1 match 8: NXS vs LC
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359048@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 1 | Betclic Apogee Esports: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260202T181416Z
-DTSTART:20260202T153008Z
-SUMMARY:Round of 16 match 3: ICE vs BCA
-UID:cs-go-nodwin-clutch-series-4-2026-1313502@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: G2: 1 | Spirit: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260203T185525Z
+DTSTART:20260203T153127Z
+SUMMARY:Upper bracket final: G2 vs TS
+UID:cs-go-iem-krakow-2026-1331888@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: WATERMELON: 0 | MASONIC: 1\nStream: https://www.twitch.tv/gsancher
@@ -3696,6 +3703,13 @@ DTEND:20260127T194611Z
 DTSTART:20260127T191712Z
 SUMMARY:EP vs AHK
 UID:cs-go-esea-advanced-europe-56-2026-1328936@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260216T020000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362102@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Favbet: 0 | Fingers Crossed: 2\nStream: https://kick.com/nodwin_cs2
@@ -4102,6 +4116,13 @@ DTEND:20260214T163625Z
 DTSTART:20260214T144242Z
 SUMMARY:Round 1: FAL vs 3DMAX
 UID:cs-go-pgl-cluj-napoca-2026-1349965@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260215T230000Z
+SUMMARY:Quarterfinal 2: GLS vs PCY
+UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362099@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 0 | Leo Team: 2\nStream: https://kick.com/cct_cs
@@ -5819,18 +5840,18 @@ SUMMARY:PEEP vs OldBoys
 UID:cs-go-esea-advanced-europe-56-2026-1337980@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Astralis: 1 | FURIA: 2\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260203T182435Z
-DTSTART:20260203T153051Z
-SUMMARY:Lower bracket final: AST vs FURIA
-UID:cs-go-iem-krakow-2026-1331887@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: 9INE: 2 | MOUZ NXT: 1\nStream: https://kick.com/nodwin_cs2
 DTEND:20260202T151015Z
 DTSTART:20260202T120240Z
 SUMMARY:Round of 16 match 1: 9INE vs MOUZ.N
 UID:cs-go-nodwin-clutch-series-4-2026-1313501@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Astralis: 1 | FURIA: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260203T182435Z
+DTSTART:20260203T153051Z
+SUMMARY:Lower bracket final: AST vs FURIA
+UID:cs-go-iem-krakow-2026-1331887@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -6253,6 +6274,13 @@ SUMMARY:Round 2: PLS vs CRASH
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343462@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260215T230000Z
+SUMMARY:Quarterfinal 4: YAW vs FA
+UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362101@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: GenOne: 2 | AaB Esport: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260131T131342Z
 DTSTART:20260131T120213Z
@@ -6636,6 +6664,13 @@ DTEND:20260214T175346Z
 DTSTART:20260214T144327Z
 SUMMARY:Round 1: VIT vs G2
 UID:cs-go-pgl-cluj-napoca-2026-1349964@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260215T230000Z
+SUMMARY:Quarterfinal 1: LDP vs CRASH
+UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362098@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 2 | Ursa: 0\nStream: https://kick.com/cct_cs2
@@ -8491,6 +8526,13 @@ DTEND:20260121T194556Z
 DTSTART:20260121T191804Z
 SUMMARY:BRUTE vs ZOTIX
 UID:cs-go-esea-advanced-europe-56-2026-1328934@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260215T230000Z
+SUMMARY:Quarterfinal 3: BHE vs R2
+UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
