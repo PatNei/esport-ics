@@ -658,6 +658,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSe
 </details>
 
 <details>
+<summary>PGL</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Pgl/Pgl.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Pgl/Pgl.ics
+```
+
+---
+
+### Bucharest: European Open Qualifier #1 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Pgl/BucharestEuropeanOpenQualifier12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Pgl/BucharestEuropeanOpenQualifier12026.ics
+```
+
+</details>
+
+<details>
 <summary>Roman Imperium Cup</summary>
 
 ### Full Schedule
