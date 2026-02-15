@@ -613,6 +613,13 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/JbProLeague/Jb
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/JbProLeague/FemaleSeason12026.ics
 ```
 
+### Season 2 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/JbProLeague/Season22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/JbProLeague/Season22026.ics
+```
+
 </details>
 
 <details>

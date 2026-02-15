@@ -2,25 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: imodium: 1 |  Fingers Crossed Female: 2\nStream: https://www.twitch.tv/corvex666
-DTEND:20260212T192201Z
-DTSTART:20260212T171731Z
-SUMMARY:Elimination match: imodium vs  Fingers Crossed Female
-UID:cs-go-jb-pro-league-female-1-2026-1354005@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | Let Her Cook: 1\nStream: https://kick.com/jbproleague
 DTEND:20260215T192719Z
 DTSTART:20260215T170423Z
 SUMMARY:Grand final: PGE vs LHC
 UID:cs-go-jb-pro-league-female-1-2026-1354017@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | imodium: 0\nStream: https://kick.com/jbproleague
-DTEND:20260209T182339Z
-DTSTART:20260209T171543Z
-SUMMARY:PGE vs imodium
-UID:cs-go-jb-pro-league-female-1-2026-1354002@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Let Her Cook: 2 |  Fingers Crossed Female: 0\nStream: https://kick.com/jbproleague
@@ -49,6 +35,27 @@ DTEND:20260211T182413Z
 DTSTART:20260211T170530Z
 SUMMARY:Winners match: PGE vs Peekaboo
 UID:cs-go-jb-pro-league-female-1-2026-1354004@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260217T120000Z
+SUMMARY:Round 1: LC vs ENCE.A
+UID:cs-go-jb-pro-league-season-2-2026-1363239@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260217T150000Z
+SUMMARY:Round 1: Omega vs LK
+UID:cs-go-jb-pro-league-season-2-2026-1363240@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260216T150000Z
+SUMMARY:Round 1: ARC vs PRIME
+UID:cs-go-jb-pro-league-season-2-2026-1363236@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 1 | Let Her Cook: 2\nStream: https://kick.com/jbproleague
@@ -93,6 +100,20 @@ SUMMARY:Peekaboo vs  Fingers Crossed Female
 UID:cs-go-jb-pro-league-female-1-2026-1354003@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260217T090000Z
+SUMMARY:Round 1: ECF vs VP.P
+UID:cs-go-jb-pro-league-season-2-2026-1363238@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260216T120000Z
+SUMMARY:Round 1: ex-Zero Tenacity vs home
+UID:cs-go-jb-pro-league-season-2-2026-1363235@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | BIG EQUIPA: 0\nStream: https://kick.com/jbproleague
 DTEND:20260214T164508Z
 DTSTART:20260214T150912Z
@@ -112,5 +133,40 @@ DTEND:20260210T231255Z
 DTSTART:20260210T202802Z
 SUMMARY:LHC vs hindsight
 UID:cs-go-jb-pro-league-female-1-2026-1354008@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: imodium: 1 |  Fingers Crossed Female: 2\nStream: https://www.twitch.tv/corvex666
+DTEND:20260212T192201Z
+DTSTART:20260212T171731Z
+SUMMARY:Elimination match: imodium vs  Fingers Crossed Female
+UID:cs-go-jb-pro-league-female-1-2026-1354005@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | imodium: 0\nStream: https://kick.com/jbproleague
+DTEND:20260209T182339Z
+DTSTART:20260209T171543Z
+SUMMARY:PGE vs imodium
+UID:cs-go-jb-pro-league-female-1-2026-1354002@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260217T180000Z
+SUMMARY:Round 1: WW vs BW
+UID:cs-go-jb-pro-league-season-2-2026-1363241@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260216T180000Z
+SUMMARY:Round 1: DUNDU vs  CSDIILIT
+UID:cs-go-jb-pro-league-season-2-2026-1363237@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260216T090000Z
+SUMMARY:Round 1: OlyBet SB vs PGE
+UID:cs-go-jb-pro-league-season-2-2026-1363234@tournamentics
 END:VEVENT
 END:VCALENDAR
