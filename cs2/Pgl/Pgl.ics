@@ -123,8 +123,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260215T190000Z
-SUMMARY:Semifinal 2: AAB vs TBD
+DTSTART:20260215T193000Z
+SUMMARY:Semifinal 2: AAB vs TRI
 UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362072@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -135,7 +135,7 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-pgl-cluj-napoca-2026-1349995@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: https://kick.com/ismetsener
 DURATION:PT2H
 DTSTART:20260215T170436Z
 SUMMARY:Quarterfinal 2: YNG vs EF
@@ -401,8 +401,8 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-pgl-cluj-napoca-2026-1349996@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Tricked: 2 | mix52: 1\nStream: No official stream linked
+DTEND:20260215T192010Z
 DTSTART:20260215T163007Z
 SUMMARY:Quarterfinal 4: TRI vs mix52
 UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362070@tournamentics
