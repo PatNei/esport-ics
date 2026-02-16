@@ -219,6 +219,13 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerL
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/EuropeCup1Season512026.ics
 ```
 
+### South America Cup 1 season 51 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/SouthAmericaCup1Season512026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/SouthAmericaCup1Season512026.ics
+```
+
 </details>
 
 <details>
