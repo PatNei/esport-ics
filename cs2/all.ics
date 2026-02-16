@@ -3294,7 +3294,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/dust2us
 DURATION:PT2H
-DTSTART:20260216T020000Z
+DTSTART:20260216T022000Z
 SUMMARY:Round 5: CCE vs FV
 UID:cs-go-dust2-us-eagle-masters-6-2026-1362046@tournamentics
 END:VEVENT
@@ -5143,7 +5143,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260216T023000Z
-SUMMARY:Semifinal 2: FA vs TBD
+SUMMARY:Semifinal 2: FA vs BHE
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7282,8 +7282,8 @@ SUMMARY:Upper bracket round 3 match 2: TDK vs RBLS
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | R2 Esports Club: 1\nStream: No official stream linked
+DTEND:20260216T021010Z
 DTSTART:20260215T231504Z
 SUMMARY:Quarterfinal 3: BHE vs R2
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362100@tournamentics
