@@ -165,7 +165,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260217T090000Z
+DTSTART:20260217T120000Z
 SUMMARY:Decider match: VP.P vs  CSDIILIT
 UID:cs-go-nodwin-clutch-series-5-2026-1356110@tournamentics
 END:VEVENT
@@ -268,8 +268,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356216@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: MASONIC: 1 | Bushido Wildcats: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260216T231559Z
 DTSTART:20260216T190807Z
 SUMMARY:Elimination match: MSC vs BW
 UID:cs-go-nodwin-clutch-series-5-2026-1356132@tournamentics
@@ -431,8 +431,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260217T120000Z
-SUMMARY:Decider match: PRIME vs TBD
+DTSTART:20260217T090000Z
+SUMMARY:Decider match: PRIME vs BW
 UID:cs-go-nodwin-clutch-series-5-2026-1356134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
