@@ -51,13 +51,6 @@ SUMMARY:NEMI vs CS
 UID:cs-go-meta-cup-4-2026-1364630@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 1 | MINLATE: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260125T135546Z
-DTSTART:20260125T094603Z
-SUMMARY:Round 1: 1WIN vs MINLATE
-UID:cs-go-cct-europe-series-14-3-2026-1326380@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: FURIA: 1 | Vitality: 3\nStream: https://www.twitch.tv/ESLCS
 DTEND:20260208T201545Z
 DTSTART:20260208T160050Z
@@ -203,13 +196,6 @@ DURATION:PT2H
 DTSTART:20260220T150000Z
 SUMMARY:MUERTA TEAM vs SIU
 UID:cs-go-esea-advanced-europe-56-2026-1345074@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Fingers Crossed: 1 | magic: 2\nStream: https://kick.com/cct_cs
-DTEND:20260128T185636Z
-DTSTART:20260128T153538Z
-SUMMARY:Round 2: Fingers vs MGC
-UID:cs-go-cct-europe-series-14-3-2026-1326438@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: Mindfreak: 1 | Rooster: 2\nStream: https://www.twitch.tv/churchd0gg
@@ -387,13 +373,6 @@ SUMMARY:Round 1: G2.A vs B8 Academy
 UID:cs-go-exort-series-22-2026-1344649@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
-DTEND:20260126T214657Z
-DTSTART:20260126T183832Z
-SUMMARY:Round 1: JS vs ex-RUBY
-UID:cs-go-cct-europe-series-14-3-2026-1326390@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: TNT: 0 | Falcons Force: 1\nStream: No official stream linked
 DTEND:20260205T190436Z
 DTSTART:20260205T181410Z
@@ -471,18 +450,18 @@ SUMMARY:Round 4: PEEP vs SASHI.A
 UID:cs-go-exort-series-22-2026-1352785@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: japczany: 1 | WOPA Esport: 0\nStream: No official stream linked
-DTEND:20260215T160815Z
-DTSTART:20260215T153646Z
-SUMMARY:Round of 16 match 2: japczany vs WOPA
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362060@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260218T090000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351286@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: japczany: 1 | WOPA Esport: 0\nStream: No official stream linked
+DTEND:20260215T160815Z
+DTSTART:20260215T153646Z
+SUMMARY:Round of 16 match 2: japczany vs WOPA
+UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362060@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Team Nemesis: 0 | Nuclear TigeRES: 2\nStream: https://www.twitch.tv/gluck_esports
@@ -667,13 +646,6 @@ SUMMARY:Grand final: NRG vs PSSN.UA
 UID:cs-go-ace-masters-1-2026-1348598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: 9INE: 1 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
-DTEND:20260205T152510Z
-DTSTART:20260205T123959Z
-SUMMARY:Quarterfinal 2: 9INE vs ex-RUBY
-UID:cs-go-cct-europe-series-14-3-2026-1326505@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 2 | McTeam: 1\nStream: https://www.twitch.tv/churchd0gg
 DTEND:20260131T035750Z
 DTSTART:20260131T010633Z
@@ -751,13 +723,6 @@ SUMMARY:MID vs MISA
 UID:cs-go-united21-44-2026-1339560@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Tricked: 2 | mix52: 1\nStream: No official stream linked
-DTEND:20260215T192010Z
-DTSTART:20260215T163007Z
-SUMMARY:Quarterfinal 4: TRI vs mix52
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362070@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260220T150000Z
@@ -765,11 +730,11 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | Favbet: 2\nStream: https://kick.com/cct_cs
-DTEND:20260131T200339Z
-DTSTART:20260131T183450Z
-SUMMARY:Round 4: AM vs FAV
-UID:cs-go-cct-europe-series-14-3-2026-1326458@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Tricked: 2 | mix52: 1\nStream: No official stream linked
+DTEND:20260215T192010Z
+DTSTART:20260215T163007Z
+SUMMARY:Quarterfinal 4: TRI vs mix52
+UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362070@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 0 | FOLHA AMARELA: 1\nStream: No official stream linked
@@ -870,18 +835,18 @@ SUMMARY:VP.P vs NAVI.J
 UID:cs-go-united21-44-2026-1339675@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | WHITEBIRD: 0\nStream: https://www.twitch.tv/anishared
-DTEND:20260213T201531Z
-DTSTART:20260213T180651Z
-SUMMARY:Upper bracket round 1 match 16: UNiTY vs WB
-UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358858@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
 DURATION:PT2H
 DTSTART:20260220T150000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-jb-pro-league-season-2-2026-1364526@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | WHITEBIRD: 0\nStream: https://www.twitch.tv/anishared
+DTEND:20260213T201531Z
+DTSTART:20260213T180651Z
+SUMMARY:Upper bracket round 1 match 16: UNiTY vs WB
+UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358858@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
@@ -957,7 +922,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260217T180000Z
-SUMMARY:Lower bracket round 3 match 2: ENCE.A vs TBD
+SUMMARY:Lower bracket round 3 match 2: ENCE.A vs Omega
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359234@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1038,13 +1003,6 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351272@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | Ursa: 0\nStream: https://kick.com/cct_cs2
-DTEND:20260127T204504Z
-DTSTART:20260127T183507Z
-SUMMARY:Round 2: 1WIN vs URSA
-UID:cs-go-cct-europe-series-14-3-2026-1326434@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 2 | Underground ESC: 0\nStream: https://www.twitch.tv/flamboyantttt
 DTEND:20260207T023401Z
 DTSTART:20260207T010830Z
@@ -1113,13 +1071,6 @@ DTEND:20260210T195629Z
 DTSTART:20260210T191811Z
 SUMMARY:ZOTIX vs ENRAGE
 UID:cs-go-esea-advanced-europe-56-2026-1355274@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: ECSTATIC: 2 | Oramond: 0\nStream: https://kick.com/cct_cs2
-DTEND:20260203T145138Z
-DTSTART:20260203T125300Z
-SUMMARY:Round of 16 match 6: ECS vs ORM
-UID:cs-go-cct-europe-series-14-3-2026-1326468@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -1251,7 +1202,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260218T180000Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 4: MOUZ.N vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359244@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1267,13 +1218,6 @@ DTEND:20260213T130910Z
 DTSTART:20260213T114510Z
 SUMMARY:Winners' match: WB vs NTR
 UID:cs-go-gluck-starpearl-1-2026-1358150@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | los kogutos: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260127T152316Z
-DTSTART:20260127T130640Z
-SUMMARY:Round 2: JS vs LK
-UID:cs-go-cct-europe-series-14-3-2026-1326410@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1344,13 +1288,6 @@ DURATION:PT2H
 DTSTART:20260217T090000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351282@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 2 | SIXSEVEN: 0\nStream: https://kick.com/cct_cs2
-DTEND:20260129T144833Z
-DTSTART:20260129T123857Z
-SUMMARY:Round 3: FAV vs 67
-UID:cs-go-cct-europe-series-14-3-2026-1326444@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1689,13 +1626,6 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351292@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Oramond: 2 | magic: 0\nStream: https://kick.com/cct_cs2
-DTEND:20260130T202933Z
-DTSTART:20260130T184338Z
-SUMMARY:Round 3: ORM vs MGC
-UID:cs-go-cct-europe-series-14-3-2026-1326454@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260224T160000Z
@@ -1981,20 +1911,6 @@ DTEND:20260210T150956Z
 DTSTART:20260210T142806Z
 SUMMARY:BW vs MUERTA TEAM
 UID:cs-go-esea-advanced-europe-56-2026-1355270@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Fingers Crossed: 2 | Metizport: 1\nStream: https://kick.com/cct_cs
-DTEND:20260125T221113Z
-DTSTART:20260125T192535Z
-SUMMARY:Round 1: Fingers vs MZP
-UID:cs-go-cct-europe-series-14-3-2026-1326383@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | Johnny Speeds: 0\nStream: https://kick.com/cct_cs2
-DTEND:20260202T141832Z
-DTSTART:20260202T123543Z
-SUMMARY:Round 5: 1WIN vs JS
-UID:cs-go-cct-europe-series-14-3-2026-1326464@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: B8 Academy: 0 | megoshort: 1\nStream: No official stream linked
@@ -2319,18 +2235,18 @@ SUMMARY:Round 1: SASHI.A vs  Phantom Academy
 UID:cs-go-exort-series-22-2026-1344651@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 0 | Lilmix: 1\nStream: No official stream linked
-DTEND:20260215T161241Z
-DTSTART:20260215T153343Z
-SUMMARY:Round of 16 match 5: CS vs LILMIX
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362063@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260218T180000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351289@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 0 | Lilmix: 1\nStream: No official stream linked
+DTEND:20260215T161241Z
+DTSTART:20260215T153343Z
+SUMMARY:Round of 16 match 5: CS vs LILMIX
+UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362063@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
@@ -2476,7 +2392,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260217T130000Z
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: NAVI vs MGLZ
 UID:cs-go-pgl-cluj-napoca-2026-1349986@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2508,13 +2424,6 @@ SUMMARY:ALGO vs MINLATE
 UID:cs-go-esea-advanced-europe-56-2026-1330372@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: ENCE: 0 | ex-RUBY: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260204T140948Z
-DTSTART:20260204T124244Z
-SUMMARY:Round of 16 match 4: ENCE vs ex-RUBY
-UID:cs-go-cct-europe-series-14-3-2026-1326484@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Liquid: 1 | G2: 2\nStream: https://www.twitch.tv/ESLCS
 DTEND:20260129T211217Z
 DTSTART:20260129T180101Z
@@ -2541,13 +2450,6 @@ DTEND:20260127T183650Z
 DTSTART:20260127T180448Z
 SUMMARY:LFO YinYang vs PGE
 UID:cs-go-esea-advanced-europe-56-2026-1336665@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | ex-RUBY: 1\nStream: https://kick.com/cct_cs2
-DTEND:20260206T130456Z
-DTSTART:20260206T101034Z
-SUMMARY:Semifinal 1: BB vs ex-RUBY
-UID:cs-go-cct-europe-series-14-3-2026-1326508@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: The Gentlemans Kennel: 0 | McTeam: 2\nStream: https://www.twitch.tv/churchd0gg
@@ -2907,13 +2809,6 @@ SUMMARY:eLITenergy vs LC
 UID:cs-go-esea-advanced-europe-56-2026-1321131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Oramond: 2 | Leo Team: 0\nStream: https://kick.com/cct_cs2
-DTEND:20260128T211521Z
-DTSTART:20260128T191757Z
-SUMMARY:Round 2: ORM vs Leo
-UID:cs-go-cct-europe-series-14-3-2026-1326437@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 2 | Mindfreak: 0\nStream: https://www.twitch.tv/churchd0gg
 DTEND:20260207T052019Z
 DTSTART:20260207T034126Z
@@ -3101,13 +2996,6 @@ DTEND:20260202T120657Z
 DTSTART:20260202T103758Z
 SUMMARY:Round 1: Imperial.A vs PEEP
 UID:cs-go-exort-series-22-2026-1344648@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Sinners: 1 | magic: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260203T213619Z
-DTSTART:20260203T183555Z
-SUMMARY:Round of 16 match 8: SIN vs MGC
-UID:cs-go-cct-europe-series-14-3-2026-1326470@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Peekaboo: 0 | ReThink: 1\nStream: No official stream linked
@@ -3523,13 +3411,6 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351295@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | Leo Team: 0\nStream: https://kick.com/cct_cs
-DTEND:20260131T174025Z
-DTSTART:20260131T153625Z
-SUMMARY:Round 4: 1WIN vs Leo
-UID:cs-go-cct-europe-series-14-3-2026-1326457@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 1 | OldBoys: 0\nStream: https://www.twitch.tv/theeb1ye
 DTEND:20260211T175218Z
 DTSTART:20260211T171555Z
@@ -3845,20 +3726,6 @@ SUMMARY:Round 1: O49 vs TA
 UID:cs-go-dust2-us-eagle-masters-6-2026-1344141@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Oramond: 2 | FORZE Reload: 1\nStream: https://kick.com/cct_cs2
-DTEND:20260126T153310Z
-DTSTART:20260126T123840Z
-SUMMARY:Round 1: ORM vs FORZE.R
-UID:cs-go-cct-europe-series-14-3-2026-1326386@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 2 | 1WIN: 1\nStream: https://kick.com/cct_cs2
-DTEND:20260203T122545Z
-DTSTART:20260203T093504Z
-SUMMARY:Round of 16 match 7: EYE vs 1WIN
-UID:cs-go-cct-europe-series-14-3-2026-1326467@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260217T120000Z
@@ -4102,13 +3969,6 @@ DTEND:20260203T043437Z
 DTSTART:20260203T034131Z
 SUMMARY:Round 1: SportsBetExpert vs CCE
 UID:cs-go-dust2-us-eagle-masters-6-2026-1345980@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Metizport: 1 | FORZE Reload: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260129T121746Z
-DTSTART:20260129T093457Z
-SUMMARY:Round 3: MZP vs FORZE.R
-UID:cs-go-cct-europe-series-14-3-2026-1326443@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -4363,13 +4223,6 @@ SUMMARY:Round 1: SE vs FarmVille
 UID:cs-go-dust2-us-eagle-masters-6-2026-1348400@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: KOLESIE: 0 | BetBoom Team: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260205T111829Z
-DTSTART:20260205T093852Z
-SUMMARY:Quarterfinal 1: KOL vs BB
-UID:cs-go-cct-europe-series-14-3-2026-1326500@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 1 | AKA HERO KAJO: 0\nStream: https://www.twitch.tv/siljeeeh
 DTEND:20260204T193759Z
 DTSTART:20260204T191923Z
@@ -4440,13 +4293,6 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | MINLATE: 1\nStream: https://kick.com/cct_cs
-DTEND:20260130T180612Z
-DTSTART:20260130T153526Z
-SUMMARY:Round 3: KOL vs MINLATE
-UID:cs-go-cct-europe-series-14-3-2026-1326453@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 1 | FUT Academy: 0\nStream: https://www.twitch.tv/26kapy
 DTEND:20260211T155708Z
 DTSTART:20260211T151706Z
@@ -4492,7 +4338,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260217T160000Z
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: G2 vs HERO
 UID:cs-go-pgl-cluj-napoca-2026-1349989@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4671,13 +4517,6 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | magic: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260206T210417Z
-DTSTART:20260206T175221Z
-SUMMARY:Grand final: BB vs MGC
-UID:cs-go-cct-europe-series-14-3-2026-1326510@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
 DURATION:PT2H
 DTSTART:20260219T160000Z
@@ -4746,20 +4585,6 @@ DTEND:20260216T005120Z
 DTSTART:20260215T231152Z
 SUMMARY:Quarterfinal 2: GLS vs PCY
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362099@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 0 | Leo Team: 2\nStream: https://kick.com/cct_cs
-DTEND:20260125T190052Z
-DTSTART:20260125T170852Z
-SUMMARY:Round 1: FAV vs Leo
-UID:cs-go-cct-europe-series-14-3-2026-1326382@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Fingers Crossed: 1 | los kogutos: 2\nStream: https://kick.com/cct_cs
-DTEND:20260201T211755Z
-DTSTART:20260201T183237Z
-SUMMARY:Round 4: Fingers vs LK
-UID:cs-go-cct-europe-series-14-3-2026-1326463@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: SUNFALL: 0 | ENRAGE: 1\nStream: No official stream linked
@@ -5126,18 +4951,18 @@ SUMMARY:Round 4: FOKUS vs JUMBO
 UID:cs-go-exort-series-22-2026-1352787@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: OG: 0 | Eternal Fire: 1\nStream: No official stream linked
-DTEND:20260215T162953Z
-DTSTART:20260215T151157Z
-SUMMARY:Round of 16 match 4: OG vs EF
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362062@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260218T150000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351288@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: OG: 0 | Eternal Fire: 1\nStream: No official stream linked
+DTEND:20260215T162953Z
+DTSTART:20260215T151157Z
+SUMMARY:Round of 16 match 4: OG vs EF
+UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362062@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
@@ -5276,7 +5101,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260217T100000Z
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: FaZe vs AST
 UID:cs-go-pgl-cluj-napoca-2026-1349985@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5299,13 +5124,6 @@ DTEND:20260122T170923Z
 DTSTART:20260122T164154Z
 SUMMARY:FS vs Imperial.A
 UID:cs-go-esea-advanced-europe-56-2026-1330371@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | KOLESIE: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260204T121901Z
-DTSTART:20260204T094613Z
-SUMMARY:Round of 16 match 2: NTR vs KOL
-UID:cs-go-cct-europe-series-14-3-2026-1326483@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 1 | PARIVISION: 2\nStream: https://www.twitch.tv/ESLCS
@@ -5362,13 +5180,6 @@ DTEND:20260127T174317Z
 DTSTART:20260127T171102Z
 SUMMARY:ex-GANK Esports vs megoshort
 UID:cs-go-esea-advanced-europe-56-2026-1336664@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 0 | magic: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260205T170036Z
-DTSTART:20260205T154437Z
-SUMMARY:Quarterfinal 4: EYE vs MGC
-UID:cs-go-cct-europe-series-14-3-2026-1326507@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
@@ -5742,13 +5553,6 @@ SUMMARY:Round 1: FLY.R vs WC
 UID:cs-go-dust2-us-eagle-masters-6-2026-1344110@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | MINLATE: 2\nStream: https://kick.com/cct_cs
-DTEND:20260128T135728Z
-DTSTART:20260128T123718Z
-SUMMARY:Round 2: AM vs MINLATE
-UID:cs-go-cct-europe-series-14-3-2026-1326436@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: Underground ESC: 1 | Rooster: 2\nStream: https://www.twitch.tv/darmo__
 DTEND:20260207T062643Z
 DTSTART:20260207T034124Z
@@ -5854,13 +5658,6 @@ SUMMARY:EP vs SUNFALL
 UID:cs-go-esea-advanced-europe-56-2026-1355276@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | los kogutos: 0\nStream: https://kick.com/cct_cs
-DTEND:20260126T181343Z
-DTSTART:20260126T154839Z
-SUMMARY:Round 1: KOL vs LK
-UID:cs-go-cct-europe-series-14-3-2026-1326389@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260218T090000Z
@@ -5952,6 +5749,13 @@ SUMMARY:Round 2: Leo vs ALGO
 UID:cs-go-cct-europe-series-15-3-2026-1343376@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
+DURATION:PT2H
+DTSTART:20260221T180000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-jb-pro-league-season-2-2026-1364538@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 0 | kONO.ECF: 2\nStream: https://www.twitch.tv/vanfantv
 DTEND:20260213T154746Z
 DTSTART:20260213T140733Z
@@ -5964,13 +5768,6 @@ DTEND:20260121T175303Z
 DTSTART:20260121T172519Z
 SUMMARY:eLITenergy vs JUMBO
 UID:cs-go-esea-advanced-europe-56-2026-1328929@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260221T180000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-jb-pro-league-season-2-2026-1364538@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | BESTIA Academy: 1\nStream: https://kick.com/cct_cs3
@@ -6113,13 +5910,6 @@ SUMMARY:Round 1: OverKnight vs F5
 UID:cs-go-dust2-us-eagle-masters-6-2026-1344201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 1 | Fingers Crossed: 2\nStream: https://kick.com/cct_cs
-DTEND:20260129T214257Z
-DTSTART:20260129T190423Z
-SUMMARY:Round 3: 1WIN vs Fingers
-UID:cs-go-cct-europe-series-14-3-2026-1326446@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: FOKUS: 0 | PCIFIC: 2\nStream: https://kick.com/exort_en
 DTEND:20260205T182719Z
 DTSTART:20260205T163000Z
@@ -6211,8 +6001,8 @@ SUMMARY:TBD vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356158@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nResult: FOLHA AMARELA: 1 | Vexa: 0\nStream: No official stream linked
+DTEND:20260216T210527Z
 DTSTART:20260216T201926Z
 SUMMARY:FA vs VEXA
 UID:cs-go-gamers-club-liga-serie-a-february-2026-1360802@tournamentics
@@ -6419,13 +6209,6 @@ DURATION:PT2H
 DTSTART:20260220T090000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351294@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 2 | Metizport: 0\nStream: https://kick.com/cct_cs2
-DTEND:20260131T143052Z
-DTSTART:20260131T123549Z
-SUMMARY:Round 4: JS vs MZP
-UID:cs-go-cct-europe-series-14-3-2026-1326456@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: eLITenergy: 0 | WATERMELON: 1\nStream: No official stream linked
@@ -6783,13 +6566,6 @@ DTEND:20260210T180652Z
 DTSTART:20260210T171718Z
 SUMMARY:Stinky Rats vs EP
 UID:cs-go-esea-advanced-europe-56-2026-1355272@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: MINLATE: 0 | FORZE Reload: 2\nStream: https://kick.com/cct_cs
-DTEND:20260202T204431Z
-DTSTART:20260202T184335Z
-SUMMARY:Round 5: MINLATE vs FORZE.R
-UID:cs-go-cct-europe-series-14-3-2026-1326466@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nResult: FlyQuest RED: 0 | Reign Above: 2\nStream: https://www.twitch.tv/floofys
@@ -7345,13 +7121,6 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351290@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | los kogutos: 2\nStream: https://kick.com/cct_cs
-DTEND:20260130T140858Z
-DTSTART:20260130T123653Z
-SUMMARY:Round 3: AM vs LK
-UID:cs-go-cct-europe-series-14-3-2026-1326452@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260226T190000Z
@@ -7397,7 +7166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260217T160000Z
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: FURIA vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1349988@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7658,20 +7427,6 @@ DTEND:20260216T004743Z
 DTSTART:20260215T231154Z
 SUMMARY:Quarterfinal 1: LDP vs CRASH
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362098@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 2 | Ursa: 0\nStream: https://kick.com/cct_cs2
-DTEND:20260125T165051Z
-DTSTART:20260125T144733Z
-SUMMARY:Round 1: AM vs URSA
-UID:cs-go-cct-europe-series-14-3-2026-1326381@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | FORZE Reload: 0\nStream: https://kick.com/cct_cs
-DTEND:20260201T175001Z
-DTSTART:20260201T154252Z
-SUMMARY:Round 4: ex-RUBY vs FORZE.R
-UID:cs-go-cct-europe-series-14-3-2026-1326462@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: QWENTRY: 0 | Washington: 1\nStream: No official stream linked
@@ -7961,13 +7716,6 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351300@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 1 | FORZE Reload: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260127T124703Z
-DTSTART:20260127T093448Z
-SUMMARY:Round 2: FAV vs FORZE.R
-UID:cs-go-cct-europe-series-14-3-2026-1326391@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Peekaboo: 0 | XI Esport: 1\nStream: No official stream linked
 DTEND:20260203T193016Z
 DTSTART:20260203T185638Z
@@ -8188,7 +7936,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260217T100000Z
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: MOUZ vs FUT
 UID:cs-go-pgl-cluj-napoca-2026-1349984@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8255,13 +8003,6 @@ SUMMARY:LFO YinYang vs MSC
 UID:cs-go-esea-advanced-europe-56-2026-1336663@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: ECSTATIC: 0 | Favbet: 2\nStream: https://kick.com/cct_cs
-DTEND:20260205T201617Z
-DTSTART:20260205T183507Z
-SUMMARY:Quarterfinal 3: ECS vs FAV
-UID:cs-go-cct-europe-series-14-3-2026-1326506@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
 DURATION:PT2H
 DTSTART:20260217T150000Z
@@ -8325,13 +8066,6 @@ SUMMARY:BGPEEK vs SNG
 UID:cs-go-united21-44-2026-1339561@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | Eternal Fire: 0\nStream: https://kick.com/ismetsener
-DTEND:20260215T220940Z
-DTSTART:20260215T201825Z
-SUMMARY:Semifinal 1: ICE vs EF
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362071@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260220T180000Z
@@ -8339,11 +8073,11 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351297@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: magic: 2 | MINLATE: 0\nStream: https://kick.com/cct_cs
-DTEND:20260201T140805Z
-DTSTART:20260201T123319Z
-SUMMARY:Round 4: MGC vs MINLATE
-UID:cs-go-cct-europe-series-14-3-2026-1326459@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | Eternal Fire: 0\nStream: https://kick.com/ismetsener
+DTEND:20260215T220940Z
+DTSTART:20260215T201825Z
+SUMMARY:Semifinal 1: ICE vs EF
+UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362071@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -8584,13 +8318,6 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351273@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | ex-RUBY: 1\nStream: https://kick.com/cct_cs
-DTEND:20260128T122131Z
-DTSTART:20260128T094529Z
-SUMMARY:Round 2: KOL vs ex-RUBY
-UID:cs-go-cct-europe-series-14-3-2026-1326435@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: Mindfreak: 2 | Rooster: 0\nStream: https://www.twitch.tv/churchd0gg
 DTEND:20260207T023404Z
 DTSTART:20260207T011912Z
@@ -8668,13 +8395,6 @@ SUMMARY:HASP vs TS.A
 UID:cs-go-esea-advanced-europe-56-2026-1355275@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: HOTU: 0 | Favbet: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260203T173418Z
-DTSTART:20260203T153810Z
-SUMMARY:Round of 16 match 5: HOTU vs FAV
-UID:cs-go-cct-europe-series-14-3-2026-1326469@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260217T180000Z
@@ -8724,8 +8444,8 @@ SUMMARY:Omega vs BBP
 UID:cs-go-cct-europe-closed-qualifier-series-15-3-2026-1341921@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fyflo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | Omega: 1\nStream: https://www.twitch.tv/fyflo
+DTEND:20260216T205821Z
 DTSTART:20260216T185919Z
 SUMMARY:Upper bracket round 3 match 7: MOUZ.N vs Omega
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359211@tournamentics
@@ -8738,18 +8458,18 @@ SUMMARY:Round 2: BIG.E vs NXS
 UID:cs-go-cct-europe-series-15-3-2026-1343375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: WATERMELON: 1 | Pigeons: 0\nStream: No official stream linked
-DTEND:20260121T174653Z
-DTSTART:20260121T171743Z
-SUMMARY:WTRML0N vs PGE
-UID:cs-go-esea-advanced-europe-56-2026-1328928@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
 DURATION:PT2H
 DTSTART:20260221T150000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-jb-pro-league-season-2-2026-1364537@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: WATERMELON: 1 | Pigeons: 0\nStream: No official stream linked
+DTEND:20260121T174653Z
+DTSTART:20260121T171743Z
+SUMMARY:WTRML0N vs PGE
+UID:cs-go-esea-advanced-europe-56-2026-1328928@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: FURIA fe: 0 | Vasco Esports: 2\nStream: https://kick.com/cct_cs3
@@ -8836,13 +8556,6 @@ SUMMARY:Semifinal 1: MARS vs SportsBetExpert
 UID:cs-go-cct-north-america-series-3-3-2026-1343590@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: SIXSEVEN: 0 | Metizport: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260127T174902Z
-DTSTART:20260127T154427Z
-SUMMARY:Round 2: 67 vs MZP
-UID:cs-go-cct-europe-series-14-3-2026-1326411@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | BIG EQUIPA: 0\nStream: https://kick.com/jbproleague
 DTEND:20260214T164508Z
 DTSTART:20260214T150912Z
@@ -8883,13 +8596,6 @@ DURATION:PT2H
 DTSTART:20260217T120000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351283@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 2 | Ursa: 1\nStream: https://kick.com/cct_cs
-DTEND:20260129T184238Z
-DTSTART:20260129T153402Z
-SUMMARY:Round 3: JS vs URSA
-UID:cs-go-cct-europe-series-14-3-2026-1326445@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Team PeeP: 1 | VP.Future: 2\nStream: https://kick.com/exort_en2
@@ -9424,13 +9130,6 @@ SUMMARY:ME vs MEGO
 UID:cs-go-esea-advanced-europe-56-2026-1355271@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 2 | Fingers Crossed: 1\nStream: https://kick.com/cct_cs
-DTEND:20260202T182404Z
-DTSTART:20260202T153231Z
-SUMMARY:Round 5: FAV vs Fingers
-UID:cs-go-cct-europe-series-14-3-2026-1326465@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nResult: SportsBetExpert: 1 | Zomblers: 2\nStream: https://www.twitch.tv/n1cemick
 DTEND:20260207T012022Z
 DTSTART:20260206T224939Z
@@ -9485,13 +9184,6 @@ DTEND:20260209T031428Z
 DTSTART:20260209T015021Z
 SUMMARY:Quarterfinal 2: FLY.R vs SportsBetExpert
 UID:cs-go-cct-north-america-series-3-3-2026-1343587@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: 9INE: 2 | los kogutos: 0\nStream: https://kick.com/cct_cs2
-DTEND:20260204T201133Z
-DTSTART:20260204T183552Z
-SUMMARY:Round of 16 match 3: 9INE vs LK
-UID:cs-go-cct-europe-series-14-3-2026-1326499@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: Phantom: 2 | WHITEBIRD: 0\nStream: https://kick.com/cct_cs
@@ -9914,13 +9606,6 @@ SUMMARY:Round 1: SASHI vs SERA
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1326176@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | Leo Team: 0\nStream: https://kick.com/cct_cs
-DTEND:20260130T113558Z
-DTSTART:20260130T093646Z
-SUMMARY:Round 3: ex-RUBY vs Leo
-UID:cs-go-cct-europe-series-14-3-2026-1326451@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260225T213000Z
@@ -9973,7 +9658,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260217T130000Z
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: B8 vs AUR
 UID:cs-go-pgl-cluj-napoca-2026-1349987@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9996,13 +9681,6 @@ DTEND:20260122T190101Z
 DTSTART:20260122T181625Z
 SUMMARY:QUA vs MISA
 UID:cs-go-esea-advanced-europe-56-2026-1330373@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | FORZE Reload: 1\nStream: https://kick.com/cct_cs2
-DTEND:20260204T181035Z
-DTSTART:20260204T153920Z
-SUMMARY:Round of 16 match 1: BB vs FORZE.R
-UID:cs-go-cct-europe-series-14-3-2026-1326485@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: BC.Game Esports: 0 | 3DMAX: 2\nStream: https://www.twitch.tv/ESLCS
@@ -10038,13 +9716,6 @@ DTEND:20260127T190500Z
 DTSTART:20260127T181303Z
 SUMMARY:eLITenergy vs XI
 UID:cs-go-esea-advanced-europe-56-2026-1336666@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: magic: 2 | Favbet: 1\nStream: https://kick.com/cct_cs
-DTEND:20260206T164557Z
-DTSTART:20260206T132917Z
-SUMMARY:Semifinal 2: MGC vs FAV
-UID:cs-go-cct-europe-series-14-3-2026-1326509@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: Rooster: 2 | McTeam: 1\nStream: https://www.twitch.tv/churchd0gg
