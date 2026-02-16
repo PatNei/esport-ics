@@ -508,6 +508,13 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerL
 
 ---
 
+### Asia-Pacific Cup 1 season 51 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/AsiaPacificCup1Season512026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/AsiaPacificCup1Season512026.ics
+```
+
 ### Oceania Cup 1 season 51 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/OceaniaCup1Season512026.ics)
 
