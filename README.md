@@ -809,6 +809,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/BucharestEurope
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/BucharestSouthAmericanOpenQualifier12026.ics
 ```
 
+### Bucharest: South American Open Qualifier season 2 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/BucharestSouthAmericanOpenQualifierSeason22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/BucharestSouthAmericanOpenQualifierSeason22026.ics
+```
+
 </details>
 
 <details>
