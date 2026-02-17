@@ -397,7 +397,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260218T180000Z
-SUMMARY:Lower bracket round 4 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 4 match 4: SNG vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359248@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3007,7 +3007,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260217T190000Z
+DTSTART:20260217T200000Z
 SUMMARY:Semifinal 2: OXUJI vs TBD
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364664@tournamentics
 END:VEVENT
@@ -3385,7 +3385,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260217T191000Z
+DTSTART:20260222T190000Z
 SUMMARY:FUT.A vs XI
 UID:cs-go-esea-advanced-europe-56-2026-1364676@tournamentics
 END:VEVENT
@@ -5231,9 +5231,9 @@ SUMMARY:Winners match: RSTR vs THUNDER dOWNUNDER
 UID:cs-go-dfrag-open-series-3-2026-1339742@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260217T191000Z
+DTSTART:20260217T192041Z
 SUMMARY:BrAt vs TNC
 UID:cs-go-esea-advanced-europe-56-2026-1364679@tournamentics
 END:VEVENT
@@ -5840,9 +5840,9 @@ SUMMARY:LFO YinYang vs FUT.A
 UID:cs-go-esea-advanced-europe-56-2026-1318678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260217T190000Z
+DTSTART:20260217T192432Z
 SUMMARY:Semifinal 1: FOKUS vs mix52
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364663@tournamentics
 END:VEVENT
@@ -7506,8 +7506,8 @@ SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
 UID:cs-go-draculan-5-2026-1363311@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfultvc
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Sangal: 2 | Omega: 0\nStream: https://www.twitch.tv/watchfultvc
+DTEND:20260217T192546Z
 DTSTART:20260217T180710Z
 SUMMARY:Lower bracket round 3 match 7: SNG vs Omega
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359239@tournamentics
@@ -8059,9 +8059,9 @@ SUMMARY:RSTR vs The Gentlemans Kennel
 UID:cs-go-dfrag-open-series-3-2026-1339741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260217T191000Z
+DTSTART:20260217T191909Z
 SUMMARY:hindsight vs HASP
 UID:cs-go-esea-advanced-europe-56-2026-1364678@tournamentics
 END:VEVENT
@@ -9084,7 +9084,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260218T100000Z
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: AUR vs AST
 UID:cs-go-pgl-cluj-napoca-2026-1349990@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9942,9 +9942,9 @@ SUMMARY:Round 2: 3DMAX.A vs XI
 UID:cs-go-exort-series-22-2026-1359515@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260217T191000Z
+DTSTART:20260217T192031Z
 SUMMARY:SS vs EP
 UID:cs-go-esea-advanced-europe-56-2026-1364680@tournamentics
 END:VEVENT
