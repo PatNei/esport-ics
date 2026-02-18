@@ -1615,7 +1615,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260219T020000Z
-SUMMARY:Lower bracket round 1 match 3: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 3: SE vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364038@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3288,7 +3288,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260219T020000Z
-SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 3: Mythic vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364030@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8724,8 +8724,8 @@ SUMMARY:BBP vs BRUTE
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350044@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nResult: Keyd: 1 | Yawara Esports: 2\nStream: No official stream linked
+DTEND:20260218T035423Z
 DTSTART:20260218T013115Z
 SUMMARY:Semifinal 2: Keyd vs YAW
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364766@tournamentics
@@ -9515,8 +9515,8 @@ SUMMARY:Lower bracket round 1 match 1: DCG vs ARISE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bonamant
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Mythic: 2 | Sakura Esports: 0\nStream: https://www.twitch.tv/bonamant
+DTEND:20260218T035805Z
 DTSTART:20260218T021834Z
 SUMMARY:Upper bracket round 1 match 6: Mythic vs SE
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364025@tournamentics
