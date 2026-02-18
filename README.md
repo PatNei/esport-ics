@@ -110,27 +110,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/Se
 ## C Tier
 
 <details>
-<summary>Ace North American Masters</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AceNorthAmericanMasters/AceNorthAmericanMasters.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AceNorthAmericanMasters/AceNorthAmericanMasters.ics
-```
-
----
-
-### Spring 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AceNorthAmericanMasters/Spring2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AceNorthAmericanMasters/Spring2026.ics
-```
-
-</details>
-
-<details>
 <summary>CCT North America</summary>
 
 ### Full Schedule
