@@ -434,27 +434,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CopenhagenGamingWee
 </details>
 
 <details>
-<summary>Dfrag Open Series</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DfragOpenSeries/DfragOpenSeries.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DfragOpenSeries/DfragOpenSeries.ics
-```
-
----
-
-### Season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DfragOpenSeries/Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DfragOpenSeries/Season32026.ics
-```
-
-</details>
-
-<details>
 <summary>Dust2.dk Ligaen</summary>
 
 ### Full Schedule
