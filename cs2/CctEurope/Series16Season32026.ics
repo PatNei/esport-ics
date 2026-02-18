@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260218T150000Z
+DTSTART:20260218T153000Z
 SUMMARY:Round 2: ex-RUBY vs BBP
 UID:cs-go-cct-europe-series-16-3-2026-1351288@tournamentics
 END:VEVENT
@@ -198,8 +198,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | TDK: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260218T151253Z
 DTSTART:20260218T120733Z
 SUMMARY:Round 2: MOUZ.N vs TDK
 UID:cs-go-cct-europe-series-16-3-2026-1351287@tournamentics
