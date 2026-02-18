@@ -60,6 +60,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260224T190000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-gamers-club-liga-serie-a-february-2026-1360805@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260226T213000Z
 SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-gamers-club-liga-serie-a-february-2026-1360810@tournamentics
@@ -86,13 +93,6 @@ SUMMARY:paiN.A vs silence clan
 UID:cs-go-gamers-club-liga-serie-a-february-2026-1360803@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260225T213000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
-UID:cs-go-gamers-club-liga-serie-a-february-2026-1360808@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nResult: Guara Esports: 0 | MIBR Academy: 1\nStream: No official stream linked
 DTEND:20260217T222328Z
 DTSTART:20260217T212735Z
@@ -102,9 +102,23 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260224T190000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
-UID:cs-go-gamers-club-liga-serie-a-february-2026-1360805@tournamentics
+DTSTART:20260225T213000Z
+SUMMARY:Quarterfinal 4: TBD vs TBD
+UID:cs-go-gamers-club-liga-serie-a-february-2026-1360808@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260218T220000Z
+SUMMARY:Winners match: METANOIAGG vs Masqueic0Gang
+UID:cs-go-gamers-club-liga-serie-a-february-2026-1367379@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nResult: largadosypelados: 1 | Masqueic0Gang: 0\nStream: No official stream linked
+DTEND:20260217T200000Z
+DTSTART:20260217T190000Z
+SUMMARY:LDP vs Masqueic0Gang
+UID:cs-go-gamers-club-liga-serie-a-february-2026-1367380@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nResult: FOLHA AMARELA: 1 | Vexa: 0\nStream: No official stream linked

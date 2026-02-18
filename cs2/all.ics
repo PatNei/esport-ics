@@ -793,6 +793,13 @@ SUMMARY:VP.P vs NAVI.J
 UID:cs-go-united21-44-2026-1339675@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260218T220000Z
+SUMMARY:Winners match: METANOIAGG vs Masqueic0Gang
+UID:cs-go-gamers-club-liga-serie-a-february-2026-1367379@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
 DURATION:PT2H
 DTSTART:20260220T150000Z
@@ -3924,7 +3931,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260219T180000Z
+DTSTART:20260219T153000Z
 SUMMARY:Quarterfinal 4: ALL vs MZP
 UID:cs-go-cct-europe-series-15-3-2026-1343430@tournamentics
 END:VEVENT
@@ -5425,6 +5432,13 @@ DTEND:20260209T020417Z
 DTSTART:20260208T232520Z
 SUMMARY:Quarterfinal 4: FC vs 1WIN
 UID:cs-go-iem-atlanta-american-open-qualifier-2026-1352733@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nResult: largadosypelados: 1 | Masqueic0Gang: 0\nStream: No official stream linked
+DTEND:20260217T200000Z
+DTSTART:20260217T190000Z
+SUMMARY:LDP vs Masqueic0Gang
+UID:cs-go-gamers-club-liga-serie-a-february-2026-1367380@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
@@ -9202,7 +9216,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260219T150000Z
+DTSTART:20260219T180000Z
 SUMMARY:Quarterfinal 3: SIN vs ACE
 UID:cs-go-cct-europe-series-15-3-2026-1343429@tournamentics
 END:VEVENT
