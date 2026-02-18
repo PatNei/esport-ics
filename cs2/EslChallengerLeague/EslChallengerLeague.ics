@@ -726,7 +726,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T140000Z
-SUMMARY:Upper bracket semifinal 1: BP vs TBD
+SUMMARY:Upper bracket semifinal 1: BP vs Morningstar
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1020,7 +1020,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260219T140000Z
-SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 4: LEGION vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1031,8 +1031,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359261@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Morningstar: 2 | Legion: 0\nStream: No official stream linked
+DTEND:20260218T171115Z
 DTSTART:20260218T150307Z
 SUMMARY:Upper bracket quarterfinal 1: Morningstar vs LEGION
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363561@tournamentics
