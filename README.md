@@ -455,6 +455,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CopenhagenGamingWee
 </details>
 
 <details>
+<summary>De_Airport Masters</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DeAirportMasters/DeAirportMasters.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DeAirportMasters/DeAirportMasters.ics
+```
+
+---
+
+### 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DeAirportMasters/2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DeAirportMasters/2026.ics
+```
+
+</details>
+
+<details>
 <summary>Dust2.dk Ligaen</summary>
 
 ### Full Schedule
@@ -835,27 +856,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season4420
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season452026.ics
-```
-
-</details>
-
-<details>
-<summary>Yuqilin</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Yuqilin/Yuqilin.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Yuqilin/Yuqilin.ics
-```
-
----
-
-### Pinnacle of Battle season 2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Yuqilin/PinnacleOfBattleSeason22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Yuqilin/PinnacleOfBattleSeason22026.ics
 ```
 
 </details>
