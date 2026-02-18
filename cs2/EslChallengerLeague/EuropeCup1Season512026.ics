@@ -82,14 +82,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T180000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: G1 vs TDK
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359253@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260219T180000Z
-SUMMARY:Lower bracket round 5 match 1: ALL vs TBD
+SUMMARY:Lower bracket round 5 match 1: ALL vs JS
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359249@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260219T180000Z
-SUMMARY:Lower bracket round 5 match 4: SNG vs TBD
+SUMMARY:Lower bracket round 5 match 4: SNG vs SPARTA
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359252@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -275,8 +275,8 @@ SUMMARY:Lower bracket round 4 match 1: RBLS vs ALL
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359245@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/luffastream
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: GenOne: 2 | Oramond: 0\nStream: https://www.twitch.tv/luffastream
+DTEND:20260218T200726Z
 DTSTART:20260218T183512Z
 SUMMARY:Upper bracket quarterfinal 2: G1 vs ORM
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359242@tournamentics
@@ -383,7 +383,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T180000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: MOUZ.N vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359254@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260219T180000Z
-SUMMARY:Lower bracket round 5 match 3: ILWL vs TBD
+SUMMARY:Lower bracket round 5 match 3: ILWL vs ORM
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359251@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -415,15 +415,15 @@ SUMMARY:Lower bracket round 2 match 4: ex-RUBY vs NXS
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | Johnny Speeds: 0\nStream: https://www.twitch.tv/kartash0v
+DTEND:20260218T201001Z
 DTSTART:20260218T180308Z
 SUMMARY:Upper bracket quarterfinal 4: MOUZ.N vs JS
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359244@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/anishared
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: TDK: 2 | SPARTA: 0\nStream: https://www.twitch.tv/anishared
+DTEND:20260218T201032Z
 DTSTART:20260218T182014Z
 SUMMARY:Upper bracket quarterfinal 1: TDK vs SPARTA
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359241@tournamentics
