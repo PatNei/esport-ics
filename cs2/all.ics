@@ -1237,7 +1237,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260218T023000Z
-SUMMARY:Semifinal 1: Back to Back  vs TBD
+SUMMARY:Semifinal 1: Back to Back  vs BHE
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7751,8 +7751,8 @@ SUMMARY:FCF vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1328931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | Prison Breakers: 1\nStream: No official stream linked
+DTEND:20260218T022707Z
 DTSTART:20260217T231852Z
 SUMMARY:Quarterinal 1: BHE vs PB
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364689@tournamentics
@@ -9354,9 +9354,9 @@ SUMMARY:Lower bracket round 1 match 1: DCG vs ARISE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fl0m
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bonamant
 DURATION:PT2H
-DTSTART:20260218T021500Z
+DTSTART:20260218T021834Z
 SUMMARY:Upper bracket round 1 match 6: Mythic vs SE
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364025@tournamentics
 END:VEVENT
