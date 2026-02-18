@@ -299,7 +299,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260219T020000Z
-SUMMARY:Lower bracket round 1 match 4: OverKnight vs TBD
+SUMMARY:Lower bracket round 1 match 4: OverKnight vs InC
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364039@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -534,8 +534,8 @@ SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jtmythic
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: InControl: 0 | Marsborne: 2\nStream: https://www.twitch.tv/jtmythic
+DTEND:20260218T033528Z
 DTSTART:20260218T020733Z
 SUMMARY:Upper bracket round 1 match 8: InC vs MARS
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364027@tournamentics
@@ -1090,7 +1090,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260219T020000Z
-SUMMARY:Upper bracket quarterfinal 4: FLY.R vs TBD
+SUMMARY:Upper bracket quarterfinal 4: FLY.R vs MARS
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364031@tournamentics
 END:VEVENT
 BEGIN:VEVENT
