@@ -803,7 +803,7 @@ BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nResult: METANOIAGG: 2 | Masqueic0Gang: 0\nStream: No official stream linked
 DTEND:20260219T004124Z
 DTSTART:20260218T221805Z
-SUMMARY:Winners match: METANOIAGG vs Masqueic0Gang
+SUMMARY:Elimination match: METANOIAGG vs Masqueic0Gang
 UID:cs-go-gamers-club-liga-serie-a-february-2026-1367379@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2163,6 +2163,13 @@ DTEND:20260211T203044Z
 DTSTART:20260211T190958Z
 SUMMARY:Lower bracket quarterfinal 2: VOCA vs SportsBetExpert
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344450@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260220T190000Z
+SUMMARY:Elimination match: GE vs MW
+UID:cs-go-gamers-club-liga-serie-a-february-2026-1367395@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 2 | los kogutos: 1\nStream: https://kick.com/cct_cs
@@ -4851,6 +4858,13 @@ DTEND:20260211T121245Z
 DTSTART:20260211T091418Z
 SUMMARY:PRIME vs HS
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350049@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260220T190000Z
+SUMMARY:Winners match: paiN.A vs FA
+UID:cs-go-gamers-club-liga-serie-a-february-2026-1367394@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: OldBoys: 1 | MINLATE: 0\nStream: https://www.twitch.tv/arthurrrtv
