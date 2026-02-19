@@ -2532,7 +2532,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260221T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Time Waves vs TBD
 UID:cs-go-cct-oceania-series-4-3-2026-1364204@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3843,6 +3843,13 @@ DTEND:20260125T192326Z
 DTSTART:20260125T165152Z
 SUMMARY:Round 3: Fingers vs G1
 UID:cs-go-a1-gaming-league-11-2026-1313579@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260227T000000Z
+SUMMARY:Upper bracket quarterfinal 4: MIBR vs FA
+UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1367403@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: UNiTY esports: 0 | MANA eSports: 1\nStream: No official stream linked
@@ -5385,18 +5392,18 @@ SUMMARY:Round 1: AUR vs FUT
 UID:cs-go-pgl-cluj-napoca-2026-1349961@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260221T103000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-cct-oceania-series-4-3-2026-1364237@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T100000Z
 SUMMARY:Upper bracket semifinal 2: Skele vs THUNDER dOWNUNDER
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363325@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260221T103000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364237@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: B8 Academy: 0 | Spirit Academy: 1\nStream: https://www.twitch.tv/rob1nfall
@@ -6302,18 +6309,18 @@ SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-jb-pro-league-season-2-2026-1364605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260227T050000Z
-SUMMARY:Upper bracket final: TBD vs TBD
-UID:cs-go-cct-oceania-series-4-3-2026-1364314@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Underground ESC: 0 | Ground Zero: 2\nStream: https://www.twitch.tv/churchd0gg
 DTEND:20260218T120446Z
 DTSTART:20260218T101436Z
 SUMMARY:Upper bracket quarterfinal 2: UG vs GZ
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363321@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260227T050000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364314@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: FUT Academy: 0 | Lazer Cats: 1\nStream: https://www.twitch.tv/lzrcats
@@ -8073,8 +8080,8 @@ SUMMARY:Round 4: PHA vs NXS
 UID:cs-go-cct-europe-series-15-3-2026-1343412@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nResult: Time Waves: 0 | Underground ESC: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260219T092155Z
 DTSTART:20260219T081348Z
 SUMMARY:Winners match: Time Waves vs UG
 UID:cs-go-cct-oceania-series-4-3-2026-1364202@tournamentics
