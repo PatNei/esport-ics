@@ -565,27 +565,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckStarpearl/Seas
 </details>
 
 <details>
-<summary>IEM</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Iem.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Iem.ics
-```
-
----
-
-### Atlanta: American Open Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/AtlantaAmericanOpenQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/AtlantaAmericanOpenQualifier2026.ics
-```
-
-</details>
-
-<details>
 <summary>IstanbuLAN</summary>
 
 ### Full Schedule

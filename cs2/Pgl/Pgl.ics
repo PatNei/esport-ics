@@ -58,18 +58,18 @@ SUMMARY:Round 1: NAVI vs AST
 UID:cs-go-pgl-cluj-napoca-2026-1349960@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nResult: Back to Back : 0 | Bounty Hunters Esports: 2\nStream: No official stream linked
-DTEND:20260218T043545Z
-DTSTART:20260218T025458Z
-SUMMARY:Semifinal 1: Back to Back  vs BHE
-UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364765@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | Prestige: 0\nStream: No official stream linked
 DTEND:20260217T155101Z
 DTSTART:20260217T151159Z
 SUMMARY:Round of 16 match 8: MOUZ.N vs PRE
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364658@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nResult: Back to Back : 0 | Bounty Hunters Esports: 2\nStream: No official stream linked
+DTEND:20260218T043545Z
+DTSTART:20260218T025458Z
+SUMMARY:Semifinal 1: Back to Back  vs BHE
+UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 0 | Ursa: 1\nStream: No official stream linked
@@ -422,18 +422,18 @@ SUMMARY:Round 1: AUR vs FUT
 UID:cs-go-pgl-cluj-napoca-2026-1349961@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nResult: Keyd: 1 | Yawara Esports: 2\nStream: No official stream linked
-DTEND:20260218T035423Z
-DTSTART:20260218T013115Z
-SUMMARY:Semifinal 2: Keyd vs YAW
-UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364766@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: JiJieHao: 0 | FOKUS: 2\nStream: No official stream linked
 DTEND:20260217T174500Z
 DTSTART:20260217T160401Z
 SUMMARY:Quarterfinal 1: JJH vs FOKUS
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364659@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nResult: Keyd: 1 | Yawara Esports: 2\nStream: No official stream linked
+DTEND:20260218T035423Z
+DTSTART:20260218T013115Z
+SUMMARY:Semifinal 2: Keyd vs YAW
+UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364766@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 1 | Betclic Apogee Esports: 0\nStream: No official stream linked
