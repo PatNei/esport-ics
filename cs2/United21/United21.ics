@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260223T090000Z
-SUMMARY:Winners match: MISA vs TBD
+SUMMARY:Winners match: MISA vs Inner Circle Academy
 UID:cs-go-united21-45-2026-1365964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -135,8 +135,8 @@ SUMMARY:Decider match: Imperial.A vs 8S
 UID:cs-go-united21-44-2026-1339678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: XI Esport: 0 | Inner Circle Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260219T132155Z
 DTSTART:20260219T114949Z
 SUMMARY:XI vs Inner Circle Academy
 UID:cs-go-united21-45-2026-1365963@tournamentics
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260223T113000Z
-SUMMARY:Elimination match: HERO.A vs TBD
+SUMMARY:Elimination match: HERO.A vs XI
 UID:cs-go-united21-45-2026-1365965@tournamentics
 END:VEVENT
 BEGIN:VEVENT

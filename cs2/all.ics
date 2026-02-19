@@ -936,7 +936,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260223T090000Z
-SUMMARY:Winners match: MISA vs TBD
+SUMMARY:Winners match: MISA vs Inner Circle Academy
 UID:cs-go-united21-45-2026-1365964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2020,7 +2020,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260219T133000Z
+DTSTART:20260219T143000Z
 SUMMARY:Decider match: BCA vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360762@tournamentics
 END:VEVENT
@@ -3565,8 +3565,8 @@ SUMMARY:PGE vs BAKS
 UID:cs-go-esea-advanced-europe-56-2026-1319918@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: XI Esport: 0 | Inner Circle Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260219T132155Z
 DTSTART:20260219T114949Z
 SUMMARY:XI vs Inner Circle Academy
 UID:cs-go-united21-45-2026-1365963@tournamentics
@@ -5077,8 +5077,8 @@ SUMMARY:Round 2: ex-Zero Tenacity vs BW
 UID:cs-go-jb-pro-league-season-2-2026-1364518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nResult: Abyssal: 2 | Skele: 1\nStream: https://kick.com/cct_cs4
+DTEND:20260219T132006Z
 DTSTART:20260219T103350Z
 SUMMARY:Winners match: Abyssal vs Skele
 UID:cs-go-cct-oceania-series-4-3-2026-1364227@tournamentics
@@ -5444,7 +5444,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260221T103000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Skele vs TBD
 UID:cs-go-cct-oceania-series-4-3-2026-1364237@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8335,7 +8335,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260223T113000Z
-SUMMARY:Elimination match: HERO.A vs TBD
+SUMMARY:Elimination match: HERO.A vs XI
 UID:cs-go-united21-45-2026-1365965@tournamentics
 END:VEVENT
 BEGIN:VEVENT
