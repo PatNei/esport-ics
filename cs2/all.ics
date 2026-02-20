@@ -3392,7 +3392,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260220T170000Z
+DTSTART:20260220T173000Z
 SUMMARY:Grand final: LK vs ALL
 UID:cs-go-cct-europe-series-15-3-2026-1343434@tournamentics
 END:VEVENT
@@ -7625,8 +7625,8 @@ SUMMARY:LFO vs URSA
 UID:cs-go-esea-advanced-europe-56-2026-1340706@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/de_airport_masters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | Young Ninjas: 1\nStream: https://www.twitch.tv/de_airport_masters
+DTEND:20260220T164937Z
 DTSTART:20260220T160920Z
 SUMMARY:AAB vs YN
 UID:cs-go-de_airport-masters-2026-1367357@tournamentics
