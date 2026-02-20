@@ -201,7 +201,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260220T170000Z
-SUMMARY:Grand final: LK vs TBD
+SUMMARY:Grand final: LK vs ALL
 UID:cs-go-cct-europe-series-15-3-2026-1343434@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -457,8 +457,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351302@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: Sinners: 0 | Alliance: 2\nStream: https://kick.com/cct_cs
+DTEND:20260220T160956Z
 DTSTART:20260220T140510Z
 SUMMARY:Semifinal 2: SIN vs ALL
 UID:cs-go-cct-europe-series-15-3-2026-1343433@tournamentics
