@@ -3481,9 +3481,9 @@ SUMMARY:Deciedr match: TBD vs TBD
 UID:cs-go-draculan-5-2026-1363282@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260220T121500Z
+DTSTART:20260220T121248Z
 SUMMARY:Round 3: ARC vs BBP
 UID:cs-go-cct-europe-series-16-3-2026-1351295@tournamentics
 END:VEVENT
@@ -8542,9 +8542,9 @@ SUMMARY:Round 2: FA vs VSC
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343479@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260220T121000Z
+DTSTART:20260220T121610Z
 SUMMARY:Quarterfinal 2: MOUZ vs NAVI
 UID:cs-go-pgl-cluj-napoca-2026-1349994@tournamentics
 END:VEVENT
@@ -8619,8 +8619,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351273@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | aimclub: 1\nStream: https://kick.com/exort_en
+DTEND:20260220T121842Z
 DTSTART:20260220T091307Z
 SUMMARY:Round 1: UNiTY vs aimclub
 UID:cs-go-exort-meteor-2-2026-1367432@tournamentics
