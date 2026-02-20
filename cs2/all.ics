@@ -1566,7 +1566,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260220T180000Z
-SUMMARY:Elimination match: 100T vs TBD
+SUMMARY:Elimination match: 100T vs BST
 UID:cs-go-roman-imperium-cup-5-2026-1360776@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2867,7 +2867,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260220T180000Z
+DTSTART:20260220T181000Z
 SUMMARY:Quarterfinal 4: FURIA vs MGLZ
 UID:cs-go-pgl-cluj-napoca-2026-1349996@tournamentics
 END:VEVENT
@@ -4401,7 +4401,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T180000Z
-SUMMARY:Winners match: NIP vs TBD
+SUMMARY:Winners match: NIP vs MNTE
 UID:cs-go-roman-imperium-cup-5-2026-1360775@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5854,8 +5854,8 @@ SUMMARY:Lower bracket round 3 match 4: ex-RUBY vs HAVU
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359236@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Vitality: 2 | Aurora Gaming: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260220T175524Z
 DTSTART:20260220T155920Z
 SUMMARY:Quarterfinal 3: VIT vs AUR
 UID:cs-go-pgl-cluj-napoca-2026-1349995@tournamentics
@@ -6834,8 +6834,8 @@ SUMMARY:PGE vs imodium
 UID:cs-go-jb-pro-league-female-1-2026-1354002@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/de_airport_masters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nResult: Phantom: 0 | ReThink: 1\nStream: https://www.twitch.tv/de_airport_masters
+DTEND:20260220T175547Z
 DTSTART:20260220T171041Z
 SUMMARY:PHA vs RT
 UID:cs-go-de_airport-masters-2026-1367360@tournamentics
@@ -6862,8 +6862,8 @@ SUMMARY:PGE vs QWE
 UID:cs-go-esea-advanced-europe-56-2026-1335441@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 0 | TNT: 1\nStream: No official stream linked
+DTEND:20260220T180144Z
 DTSTART:20260220T171823Z
 SUMMARY:ex-GANK Esports vs TNT
 UID:cs-go-esea-advanced-europe-56-2026-1368658@tournamentics
@@ -7429,8 +7429,8 @@ SUMMARY:Upper bracket round 1 match 11: BW vs Leo
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358819@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: BESTIA: 0 | Monte: 1\nStream: https://www.twitch.tv/rmncs
+DTEND:20260220T175740Z
 DTSTART:20260220T171312Z
 SUMMARY:BST vs MNTE
 UID:cs-go-roman-imperium-cup-5-2026-1360774@tournamentics
@@ -7971,7 +7971,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260221T180000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: VIT vs TBD
 UID:cs-go-pgl-cluj-napoca-2026-1349998@tournamentics
 END:VEVENT
 BEGIN:VEVENT
