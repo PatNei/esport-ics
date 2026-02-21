@@ -271,7 +271,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260223T010000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: LAG vs TBD
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363267@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2830,8 +2830,8 @@ SUMMARY:Upper bracket quarterfinal 4: NM vs CW
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363597@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bonamant
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: FlyQuest RED: 0 | Outfit 49: 2\nStream: https://www.twitch.tv/bonamant
+DTEND:20260221T032658Z
 DTSTART:20260221T021042Z
 SUMMARY:Lower bracket round 3 match 1: FLY.R vs O49
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364044@tournamentics
@@ -7978,7 +7978,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T020000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: O49 vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364046@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8962,8 +8962,8 @@ SUMMARY:Round 2: HS vs AAB
 UID:cs-go-a1-gaming-league-11-2026-1313570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/dust2us
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nResult: Wildcard: 1 | LAG Gaming: 2\nStream: https://kick.com/dust2us
+DTEND:20260221T031838Z
 DTSTART:20260221T003329Z
 SUMMARY:Semifinal 1: WC vs LAG
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363264@tournamentics
