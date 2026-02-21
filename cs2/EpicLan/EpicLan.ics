@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: EPIC.LAN - Season 47 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T130000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: TLR vs TBD
 UID:cs-go-epic-lan-47-2026-1369841@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -23,8 +23,8 @@ SUMMARY:Upper bracket semifinal 1: TLR vs AsylumPeekers
 UID:cs-go-epic-lan-47-2026-1369834@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: EPIC.LAN - Season 47 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/epicLAN1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: EPIC.LAN - Season 47 2026\nMatch Type: Best Of\nResult: CTRL Esports: 1 | The Last Resort: 2\nStream: https://www.twitch.tv/epicLAN1
+DTEND:20260221T200238Z
 DTSTART:20260221T170619Z
 SUMMARY:Upper bracket final: CTRL Esports vs TLR
 UID:cs-go-epic-lan-47-2026-1369839@tournamentics
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: EPIC.LAN - Season 47 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T090000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: CTRL Esports vs TBD
 UID:cs-go-epic-lan-47-2026-1369840@tournamentics
 END:VEVENT
 BEGIN:VEVENT
