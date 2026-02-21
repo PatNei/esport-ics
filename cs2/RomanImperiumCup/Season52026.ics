@@ -124,12 +124,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T110000Z
-SUMMARY:Semifinal 1: M8 vs TBD
+SUMMARY:Semifinal 1: M8 vs BB
 UID:cs-go-roman-imperium-cup-5-2026-1360783@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | 100 Thieves: 1\nStream: https://www.twitch.tv/rmncs
+DTEND:20260221T172812Z
 DTSTART:20260221T144020Z
 SUMMARY:Quarterfinal 2: BB vs 100T
 UID:cs-go-roman-imperium-cup-5-2026-1360779@tournamentics
