@@ -1087,9 +1087,9 @@ SUMMARY:Omega vs home
 UID:cs-go-nodwin-clutch-series-5-2026-1355217@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: META Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/meta_esports_kz
+DESCRIPTION:🔴 LIVE NOW\nTournament: META Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/meta_esports_kz
 DURATION:PT2H
-DTSTART:20260221T173000Z
+DTSTART:20260221T191124Z
 SUMMARY:NEM vs GGC
 UID:cs-go-meta-cup-4-2026-1364637@tournamentics
 END:VEVENT
@@ -1808,7 +1808,7 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351269@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://www.kick.com/exort_en2
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
 DTSTART:20260221T193000Z
 SUMMARY:Quarterfinal 4: JJH vs CYBERSHOKE Prospects
@@ -7474,7 +7474,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: EPIC.LAN - Season 47 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260221T210000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: 8S vs TBD
 UID:cs-go-epic-lan-47-2026-1369838@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10215,8 +10215,8 @@ SUMMARY:CS vs TC
 UID:cs-go-meta-cup-4-2026-1364620@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: EPIC.LAN - Season 47 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: EPIC.LAN - Season 47 2026\nMatch Type: Best Of\nResult: British Aussie Gang: 0 | 8Sins: 2\nStream: No official stream linked
+DTEND:20260221T190013Z
 DTSTART:20260221T171000Z
 SUMMARY:Lower bracket quarterfinal 2: British Aussie Gang vs 8S
 UID:cs-go-epic-lan-47-2026-1369837@tournamentics
