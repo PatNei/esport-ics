@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260226T090000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: ex-FUT Academy vs TBD
 UID:cs-go-united21-45-2026-1365951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -79,16 +79,16 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-45-2026-1365956@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: ex-FUT Academy: 1 | FOKUS REALITY: 2\nStream: https://kick.com/united21_en
+DTEND:20260222T114242Z
 DTSTART:20260222T090726Z
 SUMMARY:Winners match: ex-FUT Academy vs FOKUS REALITY
 UID:cs-go-united21-45-2026-1365949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260222T113000Z
+DTSTART:20260222T120908Z
 SUMMARY:Elimination match: STA vs aAa
 UID:cs-go-united21-45-2026-1365950@tournamentics
 END:VEVENT
