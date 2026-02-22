@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260226T113000Z
-SUMMARY:Winners match: LK vs TBD
+SUMMARY:Winners match: LK vs ECF
 UID:cs-go-european-pro-league-series-5-2026-1355876@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -30,8 +30,8 @@ SUMMARY:Winners match: OXUJI vs HS
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353983@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 5 2026\nMatch Type: Best Of\nResult: Nexus: 0 | kONO.ECF: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260222T142433Z
 DTSTART:20260222T121541Z
 SUMMARY:NXS vs ECF
 UID:cs-go-european-pro-league-series-5-2026-1355873@tournamentics
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260226T090000Z
-SUMMARY:Elimination match: FUZOS vs TBD
+SUMMARY:Elimination match: FUZOS vs NXS
 UID:cs-go-european-pro-league-series-5-2026-1355874@tournamentics
 END:VEVENT
 BEGIN:VEVENT
