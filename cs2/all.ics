@@ -1412,7 +1412,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: META Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/meta_esports_kz
 DURATION:PT2H
 DTSTART:20260222T140000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: NEM vs TBD
 UID:cs-go-meta-cup-4-2026-1364647@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4244,8 +4244,8 @@ SUMMARY:Round 3: MGLZ vs B8
 UID:cs-go-pgl-cluj-napoca-2026-1349979@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: META Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/meta_esports_kz
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: META Cup - Season 4 2026\nMatch Type: Best Of\nResult: Team Novaq: 0 | Team Nemesis: 2\nStream: https://www.twitch.tv/meta_esports_kz
+DTEND:20260222T135616Z
 DTSTART:20260222T113928Z
 SUMMARY:Semifinal 2: NVQ vs NEM
 UID:cs-go-meta-cup-4-2026-1364646@tournamentics
@@ -4713,8 +4713,8 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-european-pro-league-series-5-2026-1355920@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 0 | VP.Prodigy: 2\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260222T135610Z
 DTSTART:20260222T121054Z
 SUMMARY:Round 4: BW vs VP.P
 UID:cs-go-jb-pro-league-season-2-2026-1364555@tournamentics
@@ -4951,8 +4951,8 @@ SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
 UID:cs-go-draculan-5-2026-1363312@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: TheMongolz: 0 | MOUZ: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260222T135312Z
 DTSTART:20260222T120116Z
 SUMMARY:3rd place decider: MGLZ vs MOUZ
 UID:cs-go-pgl-cluj-napoca-2026-1349999@tournamentics
@@ -9280,7 +9280,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: META Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/meta_esports_kz
 DURATION:PT2H
 DTSTART:20260222T140000Z
-SUMMARY:3rd Place match: TBD vs TBD
+SUMMARY:3rd Place match: NVQ vs TBD
 UID:cs-go-meta-cup-4-2026-1364648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
