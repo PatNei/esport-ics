@@ -6477,13 +6477,6 @@ SUMMARY:AUR.YB vs FUT.A
 UID:cs-go-esea-advanced-europe-56-2026-1347230@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260222T190000Z
-SUMMARY:VP.P vs ECF
-UID:cs-go-esea-advanced-europe-56-2026-1371100@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260222T220000Z
@@ -9186,18 +9179,18 @@ SUMMARY:Upper bracket round 3 match 7: MOUZ.N vs Omega
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359211@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: WATERMELON: 1 | Pigeons: 0\nStream: No official stream linked
-DTEND:20260121T174653Z
-DTSTART:20260121T171743Z
-SUMMARY:WTRML0N vs PGE
-UID:cs-go-esea-advanced-europe-56-2026-1328928@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | Nexus: 2\nStream: https://kick.com/cct_cs
 DTEND:20260210T130830Z
 DTSTART:20260210T120357Z
 SUMMARY:Round 2: BIG.E vs NXS
 UID:cs-go-cct-europe-series-15-3-2026-1343375@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: WATERMELON: 1 | Pigeons: 0\nStream: No official stream linked
+DTEND:20260121T174653Z
+DTSTART:20260121T171743Z
+SUMMARY:WTRML0N vs PGE
+UID:cs-go-esea-advanced-europe-56-2026-1328928@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | kONO.ECF: 1\nStream: https://www.twitch.tv/jbproleague
