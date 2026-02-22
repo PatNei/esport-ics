@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
-DTSTART:20260222T150000Z
+DTSTART:20260222T154500Z
 SUMMARY:ECS vs GL
 UID:cs-go-parken-challenger-championship-1-2026-1366250@tournamentics
 END:VEVENT
@@ -1411,7 +1411,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: META Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/meta_esports_kz
 DURATION:PT2H
-DTSTART:20260222T140000Z
+DTSTART:20260222T151500Z
 SUMMARY:Grand final: NEM vs Omega
 UID:cs-go-meta-cup-4-2026-1364647@tournamentics
 END:VEVENT
@@ -1916,7 +1916,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T173000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: M8 vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360786@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4772,7 +4772,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T173000Z
-SUMMARY:3rd Place match: TBD vs TBD
+SUMMARY:3rd Place match: BB vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360785@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4911,7 +4911,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
-DTSTART:20260222T150000Z
+DTSTART:20260222T154500Z
 SUMMARY:SASHI vs BCG
 UID:cs-go-parken-challenger-championship-1-2026-1366252@tournamentics
 END:VEVENT
@@ -5681,7 +5681,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
-DTSTART:20260222T150000Z
+DTSTART:20260222T154500Z
 SUMMARY:PHA vs MINLATE
 UID:cs-go-parken-challenger-championship-1-2026-1366249@tournamentics
 END:VEVENT
@@ -7669,7 +7669,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
-DTSTART:20260222T144500Z
+DTSTART:20260222T150000Z
 SUMMARY:GL vs SIN
 UID:cs-go-parken-challenger-championship-1-2026-1366194@tournamentics
 END:VEVENT
@@ -7956,7 +7956,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
-DTSTART:20260222T150000Z
+DTSTART:20260222T154500Z
 SUMMARY:ILWL vs BOSS
 UID:cs-go-parken-challenger-championship-1-2026-1366251@tournamentics
 END:VEVENT
@@ -9279,7 +9279,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: META Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/meta_esports_kz
 DURATION:PT2H
-DTSTART:20260222T140000Z
+DTSTART:20260222T151500Z
 SUMMARY:3rd Place match: NVQ vs NEMI
 UID:cs-go-meta-cup-4-2026-1364648@tournamentics
 END:VEVENT
@@ -10558,8 +10558,8 @@ SUMMARY:Round 4: LC vs WB
 UID:cs-go-cct-europe-series-15-3-2026-1343415@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: Gentle Mates: 2 | BetBoom Team: 1\nStream: https://www.twitch.tv/rmncs
+DTEND:20260222T143404Z
 DTSTART:20260222T111355Z
 SUMMARY:Semifinal 1: M8 vs BB
 UID:cs-go-roman-imperium-cup-5-2026-1360783@tournamentics
