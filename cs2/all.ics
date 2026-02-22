@@ -1944,7 +1944,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T173000Z
-SUMMARY:Grand final: M8 vs TBD
+SUMMARY:Grand final: M8 vs HOTU
 UID:cs-go-roman-imperium-cup-5-2026-1360786@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4828,7 +4828,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T173000Z
-SUMMARY:3rd Place match: BB vs TBD
+SUMMARY:3rd Place match: BB vs FNC
 UID:cs-go-roman-imperium-cup-5-2026-1360785@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7898,8 +7898,8 @@ SUMMARY:Skele vs LE-LUX
 UID:cs-go-cct-oceania-series-4-3-2026-1364206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: HOTU: 2 | fnatic: 0\nStream: https://www.twitch.tv/rmncs
+DTEND:20260222T173319Z
 DTSTART:20260222T155517Z
 SUMMARY:Semifinal 2: HOTU vs FNC
 UID:cs-go-roman-imperium-cup-5-2026-1360784@tournamentics
