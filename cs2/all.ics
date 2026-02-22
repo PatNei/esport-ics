@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
-DTSTART:20260222T154500Z
+DTSTART:20260222T161500Z
 SUMMARY:ECS vs GL
 UID:cs-go-parken-challenger-championship-1-2026-1366250@tournamentics
 END:VEVENT
@@ -536,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260222T160000Z
+DTSTART:20260222T161500Z
 SUMMARY:Round 1: GH vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369791@tournamentics
 END:VEVENT
@@ -3040,9 +3040,9 @@ SUMMARY:Round 3: PHA vs MSC
 UID:cs-go-a1-gaming-league-11-2026-1313572@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260222T160000Z
+DTSTART:20260222T160201Z
 SUMMARY:Grand final: VIT vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1350000@tournamentics
 END:VEVENT
@@ -3334,8 +3334,8 @@ SUMMARY:Round 1: CRASH vs R2
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369790@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nResult: The QUBE Esports: 0 | Change The Game: 2\nStream: No official stream linked
+DTEND:20260222T155825Z
 DTSTART:20260222T141321Z
 SUMMARY:Lower bracket semifinal: QUBE vs CTG
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363630@tournamentics
@@ -5674,7 +5674,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
-DTSTART:20260222T154500Z
+DTSTART:20260222T161500Z
 SUMMARY:PHA vs MINLATE
 UID:cs-go-parken-challenger-championship-1-2026-1366249@tournamentics
 END:VEVENT
@@ -7786,7 +7786,7 @@ SUMMARY:Skele vs LE-LUX
 UID:cs-go-cct-oceania-series-4-3-2026-1364206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260222T155517Z
 SUMMARY:Semifinal 2: HOTU vs FNC
@@ -9147,7 +9147,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260223T140000Z
-SUMMARY:Lower bracket final: LB vs TBD
+SUMMARY:Lower bracket final: LB vs CTG
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
