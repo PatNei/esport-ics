@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
 DURATION:PT2H
 DTSTART:20260301T163000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: HS vs 33
 UID:cs-go-a1-gaming-league-11-2026-1313600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -49,13 +49,6 @@ DURATION:PT2H
 DTSTART:20260301T140000Z
 SUMMARY:Quarterfinal 3: ECS vs KOL
 UID:cs-go-a1-gaming-league-11-2026-1313599@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
-DURATION:PT2H
-DTSTART:20260222T170000Z
-SUMMARY:Round of 16 match 8: 33 vs G1
-UID:cs-go-a1-gaming-league-11-2026-1313596@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: ECSTATIC: 2 | MASONIC: 1\nStream: https://www.twitch.tv/a1gamingleague
@@ -149,8 +142,8 @@ SUMMARY:Quarterfinal 2: NEMI vs AAB
 UID:cs-go-a1-gaming-league-11-2026-1313598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: Favbet: 1 | HyperSpirit: 2\nStream: https://www.twitch.tv/a1gamingleague
+DTEND:20260222T165902Z
 DTSTART:20260222T140643Z
 SUMMARY:Round of 16 match 7: FAV vs HS
 UID:cs-go-a1-gaming-league-11-2026-1313595@tournamentics
