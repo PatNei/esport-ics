@@ -277,16 +277,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kevindoruk
 DURATION:PT2H
-DTSTART:20260222T223000Z
+DTSTART:20260222T230000Z
 SUMMARY:Grand final: LAG vs FV
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363267@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | ENCE: 0\nStream: https://www.twitch.tv/croissantstrike
-DTEND:20260210T174858Z
-DTSTART:20260210T160517Z
-SUMMARY:Upper bracket quarterfinal 1: BB vs ENCE
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344418@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: XI Esport: 0 | Millennium Esports: 1\nStream: No official stream linked
@@ -590,13 +583,6 @@ SUMMARY:Round 4: PHA vs STA
 UID:cs-go-a1-gaming-league-11-2026-1313583@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: ENCE: 1 | fnatic: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260211T233101Z
-DTSTART:20260211T200420Z
-SUMMARY:Lower bracket quarterfinal 2: ENCE vs FNC
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344428@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260302T090000Z
@@ -884,13 +870,6 @@ SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-draculan-5-2026-1363307@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Tricked: 1 | EYEBALLERS: 2\nStream: https://www.twitch.tv/watchfulTVb
-DTEND:20260210T233111Z
-DTSTART:20260210T195842Z
-SUMMARY:Lower bracket round 1 match 4: TRI vs EYE
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344438@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260301T230000Z
@@ -1120,13 +1099,6 @@ DTEND:20260218T005034Z
 DTSTART:20260217T231718Z
 SUMMARY:Quarterfinal 4: REGAIN vs O49
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363263@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: fnatic: 2 | OG: 0\nStream: https://www.twitch.tv/eslcs
-DTEND:20260210T152005Z
-DTSTART:20260210T131819Z
-SUMMARY:Upper bracket round 1 match 5: FNC vs OG
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344414@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: Omega: 2 | home: 0\nStream: https://kick.com/nodwin_cs2
@@ -1421,13 +1393,6 @@ DTEND:20260220T204935Z
 DTSTART:20260220T180340Z
 SUMMARY:Round 1: ASTRAL vs ECF
 UID:cs-go-nodwin-clutch-series-5-2026-1356203@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | 33: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260212T180553Z
-DTSTART:20260212T161437Z
-SUMMARY:Upper bracket final: BB vs 33
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Preasy Esport: 2 | mix52: 0\nStream: https://kick.com/exort_en2
@@ -1780,13 +1745,6 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-draculan-5-2026-1363303@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 0 | Inner Circle Esports: 2\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260211T150830Z
-DTSTART:20260211T131017Z
-SUMMARY:Lower bracket round 2 match 1: CS vs ICE
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344434@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260226T010000Z
@@ -1850,18 +1808,18 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-gamers-club-liga-serie-a-february-2026-1360810@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260226T150000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
-UID:cs-go-cct-europe-series-16-3-2026-1351269@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: SIUUUUUU: 0 | CYBERSHOKE Prospects: 1\nStream: https://www.twitch.tv/rob1nfall
 DTEND:20260112T165341Z
 DTSTART:20260112T160846Z
 SUMMARY:SIU vs CYBERSHOKE Prospects
 UID:cs-go-esea-advanced-europe-56-2026-1317214@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260226T150000Z
+SUMMARY:Quarterfinal 3: TBD vs TBD
+UID:cs-go-cct-europe-series-16-3-2026-1351269@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: JiJieHao: 1 | CYBERSHOKE Prospects: 2\nStream: https://kick.com/exort_en2
@@ -1995,13 +1953,6 @@ DTEND:20260216T192938Z
 DTSTART:20260216T180615Z
 SUMMARY:Upper bracket round 3 match 3: FCF vs G1
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359207@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | BASEMENT BOYS: 0\nStream: https://www.twitch.tv/watchfultvb
-DTEND:20260210T124547Z
-DTSTART:20260210T105814Z
-SUMMARY:Upper bracket round 1 match 1: BB vs BMB
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344410@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: FURIA: 2 | B8: 0\nStream: https://www.twitch.tv/PGL
@@ -2312,13 +2263,6 @@ SUMMARY:Upper bracket quarterfinal 3: FNC vs ICE
 UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1367398@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: fnatic: 2 | K27: 1\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260210T215021Z
-DTSTART:20260210T190618Z
-SUMMARY:Upper bracket quarterfinal 3: FNC vs K27
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344420@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: FaZe: 1 | PARIVISION: 2\nStream: https://www.twitch.tv/qrushcsgo
 DTEND:20260216T104635Z
 DTSTART:20260216T080412Z
@@ -2604,13 +2548,6 @@ DURATION:PT2H
 DTSTART:20260224T090000Z
 SUMMARY:ALGO vs QWE
 UID:cs-go-european-pro-league-series-5-2026-1355918@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: ENCE: 2 | Alliance: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260211T185257Z
-DTSTART:20260211T164514Z
-SUMMARY:Lower bracket round 3 match 2: ENCE vs ALL
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Natus Vincere: 1 | TheMongolz: 2\nStream: https://www.twitch.tv/PGL
@@ -3096,13 +3033,6 @@ SUMMARY:Grand final: VIT vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1350000@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: 33: 2 | EYEBALLERS: 1\nStream: https://www.twitch.tv/esportstudion
-DTEND:20260210T175203Z
-DTSTART:20260210T142702Z
-SUMMARY:Upper bracket round 1 match 8: 33 vs EYE
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344417@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Square Sausages: 0 | FC Famalicão Esports: 1\nStream: https://www.twitch.tv/pedrotavares12
 DTEND:20260209T193708Z
 DTSTART:20260209T190925Z
@@ -3159,18 +3089,18 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-european-pro-league-series-5-2026-1356038@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 | LPH Gaming: 0\nStream: https://kick.com/exort_en2
-DTEND:20260220T151207Z
-DTSTART:20260220T133619Z
-SUMMARY:Round 1 match 1: G2.A vs LPH
-UID:cs-go-exort-series-22-2026-1368637@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: Voca: 1 | Wildcard: 2\nStream: https://www.twitch.tv/eslcsb
 DTEND:20260212T043841Z
 DTSTART:20260212T015613Z
 SUMMARY:Lower bracket final: VOCA vs WC
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344447@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 | LPH Gaming: 0\nStream: https://kick.com/exort_en2
+DTEND:20260220T151207Z
+DTSTART:20260220T133619Z
+SUMMARY:Round 1 match 1: G2.A vs LPH
+UID:cs-go-exort-series-22-2026-1368637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: M80: 2 | MONEY CREW: 0\nStream: https://www.twitch.tv/Trottah
@@ -3423,13 +3353,6 @@ DTEND:20260131T132918Z
 DTSTART:20260131T114313Z
 SUMMARY:Round 4: Fingers vs  CSDIILIT
 UID:cs-go-a1-gaming-league-11-2026-1313582@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 0 | Sinners: 2\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260211T220920Z
-DTSTART:20260211T200146Z
-SUMMARY:Lower bracket quarterfinal 1: JS vs SIN
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344427@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: TNT: 1 | BASEMENT BOYS: 0\nStream: https://www.twitch.tv/minicasterr
@@ -3705,13 +3628,6 @@ SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-draculan-5-2026-1363306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: OG: 2 | Team Nemesis: 1\nStream: https://www.twitch.tv/rmncs
-DTEND:20260211T005854Z
-DTSTART:20260210T205918Z
-SUMMARY:Lower bracket round 1 match 3: OG vs NEM
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344437@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260228T010000Z
@@ -3943,11 +3859,11 @@ SUMMARY:Quarterfinal 3: ZOMB vs FV
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363262@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | Sinners: 2\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260210T135923Z
-DTSTART:20260210T105725Z
-SUMMARY:Upper bracket round 1 match 4: NTR vs SIN
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344413@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | Astralis: 2\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260215T100828Z
+DTSTART:20260215T082019Z
+SUMMARY:Round 2: 3DMAX vs AST
+UID:cs-go-pgl-cluj-napoca-2026-1349969@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 2 | Pigeons: 0\nStream: https://kick.com/nodwin_cs2
@@ -3955,13 +3871,6 @@ DTEND:20260212T135422Z
 DTSTART:20260212T122655Z
 SUMMARY:BMB vs PGE
 UID:cs-go-nodwin-clutch-series-5-2026-1355216@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | Astralis: 2\nStream: https://www.twitch.tv/pgl_cs2
-DTEND:20260215T100828Z
-DTSTART:20260215T082019Z
-SUMMARY:Round 2: 3DMAX vs AST
-UID:cs-go-pgl-cluj-napoca-2026-1349969@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: META Cup - Season 4 2026\nMatch Type: Best Of\nResult: GoodGame Club: 1 | Miracle Gaming: 0\nStream: https://www.twitch.tv/meta_esports_kz2
@@ -4277,13 +4186,6 @@ DTEND:20260220T162853Z
 DTSTART:20260220T150143Z
 SUMMARY:Round 1: ILWL vs  CSDIILIT
 UID:cs-go-nodwin-clutch-series-5-2026-1356202@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: fnatic: 1 | 33: 2\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260211T192639Z
-DTSTART:20260211T160355Z
-SUMMARY:Upper bracket semifinal 2: FNC vs 33
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344423@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | B8: 1\nStream: https://www.twitch.tv/PGL
@@ -4648,13 +4550,6 @@ DURATION:PT2H
 DTSTART:20260227T160000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-draculan-5-2026-1363302@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Alliance: 2 | OG: 1\nStream: https://www.twitch.tv/eslcs
-DTEND:20260211T161044Z
-DTSTART:20260211T130750Z
-SUMMARY:Lower bracket round 2 match 3: ALL vs OG
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344433@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: G2: 2 | Heroic: 0\nStream: https://www.youtube.com/watch?v=oEyXe_Zjq4o
@@ -6092,13 +5987,6 @@ SUMMARY:Semifinal 2: FV vs O49
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363265@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | Tricked: 1\nStream: https://www.twitch.tv/grimyrannarrcsgo
-DTEND:20260210T174821Z
-DTSTART:20260210T133120Z
-SUMMARY:Upper bracket round 1 match 7: ICE vs TRI
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344416@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 1 | VP.Prodigy: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260215T181137Z
 DTSTART:20260215T151205Z
@@ -6197,18 +6085,18 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356229@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: WATERMELON: 1 | CYBERSHOKE Prospects: 2\nStream: https://kick.com/exort_en2
-DTEND:20260220T131451Z
-DTSTART:20260220T104159Z
-SUMMARY:Round 1 match 4: WTRML0N vs CYBERSHOKE Prospects
-UID:cs-go-exort-series-22-2026-1368636@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: Passion UA: 2 | Wildcard: 0\nStream: https://www.twitch.tv/eslcs
 DTEND:20260213T024524Z
 DTSTART:20260213T011042Z
 SUMMARY:Grand final: PSSN.UA vs WC
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344446@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: WATERMELON: 1 | CYBERSHOKE Prospects: 2\nStream: https://kick.com/exort_en2
+DTEND:20260220T131451Z
+DTSTART:20260220T104159Z
+SUMMARY:Round 1 match 4: WTRML0N vs CYBERSHOKE Prospects
+UID:cs-go-exort-series-22-2026-1368636@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: B8 Academy: 0 | MANA eSports: 1\nStream: No official stream linked
@@ -6454,13 +6342,6 @@ DTEND:20260131T160025Z
 DTSTART:20260131T142100Z
 SUMMARY:Round 4: LK vs 777
 UID:cs-go-a1-gaming-league-11-2026-1313581@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Sinners: 2 | fnatic: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260212T174824Z
-DTSTART:20260212T160825Z
-SUMMARY:Lower bracket semifinal: SIN vs FNC
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344426@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Eternal Fire Academy: 0 | Wave Esports: 2\nStream: https://kick.com/exort_en2
@@ -6764,13 +6645,6 @@ SUMMARY:Round of 16 match 3: SNG vs AAB
 UID:cs-go-a1-gaming-league-11-2026-1313591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 2 | Nuclear TigeRES: 0\nStream: https://www.twitch.tv/watchfultvb
-DTEND:20260210T192045Z
-DTSTART:20260210T172227Z
-SUMMARY:Lower bracket round 1 match 2: JS vs NTR
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344436@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260227T010000Z
@@ -7014,13 +6888,6 @@ DTEND:20260219T015342Z
 DTSTART:20260219T002413Z
 SUMMARY:Quarterfinal 2: TA vs LAG
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363261@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Alliance: 2 | Johnny Speeds: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260210T123115Z
-DTSTART:20260210T103529Z
-SUMMARY:Upper bracket round 1 match 3: ALL vs JS
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344412@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Natus Vincere: 0 | MOUZ: 2\nStream: https://www.twitch.tv/PGL
@@ -7387,13 +7254,6 @@ SUMMARY:Upper bracket semifinal 2: LVG vs CW
 UID:cs-go-pgl-bucharest-east-asian-closed-qualifier-2026-1367429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | Sinners: 1\nStream: https://www.twitch.tv/trottah
-DTEND:20260211T190821Z
-DTSTART:20260211T160403Z
-SUMMARY:Upper bracket semifinal 1: BB vs SIN
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344422@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | Astralis: 0\nStream: https://www.twitch.tv/bysl4m
 DTEND:20260216T124748Z
 DTSTART:20260216T111306Z
@@ -7709,13 +7569,6 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-draculan-5-2026-1363301@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: K27: 0 | Johnny Speeds: 2\nStream: https://www.twitch.tv/watchfulTVb
-DTEND:20260211T151816Z
-DTSTART:20260211T130407Z
-SUMMARY:Lower bracket round 2 match 2: K27 vs JS
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344432@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: FURIA: 2 | PARIVISION: 1\nStream: https://www.twitch.tv/PGL
 DTEND:20260217T190048Z
 DTSTART:20260217T152748Z
@@ -7926,18 +7779,18 @@ SUMMARY:Quarterfinal 2: NEMI vs AAB
 UID:cs-go-a1-gaming-league-11-2026-1313598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
-DURATION:PT2H
-DTSTART:20260226T160000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
-UID:cs-go-betboom-rush-b-summit-2-2026-1360799@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: Passion UA: 2 | mouse: 0\nStream: https://www.twitch.tv/passion_ua
 DTEND:20260210T202531Z
 DTSTART:20260210T191312Z
 SUMMARY:Upper bracket quarterfinal 1: PSSN.UA vs mouse
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344439@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260226T160000Z
+SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+UID:cs-go-betboom-rush-b-summit-2-2026-1360799@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -8218,13 +8071,6 @@ DTEND:20260124T132338Z
 DTSTART:20260124T113330Z
 SUMMARY:Round 3: AAB vs BRUTE
 UID:cs-go-a1-gaming-league-11-2026-1313574@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Alliance: 0 | Sinners: 2\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260210T202956Z
-DTSTART:20260210T182337Z
-SUMMARY:Upper bracket quarterfinal 2: ALL vs SIN
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344419@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: LFO: 0 | QUAZAR: 1\nStream: https://www.twitch.tv/goyarego
@@ -8512,13 +8358,6 @@ DTEND:20260201T160942Z
 DTSTART:20260201T141342Z
 SUMMARY:Round 4: ACE vs BRUTE
 UID:cs-go-a1-gaming-league-11-2026-1313584@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 0 | Johnny Speeds: 2\nStream: https://www.twitch.tv/JohnnySpeeds
-DTEND:20260211T181151Z
-DTSTART:20260211T161025Z
-SUMMARY:Lower bracket round 3 match 1: ICE vs JS
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -9060,13 +8899,6 @@ SUMMARY:Semifinal 1: WC vs LAG
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363264@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Team Nemesis: 0 | K27: 2\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260210T164921Z
-DTSTART:20260210T144036Z
-SUMMARY:Upper bracket round 1 match 6: NEM vs K27
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344415@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 |  CSDIILIT: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260215T105231Z
 DTSTART:20260215T090720Z
@@ -9389,13 +9221,6 @@ SUMMARY:Round 4: AAB vs WSG
 UID:cs-go-a1-gaming-league-11-2026-1313580@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Sinners: 1 | 33: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260212T223658Z
-DTSTART:20260212T190848Z
-SUMMARY:Lower bracket final: SIN vs 33
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344425@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | XI Esport: 0\nStream: https://kick.com/exort_en2
 DTEND:20260219T181126Z
 DTSTART:20260219T164148Z
@@ -9655,13 +9480,6 @@ SUMMARY:Round of 16 match 2: ORM vs Fingers
 UID:cs-go-a1-gaming-league-11-2026-1313590@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 0 | CYBERSHOKE Esports: 2\nStream: https://www.twitch.tv/watchfultvd
-DTEND:20260210T202609Z
-DTSTART:20260210T184419Z
-SUMMARY:Lower bracket round 1 match 1: BMB vs CS
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344435@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260226T220000Z
@@ -9863,13 +9681,6 @@ DTEND:20260216T204949Z
 DTSTART:20260216T181104Z
 SUMMARY:Upper bracket round 3 match 4: HAVU vs ORM
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359208@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: ENCE: 2 | CYBERSHOKE Esports: 1\nStream: https://www.twitch.tv/Trottah
-DTEND:20260210T140504Z
-DTSTART:20260210T111430Z
-SUMMARY:Upper bracket round 1 match 2: ENCE vs CS
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | paiN: 1\nStream: https://www.twitch.tv/pgl_cs2
@@ -10171,13 +9982,6 @@ DURATION:PT2H
 DTSTART:20260226T180000Z
 SUMMARY:Upper bracket quarterfinal 4: BB vs FOKUS
 UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1367399@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 1 | 33: 2\nStream: https://www.twitch.tv/aferatv
-DTEND:20260210T235045Z
-DTSTART:20260210T210023Z
-SUMMARY:Upper bracket quarterfinal 4: ICE vs 33
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344421@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | Aurora Gaming: 1\nStream: https://www.twitch.tv/PGL
@@ -10521,13 +10325,6 @@ DURATION:PT2H
 DTSTART:20260226T170000Z
 SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-draculan-5-2026-1363300@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: ENCE: 2 | EYEBALLERS: 0\nStream: https://www.twitch.tv/esportstudion
-DTEND:20260211T144012Z
-DTSTART:20260211T130343Z
-SUMMARY:Lower bracket round 2 match 4: ENCE vs EYE
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344431@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: B8: 0 | Aurora Gaming: 2\nStream: https://www.twitch.tv/pgl_cs2
