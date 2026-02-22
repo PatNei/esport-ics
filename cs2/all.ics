@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/TravCS
 DURATION:PT2H
-DTSTART:20260222T190000Z
+DTSTART:20260222T193000Z
 SUMMARY:BOSS vs BCG
 UID:cs-go-parken-challenger-championship-1-2026-1366365@tournamentics
 END:VEVENT
@@ -2965,7 +2965,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/officialhyper
 DURATION:PT2H
-DTSTART:20260222T190000Z
+DTSTART:20260222T210000Z
 SUMMARY:ECS vs PHA
 UID:cs-go-parken-challenger-championship-1-2026-1366364@tournamentics
 END:VEVENT
@@ -3075,8 +3075,8 @@ SUMMARY:Round 3: PHA vs MSC
 UID:cs-go-a1-gaming-league-11-2026-1313572@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Vitality: 3 | PARIVISION: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260222T191110Z
 DTSTART:20260222T160201Z
 SUMMARY:Grand final: VIT vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1350000@tournamentics
@@ -3771,7 +3771,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
 DTSTART:20260222T193000Z
-SUMMARY:Grand final: 33 vs TBD
+SUMMARY:Grand final: 33 vs CYBERSHOKE Prospects
 UID:cs-go-exort-series-22-2026-1371096@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4323,7 +4323,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_d
 DURATION:PT2H
-DTSTART:20260222T190000Z
+DTSTART:20260222T193000Z
 SUMMARY:Avanti Esport vs ECS
 UID:cs-go-parken-challenger-championship-1-2026-1366347@tournamentics
 END:VEVENT
@@ -5975,7 +5975,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ashhhcsgo
 DURATION:PT2H
-DTSTART:20260222T190000Z
+DTSTART:20260222T210000Z
 SUMMARY:MINLATE vs GL
 UID:cs-go-parken-challenger-championship-1-2026-1366363@tournamentics
 END:VEVENT
@@ -6841,8 +6841,8 @@ SUMMARY:FUT.A vs LC
 UID:cs-go-esea-advanced-europe-56-2026-1349941@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | CYBERSHOKE Prospects: 2\nStream: https://kick.com/exort_en2
+DTEND:20260222T190635Z
 DTSTART:20260222T163903Z
 SUMMARY:Semifinal 2: ex-GANK Esports vs CYBERSHOKE Prospects
 UID:cs-go-exort-series-22-2026-1371095@tournamentics
@@ -8117,7 +8117,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
-DTSTART:20260222T190000Z
+DTSTART:20260222T200000Z
 SUMMARY:SASHI vs ILWL
 UID:cs-go-parken-challenger-championship-1-2026-1366366@tournamentics
 END:VEVENT
@@ -8458,9 +8458,9 @@ SUMMARY:Winners match: BB vs FNC
 UID:cs-go-roman-imperium-cup-5-2026-1360770@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260222T190000Z
+DTSTART:20260222T190915Z
 SUMMARY:Round 1: VSC vs UNO
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369792@tournamentics
 END:VEVENT
@@ -9118,7 +9118,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/byalli
 DURATION:PT2H
-DTSTART:20260222T190000Z
+DTSTART:20260222T200000Z
 SUMMARY:PHA vs SIN
 UID:cs-go-parken-challenger-championship-1-2026-1366339@tournamentics
 END:VEVENT
