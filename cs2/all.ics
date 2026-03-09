@@ -3001,7 +3001,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260310T120000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: AM vs TBD
 UID:cs-go-parken-challenger-championship-2-2026-1384207@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6134,8 +6134,8 @@ SUMMARY:Round 4: SERA vs ST
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368665@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 2 2026\nMatch Type: Best Of\nResult: Voca: 1 | AM Gaming: 2\nStream: https://kick.com/challengerchampionship
+DTEND:20260309T231342Z
 DTSTART:20260309T202537Z
 SUMMARY:Lower bracket semifinal: VOCA vs AM
 UID:cs-go-parken-challenger-championship-2-2026-1384206@tournamentics
@@ -9216,7 +9216,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260309T230000Z
+DTSTART:20260309T231500Z
 SUMMARY:Round 5: FA vs CRASH
 UID:cs-go-betboom-storm-1-2026-1380565@tournamentics
 END:VEVENT
