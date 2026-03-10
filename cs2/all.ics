@@ -761,7 +761,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260313T153000Z
-SUMMARY:Quarterfinal 3: MGLZ vs NAVI
+SUMMARY:Quarterfinal 4: MOUZ vs FUT
 UID:cs-go-esl-pro-league-23-2026-1378935@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5406,8 +5406,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-aorus-latam-2026-1392420@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nekommentator
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: eLITenergy: 1 | ENRAGE: 2\nStream: https://www.twitch.tv/nekommentator
+DTEND:20260310T220901Z
 DTSTART:20260310T191626Z
 SUMMARY:Lower bracket round 2 match 6: eLITenergy vs ENRAGE
 UID:cs-go-esea-advanced-europe-56-2026-1382746@tournamentics
@@ -6949,7 +6949,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260313T090000Z
-SUMMARY:Quarterfinal 1: AST vs TS
+SUMMARY:Quarterfinal 3: MGLZ vs NAVI
 UID:cs-go-esl-pro-league-23-2026-1378933@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9042,7 +9042,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260313T184500Z
-SUMMARY:Quarterfinal 4: MOUZ vs FUT
+SUMMARY:Quarterfinal 1: AST vs TS
 UID:cs-go-esl-pro-league-23-2026-1378936@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9805,7 +9805,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260311T183000Z
-SUMMARY:Lower bracket round 3 match 3: HAVU vs TBD
+SUMMARY:Lower bracket round 3 match 3: HAVU vs ENRAGE
 UID:cs-go-esea-advanced-europe-56-2026-1382751@tournamentics
 END:VEVENT
 BEGIN:VEVENT
