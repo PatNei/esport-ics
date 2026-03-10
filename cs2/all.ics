@@ -446,7 +446,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
 DURATION:PT2H
 DTSTART:20260311T213000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Hacha Esports vs TBD
 UID:cs-go-aorus-latam-2026-1392429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1374,9 +1374,9 @@ SUMMARY:NIP vs VOCA
 UID:cs-go-roman-imperium-cup-6-2026-1389756@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260310T193000Z
+DTSTART:20260310T194142Z
 SUMMARY:Round 4: EC BANGA vs ex-GANK Esports
 UID:cs-go-exort-series-23-2026-1392394@tournamentics
 END:VEVENT
@@ -1843,8 +1843,8 @@ SUMMARY:Winners match: UNiTY vs WW
 UID:cs-go-european-pro-league-series-5-2026-1355898@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: Nordic Valor: 0 | BOJONG: 2\nStream: https://www.twitch.tv/elisaviihdesport
+DTEND:20260310T194606Z
 DTSTART:20260310T180043Z
 SUMMARY:Round 3: Nordic Valor vs BOJONG
 UID:cs-go-elisa-open-suomi-12-2026-1372438@tournamentics
@@ -3603,7 +3603,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
 DURATION:PT2H
 DTSTART:20260311T000000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: PCY vs TBD
 UID:cs-go-aorus-latam-2026-1392428@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8458,8 +8458,8 @@ SUMMARY:QWE vs EF
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380944@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | UNO MILLE: 1\nStream: No official stream linked
+DTEND:20260310T194618Z
 DTSTART:20260310T165644Z
 SUMMARY:BST.A vs UNO
 UID:cs-go-aorus-brazil-open-qualifier-2026-1392432@tournamentics
@@ -9963,8 +9963,8 @@ SUMMARY:Round 3: NVQ vs ENCE.A
 UID:cs-go-bc-game-masters-1-2026-1381430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 1 | Hacha Esports: 0\nStream: https://www.twitch.tv/aoruslatam
+DTEND:20260310T194311Z
 DTSTART:20260310T190739Z
 SUMMARY:PCY vs Hacha Esports
 UID:cs-go-aorus-latam-2026-1392426@tournamentics
