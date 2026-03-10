@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nResult: Partizan Esport: 1 | Misa Esports: 2\nStream: https://kick.com/cct-cs5
+DTEND:20260310T230230Z
 DTSTART:20260310T200226Z
 SUMMARY:Upper bracket quarterfinal 2: PAR vs MISA
 UID:cs-go-cct-europe-contenders-2-2026-1391719@tournamentics
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
 DTSTART:20260311T191500Z
-SUMMARY:Lower bracket round 2 match 3: TBD vs TS.A
+SUMMARY:Lower bracket round 2 match 3: PAR vs TS.A
 UID:cs-go-cct-europe-contenders-2-2026-1392405@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
 DTSTART:20260312T191500Z
-SUMMARY:Upper bracket semifinal 1: DNT vs TBD
+SUMMARY:Upper bracket semifinal 1: DNT vs MISA
 UID:cs-go-cct-europe-contenders-2-2026-1392409@tournamentics
 END:VEVENT
 BEGIN:VEVENT

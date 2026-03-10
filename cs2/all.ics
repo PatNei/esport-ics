@@ -9329,7 +9329,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
 DTSTART:20260312T191500Z
-SUMMARY:Upper bracket semifinal 1: DNT vs TBD
+SUMMARY:Upper bracket semifinal 1: DNT vs MISA
 UID:cs-go-cct-europe-contenders-2-2026-1392409@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9865,8 +9865,8 @@ SUMMARY:QUA vs SS
 UID:cs-go-esea-advanced-europe-56-2026-1328938@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nResult: Partizan Esport: 1 | Misa Esports: 2\nStream: https://kick.com/cct-cs5
+DTEND:20260310T230230Z
 DTSTART:20260310T200226Z
 SUMMARY:Upper bracket quarterfinal 2: PAR vs MISA
 UID:cs-go-cct-europe-contenders-2-2026-1391719@tournamentics
@@ -10222,8 +10222,8 @@ SUMMARY:Decider match: MEGO vs Imperial.A
 UID:cs-go-united21-45-2026-1365961@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nResult: Galorys: 2 | RED Canids Academy: 0\nStream: No official stream linked
+DTEND:20260310T230421Z
 DTSTART:20260310T210859Z
 SUMMARY:GLS vs RED.A
 UID:cs-go-aorus-brazil-open-qualifier-2026-1392435@tournamentics
@@ -10246,7 +10246,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
 DTSTART:20260311T191500Z
-SUMMARY:Lower bracket round 2 match 3: TBD vs TS.A
+SUMMARY:Lower bracket round 2 match 3: PAR vs TS.A
 UID:cs-go-cct-europe-contenders-2-2026-1392405@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -11209,8 +11209,8 @@ SUMMARY:BBP vs  CSDIILIT
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/metanoiagg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | METANOIA WOLVES: 0\nStream: https://www.twitch.tv/metanoiagg
+DTEND:20260310T230424Z
 DTSTART:20260310T210902Z
 SUMMARY:ODK vs MW
 UID:cs-go-aorus-brazil-open-qualifier-2026-1392431@tournamentics
