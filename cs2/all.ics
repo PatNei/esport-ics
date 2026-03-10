@@ -2125,7 +2125,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
-DTSTART:20260310T180000Z
+DTSTART:20260310T182000Z
 SUMMARY:Winners match: NEMI vs ARC
 UID:cs-go-cis-lan-championship-3-2026-1387155@tournamentics
 END:VEVENT
@@ -6267,8 +6267,8 @@ SUMMARY:TDK vs MUERTA TEAM
 UID:cs-go-izi-wex-1-2026-1381482@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/piaskees
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: los kogutos: 1 | WW Team: 2\nStream: https://www.twitch.tv/piaskees
+DTEND:20260310T175545Z
 DTSTART:20260310T150959Z
 SUMMARY:Round 5: LK vs WW
 UID:cs-go-bc-game-masters-1-2026-1381445@tournamentics
@@ -6673,8 +6673,8 @@ SUMMARY:Lower bracket round 2 match 2: ex-GANK Esports vs AIMC
 UID:cs-go-esea-advanced-europe-56-2026-1382742@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 5 2026\nMatch Type: Best Of\nResult: Sashi Esport: 1 | Team Nemesis: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260310T174906Z
 DTSTART:20260310T145759Z
 SUMMARY:3rd Place match: SASHI vs NEM
 UID:cs-go-european-pro-league-series-5-2026-1356037@tournamentics
