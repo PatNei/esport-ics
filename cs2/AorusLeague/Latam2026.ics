@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
 DURATION:PT2H
 DTSTART:20260312T190000Z
-SUMMARY:Decider match: c0ki vs TBD
+SUMMARY:Decider match: c0ki vs R2
 UID:cs-go-aorus-latam-2026-1392425@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -37,8 +37,8 @@ SUMMARY:ISG vs LYN
 UID:cs-go-aorus-latam-2026-1392427@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nResult: R2 Esports Club: 2 | SUPERMATCH: 0\nStream: https://www.twitch.tv/aoruslatam
+DTEND:20260311T210056Z
 DTSTART:20260311T191316Z
 SUMMARY:Elimination match: R2 vs SUPER
 UID:cs-go-aorus-latam-2026-1392424@tournamentics
