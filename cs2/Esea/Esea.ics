@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260313T183000Z
-SUMMARY:Lower bracket round 4 match 4:  CSDIILIT vs TBD
+SUMMARY:Lower bracket round 4 match 4:  CSDIILIT vs EP
 UID:cs-go-esea-advanced-europe-56-2026-1382756@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1157,8 +1157,8 @@ SUMMARY:HAVU vs AM
 UID:cs-go-esea-advanced-europe-56-2026-1326099@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: eternal premium: 2 | LFO: 1\nStream: No official stream linked
+DTEND:20260311T234930Z
 DTSTART:20260311T211814Z
 SUMMARY:Lower bracket round 3 match 4: EP vs LFO
 UID:cs-go-esea-advanced-europe-56-2026-1382752@tournamentics
