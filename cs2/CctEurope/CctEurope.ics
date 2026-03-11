@@ -158,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260311T180000Z
+DTSTART:20260311T181500Z
 SUMMARY:Round of 16 match 8: JS vs ex-RUBY
 UID:cs-go-cct-europe-series-17-3-2026-1373751@tournamentics
 END:VEVENT
@@ -555,8 +555,8 @@ SUMMARY:Quarterfinal 2: QWE vs Leo
 UID:cs-go-cct-europe-series-17-3-2026-1373753@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | Favbet: 2\nStream: https://kick.com/cct_cs
+DTEND:20260311T175726Z
 DTSTART:20260311T161710Z
 SUMMARY:Round of 16 match 7: AM vs FAV
 UID:cs-go-cct-europe-series-17-3-2026-1373750@tournamentics
@@ -607,7 +607,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
 DTSTART:20260312T163000Z
-SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 2: TS.A vs TBD
 UID:cs-go-cct-europe-contenders-2-2026-1392408@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -625,8 +625,8 @@ SUMMARY:Round 3: PHA vs ASTRAL
 UID:cs-go-cct-europe-series-17-3-2026-1373730@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs6
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nResult: Spirit Academy: 2 | Qual4: 0\nStream: https://kick.com/cct-cs6
+DTEND:20260311T175453Z
 DTSTART:20260311T163343Z
 SUMMARY:Lower bracket round 2 match 3: TS.A vs Qual4
 UID:cs-go-cct-europe-contenders-2-2026-1392405@tournamentics
@@ -915,7 +915,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260312T090000Z
-SUMMARY:Quarterfinal 1: HOTU vs TBD
+SUMMARY:Quarterfinal 1: HOTU vs FAV
 UID:cs-go-cct-europe-series-17-3-2026-1373752@tournamentics
 END:VEVENT
 BEGIN:VEVENT
