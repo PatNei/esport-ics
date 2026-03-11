@@ -415,9 +415,9 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-dust2-dk-31-2026-1387931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/forg1
+DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/forg1
 DURATION:PT2H
-DTSTART:20260311T213000Z
+DTSTART:20260311T214139Z
 SUMMARY:Elimination match: Hacha Esports vs LYN
 UID:cs-go-aorus-latam-2026-1392429@tournamentics
 END:VEVENT
@@ -8580,7 +8580,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260313T183000Z
-SUMMARY:Lower bracket round 4 match 3: AUR.YB vs TBD
+SUMMARY:Lower bracket round 4 match 3: AUR.YB vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1382755@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9438,8 +9438,8 @@ SUMMARY:Round 4: CRASH vs UNO
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369812@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/havugaming
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: HAVU: 2 | ENRAGE: 1\nStream: https://www.twitch.tv/havugaming
+DTEND:20260311T213833Z
 DTSTART:20260311T184837Z
 SUMMARY:Lower bracket round 3 match 3: HAVU vs ENRAGE
 UID:cs-go-esea-advanced-europe-56-2026-1382751@tournamentics
