@@ -126,76 +126,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Cct
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series10Season32026.ics
 ```
 
-### Series #9 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series9Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series9Season32026.ics
-```
-
-</details>
-
-<details>
-<summary>European Pro League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
-```
-
----
-
-### Series 5 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series52026.ics
-```
-
-</details>
-
-<details>
-<summary>Parken Challenger Championship</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/ParkenChallengerChampionship.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/ParkenChallengerChampionship.ics
-```
-
----
-
-### Season 2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season22026.ics
-```
-
-</details>
-
-<details>
-<summary>Stake Ranked</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics
-```
-
----
-
-### Episode 1: Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode1ClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode1ClosedQualifier2026.ics
-```
-
 </details>
 
 ## D Tier
@@ -211,13 +141,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/AorusLe
 ```
 
 ---
-
-### Brazil Open Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/BrazilOpenQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/BrazilOpenQualifier2026.ics
-```
 
 ### LATAM 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/Latam2026.ics)
@@ -303,39 +226,11 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 
 ---
 
-### Closed Qualifier: Series #18 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries18Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries18Season32026.ics
-```
-
 ### Contenders #2 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders22026.ics)
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders22026.ics
-```
-
-</details>
-
-<details>
-<summary>Circuit X</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CircuitX.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CircuitX.ics
-```
-
----
-
-### Pantanal Cuiabá 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/PantanalCuiab2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/PantanalCuiab2026.ics
 ```
 
 </details>
@@ -415,13 +310,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Dust2
 
 ---
 
-### Closed Qualifier season 31 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/ClosedQualifierSeason312026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/ClosedQualifierSeason312026.ics
-```
-
 ### Season 31 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Season312026.ics)
 
@@ -474,27 +362,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/AdvancedEurope
 </details>
 
 <details>
-<summary>Exort Meteor</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortMeteor/ExortMeteor.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortMeteor/ExortMeteor.ics
-```
-
----
-
-### Season 2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortMeteor/Season22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortMeteor/Season22026.ics
-```
-
-</details>
-
-<details>
 <summary>Exort Series</summary>
 
 ### Full Schedule
@@ -516,27 +383,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season2
 </details>
 
 <details>
-<summary>IZI WEX</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IziWex/IziWex.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IziWex/IziWex.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IziWex/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IziWex/Season12026.ics
-```
-
-</details>
-
-<details>
 <summary>NODWIN Clutch Series</summary>
 
 ### Full Schedule
@@ -547,13 +393,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 ```
 
 ---
-
-### Season 5 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season52026.ics
-```
 
 ### Season 6 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season62026.ics)
@@ -576,39 +415,11 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/United21.i
 
 ---
 
-### Season 45 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season452026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season452026.ics
-```
-
 ### Season 46 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season462026.ics)
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season462026.ics
-```
-
-</details>
-
-<details>
-<summary>Winline Star Series</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/WinlineStarSeries/WinlineStarSeries.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/WinlineStarSeries/WinlineStarSeries.ics
-```
-
----
-
-### Season 2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/WinlineStarSeries/Season22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/WinlineStarSeries/Season22026.ics
 ```
 
 </details>
