@@ -236,7 +236,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
 DTSTART:20260313T163000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: Inner Circle Academy vs TBD
 UID:cs-go-cct-europe-contenders-2-2026-1392411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3019,9 +3019,9 @@ SUMMARY:Round 5: 3DMAX vs NAVI
 UID:cs-go-esl-pro-league-23-2026-1378890@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roman
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roman
 DURATION:PT2H
-DTSTART:20260312T174000Z
+DTSTART:20260312T181017Z
 SUMMARY:EYE vs SAW
 UID:cs-go-roman-imperium-cup-6-2026-1389749@tournamentics
 END:VEVENT
@@ -3985,8 +3985,8 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-blast-open-rotterdam-spring-2026-1394934@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs6
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 2 | Duggedup: 0\nStream: https://kick.com/cct-cs6
+DTEND:20260312T180909Z
 DTSTART:20260312T163407Z
 SUMMARY:Lower bracket round 3 match 1: Inner Circle Academy vs DUG
 UID:cs-go-cct-europe-contenders-2-2026-1392407@tournamentics
@@ -6116,7 +6116,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260314T120000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: MOUZ.N vs TBD
 UID:cs-go-bc-game-masters-1-2026-1381455@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7975,8 +7975,8 @@ SUMMARY:OverDrive vs Recrent
 UID:cs-go-winline-star-series-2-2026-1374295@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | megoshort: 1\nStream: https://www.twitch.tv/bcgamemasters
+DTEND:20260312T181159Z
 DTSTART:20260312T150814Z
 SUMMARY:Round of 16 match 3: MOUZ.N vs MEGO
 UID:cs-go-bc-game-masters-1-2026-1381448@tournamentics
@@ -8724,9 +8724,9 @@ SUMMARY:ALGO vs aimclub
 UID:cs-go-esea-advanced-europe-56-2026-1330370@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260312T180000Z
+DTSTART:20260312T180857Z
 SUMMARY:ENCE.A vs LILMIX
 UID:cs-go-nodwin-clutch-series-6-2026-1389695@tournamentics
 END:VEVENT
