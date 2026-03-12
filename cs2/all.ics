@@ -2853,7 +2853,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260312T120000Z
+DTSTART:20260312T123000Z
 SUMMARY:Quarterfinal 3: K27 vs ex-RUBY
 UID:cs-go-cct-europe-series-17-3-2026-1373754@tournamentics
 END:VEVENT
@@ -4139,8 +4139,8 @@ SUMMARY:Round 4: WB vs BMB
 UID:cs-go-nodwin-clutch-series-5-2026-1356226@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Team Nemesis: 1 | K27: 2\nStream: https://www.twitch.tv/MPKBK
+DTEND:20260312T114120Z
 DTSTART:20260312T090005Z
 SUMMARY:Semifinal 1: NEM vs K27
 UID:cs-go-cis-lan-championship-3-2026-1387191@tournamentics
@@ -5077,9 +5077,9 @@ SUMMARY:Round 4: NIP vs GG
 UID:cs-go-esl-pro-league-23-2026-1376216@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260312T113000Z
+DTSTART:20260312T113630Z
 SUMMARY:LPH vs UNiTY
 UID:cs-go-united21-46-2026-1392359@tournamentics
 END:VEVENT
@@ -6270,7 +6270,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260312T180000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: K27 vs TBD
 UID:cs-go-cis-lan-championship-3-2026-1387194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8334,7 +8334,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xristcs
 DURATION:PT2H
-DTSTART:20260312T113000Z
+DTSTART:20260312T114500Z
 SUMMARY:Lower bracket final: CW vs LVG
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391069@tournamentics
 END:VEVENT
@@ -9252,7 +9252,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260312T150000Z
-SUMMARY:3rd place decider: TBD vs TBD
+SUMMARY:3rd place decider: NEM vs TBD
 UID:cs-go-cis-lan-championship-3-2026-1387193@tournamentics
 END:VEVENT
 BEGIN:VEVENT
