@@ -208,7 +208,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260314T180000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: MZP vs TBD
 UID:cs-go-bc-game-masters-1-2026-1381457@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2886,8 +2886,8 @@ SUMMARY:Winners match: BMB vs Omega
 UID:cs-go-nodwin-clutch-series-5-2026-1356105@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Metizport: 2 | ENCE Academy: 1\nStream: https://www.twitch.tv/bcgamemasters
+DTEND:20260312T124108Z
 DTSTART:20260312T091108Z
 SUMMARY:Round of 16 match 1: MZP vs ENCE.A
 UID:cs-go-bc-game-masters-1-2026-1381446@tournamentics
