@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260313T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: BBP vs TBD
 UID:cs-go-nodwin-clutch-series-6-2026-1389691@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -296,8 +296,8 @@ SUMMARY:MANA vs MSQ
 UID:cs-go-nodwin-clutch-series-6-2026-1389690@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: Bebop: 1 | The Last Resort: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260312T115428Z
 DTSTART:20260312T090849Z
 SUMMARY:BBP vs TLR
 UID:cs-go-nodwin-clutch-series-6-2026-1389689@tournamentics
@@ -453,7 +453,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260313T150000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: TLR vs TBD
 UID:cs-go-nodwin-clutch-series-6-2026-1389692@tournamentics
 END:VEVENT
 BEGIN:VEVENT
