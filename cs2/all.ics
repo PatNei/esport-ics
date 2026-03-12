@@ -1278,7 +1278,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
-DTSTART:20260312T220000Z
+DTSTART:20260312T223000Z
 SUMMARY:NIP vs VOCA
 UID:cs-go-roman-imperium-cup-6-2026-1389756@tournamentics
 END:VEVENT
@@ -7936,7 +7936,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260313T110000Z
-SUMMARY:Semifinal 1: Leo vs TBD
+SUMMARY:Semifinal 1: Leo vs HOTU
 UID:cs-go-cct-europe-series-17-3-2026-1373756@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8773,8 +8773,8 @@ SUMMARY:QWE vs URSA
 UID:cs-go-esea-advanced-europe-56-2026-1337973@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: HOTU: 2 | Favbet: 1\nStream: https://kick.com/cct_cs
+DTEND:20260312T214918Z
 DTSTART:20260312T190854Z
 SUMMARY:Quarterfinal 1: HOTU vs FAV
 UID:cs-go-cct-europe-series-17-3-2026-1373752@tournamentics
@@ -9293,7 +9293,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260312T220000Z
+DTSTART:20260312T223000Z
 SUMMARY:SAW vs ledopieca
 UID:cs-go-roman-imperium-cup-6-2026-1389757@tournamentics
 END:VEVENT
