@@ -236,7 +236,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
 DTSTART:20260313T163000Z
-SUMMARY:Lower bracket quarterfinal 1: Inner Circle Academy vs TBD
+SUMMARY:Lower bracket quarterfinal 1: Inner Circle Academy vs YN
 UID:cs-go-cct-europe-contenders-2-2026-1392411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3215,8 +3215,8 @@ SUMMARY:Round 3: UNiTY vs Falcons Force
 UID:cs-go-exort-meteor-2-2026-1374941@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nResult: Young Ninjas: 0 | Endless Journey: 2\nStream: https://kick.com/cct-cs5
+DTEND:20260312T213343Z
 DTSTART:20260312T194045Z
 SUMMARY:Upper bracket semifinal 2: YN vs EJ
 UID:cs-go-cct-europe-contenders-2-2026-1392410@tournamentics
@@ -4202,9 +4202,9 @@ SUMMARY:aimclub vs URSA
 UID:cs-go-esea-advanced-europe-56-2026-1348423@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
-DTSTART:20260312T213000Z
+DTSTART:20260312T213507Z
 SUMMARY:EYE vs VOCA
 UID:cs-go-roman-imperium-cup-6-2026-1389755@tournamentics
 END:VEVENT
@@ -5227,7 +5227,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
 DTSTART:20260314T163000Z
-SUMMARY:Upper bracket final: DNT vs TBD
+SUMMARY:Upper bracket final: DNT vs EJ
 UID:cs-go-cct-europe-contenders-2-2026-1392413@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5574,9 +5574,9 @@ SUMMARY:Round 5: CRASH vs METANOIA
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369817@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
+DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
 DURATION:PT2H
-DTSTART:20260312T213000Z
+DTSTART:20260312T213958Z
 SUMMARY:Decider match: PCY vs LYN
 UID:cs-go-aorus-latam-2026-1392430@tournamentics
 END:VEVENT
@@ -7282,9 +7282,9 @@ SUMMARY:DRGN TEAM vs Imperial.A
 UID:cs-go-esea-advanced-europe-56-2026-1348422@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roman
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roman
 DURATION:PT2H
-DTSTART:20260312T213000Z
+DTSTART:20260312T213500Z
 SUMMARY:NIP vs SAW
 UID:cs-go-roman-imperium-cup-6-2026-1389754@tournamentics
 END:VEVENT
