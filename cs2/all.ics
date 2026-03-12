@@ -256,7 +256,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xristcs
 DURATION:PT2H
-DTSTART:20260312T073000Z
+DTSTART:20260312T074500Z
 SUMMARY:Lower bracket semifinal: LVG vs AE
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391068@tournamentics
 END:VEVENT
@@ -5189,8 +5189,8 @@ SUMMARY:Winners match: 1WIN vs VP.P
 UID:cs-go-cis-lan-championship-3-2026-1387140@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: Time Waves: 0 | Rooster: 2\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260312T073950Z
 DTSTART:20260312T060403Z
 SUMMARY:Elimination match: Time Waves vs RSTR
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387197@tournamentics
@@ -10022,7 +10022,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260312T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: RSTR vs TBD
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
