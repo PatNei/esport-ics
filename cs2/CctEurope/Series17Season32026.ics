@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260313T170000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: ex-RUBY vs TBD
 UID:cs-go-cct-europe-series-17-3-2026-1373758@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -219,8 +219,8 @@ SUMMARY:Round 1: ASTRAL vs ex-Zero Tenacity
 UID:cs-go-cct-europe-series-17-3-2026-1373712@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | CYBERSHOKE Esports: 1\nStream: https://kick.com/cct_cs
+DTEND:20260313T140132Z
 DTSTART:20260313T110652Z
 SUMMARY:Semifinal 2: ex-RUBY vs CS
 UID:cs-go-cct-europe-series-17-3-2026-1373757@tournamentics

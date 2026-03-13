@@ -1951,7 +1951,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260313T170000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: ex-RUBY vs TBD
 UID:cs-go-cct-europe-series-17-3-2026-1373758@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4916,8 +4916,8 @@ SUMMARY:Elimination match: ALGO vs OMG
 UID:cs-go-european-pro-league-series-5-2026-1355920@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | CYBERSHOKE Esports: 1\nStream: https://kick.com/cct_cs
+DTEND:20260313T140132Z
 DTSTART:20260313T110652Z
 SUMMARY:Semifinal 2: ex-RUBY vs CS
 UID:cs-go-cct-europe-series-17-3-2026-1373757@tournamentics
@@ -8740,7 +8740,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
 DURATION:PT2H
-DTSTART:20260313T140000Z
+DTSTART:20260313T141000Z
 SUMMARY:Lower bracket round 4 match 3: AUR.YB vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1382755@tournamentics
 END:VEVENT
