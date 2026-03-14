@@ -82,6 +82,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series17S
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series18Season32026.ics
 ```
 
+### Series#19 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series19Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series19Season32026.ics
+```
+
 </details>
 
 <details>
