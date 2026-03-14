@@ -9714,7 +9714,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260315T110000Z
-SUMMARY:Semifinal 1: NEMI vs TBD
+SUMMARY:Semifinal 1: NEMI vs EF
 UID:cs-go-bc-game-masters-1-2026-1381458@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10726,8 +10726,8 @@ SUMMARY:MSC vs home
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398767@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Team Nemesis: 0 | Eternal Fire: 2\nStream: https://www.twitch.tv/bcgamemasters
+DTEND:20260314T171207Z
 DTSTART:20260314T152230Z
 SUMMARY:Quarterfinal 1: NEM vs EF
 UID:cs-go-bc-game-masters-1-2026-1381454@tournamentics
