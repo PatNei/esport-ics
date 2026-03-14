@@ -2987,7 +2987,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260315T110000Z
-SUMMARY:Semifinal 1: TL vs TBD
+SUMMARY:Semifinal 1: TL vs OG
 UID:cs-go-roman-imperium-cup-6-2026-1389762@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3733,8 +3733,8 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398769@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: illwill: 2 | Team Novaq: 0\nStream: https://www.twitch.tv/bcgamemasters
+DTEND:20260314T201648Z
 DTSTART:20260314T181359Z
 SUMMARY:Quarterfinal 3: ILWL vs NVQ
 UID:cs-go-bc-game-masters-1-2026-1381456@tournamentics
@@ -6116,7 +6116,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260315T143000Z
-SUMMARY:Semifinal 2: MZP vs TBD
+SUMMARY:Semifinal 2: MZP vs ILWL
 UID:cs-go-bc-game-masters-1-2026-1381459@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10005,8 +10005,8 @@ SUMMARY:QUA vs LC
 UID:cs-go-esea-advanced-europe-56-2026-1366020@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nResult: JiJieHao: 0 | OG: 2\nStream: https://www.twitch.tv/rmncs
+DTEND:20260314T201615Z
 DTSTART:20260314T183456Z
 SUMMARY:Quarterfinal 2: JJH vs OG
 UID:cs-go-roman-imperium-cup-6-2026-1389760@tournamentics
