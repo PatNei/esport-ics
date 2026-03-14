@@ -247,9 +247,9 @@ SUMMARY:Round 3: URSA vs zajezdzacze
 UID:cs-go-cct-europe-series-18-3-2026-1381178@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
-DTSTART:20260314T120000Z
+DTSTART:20260314T120502Z
 SUMMARY:Quarterfinal 4: KOL vs MZP
 UID:cs-go-bc-game-masters-1-2026-1381457@tournamentics
 END:VEVENT
@@ -509,8 +509,15 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aabesport
 DURATION:PT2H
 DTSTART:20260314T122000Z
-SUMMARY:Winners match: struggletony vs TBD
+SUMMARY:Winners match: struggletony vs AAB
 UID:cs-go-dust2-dk-31-2026-1387931@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260325T180000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398080@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nResult: Hacha Esports: 0 | LUNA Esports: 2\nStream: https://www.twitch.tv/forg1
@@ -875,6 +882,13 @@ DTEND:20260121T180705Z
 DTSTART:20260121T174604Z
 SUMMARY:Peekaboo vs RUST
 UID:cs-go-esea-advanced-europe-56-2026-1326101@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260321T180000Z
+SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398090@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: WATERMELON: 0 | MANA eSports: 1\nStream: No official stream linked
@@ -1395,11 +1409,18 @@ SUMMARY:MUERTA TEAM vs AUR.YB
 UID:cs-go-esea-advanced-europe-56-2026-1367383@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aabesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | Fortress: 0\nStream: https://www.twitch.tv/aabesport
+DTEND:20260314T120829Z
 DTSTART:20260314T103439Z
 SUMMARY:AAB vs FOR
 UID:cs-go-dust2-dk-31-2026-1387928@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260323T180000Z
+SUMMARY:Lower bracket round 6 match  2: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398077@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
@@ -1764,6 +1785,13 @@ DTEND:20260306T180444Z
 DTSTART:20260306T150603Z
 SUMMARY:Decider match:  CSDIILIT vs HERO.A
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380936@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260319T180000Z
+SUMMARY:Upper bracket round 3 match 6: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398087@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: WW Team: 2 | K27: 0\nStream: https://www.twitch.tv/MPKBK
@@ -2177,6 +2205,13 @@ DTEND:20260307T212942Z
 DTSTART:20260307T180646Z
 SUMMARY:zajezdzacze vs QUA
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380946@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260327T180000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398097@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 0 | ARCRED: 2\nStream: https://www.twitch.tv/MPKBK
@@ -2753,6 +2788,13 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-dust2-dk-31-2026-1387934@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260319T180000Z
+SUMMARY:Upper bracket round 3 match 2: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398083@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | 1WIN: 0\nStream: https://www.twitch.tv/MPKBK
 DTEND:20260309T142749Z
 DTSTART:20260309T122902Z
@@ -3171,6 +3213,13 @@ DTEND:20260306T204252Z
 DTSTART:20260306T182510Z
 SUMMARY:Decider match: BMB vs ex-Zero Tenacity
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380942@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260321T180000Z
+SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398093@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | QUAZAR: 0\nStream: https://www.twitch.tv/MPKBK
@@ -3764,7 +3813,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
 DURATION:PT2H
 DTSTART:20260314T122000Z
-SUMMARY:Elimination match: TRI vs TBD
+SUMMARY:Elimination match: TRI vs FOR
 UID:cs-go-dust2-dk-31-2026-1387930@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4006,9 +4055,9 @@ SUMMARY:33 vs QUA
 UID:cs-go-cis-lan-championship-3-2026-1387148@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260314T120000Z
+DTSTART:20260314T121011Z
 SUMMARY:Decider match: LILMIX vs BBP
 UID:cs-go-nodwin-clutch-series-6-2026-1389693@tournamentics
 END:VEVENT
@@ -4601,6 +4650,13 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-dust2-dk-31-2026-1387927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260323T180000Z
+SUMMARY:Lower bracket round 6 match  1: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398076@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: HAVU: 0 | OldBoys: 1\nStream: https://www.twitch.tv/havugaming
 DTEND:20260225T191221Z
 DTSTART:20260225T180847Z
@@ -4942,6 +4998,13 @@ DTEND:20260312T002900Z
 DTSTART:20260311T230155Z
 SUMMARY:Quarterfinal 4: Keyd vs paiN.A
 UID:cs-go-betboom-storm-1-2026-1380593@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260319T180000Z
+SUMMARY:Upper bracket round 3 match 5: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398086@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: MUERTA TEAM: 0 | Oxuji Esports: 2\nStream: https://www.twitch.tv/i_am_handy
@@ -5376,6 +5439,13 @@ DTEND:20260307T170032Z
 DTSTART:20260307T151643Z
 SUMMARY:OXUJI vs ex-Zero Tenacity
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380945@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260325T180000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398096@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: SPARTA: 1 | 5Actors: 2\nStream: https://www.twitch.tv/jerry256cs2
@@ -5987,6 +6057,13 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-dust2-dk-31-2026-1387933@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260319T180000Z
+SUMMARY:Upper bracket round 3 match 1: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398082@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 0 | VP.Prodigy: 2\nStream: https://www.twitch.tv/MPKBK
 DTEND:20260309T115413Z
 DTSTART:20260309T090759Z
@@ -6412,6 +6489,13 @@ DTEND:20260205T185801Z
 DTSTART:20260205T181206Z
 SUMMARY:B8 Academy vs DRGN TEAM
 UID:cs-go-esea-advanced-europe-56-2026-1326103@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260321T180000Z
+SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398092@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: 33: 2 | Team Nemesis: 0\nStream: https://www.twitch.tv/MPKBK
@@ -6918,6 +7002,13 @@ SUMMARY:LFO YinYang vs FUT.A
 UID:cs-go-esea-advanced-europe-56-2026-1318678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260324T180000Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398079@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 0 | VP.Prodigy: 2\nStream: https://www.twitch.tv/MPKBK
 DTEND:20260309T083724Z
 DTSTART:20260309T060753Z
@@ -7308,6 +7399,13 @@ DTEND:20260221T130906Z
 DTSTART:20260221T090653Z
 SUMMARY:NAVI.J vs KSM
 UID:cs-go-united21-45-2026-1365952@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260319T180000Z
+SUMMARY:Upper bracket round 3 match 8: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398089@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | RUSTEC: 1\nStream: https://www.twitch.tv/MPKBK
@@ -7989,9 +8087,9 @@ SUMMARY:MISA vs AUR.YB
 UID:cs-go-esea-advanced-europe-56-2026-1367381@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/coachdp
+DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
 DURATION:PT2H
-DTSTART:20260314T120000Z
+DTSTART:20260314T120421Z
 SUMMARY:Winners match: MSC vs ECS
 UID:cs-go-dust2-dk-31-2026-1387926@tournamentics
 END:VEVENT
@@ -8379,6 +8477,13 @@ DURATION:PT2H
 DTSTART:20260315T140000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-dust2-dk-31-2026-1387936@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260319T180000Z
+SUMMARY:Upper bracket round 3 match 4: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398085@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: MUERTA TEAM: 0 | WW Team: 2\nStream: https://www.twitch.tv/i_am_handy
@@ -8792,6 +8897,13 @@ DTEND:20260307T140126Z
 DTSTART:20260307T122148Z
 SUMMARY:QWE vs EF
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380944@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260323T180000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398095@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | 5Actors: 1\nStream: https://www.twitch.tv/jay_tb
@@ -9361,6 +9473,13 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-dust2-dk-31-2026-1387932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260326T180000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398081@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Rooster: 1\nStream: https://www.twitch.tv/dfragtv
 DTEND:20260312T051108Z
 DTSTART:20260312T015509Z
@@ -9716,6 +9835,13 @@ DTEND:20260119T175835Z
 DTSTART:20260119T171715Z
 SUMMARY:LC vs MUERTA TEAM
 UID:cs-go-esea-advanced-europe-56-2026-1326102@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260321T180000Z
+SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398091@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: FOKUS REALITY: 0 | ReThink: 2\nStream: https://kick.com/united21_en
@@ -10222,6 +10348,13 @@ SUMMARY:TRI vs struggletony
 UID:cs-go-dust2-dk-31-2026-1387929@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260324T180000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398078@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
 DTSTART:20260406T170000Z
@@ -10549,6 +10682,13 @@ DTEND:20260226T103154Z
 DTSTART:20260226T091256Z
 SUMMARY:Decider match: ex-FUT Academy vs STA
 UID:cs-go-united21-45-2026-1365951@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260319T180000Z
+SUMMARY:Upper bracket round 3 match 7: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398088@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: K27: 2 | Oxuji Esports: 0\nStream: https://www.twitch.tv/MPKBK
@@ -11169,7 +11309,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
 DURATION:PT2H
-DTSTART:20260314T120000Z
+DTSTART:20260314T121000Z
 SUMMARY:Elimination match: SASHI vs PRE
 UID:cs-go-dust2-dk-31-2026-1387925@tournamentics
 END:VEVENT
@@ -11550,6 +11690,13 @@ DURATION:PT2H
 DTSTART:20260315T140000Z
 SUMMARY:3rd place decider: TBD vs TBD
 UID:cs-go-dust2-dk-31-2026-1387935@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260319T180000Z
+SUMMARY:Upper bracket round 3 match 3: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398084@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: K27: 2 | Oxuji Esports: 1\nStream: https://www.twitch.tv/MPKBK
@@ -11970,6 +12117,13 @@ DTEND:20260307T115531Z
 DTSTART:20260307T090316Z
 SUMMARY:BBP vs  CSDIILIT
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380943@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260323T180000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398094@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | SPARTA: 0\nStream: https://www.twitch.tv/MPKBK
