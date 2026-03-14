@@ -544,6 +544,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/AdvancedEurope
 </details>
 
 <details>
+<summary>ESL Challenger League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics
+```
+
+---
+
+### Oceania Cup #2 season 51 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/OceaniaCup2Season512026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/OceaniaCup2Season512026.ics
+```
+
+</details>
+
+<details>
 <summary>Exort Meteor</summary>
 
 ### Full Schedule
