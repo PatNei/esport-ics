@@ -317,6 +317,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/AorusLe
 
 ---
 
+### Brazil Online Stage 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/BrazilOnlineStage2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/BrazilOnlineStage2026.ics
+```
+
 ### Brazil Open Qualifier 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/BrazilOpenQualifier2026.ics)
 
@@ -672,6 +679,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IziWex/IziWex.ics
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IziWex/Season12026.ics
+```
+
+</details>
+
+<details>
+<summary>LOOP Cup</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LoopCup/LoopCup.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LoopCup/LoopCup.ics
+```
+
+---
+
+### Season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LoopCup/Season12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LoopCup/Season12026.ics
 ```
 
 </details>

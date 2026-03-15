@@ -61,12 +61,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260315T143000Z
-SUMMARY:Grand final: SASHI vs TBD
+SUMMARY:Grand final: SASHI vs TRI
 UID:cs-go-dust2-dk-31-2026-1387936@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nResult: ECSTATIC: 1 | Tricked: 2\nStream: https://www.twitch.tv/dust2tv
+DTEND:20260315T135818Z
 DTSTART:20260315T111119Z
 SUMMARY:Semifinal 1: ECS vs TRI
 UID:cs-go-dust2-dk-31-2026-1387933@tournamentics
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260315T143000Z
-SUMMARY:3rd place decider: AAB vs TBD
+SUMMARY:3rd place decider: AAB vs ECS
 UID:cs-go-dust2-dk-31-2026-1387935@tournamentics
 END:VEVENT
 END:VCALENDAR
