@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roman
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nResult: Liquid: 1 | OG: 2\nStream: https://www.twitch.tv/roman
+DTEND:20260315T150145Z
 DTSTART:20260315T110902Z
 SUMMARY:Semifinal 1: TL vs OG
 UID:cs-go-roman-imperium-cup-6-2026-1389762@tournamentics
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260315T173000Z
-SUMMARY:3rd Place match: TBD vs TBD
+SUMMARY:3rd Place match: TL vs TBD
 UID:cs-go-roman-imperium-cup-6-2026-1389764@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260315T173000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: OG vs TBD
 UID:cs-go-roman-imperium-cup-6-2026-1389765@tournamentics
 END:VEVENT
 END:VCALENDAR
