@@ -91,6 +91,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series19S
 
 </details>
 
+<details>
+<summary>Roman Imperium Cup</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/RomanImperiumCup.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/RomanImperiumCup.ics
+```
+
+---
+
+### Season 6 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/Season62026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/Season62026.ics
+```
+
+</details>
+
 ## C Tier
 
 <details>
@@ -315,6 +336,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/BrazilO
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/Latam2026.ics
+```
+
+</details>
+
+<details>
+<summary>Asia Championships</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AsiaChampionships/AsiaChampionships.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AsiaChampionships/AsiaChampionships.ics
+```
+
+---
+
+### Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AsiaChampionships/ClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AsiaChampionships/ClosedQualifier2026.ics
 ```
 
 </details>
@@ -681,6 +723,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season52026.ics
 ```
 
+### Season 6 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season62026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season62026.ics
+```
+
 </details>
 
 <details>
@@ -700,6 +749,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/United21.i
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season452026.ics
+```
+
+### Season 46 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season462026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season462026.ics
 ```
 
 </details>
