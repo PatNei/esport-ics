@@ -684,27 +684,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 </details>
 
 <details>
-<summary>IZI WEX</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IziWex/IziWex.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IziWex/IziWex.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IziWex/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IziWex/Season12026.ics
-```
-
-</details>
-
-<details>
 <summary>LOOP Cup</summary>
 
 ### Full Schedule
