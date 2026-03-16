@@ -4023,7 +4023,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260316T073000Z
-SUMMARY:Decider match: MF vs TBD
+SUMMARY:Decider match: MF vs Arcade Esports
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396273@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4372,7 +4372,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260316T033000Z
+DTSTART:20260316T043000Z
 SUMMARY:THUNDER dOWNUNDER vs Time Waves
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396283@tournamentics
 END:VEVENT
@@ -7261,8 +7261,8 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nResult: Arcade Esports: 2 | Abyssal: 0\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260316T032744Z
 DTSTART:20260316T013712Z
 SUMMARY:Elimination match: Arcade Esports vs Abyssal
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396272@tournamentics
@@ -9937,7 +9937,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260316T033000Z
+DTSTART:20260316T043000Z
 SUMMARY:GZ vs RSTR
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396285@tournamentics
 END:VEVENT
