@@ -7264,7 +7264,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260316T004500Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Arcade Esports vs TBD
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396272@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8213,8 +8213,8 @@ SUMMARY:Round 3: SASHI.A vs CYBERSHOKE Prospects
 UID:cs-go-exort-series-23-2026-1389710@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nResult: SemperFi Esports: 1 | Arcade Esports: 0\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260316T004131Z
 DTSTART:20260315T235507Z
 SUMMARY:SFE vs Arcade Esports
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396269@tournamentics
@@ -10505,7 +10505,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260316T004500Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: SFE vs TBD
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396271@tournamentics
 END:VEVENT
 BEGIN:VEVENT
