@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: QWENTRY: 1 | Oxuji Esports: 2\nStream: https://kick.com/cct_cs
+DTEND:20260316T144617Z
 DTSTART:20260316T121646Z
 SUMMARY:QWE vs OXUJI
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398498@tournamentics
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260317T150000Z
-SUMMARY:Winners match: Hashiras vs TBD
+SUMMARY:Winners match: Hashiras vs OXUJI
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398509@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260317T090000Z
-SUMMARY:Elimination match: Atreides vs TBD
+SUMMARY:Elimination match: Atreides vs QWE
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
