@@ -737,13 +737,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/United21.i
 
 ---
 
-### Season 45 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season452026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season452026.ics
-```
-
 ### Season 46 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season462026.ics)
 
