@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 1 | Arcade Esports: 0\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260317T003633Z
 DTSTART:20260316T235808Z
 SUMMARY:Upper bracket semifinal 2: THUNDER dOWNUNDER vs Arcade Esports
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396289@tournamentics
@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260317T010000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: THUNDER dOWNUNDER vs TBD
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396290@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260317T010000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: Arcade Esports vs TBD
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
