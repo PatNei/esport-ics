@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260320T090000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: QWE vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398519@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260317T120000Z
+DTSTART:20260317T122000Z
 SUMMARY:Elimination match: 8S vs EC BANGA
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398619@tournamentics
 END:VEVENT
@@ -121,8 +121,8 @@ SUMMARY:Winners match: BBP vs FUZOS
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398610@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: Atreides: 1 | QWENTRY: 2\nStream: https://kick.com/cct_cs
+DTEND:20260317T120955Z
 DTSTART:20260317T091450Z
 SUMMARY:Elimination match: Atreides vs QWE
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398518@tournamentics
