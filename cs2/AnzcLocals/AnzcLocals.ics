@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260317T010000Z
-SUMMARY:Upper bracket final: THUNDER dOWNUNDER vs TBD
+SUMMARY:Upper bracket final: THUNDER dOWNUNDER vs SFE
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396290@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -44,8 +44,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396292@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nResult: SemperFi Esports: 1 | Ground Zero: 0\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260317T004642Z
 DTSTART:20260317T000007Z
 SUMMARY:Upper bracket semifinal 1: SFE vs GZ
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396288@tournamentics
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260317T010000Z
-SUMMARY:Lower bracket semifinal: Arcade Esports vs TBD
+SUMMARY:Lower bracket semifinal: Arcade Esports vs GZ
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
