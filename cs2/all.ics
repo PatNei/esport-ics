@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
 DURATION:PT2H
 DTSTART:20260317T232000Z
-SUMMARY:Winners match: ODK vs TBD
+SUMMARY:Winners match: ODK vs CRASH
 UID:cs-go-aorus-brazil-online-stage-2026-1400291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3701,7 +3701,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260319T180000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: FC vs TBD
 UID:cs-go-cct-europe-series-18-3-2026-1381291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6564,7 +6564,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
 DURATION:PT2H
 DTSTART:20260318T190000Z
-SUMMARY:Elimination match: Alzon vs TBD
+SUMMARY:Elimination match: Alzon vs BST.A
 UID:cs-go-aorus-brazil-online-stage-2026-1400313@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8171,8 +8171,8 @@ SUMMARY:OLDBOYS- vs ME
 UID:cs-go-esea-advanced-europe-56-2026-1337990@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nResult: FriendlyCampers: 2 | ex-RUBY: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260317T212428Z
 DTSTART:20260317T185515Z
 SUMMARY:Round 16 match 8: FC vs ex-RUBY
 UID:cs-go-cct-europe-series-18-3-2026-1381263@tournamentics
@@ -11930,8 +11930,8 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-journey-spring-2026-1398124@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 0 | Crashers: 1\nStream: https://www.twitch.tv/aorusbr
+DTEND:20260317T211906Z
 DTSTART:20260317T200356Z
 SUMMARY:BST.A vs CRASH
 UID:cs-go-aorus-brazil-online-stage-2026-1400258@tournamentics

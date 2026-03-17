@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 0 | Crashers: 1\nStream: https://www.twitch.tv/aorusbr
+DTEND:20260317T211906Z
 DTSTART:20260317T200356Z
 SUMMARY:BST.A vs CRASH
 UID:cs-go-aorus-brazil-online-stage-2026-1400258@tournamentics
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
 DURATION:PT2H
 DTSTART:20260317T232000Z
-SUMMARY:Winners match: ODK vs TBD
+SUMMARY:Winners match: ODK vs CRASH
 UID:cs-go-aorus-brazil-online-stage-2026-1400291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
 DURATION:PT2H
 DTSTART:20260318T190000Z
-SUMMARY:Elimination match: Alzon vs TBD
+SUMMARY:Elimination match: Alzon vs BST.A
 UID:cs-go-aorus-brazil-online-stage-2026-1400313@tournamentics
 END:VEVENT
 END:VCALENDAR
