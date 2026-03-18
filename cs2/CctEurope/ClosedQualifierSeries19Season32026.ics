@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260319T120000Z
-SUMMARY:Elimination match: MSC vs TBD
+SUMMARY:Elimination match: MSC vs ex-Zero Tenacity
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398769@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:Elimination match: Atreides vs QWE
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 1 | yngods: 2\nStream: https://kick.com/cct_cs
+DTEND:20260318T174926Z
 DTSTART:20260318T150513Z
 SUMMARY:ex-Zero Tenacity vs YNG
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398746@tournamentics
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260319T180000Z
-SUMMARY:Winners match: Supernova vs TBD
+SUMMARY:Winners match: Supernova vs YNG
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398768@tournamentics
 END:VEVENT
 END:VCALENDAR
