@@ -488,27 +488,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contender
 </details>
 
 <details>
-<summary>Circuit X</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CircuitX.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CircuitX.ics
-```
-
----
-
-### Pantanal Cuiabá 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/PantanalCuiab2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/PantanalCuiab2026.ics
-```
-
-</details>
-
-<details>
 <summary>CIS LAN Championship</summary>
 
 ### Full Schedule
@@ -833,27 +812,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/UrbanRiga
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open32026.ics
-```
-
-</details>
-
-<details>
-<summary>Winline Star Series</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/WinlineStarSeries/WinlineStarSeries.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/WinlineStarSeries/WinlineStarSeries.ics
-```
-
----
-
-### Season 2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/WinlineStarSeries/Season22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/WinlineStarSeries/Season22026.ics
 ```
 
 </details>
