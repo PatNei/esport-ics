@@ -4568,7 +4568,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260318T173000Z
+DTSTART:20260318T183000Z
 SUMMARY:Upper bracket quarterfinal 1: FURIA vs TYLOO
 UID:cs-go-blast-open-rotterdam-spring-2026-1371045@tournamentics
 END:VEVENT
@@ -8047,7 +8047,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260318T153000Z
+DTSTART:20260318T163000Z
 SUMMARY:Upper bracket quarterfinal 2: FaZe vs AUR
 UID:cs-go-blast-open-rotterdam-spring-2026-1371044@tournamentics
 END:VEVENT
@@ -8325,8 +8325,8 @@ SUMMARY:Quarterfinal 3: ACE vs NEM
 UID:cs-go-european-pro-league-series-5-2026-1356033@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/albi1985
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: AKA HERO KAJO: 0 | MANA eSports: 2\nStream: https://kick.com/albi1985
+DTEND:20260318T151017Z
 DTSTART:20260318T140456Z
 SUMMARY:Lower bracket round 1 match 6: AHK vs MANA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398041@tournamentics
@@ -11134,7 +11134,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260318T151000Z
+DTSTART:20260318T152000Z
 SUMMARY:Round 16 match 7: ALL vs FAV
 UID:cs-go-cct-europe-series-18-3-2026-1381266@tournamentics
 END:VEVENT
@@ -11205,7 +11205,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260319T140000Z
-SUMMARY:Lower bracket round 2 match 3: EC BANGA vs TBD
+SUMMARY:Lower bracket round 2 match 3: EC BANGA vs MANA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398054@tournamentics
 END:VEVENT
 BEGIN:VEVENT
