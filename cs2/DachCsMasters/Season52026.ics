@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260323T170000Z
-SUMMARY:OVS vs FROX
+SUMMARY:TAZ vs FROX
 UID:cs-go-dach-cs-masters-5-2026-1385728@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260429T180000Z
-SUMMARY:OVS vs WAVE
+SUMMARY:TAZ vs WAVE
 UID:cs-go-dach-cs-masters-5-2026-1385747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260422T180000Z
-SUMMARY:Ducks vs OVS
+SUMMARY:Ducks vs TAZ
 UID:cs-go-dach-cs-masters-5-2026-1385741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260413T180000Z
-SUMMARY:OVS vs BIG.A
+SUMMARY:TAZ vs BIG.A
 UID:cs-go-dach-cs-masters-5-2026-1385734@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -168,6 +168,13 @@ DURATION:PT2H
 DTSTART:20260523T103000Z
 SUMMARY:BIG.A vs BERG
 UID:cs-go-dach-cs-masters-5-2026-1385727@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Huskies eSport: 0 | Team AceZone: 2\nStream: https://www.twitch.tv/dachcs
+DTEND:20260311T171000Z
+DTSTART:20260311T160000Z
+SUMMARY:HUSK vs TAZ
+UID:cs-go-dach-cs-masters-5-2026-1403825@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
@@ -187,7 +194,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260408T180000Z
-SUMMARY:HUSK vs OVS
+SUMMARY:HUSK vs TAZ
 UID:cs-go-dach-cs-masters-5-2026-1385717@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -201,7 +208,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260513T160000Z
-SUMMARY:OVS vs R4G
+SUMMARY:TAZ vs R4G
 UID:cs-go-dach-cs-masters-5-2026-1385756@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -215,7 +222,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260504T160000Z
-SUMMARY:LEI vs OVS
+SUMMARY:LEI vs TAZ
 UID:cs-go-dach-cs-masters-5-2026-1385749@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -285,7 +292,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260318T170000Z
-SUMMARY:BERG vs OVS
+SUMMARY:BERG vs TAZ
 UID:cs-go-dach-cs-masters-5-2026-1385723@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -306,7 +313,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260325T170000Z
-SUMMARY:OVS vs REV
+SUMMARY:TAZ vs REV
 UID:cs-go-dach-cs-masters-5-2026-1385713@tournamentics
 END:VEVENT
 END:VCALENDAR
