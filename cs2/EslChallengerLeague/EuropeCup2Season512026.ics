@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/endiezcasts
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/r-nicolino
 DURATION:PT2H
 DTSTART:20260319T140000Z
 SUMMARY:Lower bracket round 2 match 2: SNG vs Dziuseppe
@@ -168,13 +168,6 @@ DURATION:PT2H
 DTSTART:20260319T140000Z
 SUMMARY:Lower bracket round 2 match 4: Leo vs TLR
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398055@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260319T140000Z
-SUMMARY:Lower bracket round 2 match 1:  CSDIILIT vs UNiTY
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398052@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 | MASONIC: 0\nStream: https://www.twitch.tv/eslcs
@@ -488,7 +481,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260320T180000Z
-SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 1: UNiTY vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398060@tournamentics
 END:VEVENT
 END:VCALENDAR
