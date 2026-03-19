@@ -2259,7 +2259,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260320T183000Z
-SUMMARY:Upper bracket semifinal 1: AUR vs FURIA
+SUMMARY:Upper bracket semifinal 1: FURIA vs AUR
 UID:cs-go-blast-open-rotterdam-spring-2026-1394931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3460,8 +3460,8 @@ SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398792@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | Keyd: 1\nStream: https://www.twitch.tv/aorusbr
+DTEND:20260319T002936Z
 DTSTART:20260318T213738Z
 SUMMARY:Elimination match: MIBR.A vs Keyd
 UID:cs-go-aorus-brazil-online-stage-2026-1400314@tournamentics
@@ -9133,7 +9133,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
 DURATION:PT2H
 DTSTART:20260319T213000Z
-SUMMARY:Decider match: GLS vs TBD
+SUMMARY:Decider match: GLS vs MIBR.A
 UID:cs-go-aorus-brazil-online-stage-2026-1400316@tournamentics
 END:VEVENT
 BEGIN:VEVENT

@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
 DURATION:PT2H
 DTSTART:20260319T213000Z
-SUMMARY:Decider match: GLS vs TBD
+SUMMARY:Decider match: GLS vs MIBR.A
 UID:cs-go-aorus-brazil-online-stage-2026-1400316@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +170,8 @@ SUMMARY:Winners match: GLS vs BHE
 UID:cs-go-aorus-brazil-online-stage-2026-1400292@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | Keyd: 1\nStream: https://www.twitch.tv/aorusbr
+DTEND:20260319T002936Z
 DTSTART:20260318T213738Z
 SUMMARY:Elimination match: MIBR.A vs Keyd
 UID:cs-go-aorus-brazil-online-stage-2026-1400314@tournamentics
