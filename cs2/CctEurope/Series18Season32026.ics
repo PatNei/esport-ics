@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260320T110000Z
-SUMMARY:Semifinal 1: K27 vs TBD
+SUMMARY:Semifinal 1: K27 vs URSA
 UID:cs-go-cct-europe-series-18-3-2026-1381292@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +170,8 @@ SUMMARY:Round 2: ex-RUBY vs zajezdzacze
 UID:cs-go-cct-europe-series-18-3-2026-1381128@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nResult: Bebop: 1 | Ursa: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260319T145558Z
 DTSTART:20260319T120335Z
 SUMMARY:Quarterfinal 1: BBP vs URSA
 UID:cs-go-cct-europe-series-18-3-2026-1381268@tournamentics
@@ -263,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260319T150000Z
+DTSTART:20260319T151000Z
 SUMMARY:Quarterfinal 4: FAV vs ESC
 UID:cs-go-cct-europe-series-18-3-2026-1381291@tournamentics
 END:VEVENT
