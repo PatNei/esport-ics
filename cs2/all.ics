@@ -235,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260319T210000Z
+DTSTART:20260319T220000Z
 SUMMARY:Round 4: paiN.A vs MAG
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394909@tournamentics
 END:VEVENT
@@ -2193,8 +2193,8 @@ SUMMARY:Round 5: PAR vs INF
 UID:cs-go-exort-series-23-2026-1394829@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | Eternal Fire Academy: 2\nStream: https://kick.com/exort_en2
+DTEND:20260319T210222Z
 DTSTART:20260319T193610Z
 SUMMARY:Round 2: 3DMAX.A vs EF.A
 UID:cs-go-exort-series-24-2026-1404303@tournamentics
@@ -2224,7 +2224,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260320T180000Z
-SUMMARY:Lower bracket round 3 match 4: TLR vs TBD
+SUMMARY:Lower bracket round 3 match 4: TLR vs rottweilers
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398063@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3663,8 +3663,8 @@ SUMMARY:ZOTIX vs TNC
 UID:cs-go-esea-advanced-europe-56-2026-1317220@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 1 | Guara Esports: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260319T210414Z
 DTSTART:20260319T180152Z
 SUMMARY:Round 4: MW vs GE
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394908@tournamentics
@@ -5584,7 +5584,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260320T180000Z
-SUMMARY:Lower bracket round 3 match 3: MANA vs TBD
+SUMMARY:Lower bracket round 3 match 3: MANA vs RBLS
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398062@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8787,8 +8787,8 @@ SUMMARY:Grand final: SASHI vs TRI
 UID:cs-go-dust2-dk-31-2026-1387936@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: rottweilers: 0 | Team Nemesis: 2\nStream: No official stream linked
+DTEND:20260319T210323Z
 DTSTART:20260319T192634Z
 SUMMARY:Upper bracket round 3 match 4: rottweilers vs NEM
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398085@tournamentics
@@ -10260,7 +10260,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260321T180000Z
-SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 2: TDK vs NEM
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398091@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -12119,8 +12119,8 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400939@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tavarescs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 0 | TDK: 2\nStream: https://www.twitch.tv/tavarescs2
+DTEND:20260319T205853Z
 DTSTART:20260319T192050Z
 SUMMARY:Upper bracket round 3 match 3: RBLS vs TDK
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398084@tournamentics
