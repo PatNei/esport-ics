@@ -845,7 +845,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260323T183000Z
-SUMMARY:Elimination match: m1x vs TBD
+SUMMARY:Elimination match: m1x vs LPH
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404869@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1927,8 +1927,8 @@ SUMMARY:AUR.YB vs ECF
 UID:cs-go-esea-advanced-europe-56-2026-1373614@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: ESC Gaming: 2 | LPH Gaming: 0\nStream: https://kick.com/starladder
+DTEND:20260321T195958Z
 DTSTART:20260321T183521Z
 SUMMARY:ESC vs LPH
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404865@tournamentics
@@ -2455,7 +2455,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260322T220000Z
-SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 2: UNO vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397677@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4128,7 +4128,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260323T160000Z
-SUMMARY:Winners match: Inner Circle Academy vs TBD
+SUMMARY:Winners match: Inner Circle Academy vs ESC
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404868@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5689,7 +5689,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260322T180000Z
-SUMMARY:Lower bracket round 5 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 5 match 1: SNG vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398072@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9858,8 +9858,8 @@ SUMMARY:Imperial.A vs STA
 UID:cs-go-esea-advanced-europe-56-2026-1349944@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Sangal: 2 | UNiTY esports: 0\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260321T195735Z
 DTSTART:20260321T181011Z
 SUMMARY:Lower bracket round 4 match 1: SNG vs UNiTY
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398068@tournamentics
@@ -11746,13 +11746,6 @@ DURATION:PT2H
 DTSTART:20260402T110000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406946@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260321T220000Z
-SUMMARY:Lower bracket round 1 match 2: FA vs UNO
-UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: QUAZAR: 0 | Misa Esports: 1\nStream: https://www.twitch.tv/johny__cs
