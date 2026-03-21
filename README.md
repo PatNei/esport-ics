@@ -231,13 +231,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/E
 
 ---
 
-### Series 5 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series52026.ics
-```
-
 ### Series 6 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series62026.ics)
 
