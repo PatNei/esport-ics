@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nResult: NIP: 1 | Liquid: 2\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260321T140745Z
 DTSTART:20260321T110326Z
 SUMMARY:Lower bracket quarterfinal 2: NIP vs TL
 UID:cs-go-blast-open-rotterdam-spring-2026-1394945@tournamentics
@@ -61,13 +61,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260322T160000Z
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: TL vs TBD
 UID:cs-go-blast-open-rotterdam-spring-2026-1394947@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260321T143000Z
+DTSTART:20260321T144500Z
 SUMMARY:Lower bracket quarterfinal 1: MOUZ vs 9z
 UID:cs-go-blast-open-rotterdam-spring-2026-1394944@tournamentics
 END:VEVENT
