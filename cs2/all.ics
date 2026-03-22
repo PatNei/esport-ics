@@ -5878,7 +5878,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260324T160000Z
-SUMMARY:Decider match: rottweilers vs TBD
+SUMMARY:Decider match: rottweilers vs Diamant Esports
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404827@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7849,7 +7849,7 @@ SUMMARY:QWE vs OXUJI
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398498@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vilacattv
 DURATION:PT2H
 DTSTART:20260322T220000Z
 SUMMARY:Lower bracket round 2 match 4: VEXA vs GH
@@ -9109,8 +9109,8 @@ SUMMARY:Round 1: 3DMAX vs paiN
 UID:cs-go-esl-pro-league-23-2026-1376110@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: Diamant Esports: 2 | FIGHTERS: 1\nStream: https://kick.com/starladder
+DTEND:20260322T211439Z
 DTSTART:20260322T183336Z
 SUMMARY:Elimination match: Diamant Esports vs FGT
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404826@tournamentics
