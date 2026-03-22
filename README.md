@@ -348,27 +348,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/Latam20
 </details>
 
 <details>
-<summary>Asia Championships</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AsiaChampionships/AsiaChampionships.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AsiaChampionships/AsiaChampionships.ics
-```
-
----
-
-### Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AsiaChampionships/ClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AsiaChampionships/ClosedQualifier2026.ics
-```
-
-</details>
-
-<details>
 <summary>BC Game Masters</summary>
 
 ### Full Schedule
