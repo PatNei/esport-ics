@@ -1468,7 +1468,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260323T180000Z
-SUMMARY:Lower bracket round 6 match  2: TDK vs TBD
+SUMMARY:Lower bracket round 6 match  2: TDK vs LK
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398077@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2494,8 +2494,8 @@ SUMMARY:MSC vs SASHI
 UID:cs-go-dust2-dk-31-2026-1387924@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | MANA eSports: 1\nStream: https://www.twitch.tv/eslcs
+DTEND:20260322T204615Z
 DTSTART:20260322T180153Z
 SUMMARY:Lower bracket round 5 match 2: NEMI vs MANA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398073@tournamentics
@@ -4695,7 +4695,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260323T180000Z
-SUMMARY:Lower bracket round 6 match  1: SNG vs TBD
+SUMMARY:Lower bracket round 6 match  1: SNG vs NEMI
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398076@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7898,8 +7898,8 @@ SUMMARY:Winners match: MSC vs ECS
 UID:cs-go-dust2-dk-31-2026-1387926@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: ex-RUBY: 1 | los kogutos: 2\nStream: No official stream linked
+DTEND:20260322T204505Z
 DTSTART:20260322T180035Z
 SUMMARY:Lower bracket round 5 match 4: ex-RUBY vs LK
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398075@tournamentics
@@ -10211,7 +10211,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260323T220000Z
-SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 2: BHE vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397681@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10990,13 +10990,6 @@ DTEND:20260305T115642Z
 DTSTART:20260305T104018Z
 SUMMARY:Round 1: ex-GANK Esports vs SNG
 UID:cs-go-exort-series-23-2026-1385808@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kronyii
-DURATION:PT2H
-DTSTART:20260322T220000Z
-SUMMARY:Lower bracket round 2 match 3: PLS vs BHE
-UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: UNO MILLE: 2 | MIBR Academy: 1\nStream: https://kick.com/cct_cs3
