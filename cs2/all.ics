@@ -5129,7 +5129,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260323T201500Z
-SUMMARY:Semifinal 1: Lavked vs TBD
+SUMMARY:Semifinal 1: Lavked vs WROTBERRY
 UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6099,8 +6099,8 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403535@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fyflo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: WROTBERRY: 2 | QUAZAR: 1\nStream: https://www.twitch.tv/fyflo
+DTEND:20260323T200505Z
 DTSTART:20260323T170455Z
 SUMMARY:Quarterfinal 1: WROTBERRY vs QUA
 UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413190@tournamentics
@@ -8101,8 +8101,8 @@ SUMMARY:STA vs EP
 UID:cs-go-esea-advanced-europe-56-2026-1353977@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nResult: PARIVISION: 0 | Vitality: 2\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260323T200720Z
 DTSTART:20260323T175213Z
 SUMMARY:Upper bracket final: PRV vs VIT
 UID:cs-go-blast-open-rotterdam-spring-2026-1394943@tournamentics
