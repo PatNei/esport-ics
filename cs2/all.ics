@@ -835,9 +835,9 @@ SUMMARY:ENRAGE vs Peekaboo
 UID:cs-go-esea-advanced-europe-56-2026-1344546@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DESCRIPTION:🔴 LIVE NOW\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260323T160000Z
+DTSTART:20260323T160813Z
 SUMMARY:Elimination match: m1x vs LPH
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404869@tournamentics
 END:VEVENT
@@ -2977,7 +2977,7 @@ SUMMARY:TNT vs FCF
 UID:cs-go-esea-advanced-europe-56-2026-1347235@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs6
 DURATION:PT2H
 DTSTART:20260323T160000Z
 SUMMARY:Lower bracket round 1 match 1: YNG vs DNT
@@ -3047,9 +3047,9 @@ SUMMARY:Elimination match: Hashiras vs NVQ
 UID:cs-go-nodwin-clutch-series-6-2026-1389663@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260323T160000Z
+DTSTART:20260323T160259Z
 SUMMARY:Round of 16 match 1: FXW7 vs MIBR.A
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394921@tournamentics
 END:VEVENT
@@ -3686,7 +3686,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kleverrgg
 DURATION:PT2H
-DTSTART:20260323T160000Z
+DTSTART:20260323T161500Z
 SUMMARY:OBSB vs Matrix
 UID:cs-go-urban-riga-open-3-2026-1402013@tournamentics
 END:VEVENT
@@ -6102,7 +6102,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260323T161500Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: WROTBERRY vs TBD
 UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413190@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6878,7 +6878,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
-DTSTART:20260323T160000Z
+DTSTART:20260323T161500Z
 SUMMARY:ASTRAL vs WAVE
 UID:cs-go-urban-riga-open-3-2026-1402012@tournamentics
 END:VEVENT
@@ -8577,8 +8577,8 @@ SUMMARY:Round 4: STA vs BBP
 UID:cs-go-cct-europe-series-18-3-2026-1381192@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: WROTBERRY: 1 | Team Novaq: 0\nStream: No official stream linked
+DTEND:20260323T160247Z
 DTSTART:20260323T152304Z
 SUMMARY:Round of 16 match 2: WROTBERRY vs NVQ
 UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1411898@tournamentics
