@@ -3757,7 +3757,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260324T220000Z
-SUMMARY:Lower bracket quarterfinal 2: MW vs TBD
+SUMMARY:Lower bracket quarterfinal 2: MW vs BHE
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397683@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7086,8 +7086,8 @@ SUMMARY:Lower bracket round 2 match 4: Leo vs TLR
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398055@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: Wildcard: 0 | AaB Esport: 1\nStream: https://kick.com/urbancontenders
+DTEND:20260323T235427Z
 DTSTART:20260323T230844Z
 SUMMARY:WC vs AAB
 UID:cs-go-urban-riga-open-3-2026-1402022@tournamentics
@@ -10096,8 +10096,8 @@ SUMMARY:Lower bracket semifinal 1: TS vs 9z
 UID:cs-go-blast-open-rotterdam-spring-2026-1394946@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | Game Hunters: 0\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260323T235306Z
 DTSTART:20260323T221211Z
 SUMMARY:Lower bracket round 3 match 2: BHE vs GH
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397681@tournamentics
