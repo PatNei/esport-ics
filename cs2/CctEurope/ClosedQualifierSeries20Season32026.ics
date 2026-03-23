@@ -4,13 +4,6 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260327T150000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411697@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
 DTSTART:20260327T120000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411694@tournamentics
@@ -39,6 +32,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
+DTSTART:20260325T090000Z
+SUMMARY:LILMIX vs AHK
+UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411699@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
 DTSTART:20260323T180000Z
 SUMMARY:Hashiras vs RUST
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411691@tournamentics
@@ -46,16 +46,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260324T090000Z
-SUMMARY:Elimination match: Supernova vs rottweilers
-UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411687@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260325T090000Z
-SUMMARY:LILMIX vs AHK
-UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411699@tournamentics
+DTSTART:20260324T150000Z
+SUMMARY:Winners match: MSC vs ex-Zero Tenacity
+UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411688@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -67,8 +60,15 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
+DTSTART:20260324T090000Z
+SUMMARY:Elimination match: Supernova vs rottweilers
+UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411687@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
 DTSTART:20260324T180000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: OXUJI vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411693@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -88,20 +88,6 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260323T150000Z
-SUMMARY:QWE vs OXUJI
-UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411690@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260325T180000Z
-SUMMARY:ENCE.A vs EC BANGA
-UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411717@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
 DTSTART:20260326T150000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411698@tournamentics
@@ -117,15 +103,15 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260324T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: QWE vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411692@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260324T150000Z
-SUMMARY:Winners match: MSC vs ex-Zero Tenacity
-UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411688@tournamentics
+DTSTART:20260325T180000Z
+SUMMARY:ENCE.A vs EC BANGA
+UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411717@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 2 | rottweilers: 1\nStream: https://kick.com/cct_cs2
@@ -133,5 +119,12 @@ DTEND:20260323T120047Z
 DTSTART:20260323T091327Z
 SUMMARY:ex-Zero Tenacity vs rottweilers
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411685@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260327T150000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411697@tournamentics
 END:VEVENT
 END:VCALENDAR
