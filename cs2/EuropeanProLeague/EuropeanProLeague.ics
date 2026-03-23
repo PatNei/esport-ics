@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260324T113000Z
-SUMMARY:Decider match: OS vs TBD
+SUMMARY:Decider match: OS vs MANA
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401554@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -296,8 +296,8 @@ SUMMARY:TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400861@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nResult: MANA eSports: 1 | Imperial Academy: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260323T174901Z
 DTSTART:20260323T151834Z
 SUMMARY:Winners match: MANA vs Imperial.A
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401553@tournamentics

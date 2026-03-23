@@ -2685,7 +2685,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
-DTSTART:20260323T180000Z
+DTSTART:20260323T190000Z
 SUMMARY:WAVE vs OBSB
 UID:cs-go-urban-riga-open-3-2026-1402017@tournamentics
 END:VEVENT
@@ -2840,7 +2840,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260324T113000Z
-SUMMARY:Decider match: OS vs TBD
+SUMMARY:Decider match: OS vs MANA
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401554@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3833,7 +3833,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260323T183000Z
+DTSTART:20260323T200000Z
 SUMMARY:Lower bracket final: MGLZ vs TS
 UID:cs-go-blast-open-rotterdam-spring-2026-1394948@tournamentics
 END:VEVENT
@@ -5905,7 +5905,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
-DTSTART:20260323T180000Z
+DTSTART:20260323T190000Z
 SUMMARY:ASTRAL vs Matrix
 UID:cs-go-urban-riga-open-3-2026-1402016@tournamentics
 END:VEVENT
@@ -6064,8 +6064,8 @@ SUMMARY:Upper bracket quarterfinal 1: MSTAR vs BMZ
 UID:cs-go-esl-challenger-league-asia-pacific-cup-2-51-2026-1400129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nResult: MANA eSports: 1 | Imperial Academy: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260323T174901Z
 DTSTART:20260323T151834Z
 SUMMARY:Winners match: MANA vs Imperial.A
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401553@tournamentics
@@ -8101,9 +8101,9 @@ SUMMARY:STA vs EP
 UID:cs-go-esea-advanced-europe-56-2026-1353977@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260323T174500Z
+DTSTART:20260323T175213Z
 SUMMARY:Upper bracket final: PRV vs VIT
 UID:cs-go-blast-open-rotterdam-spring-2026-1394943@tournamentics
 END:VEVENT
