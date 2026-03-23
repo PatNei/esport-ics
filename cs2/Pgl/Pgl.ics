@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260323T161500Z
-SUMMARY:Quarterfinal 1: WROTBERRY vs TBD
+SUMMARY:Quarterfinal 1: WROTBERRY vs QUA
 UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413190@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -268,8 +268,8 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Infinite: 0 | QUAZAR: 1\nStream: No official stream linked
+DTEND:20260323T163942Z
 DTSTART:20260323T151440Z
 SUMMARY:Round of 16 match 1: INF vs QUA
 UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1411897@tournamentics
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260323T161500Z
-SUMMARY:Quarterfinal 2: Lavked vs TBD
+SUMMARY:Quarterfinal 2: Lavked vs Atreides
 UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413191@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -387,8 +387,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: B8 Academy: 0 | Atreides: 1\nStream: No official stream linked
+DTEND:20260323T163626Z
 DTSTART:20260323T152939Z
 SUMMARY:Round of 16 match 3: B8.A vs Atreides
 UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1411899@tournamentics
