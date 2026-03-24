@@ -362,27 +362,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BcGameMasters/Seaso
 </details>
 
 <details>
-<summary>BetBoom Storm</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/BetboomStorm.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/BetboomStorm.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/Season12026.ics
-```
-
-</details>
-
-<details>
 <summary>CCT Europe</summary>
 
 ### Full Schedule

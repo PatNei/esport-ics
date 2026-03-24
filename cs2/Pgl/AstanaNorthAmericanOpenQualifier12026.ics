@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bonamant
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Chicken Coop Esports: 2 | SportsBetExpert: 1\nStream: https://www.twitch.tv/bonamant
+DTEND:20260324T004120Z
 DTSTART:20260323T223125Z
 SUMMARY:Quarterfinal 4: CCE vs SportsBetExpert
 UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412074@tournamentics
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260324T030000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: CCE vs TBD
 UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1413316@tournamentics
 END:VEVENT
 BEGIN:VEVENT
