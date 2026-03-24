@@ -957,7 +957,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260325T180000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: BHE vs TBD
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394929@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2937,7 +2937,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260324T153000Z
+DTSTART:20260324T154500Z
 SUMMARY:Elimination match: AIMC vs NXS
 UID:cs-go-bc-game-masters-championship-1-2026-1403536@tournamentics
 END:VEVENT
@@ -7632,8 +7632,8 @@ SUMMARY:Round 3: VP.F vs EP
 UID:cs-go-exort-series-24-2026-1407197@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | Isurus: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260324T153312Z
 DTSTART:20260324T130719Z
 SUMMARY:Quarterfinal 4: BHE vs ISG
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394927@tournamentics
@@ -10203,7 +10203,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260324T153000Z
+DTSTART:20260324T154500Z
 SUMMARY:Elimination match: PSSN.UA vs TRI
 UID:cs-go-bc-game-masters-championship-1-2026-1403601@tournamentics
 END:VEVENT
