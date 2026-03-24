@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
 DTSTART:20260324T150000Z
-SUMMARY:Semifinal 1: OBSB vs TBD
+SUMMARY:Semifinal 1: OBSB vs PHA
 UID:cs-go-urban-riga-open-3-2026-1403090@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-urban-riga-open-3-2026-1403091@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/officialhyper
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: ASTRAL: 0 | Phantom: 2\nStream: https://www.twitch.tv/officialhyper
+DTEND:20260324T111022Z
 DTSTART:20260324T090828Z
 SUMMARY:Quarterfinal 2: ASTRAL vs PHA
 UID:cs-go-urban-riga-open-3-2026-1403087@tournamentics
