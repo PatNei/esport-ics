@@ -2546,7 +2546,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
 DURATION:PT2H
 DTSTART:20260324T170000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: FCF vs TBD
 UID:cs-go-journey-spring-2026-1398103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3341,8 +3341,8 @@ SUMMARY:Upper bracket quarterfinal 4: MSQ vs URSA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398093@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: eternal premium: 2 | JUMBO TEAM: 1\nStream: https://kick.com/exort_en2
+DTEND:20260324T131457Z
 DTSTART:20260324T103940Z
 SUMMARY:Round 5: EP vs JUMBO
 UID:cs-go-exort-series-24-2026-1413399@tournamentics
@@ -5773,7 +5773,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
 DURATION:PT2H
 DTSTART:20260324T140000Z
-SUMMARY:Winners match: M80 vs TBD
+SUMMARY:Winners match: M80 vs JS
 UID:cs-go-journey-spring-2026-1398102@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9088,8 +9088,8 @@ SUMMARY:Round 4: PRV vs MNTE
 UID:cs-go-esl-pro-league-23-2026-1376215@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 2 | FC Famalicão Esports: 0\nStream: https://www.twitch.tv/journey_cs2
+DTEND:20260324T131508Z
 DTSTART:20260324T111858Z
 SUMMARY:JS vs FCF
 UID:cs-go-journey-spring-2026-1398101@tournamentics
@@ -9881,7 +9881,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260324T133000Z
+DTSTART:20260324T134500Z
 SUMMARY:Winners match: ECS vs EF
 UID:cs-go-bc-game-masters-championship-1-2026-1403625@tournamentics
 END:VEVENT
