@@ -726,7 +726,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
 DTSTART:20260324T150000Z
-SUMMARY:Semifinal 2: FOKUS vs OBSB
+SUMMARY:Semifinal 2: OBSB vs FOKUS
 UID:cs-go-urban-riga-open-3-2026-1403091@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6183,8 +6183,8 @@ SUMMARY:OldBoys vs MINLATE
 UID:cs-go-esea-advanced-europe-56-2026-1328932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: fnatic: 0 | MOUZ NXT: 1\nStream: https://www.twitch.tv/watchfulTVb
+DTEND:20260324T145914Z
 DTSTART:20260324T140208Z
 SUMMARY:Winners match: FNC vs MOUZ.N
 UID:cs-go-bc-game-masters-championship-1-2026-1403535@tournamentics
@@ -11723,7 +11723,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260324T173000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: FNC vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403537@tournamentics
 END:VEVENT
 BEGIN:VEVENT
