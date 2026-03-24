@@ -1733,7 +1733,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
-DTSTART:20260324T120000Z
+DTSTART:20260324T123000Z
 SUMMARY:Quarterfinal 3: FOKUS vs WC
 UID:cs-go-urban-riga-open-3-2026-1403088@tournamentics
 END:VEVENT
@@ -2468,7 +2468,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260324T130000Z
+DTSTART:20260324T133000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403630@tournamentics
 END:VEVENT
@@ -7583,8 +7583,8 @@ SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406974@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nResult: Rune Eaters: 1 |  CSDIILIT: 2\nStream: https://kick.com/cct_cs
+DTEND:20260324T115905Z
 DTSTART:20260324T090230Z
 SUMMARY:Round 2: RE vs  CSDIILIT
 UID:cs-go-cct-europe-series-19-3-2026-1398983@tournamentics
@@ -9895,7 +9895,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260324T130000Z
+DTSTART:20260324T133000Z
 SUMMARY:Winners match: EF vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403625@tournamentics
 END:VEVENT
@@ -10630,7 +10630,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/krl_stream
 DURATION:PT2H
-DTSTART:20260324T120000Z
+DTSTART:20260324T123000Z
 SUMMARY:Quarterfinal 4: AAB vs 3DMAX
 UID:cs-go-urban-riga-open-3-2026-1403089@tournamentics
 END:VEVENT
