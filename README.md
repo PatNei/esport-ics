@@ -152,6 +152,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/Ro
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/Season62026.ics
 ```
 
+### Season 7 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/Season72026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/Season72026.ics
+```
+
 </details>
 
 <details>
