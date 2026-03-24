@@ -33,19 +33,19 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260324T133000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: 9INE vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403630@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260324T143000Z
-SUMMARY:Elimination match: CS vs TBD
+SUMMARY:Elimination match: CS vs HS
 UID:cs-go-bc-game-masters-championship-1-2026-1403626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemastersb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: ECSTATIC: 1 | HyperSpirit: 0\nStream: https://www.twitch.tv/bcgamemastersb
+DTEND:20260324T125338Z
 DTSTART:20260324T121008Z
 SUMMARY:ECS vs HS
 UID:cs-go-bc-game-masters-championship-1-2026-1403623@tournamentics
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
 DURATION:PT2H
-DTSTART:20260324T130000Z
+DTSTART:20260324T133000Z
 SUMMARY:Winners match: FNC vs MOUZ.N
 UID:cs-go-bc-game-masters-championship-1-2026-1403535@tournamentics
 END:VEVENT
@@ -100,8 +100,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403632@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemastersC
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: 9INE: 1 | INFINITE Talent: 0\nStream: https://www.twitch.tv/bcgamemastersC
+DTEND:20260324T125744Z
 DTSTART:20260324T122409Z
 SUMMARY:9INE vs INF.T
 UID:cs-go-bc-game-masters-championship-1-2026-1403628@tournamentics
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260324T133000Z
-SUMMARY:Winners match: EF vs TBD
+SUMMARY:Winners match: EF vs ECS
 UID:cs-go-bc-game-masters-championship-1-2026-1403625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -130,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/forg1
 DURATION:PT2H
-DTSTART:20260324T130000Z
+DTSTART:20260324T133000Z
 SUMMARY:Winners match: BMB vs BST
 UID:cs-go-bc-game-masters-championship-1-2026-1403580@tournamentics
 END:VEVENT
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260324T143000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: INF.T vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
