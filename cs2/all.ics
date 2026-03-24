@@ -725,7 +725,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
-DTSTART:20260324T150000Z
+DTSTART:20260324T153000Z
 SUMMARY:Semifinal 2: OBSB vs FOKUS
 UID:cs-go-urban-riga-open-3-2026-1403091@tournamentics
 END:VEVENT
@@ -2459,8 +2459,8 @@ SUMMARY:MF vs Arcade Esports
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgameesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: 9INE: 0 | Inner Circle Esports: 1\nStream: https://www.twitch.tv/bcgameesports
+DTEND:20260324T151259Z
 DTSTART:20260324T141716Z
 SUMMARY:Winners match: 9INE vs ICE
 UID:cs-go-bc-game-masters-championship-1-2026-1403630@tournamentics
@@ -4113,7 +4113,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
-DTSTART:20260324T150000Z
+DTSTART:20260324T160000Z
 SUMMARY:Semifinal 1: TBD vs PHA
 UID:cs-go-urban-riga-open-3-2026-1403090@tournamentics
 END:VEVENT
@@ -7999,7 +7999,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260324T173000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: 9INE vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403632@tournamentics
 END:VEVENT
 BEGIN:VEVENT
