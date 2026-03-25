@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemastersd
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: Gentle Mates: 2 | HyperSpirit: 1\nStream: https://www.twitch.tv/bcgamemastersd
+DTEND:20260325T182632Z
 DTSTART:20260325T151324Z
 SUMMARY:Round of 16 match 8: M8 vs HS
 UID:cs-go-bc-game-masters-championship-1-2026-1403640@tournamentics
@@ -149,10 +149,10 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403647@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/zonixxcs
 DURATION:PT2H
 DTSTART:20260325T180000Z
-SUMMARY:Quarterfinal 4: BIG vs TBD
+SUMMARY:Quarterfinal 4: BIG vs M8
 UID:cs-go-bc-game-masters-championship-1-2026-1403644@tournamentics
 END:VEVENT
 BEGIN:VEVENT
