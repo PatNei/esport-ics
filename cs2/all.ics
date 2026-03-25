@@ -170,13 +170,6 @@ SUMMARY:Round 3: HAVU vs BBP
 UID:cs-go-cct-europe-series-18-3-2026-1381144@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Ursa: 2 | Lilmix: 1\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260304T172747Z
-DTSTART:20260304T150414Z
-SUMMARY:Round 2: URSA vs LILMIX
-UID:cs-go-bc-game-masters-1-2026-1381423@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260403T103000Z
@@ -294,13 +287,6 @@ DTEND:20260313T200917Z
 DTSTART:20260313T184303Z
 SUMMARY:Round 3: URSA vs zajezdzacze
 UID:cs-go-cct-europe-series-18-3-2026-1381178@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: KOLESIE: 1 | Metizport: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260314T150236Z
-DTSTART:20260314T120502Z
-SUMMARY:Quarterfinal 4: KOL vs MZP
-UID:cs-go-bc-game-masters-1-2026-1381457@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: HOTU: 2 | Inner Circle Esports: 0\nStream: https://www.twitch.tv/bcgamemastersC
@@ -1269,13 +1255,6 @@ SUMMARY:Round 1: HAVU vs EF
 UID:cs-go-cct-europe-series-18-3-2026-1381093@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | Rune Eaters: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260313T194426Z
-DTSTART:20260313T180503Z
-SUMMARY:Round of 16 match 8: NEMI vs RE
-UID:cs-go-bc-game-masters-1-2026-1381453@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: Sinners: 2 | BESTIA: 0\nStream: https://www.twitch.tv/bcgamemastersd
 DTEND:20260325T134831Z
 DTSTART:20260325T120234Z
@@ -2158,13 +2137,6 @@ SUMMARY:Lower bracket round 1 match 4: NAVI.J vs eLITenergy
 UID:cs-go-cct-europe-contenders-3-2026-1411810@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Team Novaq: 2 | HEROIC Academy: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260302T194954Z
-DTSTART:20260302T181450Z
-SUMMARY:Round 1: NVQ vs HERO.A
-UID:cs-go-bc-game-masters-1-2026-1381416@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260326T150000Z
@@ -2548,13 +2520,6 @@ DTEND:20260312T180003Z
 DTSTART:20260312T150900Z
 SUMMARY:Round 3: FAV vs OMG
 UID:cs-go-cct-europe-series-18-3-2026-1381147@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Rune Eaters: 1 | Eternal Fire: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260305T152537Z
-DTSTART:20260305T121230Z
-SUMMARY:Round 2: RE vs EF
-UID:cs-go-bc-game-masters-1-2026-1381426@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 1 | Tricked: 2\nStream: https://www.twitch.tv/bcgamemastersC
@@ -3061,18 +3026,18 @@ SUMMARY:eLITenergy vs Players
 UID:cs-go-esea-advanced-europe-56-2026-1374954@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 2 | MIBR Academy: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260323T180020Z
-DTSTART:20260323T160259Z
-SUMMARY:Round of 16 match 1: FXW7 vs MIBR.A
-UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394921@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: Hashiras: 0 | Team Novaq: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260310T165629Z
 DTSTART:20260310T151149Z
 SUMMARY:Elimination match: Hashiras vs NVQ
 UID:cs-go-nodwin-clutch-series-6-2026-1389663@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 2 | MIBR Academy: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260323T180020Z
+DTSTART:20260323T160259Z
+SUMMARY:Round of 16 match 1: FXW7 vs MIBR.A
+UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394921@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | Sangal ALTERS: 0\nStream: https://kick.com/exort_en2
@@ -3255,13 +3220,6 @@ DTEND:20260313T104129Z
 DTSTART:20260313T090530Z
 SUMMARY:Round 3: STA vs RE
 UID:cs-go-cct-europe-series-18-3-2026-1381167@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Metizport: 2 | ENCE Academy: 1\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260312T124108Z
-DTSTART:20260312T091108Z
-SUMMARY:Round of 16 match 1: MZP vs ENCE.A
-UID:cs-go-bc-game-masters-1-2026-1381446@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: HyperSpirit: 2 | ECSTATIC: 1\nStream: https://www.twitch.tv/bcgamemastersd
@@ -3635,13 +3593,6 @@ SUMMARY:Elimination match: MSC vs ex-Zero Tenacity
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398769@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: illwill: 2 | Team Novaq: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260314T201648Z
-DTSTART:20260314T181359Z
-SUMMARY:Quarterfinal 3: ILWL vs NVQ
-UID:cs-go-bc-game-masters-1-2026-1381456@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: QUAZAR: 1 | AKA HERO KAJO: 0\nStream: https://www.twitch.tv/goyarego
 DTEND:20260114T193945Z
 DTSTART:20260114T191302Z
@@ -3920,13 +3871,6 @@ DTEND:20260320T174814Z
 DTSTART:20260320T150424Z
 SUMMARY:Decider match: BIG.A vs LILMIX
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398745@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: ex-Fingers Crossed: 2 | HEROIC Academy: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260306T195507Z
-DTSTART:20260306T182710Z
-SUMMARY:Round 3: ex-Fingers Crossed vs HERO.A
-UID:cs-go-bc-game-masters-1-2026-1381432@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -4209,8 +4153,8 @@ SUMMARY:Winners match: Inner Circle Academy vs ESC
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404868@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: The Last Resort: 2 | Nova Legion: 0\nStream: https://kick.com/exort_en2
+DTEND:20260325T210148Z
 DTSTART:20260325T194247Z
 SUMMARY:Round 1: TLR vs NOVA
 UID:cs-go-exort-series-24-2026-1414590@tournamentics
@@ -4256,13 +4200,6 @@ DTEND:20260309T212323Z
 DTSTART:20260309T191912Z
 SUMMARY:Upper bracket quarterfinal 3: YN vs Qual4
 UID:cs-go-cct-europe-contenders-2-2026-1391720@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: megoshort: 2 | ex-Zero Tenacity: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260309T191617Z
-DTSTART:20260309T183458Z
-SUMMARY:Round 4: MEGO vs ex-Zero Tenacity
-UID:cs-go-bc-game-masters-1-2026-1381442@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: ECSTATIC: 1 | HyperSpirit: 0\nStream: https://www.twitch.tv/bcgamemastersb
@@ -4417,13 +4354,6 @@ DTEND:20260320T192556Z
 DTSTART:20260320T180719Z
 SUMMARY:KOL vs FGT
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404810@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: megoshort: 2 | FUZOS: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260303T163650Z
-DTSTART:20260303T150629Z
-SUMMARY:Round 1: MEGO vs FUZOS
-UID:cs-go-bc-game-masters-1-2026-1381419@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -4664,13 +4594,6 @@ SUMMARY:Round 1: FAV vs ex-Zero Tenacity
 UID:cs-go-cct-europe-series-18-3-2026-1381092@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | WW Team: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260313T170157Z
-DTSTART:20260313T151113Z
-SUMMARY:Round of 16 match 7: NEM vs WW
-UID:cs-go-bc-game-masters-1-2026-1381452@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: G2: 2 | aimclub: 0\nStream: https://kick.com/bcgamemasters
 DTEND:20260325T134555Z
 DTSTART:20260325T121100Z
@@ -4781,13 +4704,6 @@ DTEND:20260320T172756Z
 DTSTART:20260320T160448Z
 SUMMARY:rottweilers vs Diamant Esports
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404820@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: megoshort: 0 | Eternal Fire: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260306T110945Z
-DTSTART:20260306T091711Z
-SUMMARY:Round 3: MEGO vs EF
-UID:cs-go-bc-game-masters-1-2026-1381429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: megoshort: 0 | HAVU: 1\nStream: https://www.twitch.tv/dutchboycasts
@@ -4923,18 +4839,18 @@ SUMMARY:Lower bracket quarterfinal 1: MOUZ vs 9z
 UID:cs-go-blast-open-rotterdam-spring-2026-1394944@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: Lilmix: 2 | BIG Academy: 1\nStream: https://kick.com/cct_cs
-DTEND:20260318T125806Z
-DTSTART:20260318T090746Z
-SUMMARY:LILMIX vs BIG.A
-UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398741@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: MINLATE: 2 | megoshort: 1\nStream: https://kick.com/nodwin_cs2
 DTEND:20260324T114719Z
 DTSTART:20260324T090318Z
 SUMMARY:Round 4: MINLATE vs MEGO
 UID:cs-go-nodwin-clutch-series-6-2026-1389794@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: Lilmix: 2 | BIG Academy: 1\nStream: https://kick.com/cct_cs
+DTEND:20260318T125806Z
+DTSTART:20260318T090746Z
+SUMMARY:LILMIX vs BIG.A
+UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Square Sausages: 1 | CYBERSHOKE Prospects: 0\nStream: No official stream linked
@@ -5145,13 +5061,6 @@ DTEND:20260310T192826Z
 DTSTART:20260310T163216Z
 SUMMARY:Lower bracket round 1 match 4: Glitch vs M33
 UID:cs-go-cct-europe-contenders-2-2026-1391717@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 2 |  CSDIILIT: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260308T195455Z
-DTSTART:20260308T181358Z
-SUMMARY:Round 4: HERO.A vs  CSDIILIT
-UID:cs-go-bc-game-masters-1-2026-1381439@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -5427,13 +5336,6 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406948@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Ursa: 0 | Eternal Fire: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260302T171350Z
-DTSTART:20260302T152432Z
-SUMMARY:Round 1: URSA vs EF
-UID:cs-go-bc-game-masters-1-2026-1381415@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260327T150000Z
@@ -5509,13 +5411,6 @@ DTEND:20260308T163921Z
 DTSTART:20260308T150700Z
 SUMMARY:Round 1: OlyBet SB vs URSA
 UID:cs-go-cct-europe-series-18-3-2026-1381089@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: HAVU: 1 | Team Novaq: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260312T210521Z
-DTSTART:20260312T182938Z
-SUMMARY:Round of 16 match 4: HAVU vs NVQ
-UID:cs-go-bc-game-masters-1-2026-1381449@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
@@ -5784,13 +5679,6 @@ SUMMARY:Lower bracket round 2 match 1: GE vs ATRIX
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397676@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: los kogutos: 0 | ENCE Academy: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260305T104238Z
-DTSTART:20260305T091026Z
-SUMMARY:Round 2: LK vs ENCE.A
-UID:cs-go-bc-game-masters-1-2026-1381425@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
 DTSTART:20260328T160000Z
@@ -5866,13 +5754,6 @@ DURATION:PT2H
 DTSTART:20260316T180000Z
 SUMMARY:Upper bracket round 1 match 12: EC BANGA vs AIRLYA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398015@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Metizport: 2 | illwill: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260315T161927Z
-DTSTART:20260315T143823Z
-SUMMARY:Semifinal 2: MZP vs ILWL
-UID:cs-go-bc-game-masters-1-2026-1381459@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: eternal premium: 0 | Brute: 1\nStream: https://www.twitch.tv/famouzzzzzzz
@@ -6477,13 +6358,6 @@ SUMMARY:OldBoys vs aimclub
 UID:cs-go-esea-advanced-europe-56-2026-1328942@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: los kogutos: 1 | WW Team: 2\nStream: https://www.twitch.tv/piaskees
-DTEND:20260310T175545Z
-DTSTART:20260310T150959Z
-SUMMARY:Round 5: LK vs WW
-UID:cs-go-bc-game-masters-1-2026-1381445@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | KUUSAMO.gg: 0\nStream: https://kick.com/exort_en2
 DTEND:20260304T151223Z
 DTSTART:20260304T133356Z
@@ -6841,13 +6715,6 @@ SUMMARY:Upper bracket round 1 match 8: HERO.A vs ex-Zero Tenacity
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398011@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | MOUZ NXT: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260314T102258Z
-DTSTART:20260314T090548Z
-SUMMARY:Quarterfinal 2: NEMI vs MOUZ.N
-UID:cs-go-bc-game-masters-1-2026-1381455@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: hindsight: 0 | Team PeeP: 1\nStream: https://www.twitch.tv/peepcs2
 DTEND:20260114T194832Z
 DTSTART:20260114T191856Z
@@ -7191,13 +7058,6 @@ SUMMARY:Elimination match: BIG.A vs AIMC
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398744@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Ursa: 2 | los kogutos: 1\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260306T175855Z
-DTSTART:20260306T152057Z
-SUMMARY:Round 3: URSA vs LK
-UID:cs-go-bc-game-masters-1-2026-1381431@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260405T103000Z
@@ -7497,13 +7357,6 @@ DTEND:20260324T115905Z
 DTSTART:20260324T090230Z
 SUMMARY:Round 2: RE vs  CSDIILIT
 UID:cs-go-cct-europe-series-19-3-2026-1398983@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: ex-Fingers Crossed: 0 | Rune Eaters: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260309T174342Z
-DTSTART:20260309T154029Z
-SUMMARY:Round 4: ex-Fingers Crossed vs RE
-UID:cs-go-bc-game-masters-1-2026-1381441@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -7912,13 +7765,6 @@ SUMMARY:Round 3: ACE vs EF
 UID:cs-go-cct-europe-series-18-3-2026-1381172@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | HEROIC Academy: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260313T134712Z
-DTSTART:20260313T120752Z
-SUMMARY:Round of 16 match 6: KOL vs HERO.A
-UID:cs-go-bc-game-masters-1-2026-1381451@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: 9INE: 2 | OG: 1\nStream: https://www.twitch.tv/bcgamemasters
 DTEND:20260324T231507Z
 DTSTART:20260324T194643Z
@@ -7989,7 +7835,7 @@ SUMMARY:Round 4: M80 vs TL
 UID:cs-go-esl-pro-league-23-2026-1376219@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
 DURATION:PT2H
 DTSTART:20260325T191719Z
 SUMMARY:Semifinal 2: AKPO6ATbI vs AM
@@ -8043,13 +7889,6 @@ DTEND:20260324T031828Z
 DTSTART:20260324T021829Z
 SUMMARY:Lower bracket round 3 match 2: O49 vs Reign Above
 UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397981@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 1 | Team Novaq: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260305T211204Z
-DTSTART:20260305T181124Z
-SUMMARY:Round 2: ex-Zero Tenacity vs NVQ
-UID:cs-go-bc-game-masters-1-2026-1381428@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Misa Esports: 0 | Aurora Young Blood: 1\nStream: https://www.twitch.tv/michass21
@@ -8290,8 +8129,8 @@ SUMMARY:Round 16 match 8: FC vs ex-RUBY
 UID:cs-go-cct-europe-series-18-3-2026-1381263@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTV
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | Monte: 0\nStream: https://www.twitch.tv/watchfulTV
+DTEND:20260325T205346Z
 DTSTART:20260325T183044Z
 SUMMARY:Quarterfinal 2: BB vs MNTE
 UID:cs-go-bc-game-masters-championship-1-2026-1403642@tournamentics
@@ -8414,13 +8253,6 @@ DTEND:20260309T175202Z
 DTSTART:20260309T163714Z
 SUMMARY:Lower bracket round 1 match 3: Valtrion vs TS.A
 UID:cs-go-cct-europe-contenders-2-2026-1391716@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Omega: 1 | los kogutos: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260308T180110Z
-DTSTART:20260308T150555Z
-SUMMARY:Round 4: OMG vs LK
-UID:cs-go-bc-game-masters-1-2026-1381438@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -8689,13 +8521,6 @@ SUMMARY:HS vs  CSDIILIT
 UID:cs-go-nodwin-clutch-series-6-2026-1389699@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Omega: 0 | ENCE Academy: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260302T135455Z
-DTSTART:20260302T121719Z
-SUMMARY:Round 1: OMG vs ENCE.A
-UID:cs-go-bc-game-masters-1-2026-1381414@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260326T090000Z
@@ -8806,13 +8631,6 @@ DTEND:20260121T205613Z
 DTSTART:20260121T202703Z
 SUMMARY:HASP vs BAKS
 UID:cs-go-esea-advanced-europe-56-2026-1328945@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | megoshort: 1\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260312T181159Z
-DTSTART:20260312T150814Z
-SUMMARY:Round of 16 match 3: MOUZ.N vs MEGO
-UID:cs-go-bc-game-masters-1-2026-1381448@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 1 | OG: 0\nStream: https://www.twitch.tv/bcgamemasters
@@ -9053,13 +8871,6 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406957@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: WW Team: 0 | HEROIC Academy: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260304T195701Z
-DTSTART:20260304T181448Z
-SUMMARY:Round 2: WW vs HERO.A
-UID:cs-go-bc-game-masters-1-2026-1381424@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T140000Z
@@ -9170,13 +8981,6 @@ DTEND:20260316T190332Z
 DTSTART:20260316T180841Z
 SUMMARY:Upper bracket round 1 match 11: hindsight vs MANA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398014@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | Eternal Fire: 1\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260315T140330Z
-DTSTART:20260315T110924Z
-SUMMARY:Semifinal 1: NEMI vs EF
-UID:cs-go-bc-game-masters-1-2026-1381458@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Imperial Academy: 1 | ZOTIX: 0\nStream: https://www.twitch.tv/rob1nfall
@@ -9445,13 +9249,6 @@ SUMMARY:FCF vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1328931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Omega: 1 | ex-Zero Tenacity: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260307T145002Z
-DTSTART:20260307T121814Z
-SUMMARY:Round 3: OMG vs ex-Zero Tenacity
-UID:cs-go-bc-game-masters-1-2026-1381434@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | Nexus: 0\nStream: https://www.twitch.tv/bcgamemastersb
 DTEND:20260324T105418Z
 DTSTART:20260324T100919Z
@@ -9490,7 +9287,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260326T180000Z
-SUMMARY:Lower bracket final: NEMI vs K27
+SUMMARY:Lower bracket final: K27 vs NEMI
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398081@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10117,13 +9914,6 @@ SUMMARY: CSDIILIT vs 8S
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398814@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | Lilmix: 1\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260303T205622Z
-DTSTART:20260303T180832Z
-SUMMARY:Round 1: LK vs LILMIX
-UID:cs-go-bc-game-masters-1-2026-1381420@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: Passion UA: 1 | Tricked: 2\nStream: https://www.twitch.tv/bcgameesports
 DTEND:20260324T183935Z
 DTSTART:20260324T160713Z
@@ -10192,13 +9982,6 @@ DTEND:20260309T204631Z
 DTSTART:20260309T180539Z
 SUMMARY:Round 1: STA vs Hashiras
 UID:cs-go-cct-europe-series-18-3-2026-1381094@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Team Nemesis: 0 | Eternal Fire: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260314T171207Z
-DTSTART:20260314T152230Z
-SUMMARY:Quarterfinal 1: NEM vs EF
-UID:cs-go-bc-game-masters-1-2026-1381454@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | Eternal Fire: 0\nStream: https://www.twitch.tv/bcgamemastersC
@@ -10271,18 +10054,18 @@ SUMMARY:Lower bracket round 2 match 1: MEGO vs ME
 UID:cs-go-esea-advanced-europe-56-2026-1382741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 2 | Västerås: 0\nStream: https://www.twitch.tv/journey_cs2
-DTEND:20260325T184452Z
-DTSTART:20260325T170113Z
-SUMMARY:Decider match: HERO.A vs vsters
-UID:cs-go-journey-spring-2026-1398108@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: TNC: 1 | KUUSAMO.gg: 0\nStream: https://www.twitch.tv/titaanitv
 DTEND:20260323T155534Z
 DTSTART:20260323T151347Z
 SUMMARY:TNC vs KSM
 UID:cs-go-urban-riga-open-3-2026-1402011@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 2 | Västerås: 0\nStream: https://www.twitch.tv/journey_cs2
+DTEND:20260325T184452Z
+DTSTART:20260325T170113Z
+SUMMARY:Decider match: HERO.A vs vsters
+UID:cs-go-journey-spring-2026-1398108@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Ursa: 0 | UNiTY esports: 1\nStream: No official stream linked
@@ -10474,13 +10257,6 @@ SUMMARY:Round 3: ex-RUBY vs LK
 UID:cs-go-cct-europe-series-18-3-2026-1381151@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Team Novaq: 2 | ENCE Academy: 1\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260306T150358Z
-DTSTART:20260306T120630Z
-SUMMARY:Round 3: NVQ vs ENCE.A
-UID:cs-go-bc-game-masters-1-2026-1381430@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260404T080000Z
@@ -10561,7 +10337,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260326T120000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: BB vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403645@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10780,13 +10556,6 @@ DTEND:20260308T143418Z
 DTSTART:20260308T120814Z
 SUMMARY:Round 1: SNG vs zajezdzacze
 UID:cs-go-cct-europe-series-18-3-2026-1381080@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Ursa: 1 | ENCE Academy: 2\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260309T152324Z
-DTSTART:20260309T120416Z
-SUMMARY:Round 4: URSA vs ENCE.A
-UID:cs-go-bc-game-masters-1-2026-1381440@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -11160,13 +10929,6 @@ SUMMARY:Round 1: OMG vs LK
 UID:cs-go-cct-europe-series-18-3-2026-1381090@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: illwill: 2 | Ursa: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260313T110457Z
-DTSTART:20260313T091003Z
-SUMMARY:Round of 16 match 5: ILWL vs URSA
-UID:cs-go-bc-game-masters-1-2026-1381450@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: INFINITE Talent: 0 | OG: 2\nStream: https://www.twitch.tv/bcgamemastersC
 DTEND:20260324T171918Z
 DTSTART:20260324T155541Z
@@ -11482,13 +11244,6 @@ SUMMARY:Round 2: MNTE vs LGC
 UID:cs-go-esl-pro-league-23-2026-1378871@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | Metizport: 1\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260315T205402Z
-DTSTART:20260315T180720Z
-SUMMARY:Grand final: NEMI vs MZP
-UID:cs-go-bc-game-masters-1-2026-1381460@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nResult: HOTU: 1 | Bebop: 2\nStream: https://kick.com/cct_cs2
 DTEND:20260317T183925Z
 DTSTART:20260317T150908Z
@@ -11620,13 +11375,6 @@ DTEND:20260310T180816Z
 DTSTART:20260310T163533Z
 SUMMARY:Lower bracket round 1 match 2: ENRAGE vs DUG
 UID:cs-go-cct-europe-contenders-2-2026-1391715@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: WW Team: 2 | FUZOS: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260308T141150Z
-DTSTART:20260308T122801Z
-SUMMARY:Round 4: WW vs FUZOS
-UID:cs-go-bc-game-masters-1-2026-1381437@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: fnatic: 1 | aimclub: 2\nStream: https://www.twitch.tv/bcgamemastersb
@@ -11935,13 +11683,6 @@ DTEND:20260320T105752Z
 DTSTART:20260320T090034Z
 SUMMARY:Round 2 : MINLATE vs MANA
 UID:cs-go-nodwin-clutch-series-6-2026-1389779@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Rune Eaters: 2 | Pigeons: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260302T102852Z
-DTSTART:20260302T090956Z
-SUMMARY:Round 1: RE vs PGE
-UID:cs-go-bc-game-masters-1-2026-1381413@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | MANA eSports: 1\nStream: https://kick.com/cct_cs2
