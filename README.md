@@ -33,27 +33,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/Rotterdam
 
 </details>
 
-<details>
-<summary>ESL Pro League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslProLeague/EslProLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslProLeague/EslProLeague.ics
-```
-
----
-
-### Season 23 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslProLeague/Season232026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslProLeague/Season232026.ics
-```
-
-</details>
-
 ## B Tier
 
 <details>
@@ -427,13 +406,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQua
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries20Season32026.ics
-```
-
-### Contenders #2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders22026.ics
 ```
 
 ### Contenders #3 2026
