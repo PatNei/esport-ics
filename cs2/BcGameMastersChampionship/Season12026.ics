@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260325T180000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: BB vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +79,8 @@ SUMMARY:Round of 16 match 6: HOTU vs ICE
 UID:cs-go-bc-game-masters-championship-1-2026-1403638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemastersC
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | Eternal Fire: 0\nStream: https://www.twitch.tv/bcgamemastersC
+DTEND:20260325T134933Z
 DTSTART:20260325T120242Z
 SUMMARY:Round of 16 match 3: BB vs EF
 UID:cs-go-bc-game-masters-championship-1-2026-1403635@tournamentics
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260325T180000Z
-SUMMARY:Quarterfinal 1: G2 vs TBD
+SUMMARY:Quarterfinal 1: G2 vs SIN
 UID:cs-go-bc-game-masters-championship-1-2026-1403641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +170,8 @@ SUMMARY:Round of 16 match 5: HERO vs TRI
 UID:cs-go-bc-game-masters-championship-1-2026-1403637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemastersd
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: Sinners: 2 | BESTIA: 0\nStream: https://www.twitch.tv/bcgamemastersd
+DTEND:20260325T134831Z
 DTSTART:20260325T120234Z
 SUMMARY:Round of 16 match 2: SIN vs BST
 UID:cs-go-bc-game-masters-championship-1-2026-1403634@tournamentics
