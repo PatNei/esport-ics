@@ -1726,7 +1726,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/zonixxcs
 DURATION:PT2H
-DTSTART:20260325T184500Z
+DTSTART:20260325T191500Z
 SUMMARY:Quarterfinal 4: BIG vs M8
 UID:cs-go-bc-game-masters-championship-1-2026-1403644@tournamentics
 END:VEVENT
@@ -5044,7 +5044,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVd
 DURATION:PT2H
-DTSTART:20260325T184500Z
+DTSTART:20260325T191500Z
 SUMMARY:Quarterfinal 3: HOTU vs TRI
 UID:cs-go-bc-game-masters-championship-1-2026-1403643@tournamentics
 END:VEVENT
@@ -5742,8 +5742,8 @@ SUMMARY:LPH vs UNiTY
 UID:cs-go-united21-46-2026-1392359@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: AM Gaming: 2 | mellren: 0\nStream: No official stream linked
+DTEND:20260325T184610Z
 DTSTART:20260325T163912Z
 SUMMARY:Quarterfinal 3: AM vs mellren
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415185@tournamentics
@@ -7992,7 +7992,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260325T190000Z
-SUMMARY:Semifinal 2: AKPO6ATbI vs TBD
+SUMMARY:Semifinal 2: AKPO6ATbI vs AM
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415188@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10271,8 +10271,8 @@ SUMMARY:Lower bracket round 2 match 1: MEGO vs ME
 UID:cs-go-esea-advanced-europe-56-2026-1382741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 2 | Västerås: 0\nStream: https://www.twitch.tv/journey_cs2
+DTEND:20260325T184452Z
 DTSTART:20260325T170113Z
 SUMMARY:Decider match: HERO.A vs vsters
 UID:cs-go-journey-spring-2026-1398108@tournamentics
