@@ -380,13 +380,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/AorusLe
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/BrazilOnlineStage2026.ics
 ```
 
-### LATAM 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/Latam2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/Latam2026.ics
-```
-
 </details>
 
 <details>
