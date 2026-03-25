@@ -772,6 +772,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaNorthAmer
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaSouthAmericanOpenQualifier12026.ics
 ```
 
+### Astana: South American Open Qualifier #2 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaSouthAmericanOpenQualifier22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaSouthAmericanOpenQualifier22026.ics
+```
+
 </details>
 
 <details>
