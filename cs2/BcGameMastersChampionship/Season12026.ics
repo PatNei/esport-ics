@@ -54,12 +54,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260326T150000Z
-SUMMARY:3rd Place match: TBD vs TBD
+SUMMARY:3rd Place match: BB vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTV
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: BetBoom Team: 0 | Sinners: 2\nStream: https://www.twitch.tv/watchfulTV
+DTEND:20260326T135734Z
 DTSTART:20260326T120046Z
 SUMMARY:Semifinal 1: BB vs SIN
 UID:cs-go-bc-game-masters-championship-1-2026-1403645@tournamentics
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260326T180000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: SIN vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403647@tournamentics
 END:VEVENT
 BEGIN:VEVENT
