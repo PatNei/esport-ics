@@ -19,12 +19,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260328T210000Z
-SUMMARY:Elimination match: ODK vs TBD
+SUMMARY:Elimination match: ODK vs GH
 UID:cs-go-ferjee-in-house-2026-1411777@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/forg1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: 9z: 2 | Game Hunters: 1\nStream: https://www.twitch.tv/forg1
+DTEND:20260326T234626Z
 DTSTART:20260326T205336Z
 SUMMARY:9z vs GH
 UID:cs-go-ferjee-in-house-2026-1411774@tournamentics
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260327T003000Z
-SUMMARY:Winners match: MARS vs TBD
+SUMMARY:Winners match: MARS vs 9z
 UID:cs-go-ferjee-in-house-2026-1411776@tournamentics
 END:VEVENT
 BEGIN:VEVENT
