@@ -1626,9 +1626,9 @@ SUMMARY:Winners match: ECS vs EF
 UID:cs-go-bc-game-masters-championship-1-2026-1403625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/forg1
+DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260326T132000Z
+DTSTART:20260326T132112Z
 SUMMARY:GG vs SHIN
 UID:cs-go-ferjee-in-house-2026-1411770@tournamentics
 END:VEVENT
@@ -5668,7 +5668,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260327T100000Z
-SUMMARY:Grand final: SFE vs TBD
+SUMMARY:Grand final: SFE vs RSTR
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1397995@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5847,8 +5847,8 @@ SUMMARY:Winners match: 9INE vs ICE
 UID:cs-go-bc-game-masters-championship-1-2026-1403630@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Ground Zero: 1 | Rooster: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260326T133058Z
 DTSTART:20260326T101118Z
 SUMMARY:Lower bracket final: GZ vs RSTR
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1398003@tournamentics
@@ -6886,7 +6886,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
 DURATION:PT2H
 DTSTART:20260326T140000Z
-SUMMARY:Elimination match: YN vs RT
+SUMMARY:Elimination match: RT vs YN
 UID:cs-go-journey-spring-2026-1398136@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7257,7 +7257,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
 DURATION:PT2H
 DTSTART:20260326T140000Z
-SUMMARY:Winners match: EYE vs ALL
+SUMMARY:Winners match: ALL vs EYE
 UID:cs-go-journey-spring-2026-1398124@tournamentics
 END:VEVENT
 BEGIN:VEVENT
