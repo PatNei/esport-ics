@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260326T163000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: MIBR vs TBD
 UID:cs-go-ferjee-in-house-2026-1411771@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-ferjee-in-house-2026-1411773@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/RNakano
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: MIBR: 2 | Magna: 0\nStream: https://www.twitch.tv/RNakano
+DTEND:20260326T143552Z
 DTSTART:20260326T131811Z
 SUMMARY:MIBR vs Magna
 UID:cs-go-ferjee-in-house-2026-1411769@tournamentics
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260328T130000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Magna vs TBD
 UID:cs-go-ferjee-in-house-2026-1411772@tournamentics
 END:VEVENT
 BEGIN:VEVENT

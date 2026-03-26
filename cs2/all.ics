@@ -369,7 +369,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260328T130000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Magna vs TBD
 UID:cs-go-ferjee-in-house-2026-1411772@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -992,7 +992,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260326T163000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: MIBR vs TBD
 UID:cs-go-ferjee-in-house-2026-1411771@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2550,8 +2550,8 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-betboom-storm-2-2026-1413591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/RNakano
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: MIBR: 2 | Magna: 0\nStream: https://www.twitch.tv/RNakano
+DTEND:20260326T143552Z
 DTSTART:20260326T131811Z
 SUMMARY:MIBR vs Magna
 UID:cs-go-ferjee-in-house-2026-1411769@tournamentics
@@ -7604,8 +7604,8 @@ SUMMARY:Grand final: BIG vs K27
 UID:cs-go-cct-europe-series-18-3-2026-1381294@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nResult: Basement Bobs: 2 | Vexar: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260326T143623Z
 DTSTART:20260326T115932Z
 SUMMARY:BB vs Vexar
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401472@tournamentics
