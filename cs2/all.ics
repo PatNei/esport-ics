@@ -1587,7 +1587,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260326T153000Z
-SUMMARY:3rd Place match: BB vs TBD
+SUMMARY:3rd Place match: BB vs HOTU
 UID:cs-go-bc-game-masters-championship-1-2026-1403648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2203,7 +2203,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260326T180000Z
-SUMMARY:Grand final: SIN vs TBD
+SUMMARY:Grand final: SIN vs BIG
 UID:cs-go-bc-game-masters-championship-1-2026-1403647@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2823,8 +2823,8 @@ SUMMARY:Quarterfinal 2: CHICANERY vs Sleepless_Gaming
 UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412072@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: HOTU: 1 | BIG: 2\nStream: https://www.twitch.tv/bcgamemasters
+DTEND:20260326T145946Z
 DTSTART:20260326T120111Z
 SUMMARY:Semifinal 2: HOTU vs BIG
 UID:cs-go-bc-game-masters-championship-1-2026-1403646@tournamentics
