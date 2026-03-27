@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: paiN: 2 | Bounty Hunters Esports: 1\nStream: https://www.twitch.tv/ferjeeoficial
+DTEND:20260327T224135Z
 DTSTART:20260327T195420Z
 SUMMARY:paiN vs BHE
 UID:cs-go-ferjee-in-house-2026-1411784@tournamentics
@@ -6018,7 +6018,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260328T210000Z
-SUMMARY:Elimination match: RED vs TBD
+SUMMARY:Elimination match: RED vs BHE
 UID:cs-go-ferjee-in-house-2026-1411787@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6669,7 +6669,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260327T233000Z
-SUMMARY:Winners match: DS vs TBD
+SUMMARY:Winners match: DS vs paiN
 UID:cs-go-ferjee-in-house-2026-1411786@tournamentics
 END:VEVENT
 BEGIN:VEVENT
