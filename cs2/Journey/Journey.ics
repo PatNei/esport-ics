@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
 DURATION:PT2H
 DTSTART:20260328T140000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: HERO.A vs TBD
 UID:cs-go-journey-spring-2026-1398241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -142,8 +142,8 @@ SUMMARY:MZP vs UNiTY
 UID:cs-go-journey-spring-2026-1398098@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nResult: M80: 0 | HEROIC Academy: 2\nStream: https://www.twitch.tv/journey_cs2
+DTEND:20260327T190104Z
 DTSTART:20260327T170009Z
 SUMMARY:Quarterfinal 3: M80 vs HERO.A
 UID:cs-go-journey-spring-2026-1398212@tournamentics
