@@ -4008,7 +4008,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/watchfultvb
 DURATION:PT2H
-DTSTART:20260328T204500Z
+DTSTART:20260328T211500Z
 SUMMARY:CS vs FXW7
 UID:cs-go-roman-imperium-cup-7-2026-1413611@tournamentics
 END:VEVENT
@@ -5273,8 +5273,8 @@ SUMMARY:Upper bracket quarterfinal 3: NAVI vs B8
 UID:cs-go-blast-open-rotterdam-spring-2026-1371043@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nResult: Rune Eaters: 1 | Bebop: 2\nStream: https://kick.com/cct_cs
+DTEND:20260328T210141Z
 DTSTART:20260328T180501Z
 SUMMARY:Round 4: RE vs BBP
 UID:cs-go-cct-europe-series-19-3-2026-1399001@tournamentics
@@ -5710,7 +5710,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260329T010000Z
-SUMMARY:Decider match: DS vs TBD
+SUMMARY:Decider match: DS vs RED
 UID:cs-go-ferjee-in-house-2026-1411788@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6449,8 +6449,8 @@ SUMMARY:Round 1 match 2: Alzon vs Back to Back
 UID:cs-go-pgl-astana-south-american-open-qualifier-2-2026-1416036@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: RED Canids: 2 | Bounty Hunters Esports: 0\nStream: https://www.twitch.tv/ferjeeoficial
+DTEND:20260328T210050Z
 DTSTART:20260328T193430Z
 SUMMARY:Elimination match: RED vs BHE
 UID:cs-go-ferjee-in-house-2026-1411787@tournamentics
