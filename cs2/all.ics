@@ -3211,7 +3211,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260329T183000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: TNT vs TBD
 UID:cs-go-esea-european-finals-56-2026-1418470@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4008,7 +4008,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/watchfultvb
 DURATION:PT2H
-DTSTART:20260328T211500Z
+DTSTART:20260328T214500Z
 SUMMARY:CS vs FXW7
 UID:cs-go-roman-imperium-cup-7-2026-1413611@tournamentics
 END:VEVENT
@@ -4272,8 +4272,8 @@ SUMMARY:Round 1: FAV vs ex-Zero Tenacity
 UID:cs-go-cct-europe-series-18-3-2026-1381092@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nResult: Misa Esports: 1 | TNT: 2\nStream: No official stream linked
+DTEND:20260328T213652Z
 DTSTART:20260328T184547Z
 SUMMARY:Semifinal 2: MISA vs TNT
 UID:cs-go-esea-european-finals-56-2026-1418469@tournamentics
@@ -4701,7 +4701,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/watchfultv
 DURATION:PT2H
-DTSTART:20260328T211500Z
+DTSTART:20260328T214500Z
 SUMMARY:HERO vs SAW
 UID:cs-go-roman-imperium-cup-7-2026-1413610@tournamentics
 END:VEVENT

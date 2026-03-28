@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nResult: Misa Esports: 1 | TNT: 2\nStream: No official stream linked
+DTEND:20260328T213652Z
 DTSTART:20260328T184547Z
 SUMMARY:Semifinal 2: MISA vs TNT
 UID:cs-go-esea-european-finals-56-2026-1418469@tournamentics
@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260329T183000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: TNT vs TBD
 UID:cs-go-esea-european-finals-56-2026-1418470@tournamentics
 END:VEVENT
 BEGIN:VEVENT
