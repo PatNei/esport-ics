@@ -11,12 +11,19 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260329T230000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-fragadelphia-york-2026-1421030@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260329T000000Z
 SUMMARY:Quarterfinal 3: LAG vs NT
 UID:cs-go-fragadelphia-york-2026-1421026@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag3
 DURATION:PT2H
 DTSTART:20260328T221750Z
 SUMMARY:Quarterfinal 4: FC vs Memeories
