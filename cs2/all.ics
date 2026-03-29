@@ -228,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsb
 DURATION:PT2H
-DTSTART:20260329T140000Z
+DTSTART:20260329T143000Z
 SUMMARY:Elimination match: HS vs DRAMA
 UID:cs-go-draculan-6-2026-1403834@tournamentics
 END:VEVENT
@@ -2448,7 +2448,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260330T130000Z
-SUMMARY:Upper bracket round 2 match 6: OBSB vs TBD
+SUMMARY:Upper bracket round 2 match 6: OBSB vs Atreides
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420003@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3747,8 +3747,8 @@ SUMMARY:LDP vs Back to Back
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1396966@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: megoshort: 2 | OlyBet SB: 1\nStream: https://www.kick.com/cct_cs
+DTEND:20260329T141636Z
 DTSTART:20260329T110443Z
 SUMMARY:Round 1: MEGO vs OBSB
 UID:cs-go-cct-europe-series-20-3-2026-1406928@tournamentics
@@ -4071,7 +4071,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/roman
 DURATION:PT2H
-DTSTART:20260329T140000Z
+DTSTART:20260329T144500Z
 SUMMARY:G2 vs CarritoSpain
 UID:cs-go-roman-imperium-cup-7-2026-1413620@tournamentics
 END:VEVENT
@@ -5996,7 +5996,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
-DTSTART:20260329T140000Z
+DTSTART:20260329T141500Z
 SUMMARY:Semifinal 1: VOCA vs BOSS
 UID:cs-go-fragadelphia-york-2026-1421027@tournamentics
 END:VEVENT
@@ -6106,9 +6106,9 @@ SUMMARY:Elimination match: NAVI.J vs aAa
 UID:cs-go-united21-46-2026-1392351@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
+DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
 DURATION:PT2H
-DTSTART:20260329T140000Z
+DTSTART:20260329T141833Z
 SUMMARY:Elimination match: Strael-Bora vs SINQU
 UID:cs-go-draculan-6-2026-1403829@tournamentics
 END:VEVENT
@@ -6337,9 +6337,9 @@ SUMMARY:Decider match: MIBR.A vs GE
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1418611@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
+DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260329T140000Z
+DTSTART:20260329T140934Z
 SUMMARY:Round 2 : CRASH vs MIBR.A
 UID:cs-go-betboom-storm-2-2026-1413565@tournamentics
 END:VEVENT
@@ -6414,8 +6414,8 @@ SUMMARY:HUSK vs TAZ
 UID:cs-go-dach-cs-masters-5-2026-1403825@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Atreides: 2 | EXSAD Gaming: 0\nStream: No official stream linked
+DTEND:20260329T141017Z
 DTSTART:20260329T131014Z
 SUMMARY:Upper bracket round 1 match 5: Atreides vs EXSAD Gaming
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1419990@tournamentics
