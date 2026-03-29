@@ -814,6 +814,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/UrbanRiga
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open32026.ics
 ```
 
+### Open #4 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open42026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open42026.ics
+```
+
 </details>
 
 ## License
