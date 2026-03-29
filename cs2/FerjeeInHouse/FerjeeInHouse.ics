@@ -180,12 +180,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260330T000000Z
-SUMMARY:Semifinal 2: GG vs TBD
+SUMMARY:Semifinal 2: GG vs LGC
 UID:cs-go-ferjee-in-house-2026-1411794@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gaules
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: Legacy: 2 | ODDIK: 1\nStream: https://www.twitch.tv/gaules
+DTEND:20260329T193103Z
 DTSTART:20260329T170009Z
 SUMMARY:Quarterfinal 3: LGC vs ODK
 UID:cs-go-ferjee-in-house-2026-1411791@tournamentics
