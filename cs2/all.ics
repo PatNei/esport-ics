@@ -2882,7 +2882,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260330T000000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: GG vs TBD
 UID:cs-go-ferjee-in-house-2026-1411794@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5763,8 +5763,8 @@ SUMMARY:Decider match: XI vs G2.A
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401479@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsc
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 0 | aimclub: 2\nStream: https://kick.com/draculancsc
+DTEND:20260329T182538Z
 DTSTART:20260329T164852Z
 SUMMARY:Decider match: MOUZ.N vs AIMC
 UID:cs-go-draculan-6-2026-1403819@tournamentics
@@ -7870,8 +7870,8 @@ SUMMARY:Round of 16 match 6: okura vs mellren
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415180@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/forg1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: Gaimin Gladiators: 2 | DashSkins: 0\nStream: https://www.twitch.tv/forg1
+DTEND:20260329T182831Z
 DTSTART:20260329T170253Z
 SUMMARY:Quarterfinal 4: GG vs DS
 UID:cs-go-ferjee-in-house-2026-1411792@tournamentics
