@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T110000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419475@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/roman
-DURATION:PT2H
-DTSTART:20260329T190000Z
-SUMMARY:G2 vs ACE
-UID:cs-go-roman-imperium-cup-7-2026-1413628@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260402T140000Z
@@ -37,13 +23,6 @@ SUMMARY:Winners match: FNC vs MOUZ.N
 UID:cs-go-bc-game-masters-championship-1-2026-1403535@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: WROTBERRY: 2 | QUAZAR: 1\nStream: https://www.twitch.tv/fyflo
-DTEND:20260323T200505Z
-DTSTART:20260323T170455Z
-SUMMARY:Quarterfinal 1: WROTBERRY vs QUA
-UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413190@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260409T103000Z
@@ -51,25 +30,11 @@ SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400937@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260330T230000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413572@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: K27: 2 | G2 Ares: 1\nStream: https://www.twitch.tv/shemakaka
 DTEND:20260319T212552Z
 DTSTART:20260319T190306Z
 SUMMARY:Upper bracket round 3 match 1: K27 vs G2.A
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398082@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 1 | SAW: 0\nStream: https://kick.com/roman
-DTEND:20260328T182808Z
-DTSTART:20260328T174900Z
-SUMMARY:CS vs SAW
-UID:cs-go-roman-imperium-cup-7-2026-1413605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: ODDIK: 1 | Crashers: 0\nStream: https://www.twitch.tv/aorusbr
@@ -98,13 +63,6 @@ DURATION:PT2H
 DTSTART:20260406T103000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400833@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T173000Z
-SUMMARY:BST vs Falcons Force
-UID:cs-go-parken-challenger-championship-3-2026-1418638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 | MASONIC: 0\nStream: https://www.twitch.tv/eslcs
@@ -163,13 +121,6 @@ SUMMARY:Decider match: CRASH vs BST.A
 UID:cs-go-aorus-brazil-online-stage-2026-1400315@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: WW Team: 2 | SPARTA: 1\nStream: https://www.twitch.tv/strogo
-DTEND:20260325T190620Z
-DTSTART:20260325T162857Z
-SUMMARY:Quarterfinal 1: WW vs SPARTA
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415183@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 | Infinite: 2\nStream: https://kick.com/exort_en2
 DTEND:20260326T211117Z
 DTSTART:20260326T195851Z
@@ -184,9 +135,9 @@ SUMMARY:PSSN.UA vs BMB
 UID:cs-go-bc-game-masters-championship-1-2026-1403569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
-DTSTART:20260329T151500Z
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | Nexus: 0\nStream: https://kick.com/draculancs
+DTEND:20260329T174558Z
+DTSTART:20260329T152710Z
 SUMMARY:Elimination match: ICE vs NXS
 UID:cs-go-draculan-6-2026-1403823@tournamentics
 END:VEVENT
@@ -212,13 +163,6 @@ SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404094@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 2 | Isurus: 1\nStream: https://www.twitch.tv/locomass22
-DTEND:20260324T041511Z
-DTSTART:20260324T010346Z
-SUMMARY:Semifinal 2: RED.A vs ISG
-UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413282@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: behaczka: 0 | ex-PeeP: 2\nStream: https://kick.com/exort_en2
 DTEND:20260324T175515Z
 DTSTART:20260324T163850Z
@@ -233,25 +177,11 @@ SUMMARY:3rd Place match: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400948@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260402T170000Z
-SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413583@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Mousquetaires: 1 | Ursa: 2\nStream: https://www.twitch.tv/GoYareGo
 DTEND:20260321T214708Z
 DTSTART:20260321T184108Z
 SUMMARY:Upper bracket quarterfinal 4: MSQ vs URSA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398093@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: BIG: 1 | Sinners: 0\nStream: https://kick.com/roman
-DTEND:20260329T115447Z
-DTSTART:20260329T103541Z
-SUMMARY:BIG vs SIN
-UID:cs-go-roman-imperium-cup-7-2026-1413616@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -275,13 +205,6 @@ SUMMARY:Round 5: EP vs JUMBO
 UID:cs-go-exort-series-24-2026-1413399@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | R2 Esports Club: 0\nStream: https://www.twitch.tv/dust2br
-DTEND:20260328T002503Z
-DTSTART:20260327T230926Z
-SUMMARY:Round 1: FDB vs R2
-UID:cs-go-betboom-storm-2-2026-1413560@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: HyperSpirit: 0 | HAVU: 2\nStream: No official stream linked
 DTEND:20260321T202039Z
 DTSTART:20260321T180636Z
@@ -294,13 +217,6 @@ DTEND:20260319T165208Z
 DTSTART:20260319T140907Z
 SUMMARY:Lower bracket round 2 match 8: STA vs BW
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398059@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T190000Z
-SUMMARY:AM vs maquinas
-UID:cs-go-parken-challenger-championship-3-2026-1418626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -331,18 +247,11 @@ SUMMARY:BBP vs OS
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401471@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: HyperSpirit: 1 | Drama eSports: 2\nStream: https://kick.com/draculancsb
+DTEND:20260329T171440Z
 DTSTART:20260329T143608Z
 SUMMARY:Elimination match: HS vs DRAMA
 UID:cs-go-draculan-6-2026-1403834@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Leo Team: 2 | SINQU: 0\nStream: https://kick.com/r-nicolino
-DTEND:20260316T193451Z
-DTSTART:20260316T180347Z
-SUMMARY:Upper bracket round 1 match 10: Leo vs SINQU
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398013@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: HOTU: 2 | Inner Circle Esports: 0\nStream: https://www.twitch.tv/bcgamemastersC
@@ -350,20 +259,6 @@ DTEND:20260325T171445Z
 DTSTART:20260325T150849Z
 SUMMARY:Round of 16 match 6: HOTU vs ICE
 UID:cs-go-bc-game-masters-championship-1-2026-1403638@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T110000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419474@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/niku
-DURATION:PT2H
-DTSTART:20260329T174500Z
-SUMMARY:ESC vs ACE
-UID:cs-go-roman-imperium-cup-7-2026-1413627@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -401,25 +296,11 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404163@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260330T200000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413571@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: K27: 1 | Nemiga: 2\nStream: https://www.twitch.tv/eslcs
 DTEND:20260326T204826Z
 DTSTART:20260326T180240Z
 SUMMARY:Lower bracket final: K27 vs NEMI
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398081@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260329T153000Z
-SUMMARY:Round 3: ex-PeeP vs FOKUS REALITY
-UID:cs-go-exort-series-24-2026-1421525@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
@@ -429,32 +310,11 @@ SUMMARY:Elimination match: LILMIX vs RE
 UID:cs-go-european-pro-league-series-6-2026-1400832@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T160000Z
-SUMMARY:Atputies vs Falcons Force
-UID:cs-go-parken-challenger-championship-3-2026-1418637@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: Matrix: 1 | Wave Esports: 0\nStream: https://www.twitch.tv/albi1985
 DTEND:20260323T184955Z
 DTSTART:20260323T175731Z
 SUMMARY:Matrix vs WAVE
 UID:cs-go-urban-riga-open-3-2026-1402014@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nResult: Morningstar: 1 | Rare Atom: 3\nStream: https://www.twitch.tv/aferatv
-DTEND:20260326T065809Z
-DTSTART:20260326T032205Z
-SUMMARY:Grand final: MSTAR vs RA
-UID:cs-go-macemedia-void-spring-2026-1411922@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T113000Z
-SUMMARY:AM vs Z7
-UID:cs-go-parken-challenger-championship-3-2026-1418614@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -485,25 +345,11 @@ SUMMARY:BBP vs BIG.A
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398792@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: TDK: 2 | HyperSpirit: 0\nStream: https://www.twitch.tv/anishared
-DTEND:20260317T155652Z
-DTSTART:20260317T140337Z
-SUMMARY:Upper bracket round 2 match  5: TDK vs HS
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398024@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | Keyd: 1\nStream: https://www.twitch.tv/aorusbr
 DTEND:20260319T002936Z
 DTSTART:20260318T213738Z
 SUMMARY:Elimination match: MIBR.A vs Keyd
 UID:cs-go-aorus-brazil-online-stage-2026-1400314@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: AKPO6ATbI: 1 | Team Novaq: 0\nStream: No official stream linked
-DTEND:20260325T154527Z
-DTSTART:20260325T151130Z
-SUMMARY:Round of 16 match 8: AKPO6ATbI vs NVQ
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415182@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Young TigeRES: 2 | Spirit Academy: 1\nStream: https://kick.com/exort_en2
@@ -527,25 +373,11 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400947@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260401T230000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413582@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | Nemiga: 1\nStream: https://www.twitch.tv/watchfulTVb
 DTEND:20260321T205339Z
 DTSTART:20260321T181041Z
 SUMMARY:Upper bracket quarterfinal 3: 1WIN vs NEMI
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398092@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: Sinners: 1 | OG: 0\nStream: https://kick.com/roman
-DTEND:20260329T100900Z
-DTSTART:20260329T092037Z
-SUMMARY:SIN vs OG
-UID:cs-go-roman-imperium-cup-7-2026-1413615@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: ZennoX: 2 | EC BANGA: 0\nStream: https://kick.com/exort_en2
@@ -576,13 +408,6 @@ SUMMARY:Grand final: FOKUS vs PHA
 UID:cs-go-urban-riga-open-3-2026-1403092@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T190000Z
-SUMMARY:B8 vs PHA
-UID:cs-go-parken-challenger-championship-3-2026-1418625@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260331T130000Z
@@ -611,13 +436,6 @@ SUMMARY:Winners match: INF vs EF
 UID:cs-go-draculan-6-2026-1403833@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | brazylijski luz: 0\nStream: https://kick.com/cct-cs5
-DTEND:20260327T211523Z
-DTSTART:20260327T191954Z
-SUMMARY:Lower bracket quarterfinal 1: CYBERSHOKE Prospects vs BL
-UID:cs-go-cct-europe-contenders-3-2026-1418450@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: MASONIC: 0 | ex-Zero Tenacity: 2\nStream: https://kick.com/cct_cs
 DTEND:20260319T133402Z
 DTSTART:20260319T120400Z
@@ -630,27 +448,6 @@ DTEND:20260325T175028Z
 DTSTART:20260325T150647Z
 SUMMARY:Round of 16 match 5: HERO vs TRI
 UID:cs-go-bc-game-masters-championship-1-2026-1403637@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T080000Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419473@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260409T230000Z
-SUMMARY:Grand final: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413593@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/roman
-DURATION:PT2H
-DTSTART:20260329T174500Z
-SUMMARY:G2 vs cswalkers
-UID:cs-go-roman-imperium-cup-7-2026-1413626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -681,13 +478,6 @@ SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400935@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260330T170000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413570@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260403T160000Z
@@ -702,22 +492,8 @@ SUMMARY:Lower bracket semifinal: NEMI vs URSA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398080@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: Wildcard: 1 | NOMERCY: 0\nStream: https://kick.com/watchfultvb
-DTEND:20260328T154023Z
-DTSTART:20260328T151523Z
-SUMMARY:WC vs NOMERCY
-UID:cs-go-roman-imperium-cup-7-2026-1413603@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nResult: Atrix Esports: 0 | paiN Academy: 2\nStream: https://www.twitch.tv/dust2br
-DTEND:20260327T211743Z
-DTSTART:20260327T201032Z
-SUMMARY:Round 1: ATRIX vs paiN.A
-UID:cs-go-betboom-storm-2-2026-1413559@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | Nova Legion: 1\nStream: https://kick.com/exort_en2
+DTEND:20260329T145104Z
 DTSTART:20260329T123856Z
 SUMMARY:Round 3: KSM vs NOVA
 UID:cs-go-exort-series-24-2026-1421524@tournamentics
@@ -737,13 +513,6 @@ SUMMARY:Winners match: AAB vs BB
 UID:cs-go-european-pro-league-series-6-2026-1400831@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T160000Z
-SUMMARY:BST vs SASHI.A
-UID:cs-go-parken-challenger-championship-3-2026-1418636@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: hindsight: 0 | Rune Eaters: 2\nStream: No official stream linked
 DTEND:20260318T191415Z
 DTSTART:20260318T180707Z
@@ -756,20 +525,6 @@ DTEND:20260323T173449Z
 DTSTART:20260323T170258Z
 SUMMARY:OBSB vs Matrix
 UID:cs-go-urban-riga-open-3-2026-1402013@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nResult: Morningstar: 2 | Rare Atom: 1\nStream: No official stream linked
-DTEND:20260325T074344Z
-DTSTART:20260325T051018Z
-SUMMARY:Upper bracket final: MSTAR vs RA
-UID:cs-go-macemedia-void-spring-2026-1411921@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T100000Z
-SUMMARY:PHA vs WAZ
-UID:cs-go-parken-challenger-championship-3-2026-1418613@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -793,25 +548,11 @@ SUMMARY:Hashiras vs ex-Zero Tenacity
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398791@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Omega: 2 | MASONIC: 1\nStream: https://www.twitch.tv/dutchboycasts
-DTEND:20260317T161339Z
-DTSTART:20260317T140714Z
-SUMMARY:Upper bracket round 2 match 4: OMG vs MSC
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398023@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Spirit Academy: 2 | ex-PeeP: 0\nStream: https://kick.com/exort_en2
 DTEND:20260328T150744Z
 DTSTART:20260328T133602Z
 SUMMARY:Round 2: TS.A vs ex-PeeP
 UID:cs-go-exort-series-24-2026-1418461@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: ZOTIX: 0 | B8 Academy: 1\nStream: No official stream linked
-DTEND:20260325T161826Z
-DTSTART:20260325T151136Z
-SUMMARY:Round of 16 match 7: ZOTIX vs B8.A
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415181@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: Alzon: 0 | BESTIA Academy: 2\nStream: https://www.twitch.tv/aorusbr
@@ -821,11 +562,11 @@ SUMMARY:Elimination match: Alzon vs BST.A
 UID:cs-go-aorus-brazil-online-stage-2026-1400313@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Chicken Coop Esports: 2 | SportsBetExpert: 1\nStream: https://www.twitch.tv/bonamant
-DTEND:20260324T004120Z
-DTSTART:20260323T223125Z
-SUMMARY:Quarterfinal 4: CCE vs SportsBetExpert
-UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412074@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | HOTU: 0\nStream: https://www.twitch.tv/bcgamemasters
+DTEND:20260326T174803Z
+DTSTART:20260326T161114Z
+SUMMARY:3rd Place match: BB vs HOTU
+UID:cs-go-bc-game-masters-championship-1-2026-1403648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Nexus: 0 | BASEMENT BOYS: 1\nStream: https://kick.com/draculancs
@@ -835,32 +576,11 @@ SUMMARY:NXS vs BMB
 UID:cs-go-draculan-6-2026-1403821@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | HOTU: 0\nStream: https://www.twitch.tv/bcgamemasters
-DTEND:20260326T174803Z
-DTSTART:20260326T161114Z
-SUMMARY:3rd Place match: BB vs HOTU
-UID:cs-go-bc-game-masters-championship-1-2026-1403648@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260330T180000Z
-SUMMARY:Grand final: TBD vs TBD
-UID:cs-go-roman-imperium-cup-7-2026-1413637@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: ECSTATIC: 0 | Eternal Fire: 1\nStream: https://www.twitch.tv/bcgamemastersb
 DTEND:20260324T144215Z
 DTSTART:20260324T135208Z
 SUMMARY:Winners match: ECS vs EF
 UID:cs-go-bc-game-masters-championship-1-2026-1403625@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 1 | RED Canids Academy: 2\nStream: https://www.twitch.tv/bestia_corp
-DTEND:20260324T005311Z
-DTSTART:20260323T222541Z
-SUMMARY:Quarterfinal 4: BST.A vs RED.A
-UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -870,25 +590,11 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400946@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260401T210000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413581@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: TDK: 0 | Team Nemesis: 2\nStream: https://www.twitch.tv/eslcs
 DTEND:20260321T194719Z
 DTSTART:20260321T180225Z
 SUMMARY:Upper bracket quarterfinal 2: TDK vs NEM
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398091@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: BIG: 0 | JiJieHao: 1\nStream: https://kick.com/albi1985
-DTEND:20260329T095744Z
-DTSTART:20260329T092030Z
-SUMMARY:BIG vs JJH
-UID:cs-go-roman-imperium-cup-7-2026-1413614@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | eternal premium: 2\nStream: https://kick.com/exort_en2
@@ -912,25 +618,11 @@ SUMMARY:Semifinal 2: OBSB vs FOKUS
 UID:cs-go-urban-riga-open-3-2026-1403091@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T173000Z
-SUMMARY:WAZ vs maquinas
-UID:cs-go-parken-challenger-championship-3-2026-1418624@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260330T170000Z
 SUMMARY:Lower bracket round 1 match 4: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403855@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: UNiTY esports: 1 | MINLATE: 2\nStream: https://www.twitch.tv/ils4f_
-DTEND:20260317T204450Z
-DTSTART:20260317T180355Z
-SUMMARY:Upper bracket round 2 match 15: UNiTY vs MINLATE
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398034@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: FOKUS: 1 | GAMEHARMONY: 0\nStream: https://www.twitch.tv/grimyrannarrcs
@@ -954,39 +646,11 @@ SUMMARY:HS vs INF
 UID:cs-go-draculan-6-2026-1403832@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 0 | ex-Zero Tenacity: 2\nStream: https://www.twitch.tv/karmaflexxx
-DTEND:20260316T163339Z
-DTSTART:20260316T140721Z
-SUMMARY:Upper bracket round 1 match 8: HERO.A vs ex-Zero Tenacity
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398011@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: Monte: 2 | 9INE: 1\nStream: https://www.twitch.tv/bcgamemastersb
 DTEND:20260325T152815Z
 DTSTART:20260325T120025Z
 SUMMARY:Round of 16 match 4: MNTE vs 9INE
 UID:cs-go-bc-game-masters-championship-1-2026-1403636@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T080000Z
-SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419472@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260408T230000Z
-SUMMARY:Semifinal 2: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413592@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/watchfultvb
-DURATION:PT2H
-DTSTART:20260329T163000Z
-SUMMARY:ACE vs cswalkers
-UID:cs-go-roman-imperium-cup-7-2026-1413625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: BIG Academy: 2 | Lilmix: 1\nStream: https://kick.com/cct_cs
@@ -1024,13 +688,6 @@ SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404069@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | Sangal: 0\nStream: https://kick.com/roman
-DTEND:20260328T160300Z
-DTSTART:20260328T151935Z
-SUMMARY:BB vs SNG
-UID:cs-go-roman-imperium-cup-7-2026-1413602@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 1 | LPH Gaming: 2\nStream: https://kick.com/exort_en2
 DTEND:20260329T120227Z
 DTSTART:20260329T094009Z
@@ -1052,13 +709,6 @@ SUMMARY:RE vs BB
 UID:cs-go-european-pro-league-series-6-2026-1400830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T143000Z
-SUMMARY:SASHI.A vs AAB
-UID:cs-go-parken-challenger-championship-3-2026-1418635@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: ASTRAL: 1 | Wave Esports: 0\nStream: https://kick.com/urbancontenders
 DTEND:20260323T174158Z
 DTSTART:20260323T170218Z
@@ -1071,27 +721,6 @@ DTEND:20260318T162410Z
 DTSTART:20260318T141438Z
 SUMMARY:BIG.A vs Vexar
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401480@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nResult: Rare Atom: 2 | Last Bullet: 1\nStream: No official stream linked
-DTEND:20260325T104158Z
-DTSTART:20260325T081000Z
-SUMMARY:Lower bracket final: RA vs LB
-UID:cs-go-macemedia-void-spring-2026-1411920@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: CHICANERY: 0 | BOSS: 2\nStream: https://www.twitch.tv/bonamant
-DTEND:20260324T042324Z
-DTSTART:20260324T025928Z
-SUMMARY:Semifinal 1: CHICANERY vs BOSS
-UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1413315@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T100000Z
-SUMMARY:B8 vs maquinas
-UID:cs-go-parken-challenger-championship-3-2026-1418612@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: m1x: 2 | LPH Gaming: 0\nStream: https://kick.com/starladder
@@ -1115,13 +744,6 @@ SUMMARY:Round 2: HEC vs KSM
 UID:cs-go-exort-series-24-2026-1418460@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: okura: 0 | mellren: 1\nStream: No official stream linked
-DTEND:20260325T162322Z
-DTSTART:20260325T151643Z
-SUMMARY:Round of 16 match 6: okura vs mellren
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415180@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: FOKUS REALITY: 1 | INFURITY Gaming: 2\nStream: https://kick.com/exort_en2
 DTEND:20260326T125755Z
 DTSTART:20260326T104330Z
@@ -1134,13 +756,6 @@ DURATION:PT2H
 DTSTART:20260403T220000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404299@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: ClayMakers Reborn: 0 | Fisher College: 2\nStream: No official stream linked
-DTEND:20260324T021938Z
-DTSTART:20260324T010426Z
-SUMMARY:Quarterfinal 3: ClayMakers Reborn vs FC
-UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412073@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: Sinners: 2 | BIG: 1\nStream: https://www.twitch.tv/bcgamemasters
@@ -1164,13 +779,6 @@ SUMMARY:ICE vs PAR
 UID:cs-go-draculan-6-2026-1403820@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260330T180000Z
-SUMMARY:3rd Place match: TBD vs TBD
-UID:cs-go-roman-imperium-cup-7-2026-1413636@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: ex-PeeP: 2 | 3DMAX Academy: 0\nStream: https://kick.com/exort_en2
 DTEND:20260323T210816Z
 DTSTART:20260323T193609Z
@@ -1185,25 +793,11 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400945@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260401T200000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413580@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: ex-RUBY: 1 | K27: 2\nStream: https://www.twitch.tv/Mikotohero
 DTEND:20260321T211239Z
 DTSTART:20260321T182342Z
 SUMMARY:Upper bracket quarterfinal 1: ex-RUBY vs K27
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398090@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260330T140000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 1 | Hermine Esports Club: 2\nStream: https://kick.com/exort_en2
@@ -1262,25 +856,11 @@ SUMMARY:Semifinal 1: 3DMAX vs PHA
 UID:cs-go-urban-riga-open-3-2026-1403090@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T173000Z
-SUMMARY:Z7 vs PHA
-UID:cs-go-parken-challenger-championship-3-2026-1418623@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260330T170000Z
 SUMMARY:Lower bracket round 1 match 3: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403854@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Sangal: 0 | Ursa: 2\nStream: https://www.twitch.tv/watchfulTVb
-DTEND:20260317T201352Z
-DTSTART:20260317T180741Z
-SUMMARY:Upper bracket round 2 match 14: SNG vs URSA
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398033@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: 3DMAX: 1 | FOKUS REALITY: 0\nStream: https://www.twitch.tv/krl_stream
@@ -1297,46 +877,11 @@ SUMMARY:EF vs DRAMA
 UID:cs-go-draculan-6-2026-1403831@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T140000Z
-SUMMARY:Lower bracket final: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419494@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | Eternal Fire: 0\nStream: https://www.twitch.tv/bcgamemastersC
 DTEND:20260325T134933Z
 DTSTART:20260325T120242Z
 SUMMARY:Round of 16 match 3: BB vs EF
 UID:cs-go-bc-game-masters-championship-1-2026-1403635@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T080000Z
-SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419471@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260408T200000Z
-SUMMARY:Semifinal 1: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413591@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/roman
-DURATION:PT2H
-DTSTART:20260329T163000Z
-SUMMARY:ESC vs CarritoSpain
-UID:cs-go-roman-imperium-cup-7-2026-1413624@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Isurus: 2 | METANOIA WOLVES: 0\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260322T220000Z
-SUMMARY:Quarterfinal 3: ISG vs MW
-UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413279@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -1367,25 +912,11 @@ SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404068@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: BESTIA: 1 | Sangal: 0\nStream: https://kick.com/bopomo
-DTEND:20260328T144430Z
-DTSTART:20260328T140333Z
-SUMMARY:BST vs SNG
-UID:cs-go-roman-imperium-cup-7-2026-1413601@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260402T170000Z
 SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404149@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nResult: UNO MILLE: 2 | BESTIA Academy: 0\nStream: https://www.twitch.tv/dust2br
-DTEND:20260327T161307Z
-DTSTART:20260327T141435Z
-SUMMARY:Round 1: UNO vs BST.A
-UID:cs-go-betboom-storm-2-2026-1413557@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: MINLATE: 0 | STATE: 2\nStream: https://www.twitch.tv/dutchboycasts
@@ -1407,13 +938,6 @@ DTEND:20260321T175141Z
 DTSTART:20260321T150921Z
 SUMMARY:YNG vs QWE
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398802@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T143000Z
-SUMMARY:BST vs 3DMAX
-UID:cs-go-parken-challenger-championship-3-2026-1418634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -1444,13 +968,6 @@ SUMMARY:Upper bracket round 1 match 7: FaZe vs TBD
 UID:cs-go-draculan-6-2026-1403842@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: STATE: 0 | G2 Ares: 2\nStream: https://www.twitch.tv/fabbelit0cs
-DTEND:20260317T160303Z
-DTSTART:20260317T140538Z
-SUMMARY:Upper bracket round 2 match 2: STA vs G2.A
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398021@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: The Last Resort: 2 | Nova Legion: 0\nStream: https://kick.com/exort_en2
 DTEND:20260325T210148Z
 DTSTART:20260325T194247Z
@@ -1463,13 +980,6 @@ DURATION:PT2H
 DTSTART:20260403T190000Z
 SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404298@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: CHICANERY: 2 | Sleepless_Gaming: 0\nStream: No official stream linked
-DTEND:20260324T023315Z
-DTSTART:20260324T010424Z
-SUMMARY:Quarterfinal 2: CHICANERY vs Sleepless_Gaming
-UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412072@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: HOTU: 1 | BIG: 2\nStream: https://www.twitch.tv/bcgamemasters
@@ -1486,20 +996,6 @@ SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404926@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260330T140000Z
-SUMMARY:Semifinal 2: TBD vs TBD
-UID:cs-go-roman-imperium-cup-7-2026-1413635@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
-DURATION:PT2H
-DTSTART:20260329T183000Z
-SUMMARY:Grand final: TNT vs QWE
-UID:cs-go-esea-european-finals-56-2026-1418470@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: ECSTATIC: 1 | HyperSpirit: 0\nStream: https://www.twitch.tv/bcgamemastersb
 DTEND:20260324T125338Z
 DTSTART:20260324T121008Z
@@ -1514,20 +1010,6 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400944@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: Heroic: 1 | Fluxo W7M: 0\nStream: https://kick.com/roman
-DTEND:20260328T233336Z
-DTSTART:20260328T230433Z
-SUMMARY:HERO vs FXW7
-UID:cs-go-roman-imperium-cup-7-2026-1413612@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260329T230000Z
-SUMMARY:Round 2: Keyd vs ALKAa
-UID:cs-go-betboom-storm-2-2026-1413568@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: VP.Future: 2 | ex-PeeP: 1\nStream: https://kick.com/exort_en2
 DTEND:20260316T161909Z
 DTSTART:20260316T153106Z
@@ -1535,18 +1017,18 @@ SUMMARY:Round 1: VP.F vs ex-PeeP
 UID:cs-go-exort-series-24-2026-1401736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T020000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404171@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | Team Nemesis: 1\nStream: https://www.twitch.tv/eslcs
 DTEND:20260324T214330Z
 DTSTART:20260324T180530Z
 SUMMARY:Lower bracket quarterfinal 1: NEMI vs NEM
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398078@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260402T020000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404171@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 2 | ex-PeeP: 0\nStream: https://kick.com/exort_en2
@@ -1591,25 +1073,11 @@ SUMMARY:Decider match: XI vs G2.A
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401479@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T160000Z
-SUMMARY:B8 vs AM
-UID:cs-go-parken-challenger-championship-3-2026-1418622@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260330T170000Z
 SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403853@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | Dziuseppe: 0\nStream: https://www.twitch.tv/piaskees
-DTEND:20260317T193655Z
-DTSTART:20260317T180549Z
-SUMMARY:Upper bracket round 2 match 13: LK vs Dziuseppe
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398032@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | Young TigeRES: 0\nStream: https://kick.com/exort_en2
@@ -1619,24 +1087,17 @@ SUMMARY:Round 2: Imperial.A vs Y.TigeRES
 UID:cs-go-exort-series-24-2026-1418459@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: AM Gaming: 1 | STATE: 0\nStream: No official stream linked
-DTEND:20260325T154043Z
-DTSTART:20260325T151116Z
-SUMMARY:Round of 16 match 5: AM vs STA
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415179@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
+DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
 DURATION:PT2H
-DTSTART:20260329T163000Z
-SUMMARY:Decider match: HAVU vs TBD
+DTSTART:20260329T180000Z
+SUMMARY:Decider match: HAVU vs Strael-Bora
 UID:cs-go-draculan-6-2026-1403830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
+DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsc
 DURATION:PT2H
-DTSTART:20260329T163000Z
-SUMMARY:Decider match: MOUZ.N vs TBD
+DTSTART:20260329T164852Z
+SUMMARY:Decider match: MOUZ.N vs AIMC
 UID:cs-go-draculan-6-2026-1403819@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1645,41 +1106,6 @@ DTEND:20260325T134831Z
 DTSTART:20260325T120234Z
 SUMMARY:Round of 16 match 2: SIN vs BST
 UID:cs-go-bc-game-masters-championship-1-2026-1403634@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T080000Z
-SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419470@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260407T230000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413590@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/watchfultvb
-DURATION:PT2H
-DTSTART:20260329T151500Z
-SUMMARY:ACE vs CarritoSpain
-UID:cs-go-roman-imperium-cup-7-2026-1413623@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Crashers: 0 | Keyd: 2\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260322T220000Z
-SUMMARY:Quarterfinal 2: CRASH vs Keyd
-UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413278@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260401T180000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413579@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Mousquetaires: 2 | MINLATE: 0\nStream: https://www.twitch.tv/nagu_fr
@@ -1717,13 +1143,6 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: BetBoom Team: 0 | Wildcard: 1\nStream: https://kick.com/watchfultv
-DTEND:20260328T145234Z
-DTSTART:20260328T140240Z
-SUMMARY:BB vs WC
-UID:cs-go-roman-imperium-cup-7-2026-1413600@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: ENCE Academy: 0 | los kogutos: 2\nStream: https://www.twitch.tv/kevindoruk
 DTEND:20260320T195451Z
 DTSTART:20260320T180823Z
@@ -1738,13 +1157,6 @@ SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403898@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T130000Z
-SUMMARY:Atputies vs 3DMAX
-UID:cs-go-parken-challenger-championship-3-2026-1418633@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260401T170000Z
@@ -1757,13 +1169,6 @@ DTEND:20260324T162513Z
 DTSTART:20260324T130643Z
 SUMMARY:Quarterfinal 4: AAB vs 3DMAX
 UID:cs-go-urban-riga-open-3-2026-1403089@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: Sangal: 1 | Wildcard: 0\nStream: https://kick.com/watchfultv
-DTEND:20260328T133445Z
-DTSTART:20260328T124053Z
-SUMMARY:SNG vs WC
-UID:cs-go-roman-imperium-cup-7-2026-1413599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: The Last Resort: 2 | HEROIC Academy: 1\nStream: https://www.twitch.tv/sh1ngekiiii
@@ -1808,20 +1213,6 @@ SUMMARY:Upper bracket round 1 match 6: TBD vs FNC
 UID:cs-go-draculan-6-2026-1403841@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: K27: 2 | Bushido Wildcats: 1\nStream: https://www.twitch.tv/karmaflexxx
-DTEND:20260317T162927Z
-DTSTART:20260317T140605Z
-SUMMARY:Upper bracket round 2 match 1: K27 vs BW
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398020@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Rune Eaters: 2 | AKA HERO KAJO: 0\nStream: https://kick.com/albi1985
-DTEND:20260316T151640Z
-DTSTART:20260316T140132Z
-SUMMARY:Upper bracket round 1 match 6: RE vs AHK
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398009@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260403T020000Z
@@ -1829,32 +1220,11 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404297@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: BOSS: 2 | Foxtrot Esports: 0\nStream: No official stream linked
-DTEND:20260324T025850Z
-DTSTART:20260324T010422Z
-SUMMARY:Quarterfinal 1: BOSS vs FXT
-UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412071@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: BetBoom Team: 0 | Sinners: 2\nStream: https://www.twitch.tv/watchfulTV
 DTEND:20260326T135734Z
 DTSTART:20260326T120046Z
 SUMMARY:Semifinal 1: BB vs SIN
 UID:cs-go-bc-game-masters-championship-1-2026-1403645@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T110000Z
-SUMMARY:Upper bracket final: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419481@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260330T140000Z
-SUMMARY:Semifinal 1: TBD vs TBD
-UID:cs-go-roman-imperium-cup-7-2026-1413634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: behaczka: 2 | VP.Future: 1\nStream: https://kick.com/exort_en2
@@ -1883,20 +1253,6 @@ DURATION:PT2H
 DTSTART:20260412T103000Z
 SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400943@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 0 | Fluxo W7M: 1\nStream: https://kick.com/watchfultvb
-DTEND:20260328T224507Z
-DTSTART:20260328T220654Z
-SUMMARY:CS vs FXW7
-UID:cs-go-roman-imperium-cup-7-2026-1413611@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260329T200000Z
-SUMMARY:Round 2 : VSC vs HWGA
-UID:cs-go-betboom-storm-2-2026-1413567@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Coalesce: 1 | INFURITY Gaming: 2\nStream: https://kick.com/exort_en2
@@ -1955,39 +1311,11 @@ SUMMARY:Winners match: BBP vs XI
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401478@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T160000Z
-SUMMARY:maquinas vs PHA
-UID:cs-go-parken-challenger-championship-3-2026-1418621@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nResult: Rare Atom: 2 | Last Bullet: 1\nStream: https://www.twitch.tv/kreeig_
-DTEND:20260324T081917Z
-DTSTART:20260324T060417Z
-SUMMARY:Upper bracket semifinal 2: RA vs LB
-UID:cs-go-macemedia-void-spring-2026-1411918@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260330T170000Z
 SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403852@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | rhadamanthys: 0\nStream: No official stream linked
-DTEND:20260323T155134Z
-DTSTART:20260323T151444Z
-SUMMARY:Round of 16 match 7: NTR vs rhadamanthys
-UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1411903@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: FORZE Reload: 0 | Zorka Future: 1\nStream: No official stream linked
-DTEND:20260325T160413Z
-DTSTART:20260325T151510Z
-SUMMARY:Round of 16 match 4: FORZE.R vs ZORKA F
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415178@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: LPH Gaming: 2 | ex-PeeP: 0\nStream: https://kick.com/exort_en2
@@ -1997,18 +1325,11 @@ SUMMARY:Round 1: LPH vs ex-PeeP
 UID:cs-go-exort-series-24-2026-1414589@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsc
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Alpha Dominion Nation: 0 | aimclub: 2\nStream: https://kick.com/draculancsc
+DTEND:20260329T155033Z
 DTSTART:20260329T140658Z
 SUMMARY:Elimination match: ADN vs AIMC
 UID:cs-go-draculan-6-2026-1403818@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nResult: Misa Esports: 1 | TNT: 2\nStream: No official stream linked
-DTEND:20260328T213652Z
-DTSTART:20260328T184547Z
-SUMMARY:Semifinal 2: MISA vs TNT
-UID:cs-go-esea-european-finals-56-2026-1418469@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2023,27 +1344,6 @@ DTEND:20260325T134555Z
 DTSTART:20260325T121100Z
 SUMMARY:Round of 16 match 1: G2 vs AIMC
 UID:cs-go-bc-game-masters-championship-1-2026-1403633@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/roman
-DURATION:PT2H
-DTSTART:20260329T151500Z
-SUMMARY:G2 vs ESC
-UID:cs-go-roman-imperium-cup-7-2026-1413622@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | ALKA: 0\nStream: No official stream linked
-DTEND:20260323T205203Z
-DTSTART:20260323T190138Z
-SUMMARY:Quarterfinal 1: GH vs ALKAa
-UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413277@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260401T170000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413578@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: los kogutos: 1 | Ursa: 2\nStream: https://www.twitch.tv/tchomi_
@@ -2067,13 +1367,6 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nResult: Keyd: 1 | MIBR Academy: 2\nStream: https://www.twitch.tv/dust2br
-DTEND:20260326T230439Z
-DTSTART:20260326T201123Z
-SUMMARY:Round 1: Keyd vs MIBR.A
-UID:cs-go-betboom-storm-2-2026-1413555@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: HyperSpirit: 2 | Eternal Fire: 0\nStream: https://kick.com/ismetsener
 DTEND:20260320T202236Z
 DTSTART:20260320T180757Z
@@ -2086,13 +1379,6 @@ DURATION:PT2H
 DTSTART:20260331T170000Z
 SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403897@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T130000Z
-SUMMARY:SASHI.A vs Falcons Force
-UID:cs-go-parken-challenger-championship-3-2026-1418632@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -2109,13 +1395,6 @@ SUMMARY:Quarterfinal 3: FOKUS vs WC
 UID:cs-go-urban-riga-open-3-2026-1403088@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: BESTIA: 1 | NOMERCY: 0\nStream: https://kick.com/bopomo
-DTEND:20260328T130643Z
-DTSTART:20260328T124303Z
-SUMMARY:BST vs NOMERCY
-UID:cs-go-roman-imperium-cup-7-2026-1413598@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260408T150000Z
@@ -2130,18 +1409,11 @@ SUMMARY:Upper bracket round 1 match 5: AUR vs TBD
 UID:cs-go-draculan-6-2026-1403840@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Strael-Bora: 2 | SINQU: 1\nStream: https://kick.com/draculancsd
+DTEND:20260329T170513Z
 DTSTART:20260329T141833Z
 SUMMARY:Elimination match: Strael-Bora vs SINQU
 UID:cs-go-draculan-6-2026-1403829@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: aimclub: 1 | HyperSpirit: 2\nStream: https://kick.com/chankyftw
-DTEND:20260316T163707Z
-DTSTART:20260316T140123Z
-SUMMARY:Upper bracket round 1 match 5: AIMC vs HS
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398008@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2158,32 +1430,11 @@ SUMMARY:Quarterfinal 4: BIG vs M8
 UID:cs-go-bc-game-masters-championship-1-2026-1403644@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T080000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419480@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260330T110000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
-UID:cs-go-roman-imperium-cup-7-2026-1413633@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Nova Legion: 2 | Eternal Fire Academy: 1\nStream: https://kick.com/exort_en2
 DTEND:20260322T190429Z
 DTSTART:20260322T163511Z
 SUMMARY:Round 4: NOVA vs EF.A
 UID:cs-go-exort-series-24-2026-1410074@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260407T200000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413589@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: rottweilers: 2 | Diamant Esports: 0\nStream: https://kick.com/starladder
@@ -2207,20 +1458,6 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400942@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: Heroic: 1 | SAW: 0\nStream: https://kick.com/watchfultv
-DTEND:20260328T223522Z
-DTSTART:20260328T220438Z
-SUMMARY:HERO vs SAW
-UID:cs-go-roman-imperium-cup-7-2026-1413610@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260329T170000Z
-SUMMARY:Round 2: FDB vs Charrados
-UID:cs-go-betboom-storm-2-2026-1413566@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Sangal: 0 | Nemiga: 2\nStream: https://www.twitch.tv/sangalgg
 DTEND:20260323T192602Z
 DTSTART:20260323T180356Z
@@ -2233,13 +1470,6 @@ DTEND:20260320T215330Z
 DTSTART:20260320T193454Z
 SUMMARY:Round 3: AK vs 3DMAX.A
 UID:cs-go-exort-series-24-2026-1407196@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T170000Z
-SUMMARY:Grand final: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419504@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Sangal: 2 | Dziuseppe: 0\nStream: https://www.twitch.tv/sangalgg
@@ -2270,18 +1500,11 @@ SUMMARY:Elimination match: G2.A vs SINQU
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401477@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T143000Z
-SUMMARY:WAZ vs AM
-UID:cs-go-parken-challenger-championship-3-2026-1418620@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nResult: Morningstar: 2 | Just Swing: 0\nStream: https://www.douyu.com/9441362?dyshid=0-7ed75f0182f1a690a62c186900031701
-DTEND:20260324T051546Z
-DTSTART:20260324T033907Z
-SUMMARY:Upper bracket semifinal 1: MSTAR vs JS
-UID:cs-go-macemedia-void-spring-2026-1411917@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: HyperSpirit: 2 | Drama eSports: 1\nStream: https://kick.com/starladder
+DTEND:20260326T225420Z
+DTSTART:20260326T204346Z
+SUMMARY:HS vs DRAMA
+UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404877@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
@@ -2291,32 +1514,11 @@ SUMMARY:Lower bracket semifinal 1: TBD vs TBD
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404958@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: HyperSpirit: 2 | Drama eSports: 1\nStream: https://kick.com/starladder
-DTEND:20260326T225420Z
-DTSTART:20260326T204346Z
-SUMMARY:HS vs DRAMA
-UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404877@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260402T170000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403851@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Eternal Fire: 2 | MANA eSports: 0\nStream: https://www.twitch.tv/karmaflexxx
-DTEND:20260317T204655Z
-DTSTART:20260317T180548Z
-SUMMARY:Upper bracket round 2 match 11: EF vs MANA
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398030@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Lilmix: 0 | Mousquetaires: 2\nStream: https://www.twitch.tv/watchfulTVc
-DTEND:20260316T192354Z
-DTSTART:20260316T180504Z
-SUMMARY:Upper bracket round 1 match 16: LILMIX vs MSQ
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398019@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: LPH Gaming: 2 | The Last Resort: 1\nStream: https://kick.com/exort_en2
@@ -2326,25 +1528,11 @@ SUMMARY:Round 2: LPH vs TLR
 UID:cs-go-exort-series-24-2026-1418457@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Endless Journey: 1 | yngods: 0\nStream: No official stream linked
-DTEND:20260325T162309Z
-DTSTART:20260325T151528Z
-SUMMARY:Round of 16 match 3: EJ vs YNG
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415177@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | eternal premium: 1\nStream: https://kick.com/exort_en2
 DTEND:20260325T163240Z
 DTSTART:20260325T133707Z
 SUMMARY:Round 1: Imperial.A vs EP
 UID:cs-go-exort-series-24-2026-1414588@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #2 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 0 | MIBR Academy: 2\nStream: https://www.twitch.tv/bestia_corp
-DTEND:20260325T220120Z
-DTSTART:20260325T202012Z
-SUMMARY:Round 1 match 4: BST.A vs MIBR.A
-UID:cs-go-pgl-astana-south-american-open-qualifier-2-2026-1416038@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 0 | Lazer Cats: 1\nStream: https://kick.com/draculancsb
@@ -2354,39 +1542,11 @@ SUMMARY:Winners match: MOUZ.N vs LC
 UID:cs-go-draculan-6-2026-1403817@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nResult: OLDBOYS-: 1 | QWENTRY: 2\nStream: https://www.twitch.tv/byalli
-DTEND:20260328T214356Z
-DTSTART:20260328T184549Z
-SUMMARY:Semifinal 1: OLDBOYS- vs QWE
-UID:cs-go-esea-european-finals-56-2026-1418468@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: 9INE: 2 | OG: 1\nStream: https://www.twitch.tv/bcgamemasters
 DTEND:20260324T231507Z
 DTSTART:20260324T194643Z
 SUMMARY:Decider match: 9INE vs OG
 UID:cs-go-bc-game-masters-championship-1-2026-1403632@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/luffastream
-DURATION:PT2H
-DTSTART:20260329T144500Z
-SUMMARY:ESC vs cswalkers
-UID:cs-go-roman-imperium-cup-7-2026-1413621@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 0 | magic: 2\nStream: https://www.twitch.tv/fyflo
-DTEND:20260323T211537Z
-DTSTART:20260323T183104Z
-SUMMARY:Semifinal 2: NTR vs MGC
-UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413195@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260401T140000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413577@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: Lilmix: 2 | BIG Academy: 1\nStream: https://kick.com/cct_cs
@@ -2438,27 +1598,6 @@ SUMMARY:BHE vs Keyd
 UID:cs-go-aorus-brazil-online-stage-2026-1400273@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: ReThink: 0 | eLITenergy: 2\nStream: https://kick.com/cct-cs5
-DURATION:PT2H
-DTSTART:20260325T191500Z
-SUMMARY:Lower bracket round 2 match 4: RT vs eLITenergy
-UID:cs-go-cct-europe-contenders-3-2026-1414600@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nResult: RUSTEC: 2 | MANA eSports: 0\nStream: https://kick.com/cct_cs2
-DTEND:20260328T201928Z
-DTSTART:20260328T182225Z
-SUMMARY:Qualification match 4: RUST vs MANA
-UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1413513@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T113000Z
-SUMMARY:3DMAX vs Falcons Force
-UID:cs-go-parken-challenger-championship-3-2026-1418631@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260401T130000Z
@@ -2473,32 +1612,11 @@ SUMMARY:Quarterfinal 2: ASTRAL vs PHA
 UID:cs-go-urban-riga-open-3-2026-1403087@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: Sangal: 1 | NOMERCY: 0\nStream: https://kick.com/watchfultvb
-DTEND:20260328T121327Z
-DTSTART:20260328T113524Z
-SUMMARY:SNG vs NOMERCY
-UID:cs-go-roman-imperium-cup-7-2026-1413597@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: AKA HERO KAJO: 0 | MANA eSports: 2\nStream: https://kick.com/albi1985
 DTEND:20260318T151017Z
 DTSTART:20260318T140456Z
 SUMMARY:Lower bracket round 1 match 6: AHK vs MANA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398041@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: Glitch: 0 | bankaPEPSI: 2\nStream: https://kick.com/cct-cs6
-DTEND:20260325T185543Z
-DTSTART:20260325T165055Z
-SUMMARY:Lower bracket round 2 match 3: Glitch vs bankaPEPSI
-UID:cs-go-cct-europe-contenders-3-2026-1414599@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: AKPO6ATbI: 2 | AM Gaming: 0\nStream: https://www.twitch.tv/GoYareGo
-DTEND:20260325T210344Z
-DTSTART:20260325T191719Z
-SUMMARY:Semifinal 2: AKPO6ATbI vs AM
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415188@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: ESC Gaming: 2 | LPH Gaming: 0\nStream: https://kick.com/starladder
@@ -2543,13 +1661,6 @@ SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260330T110000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
-UID:cs-go-roman-imperium-cup-7-2026-1413632@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: QWENTRY: 1 | Oxuji Esports: 2\nStream: https://kick.com/cct_cs
 DTEND:20260316T144617Z
 DTSTART:20260316T121646Z
@@ -2564,13 +1675,6 @@ SUMMARY:Round 4: INF vs EP
 UID:cs-go-exort-series-24-2026-1410073@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260406T230000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413588@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260405T080000Z
@@ -2583,13 +1687,6 @@ DURATION:PT2H
 DTSTART:20260411T103000Z
 SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400941@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260329T140934Z
-SUMMARY:Round 2 : CRASH vs MIBR.A
-UID:cs-go-betboom-storm-2-2026-1413565@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
@@ -2611,13 +1708,6 @@ DTEND:20260320T175528Z
 DTSTART:20260320T163404Z
 SUMMARY:Round 3: INF vs NP
 UID:cs-go-exort-series-24-2026-1407195@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T200000Z
-SUMMARY:BST vs Atputies
-UID:cs-go-parken-challenger-championship-3-2026-1418642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
@@ -2669,39 +1759,11 @@ SUMMARY:Round 2: BRUTE vs INF
 UID:cs-go-exort-series-24-2026-1418456@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: ex-RUBY: 0 | WW Team: 1\nStream: https://www.twitch.tv/fyflo
-DTEND:20260325T155210Z
-DTSTART:20260325T151121Z
-SUMMARY:Round of 16 match 2: ex-RUBY vs WW
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415176@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Isurus: 2 | paiN Academy: 0\nStream: No official stream linked
-DTEND:20260325T015000Z
-DTSTART:20260325T001500Z
-SUMMARY:Round 1 match 3: ISG vs paiN.A
-UID:cs-go-pgl-astana-south-american-open-qualifier-2-2026-1416037@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Lazer Cats: 1 | aimclub: 0\nStream: https://kick.com/draculancsb
 DTEND:20260329T100344Z
 DTSTART:20260329T090946Z
 SUMMARY:LC vs AIMC
 UID:cs-go-draculan-6-2026-1403816@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T180000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419479@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nResult: TNT: 2 |  Phantom Academy: 1\nStream: https://www.twitch.tv/officialhyper
-DTEND:20260327T212917Z
-DTSTART:20260327T184406Z
-SUMMARY:Quarterfinal 4: TNT vs  Phantom Academy
-UID:cs-go-esea-european-finals-56-2026-1418467@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | Eternal Fire Academy: 2\nStream: https://kick.com/exort_en2
@@ -2718,27 +1780,6 @@ SUMMARY:Elimination match: INF.T vs OG
 UID:cs-go-bc-game-masters-championship-1-2026-1403631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/roman
-DURATION:PT2H
-DTSTART:20260329T144500Z
-SUMMARY:G2 vs CarritoSpain
-UID:cs-go-roman-imperium-cup-7-2026-1413620@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Lavked: 2 | WROTBERRY: 0\nStream: No official stream linked
-DTEND:20260323T220550Z
-DTSTART:20260323T203428Z
-SUMMARY:Semifinal 1: Lavked vs WROTBERRY
-UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413194@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260331T230000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413576@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: HAVU: 0 | Nemiga: 2\nStream: https://www.twitch.tv/titaanitv
 DTEND:20260319T212234Z
 DTSTART:20260319T191326Z
@@ -2746,25 +1787,11 @@ SUMMARY:Upper bracket round 3 match 5: HAVU vs NEMI
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398086@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 1 | SAW: 0\nStream: https://kick.com/cosiq
-DTEND:20260328T213857Z
-DTSTART:20260328T200209Z
-SUMMARY:FXW7 vs SAW
-UID:cs-go-roman-imperium-cup-7-2026-1413609@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260401T230000Z
 SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404168@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nResult: Crashers: 2 | ALKA: 0\nStream: https://www.twitch.tv/dust2br
-DTEND:20260326T153715Z
-DTSTART:20260326T141733Z
-SUMMARY:Round 1: CRASH vs ALKAa
-UID:cs-go-betboom-storm-2-2026-1413553@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: The Last Resort: 1 | rottweilers: 2\nStream: No official stream linked
@@ -2795,20 +1822,6 @@ SUMMARY:AAB vs Exilium
 UID:cs-go-urban-riga-open-3-2026-1402019@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 | rottweilers: 1\nStream: https://kick.com/cct_cs2
-DTEND:20260328T180344Z
-DTSTART:20260328T151048Z
-SUMMARY:Qualification match 3: ENCE.A vs rottweilers
-UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1413512@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T113000Z
-SUMMARY:Atputies vs AAB
-UID:cs-go-parken-challenger-championship-3-2026-1418630@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260331T160000Z
@@ -2821,34 +1834,6 @@ DTEND:20260324T103359Z
 DTSTART:20260324T090333Z
 SUMMARY:Quarterfinal 1: NOSR vs OBSB
 UID:cs-go-urban-riga-open-3-2026-1403086@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T143000Z
-SUMMARY:B8 vs Z7
-UID:cs-go-parken-challenger-championship-3-2026-1418619@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: BetBoom Team: 0 | BESTIA: 1\nStream: https://kick.com/bopomo
-DTEND:20260328T121240Z
-DTSTART:20260328T113521Z
-SUMMARY:BB vs BST
-UID:cs-go-roman-imperium-cup-7-2026-1413596@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: XI Esport: 0 | brazylijski luz: 2\nStream: https://kick.com/cct-cs5
-DTEND:20260325T211414Z
-DTSTART:20260325T191939Z
-SUMMARY:Lower bracket round 2 match 2: XI vs BL
-UID:cs-go-cct-europe-contenders-3-2026-1414598@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: WW Team: 2 | Endless Journey: 0\nStream: https://www.twitch.tv/strogo
-DTEND:20260325T211425Z
-DTSTART:20260325T193937Z
-SUMMARY:Semifinal 1: WW vs EJ
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415187@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: HAVU: 1 | SINQU: 0\nStream: https://kick.com/draculancsb
@@ -2872,27 +1857,6 @@ SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404922@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: bankaPEPSI: 2 | eLITenergy: 0\nStream: https://kick.com/cct-cs6
-DTEND:20260326T180543Z
-DTSTART:20260326T163621Z
-SUMMARY:Lower bracket round 3 match 2: bankaPEPSI vs eLITenergy
-UID:cs-go-cct-europe-contenders-3-2026-1416135@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260330T080000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
-UID:cs-go-roman-imperium-cup-7-2026-1413631@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260406T200000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413587@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Hermine Esports Club: 0 |  Phantom Academy: 2\nStream: https://kick.com/exort_en2
 DTEND:20260322T120507Z
 DTSTART:20260322T104006Z
@@ -2914,25 +1878,11 @@ SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400940@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nResult: Atrix Esports: 0 | BESTIA Academy: 2\nStream: https://www.twitch.tv/dust2br
-DTEND:20260329T001923Z
-DTSTART:20260328T231235Z
-SUMMARY:Round 2: ATRIX vs BST.A
-UID:cs-go-betboom-storm-2-2026-1413564@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: TDK: 2 | HAVU: 1\nStream: https://www.twitch.tv/watchfulTVb
 DTEND:20260322T203725Z
 DTSTART:20260322T180338Z
 SUMMARY:Lower bracket round 5 match 3: TDK vs HAVU
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398074@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T190000Z
-SUMMARY:SASHI.A vs Atputies
-UID:cs-go-parken-challenger-championship-3-2026-1418641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: ASTRAL: 2 | HyperSpirit: 0\nStream: https://kick.com/starladder
@@ -2963,9 +1913,9 @@ SUMMARY:KSM vs EC BANGA
 UID:cs-go-urban-riga-open-3-2026-1402007@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
-DTSTART:20260329T160000Z
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | BASEMENT BOYS: 0\nStream: https://kick.com/starladder
+DTEND:20260329T175007Z
+DTSTART:20260329T160548Z
 SUMMARY:Decider match: UNiTY vs BMB
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404875@tournamentics
 END:VEVENT
@@ -2984,53 +1934,11 @@ SUMMARY:Upper bracket round 1 match 3: PSSN.UA vs TBD
 UID:cs-go-draculan-6-2026-1403838@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
-DURATION:PT2H
-DTSTART:20260329T181500Z
-SUMMARY:Grand final: Benched gods vs TBD
-UID:cs-go-cct-europe-contenders-3-2026-1418455@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Ursa: 2 | BIG Academy: 0\nStream: https://www.twitch.tv/eslcs
-DTEND:20260316T200003Z
-DTSTART:20260316T181101Z
-SUMMARY:Upper bracket round 1 match 14: URSA vs BIG.A
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398017@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: SPARTA: 1 | Prestige: 0\nStream: No official stream linked
-DTEND:20260325T162315Z
-DTSTART:20260325T152143Z
-SUMMARY:Round of 16 match 1: SPARTA vs PRE
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415175@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Alzon: 0 | Back to Back : 2\nStream: No official stream linked
-DTEND:20260325T014000Z
-DTSTART:20260325T001000Z
-SUMMARY:Round 1 match 2: Alzon vs Back to Back 
-UID:cs-go-pgl-astana-south-american-open-qualifier-2-2026-1416036@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | Alpha Dominion Nation: 0\nStream: https://kick.com/draculancsd
 DTEND:20260329T094506Z
 DTSTART:20260329T090821Z
 SUMMARY:MOUZ.N vs ADN
 UID:cs-go-draculan-6-2026-1403815@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T180000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419478@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | ROUNDS: 0\nStream: https://www.twitch.tv/titaanitv
-DTEND:20260327T202049Z
-DTSTART:20260327T184653Z
-SUMMARY:Quarterfinal 3: MISA vs RGG
-UID:cs-go-esea-european-finals-56-2026-1418466@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Coalesce: 2 | AK BARS: 0\nStream: https://kick.com/exort_en2
@@ -3052,20 +1960,6 @@ DURATION:PT2H
 DTSTART:20260403T080000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400859@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | Basement Bobs: 0\nStream: https://www.twitch.tv/fyflo
-DTEND:20260323T173527Z
-DTSTART:20260323T161837Z
-SUMMARY:Quarterfinal 4: NTR vs BB
-UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413193@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260331T200000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413575@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: rottweilers: 0 | Team Nemesis: 2\nStream: No official stream linked
@@ -3124,32 +2018,11 @@ SUMMARY:WC vs BERG
 UID:cs-go-urban-riga-open-3-2026-1402018@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 1 | Bebop: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260328T144045Z
-DTSTART:20260328T120008Z
-SUMMARY:Qualification match 2: ex-Zero Tenacity vs BBP
-UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1413511@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260331T160000Z
 SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403860@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T130000Z
-SUMMARY:PHA vs AM
-UID:cs-go-parken-challenger-championship-3-2026-1418618@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: BESTIA: 1 | Wildcard: 0\nStream: https://kick.com/bopomo
-DTEND:20260328T111255Z
-DTSTART:20260328T102816Z
-SUMMARY:BST vs WC
-UID:cs-go-roman-imperium-cup-7-2026-1413595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -3164,20 +2037,6 @@ DTEND:20260317T180959Z
 DTSTART:20260317T151149Z
 SUMMARY:Winners match: Hashiras vs OXUJI
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398509@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | The Last Resort: 0\nStream: https://www.twitch.tv/anishared
-DTEND:20260317T192124Z
-DTSTART:20260317T180528Z
-SUMMARY:Upper bracket round 2 match 9: NEMI vs TLR
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398028@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: AKPO6ATbI: 2 | B8 Academy: 0\nStream: No official stream linked
-DTEND:20260325T175741Z
-DTSTART:20260325T163914Z
-SUMMARY:Quarterfinal 4: AKPO6ATbI vs B8.A
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415186@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nResult: EXSAD Gaming: 0 | Vexar: 2\nStream: https://kick.com/eplcs_en
@@ -3208,20 +2067,6 @@ SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404921@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: Vexar: 0 | brazylijski luz: 2\nStream: https://kick.com/cct-cs5
-DTEND:20260326T174818Z
-DTSTART:20260326T164530Z
-SUMMARY:Lower bracket round 3 match 1: Vexar vs BL
-UID:cs-go-cct-europe-contenders-3-2026-1416134@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260330T080000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
-UID:cs-go-roman-imperium-cup-7-2026-1413630@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: K27: 0 | 1WIN: 2\nStream: https://www.twitch.tv/watchfulTVe
 DTEND:20260325T200025Z
 DTSTART:20260325T180708Z
@@ -3229,25 +2074,11 @@ SUMMARY:Upper bracket final: K27 vs 1WIN
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398096@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: Sinners: 1 | JiJieHao: 0\nStream: https://kick.com/watchfultvb
-DTEND:20260329T132047Z
-DTSTART:20260329T121828Z
-SUMMARY:SIN vs JJH
-UID:cs-go-roman-imperium-cup-7-2026-1413619@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 1 | Tricked: 2\nStream: https://www.twitch.tv/bcgamemastersC
 DTEND:20260324T223418Z
 DTSTART:20260324T193513Z
 SUMMARY:Decider match: BMB vs TRI
 UID:cs-go-bc-game-masters-championship-1-2026-1403607@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 1 | R2 Esports Club: 2\nStream: https://www.twitch.tv/dust2br
-DTEND:20260328T222456Z
-DTSTART:20260328T201138Z
-SUMMARY:Round 2: MW vs R2
-UID:cs-go-betboom-storm-2-2026-1413563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | MANA eSports: 1\nStream: https://www.twitch.tv/eslcs
@@ -3264,25 +2095,11 @@ SUMMARY:Round 3: HEC vs TS.A
 UID:cs-go-exort-series-24-2026-1407193@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T190000Z
-SUMMARY:BST vs AAB
-UID:cs-go-parken-challenger-championship-3-2026-1418640@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: WW Team: 1 | megoshort: 2\nStream: https://www.kick.com/eplcs_en
 DTEND:20260328T144015Z
 DTSTART:20260328T113731Z
 SUMMARY:WW vs MEGO
 UID:cs-go-european-pro-league-series-6-2026-1400824@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T100000Z
-SUMMARY:AAB vs Falcons Force
-UID:cs-go-parken-challenger-championship-3-2026-1418629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: Phantom: 0 | TNC: 1\nStream: https://www.twitch.tv/kleverrgg
@@ -3313,48 +2130,6 @@ SUMMARY:Upper bracket round 1 match 2: TBD vs MNTE
 UID:cs-go-draculan-6-2026-1403837@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Isurus: 0 | MIBR Academy: 2\nStream: No official stream linked
-DTEND:20260326T010013Z
-DTSTART:20260325T235357Z
-SUMMARY:Semifinal 2: ISG vs MIBR.A
-UID:cs-go-pgl-astana-south-american-open-qualifier-2-2026-1416139@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
-DURATION:PT2H
-DTSTART:20260329T153000Z
-SUMMARY:Lower bracket final: FF vs bankaPEPSI
-UID:cs-go-cct-europe-contenders-3-2026-1418454@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Dziuseppe: 2 | ENCE Academy: 1\nStream: https://www.twitch.tv/endiezcasts
-DTEND:20260316T220647Z
-DTSTART:20260316T182845Z
-SUMMARY:Upper bracket round 1 match 13: Dziuseppe vs ENCE.A
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398016@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | ALKA: 1\nStream: No official stream linked
-DTEND:20260326T003646Z
-DTSTART:20260325T220253Z
-SUMMARY:Round 1 match 1: GH vs ALKAa
-UID:cs-go-pgl-astana-south-american-open-qualifier-2-2026-1416035@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T140000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419477@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nResult: QWENTRY: 2 | Banger Gang: 1\nStream: https://www.twitch.tv/overfragg
-DTEND:20260327T211858Z
-DTSTART:20260327T184627Z
-SUMMARY:Quarterfinal 2: QWE vs BG
-UID:cs-go-esea-european-finals-56-2026-1418465@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 1 | Nova Legion: 2\nStream: https://kick.com/exort_en2
 DTEND:20260319T160554Z
 DTSTART:20260319T134023Z
@@ -3376,25 +2151,11 @@ SUMMARY:Decider match: FNC vs AIMC
 UID:cs-go-bc-game-masters-championship-1-2026-1403537@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 0 | magic: 2\nStream: No official stream linked
-DTEND:20260323T180215Z
-DTSTART:20260323T161845Z
-SUMMARY:Quarterfinal 3: Inner Circle Academy vs MGC
-UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413192@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260410T103000Z
 SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400939@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260331T170000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413574@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 0 | TDK: 2\nStream: https://www.twitch.tv/tavarescs2
@@ -3421,7 +2182,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260330T103000Z
-SUMMARY:ex-Zero Tenacity vs japczany
+SUMMARY:ex-Zero Tenacity vs zajezdzacze
 UID:cs-go-european-pro-league-series-6-2026-1400835@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3453,27 +2214,6 @@ SUMMARY:WAVE vs OBSB
 UID:cs-go-urban-riga-open-3-2026-1402017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | QWENTRY: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260328T102810Z
-DTSTART:20260328T090717Z
-SUMMARY:Qualification match 1:  CSDIILIT vs QWE
-UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1413510@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T130000Z
-SUMMARY:maquinas vs Z7
-UID:cs-go-parken-challenger-championship-3-2026-1418617@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | NOMERCY: 0\nStream: https://kick.com/watchfultvb
-DTEND:20260328T105649Z
-DTSTART:20260328T102820Z
-SUMMARY:BB vs NOMERCY
-UID:cs-go-roman-imperium-cup-7-2026-1413594@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260331T160000Z
@@ -3481,39 +2221,11 @@ SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403848@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: Lombard: 0 | Fire Flux Esports: 2\nStream: https://kick.com/cct-cs6
-DTEND:20260326T211857Z
-DTSTART:20260326T192008Z
-SUMMARY:Upper bracket semifinal 2: Lombard vs FF
-UID:cs-go-cct-europe-contenders-3-2026-1414596@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | ex-Zero Tenacity: 1\nStream: https://www.twitch.tv/watchfulTVb
-DTEND:20260317T173331Z
-DTSTART:20260317T140529Z
-SUMMARY:Upper bracket round 2 match 8: NEM vs ex-Zero Tenacity
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398027@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: AM Gaming: 2 | mellren: 0\nStream: No official stream linked
-DTEND:20260325T184610Z
-DTSTART:20260325T163912Z
-SUMMARY:Quarterfinal 3: AM vs mellren
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415185@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: FUZOS: 2 | EC BANGA: 0\nStream: https://kick.com/cct_cs
 DTEND:20260316T192140Z
 DTSTART:20260316T181018Z
 SUMMARY:FUZOS vs EC BANGA
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398599@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | Bushido Wildcats: 2\nStream: https://www.twitch.tv/titaanitv
-DTEND:20260316T162516Z
-DTSTART:20260316T140542Z
-SUMMARY:Upper bracket round 1 match 1:  CSDIILIT vs BW
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398004@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: Gentle Mates: 2 | HyperSpirit: 1\nStream: https://www.twitch.tv/bcgamemastersd
@@ -3544,13 +2256,6 @@ SUMMARY:Hashiras vs Atreides
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398495@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260402T230000Z
-SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413585@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | Ursa: 0\nStream: https://www.twitch.tv/dutchboycasts
 DTEND:20260323T202403Z
 DTSTART:20260323T180404Z
@@ -3558,32 +2263,11 @@ SUMMARY:Upper bracket semifinal 2: 1WIN vs URSA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398095@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: BIG: 0 | OG: 1\nStream: https://kick.com/roman
-DTEND:20260329T131621Z
-DTSTART:20260329T121831Z
-SUMMARY:BIG vs OG
-UID:cs-go-roman-imperium-cup-7-2026-1413618@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nResult: UNO MILLE: 2 | paiN Academy: 0\nStream: https://www.twitch.tv/dust2br
-DTEND:20260328T193117Z
-DTSTART:20260328T171351Z
-SUMMARY:Round 2: UNO vs paiN.A
-UID:cs-go-betboom-storm-2-2026-1413562@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Sangal: 2 | Mousquetaires: 0\nStream: https://www.twitch.tv/ozstrik3rtv
 DTEND:20260322T191248Z
 DTSTART:20260322T180202Z
 SUMMARY:Lower bracket round 5 match 1: SNG vs MSQ
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398072@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T100000Z
-SUMMARY:3DMAX vs SASHI.A
-UID:cs-go-parken-challenger-championship-3-2026-1418628@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -3635,46 +2319,11 @@ SUMMARY:Upper bracket round 1 match 1: ALL vs TBD
 UID:cs-go-draculan-6-2026-1403836@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: bankaPEPSI: 2 | CYBERSHOKE Prospects: 0\nStream: https://kick.com/cct-cs5
-DTEND:20260328T211740Z
-DTSTART:20260328T193926Z
-SUMMARY:Lower bracket semifinal: bankaPEPSI vs CYBERSHOKE Prospects
-UID:cs-go-cct-europe-contenders-3-2026-1418453@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:❌ CANCELED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260316T180000Z
-SUMMARY:Upper bracket round 1 match 12: EC BANGA vs AIRLYA
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398015@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: BESTIA: 1 | Tricked: 0\nStream: https://www.twitch.tv/bcgamemastersC
 DTEND:20260324T110649Z
 DTSTART:20260324T100449Z
 SUMMARY:BST vs TRI
 UID:cs-go-bc-game-masters-championship-1-2026-1403570@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T140000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
-UID:cs-go-parken-challenger-championship-3-2026-1419476@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nResult: OLDBOYS-: 2 | ENJOY: 0\nStream: https://kick.com/xtom223
-DTEND:20260327T203238Z
-DTSTART:20260327T184547Z
-SUMMARY:Quarterfinal 1: OLDBOYS- vs ENJOY
-UID:cs-go-esea-european-finals-56-2026-1418464@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/watchfultvb
-DURATION:PT2H
-DTSTART:20260329T190000Z
-SUMMARY:cswalkers vs CarritoSpain
-UID:cs-go-roman-imperium-cup-7-2026-1413629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -3691,13 +2340,6 @@ SUMMARY:Elimination match: AIMC vs NXS
 UID:cs-go-bc-game-masters-championship-1-2026-1403536@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Lavked: 2 | Atreides: 1\nStream: No official stream linked
-DTEND:20260323T193320Z
-DTSTART:20260323T170002Z
-SUMMARY:Quarterfinal 2: Lavked vs Atreides
-UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413191@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260410T080000Z
@@ -3705,25 +2347,11 @@ SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400938@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260331T140000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413573@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | Omega: 0\nStream: https://www.twitch.tv/karmaflexxx
 DTEND:20260319T204750Z
 DTSTART:20260319T192056Z
 SUMMARY:Upper bracket round 3 match 2: ex-RUBY vs OMG
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398083@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: Heroic: 1 | CYBERSHOKE Esports: 0\nStream: https://kick.com/roman
-DTEND:20260328T193405Z
-DTSTART:20260328T184032Z
-SUMMARY:HERO vs CS
-UID:cs-go-roman-imperium-cup-7-2026-1413606@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: Galorys: 0 | Bounty Hunters Esports: 1\nStream: https://www.twitch.tv/aorusbr
@@ -3754,13 +2382,6 @@ SUMMARY:STA vs OBSB
 UID:cs-go-european-pro-league-series-6-2026-1400834@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T173000Z
-SUMMARY:3DMAX vs AAB
-UID:cs-go-parken-challenger-championship-3-2026-1418639@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | G2 Ares: 1\nStream: https://www.twitch.tv/xristcs
 DTEND:20260320T213412Z
 DTSTART:20260320T180455Z
@@ -3782,13 +2403,6 @@ SUMMARY:ASTRAL vs Matrix
 UID:cs-go-urban-riga-open-3-2026-1402016@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T113000Z
-SUMMARY:B8 vs WAZ
-UID:cs-go-parken-challenger-championship-3-2026-1418616@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260331T100000Z
@@ -3796,25 +2410,11 @@ SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403847@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: Benched gods: 2 | CYBERSHOKE Prospects: 0\nStream: https://kick.com/cct-cs5
-DTEND:20260326T213531Z
-DTSTART:20260326T192219Z
-SUMMARY:Upper bracket semifinal 1: Benched gods vs CYBERSHOKE Prospects
-UID:cs-go-cct-europe-contenders-3-2026-1414595@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: eternal premium: 1 | Spirit Academy: 2\nStream: https://kick.com/exort_en2
 DTEND:20260318T215226Z
 DTSTART:20260318T193555Z
 SUMMARY:Round 2: EP vs TS.A
 UID:cs-go-exort-series-24-2026-1403716@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Zorka Future: 1 | Endless Journey: 2\nStream: https://www.twitch.tv/cyberfocus
-DTEND:20260325T191533Z
-DTSTART:20260325T162659Z
-SUMMARY:Quarterfinal 2: ZORKA F vs EJ
-UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415184@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: Galorys: 2 | MIBR Academy: 1\nStream: https://www.twitch.tv/aorusbr
@@ -3826,8 +2426,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260329T163000Z
-SUMMARY:Decider match: PAR vs TBD
+DTSTART:20260329T180000Z
+SUMMARY:Decider match: PAR vs ICE
 UID:cs-go-draculan-6-2026-1403824@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3873,25 +2473,11 @@ SUMMARY:Round 5: HEC vs EF.A
 UID:cs-go-exort-series-24-2026-1413401@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260402T200000Z
-SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-betboom-storm-2-2026-1413584@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Team Nemesis: 0 | K27: 2\nStream: https://www.twitch.tv/eslcs
 DTEND:20260323T211838Z
 DTSTART:20260323T181434Z
 SUMMARY:Upper bracket semifinal 1: NEM vs K27
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398094@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: OG: 1 | JiJieHao: 0\nStream: https://kick.com/watchfultvb
-DTEND:20260329T112601Z
-DTSTART:20260329T103620Z
-SUMMARY:OG vs JJH
-UID:cs-go-roman-imperium-cup-7-2026-1413617@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -3913,13 +2499,6 @@ DTEND:20260321T212439Z
 DTSTART:20260321T181004Z
 SUMMARY:Lower bracket round 4 match 4: LK vs STA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398071@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
-DTSTART:20260331T200000Z
-SUMMARY:Z7 vs WAZ
-UID:cs-go-parken-challenger-championship-3-2026-1418627@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -3964,25 +2543,11 @@ SUMMARY:Winners match: MANA vs Imperial.A
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401553@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
+DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsb
 DURATION:PT2H
-DTSTART:20260329T163000Z
-SUMMARY:Decider match: INF vs TBD
+DTSTART:20260329T180000Z
+SUMMARY:Decider match: INF vs DRAMA
 UID:cs-go-draculan-6-2026-1403835@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: Benched gods: 2 | Fire Flux Esports: 0\nStream: https://kick.com/cct-cs5
-DTEND:20260328T192132Z
-DTSTART:20260328T163213Z
-SUMMARY:Upper bracket final: Benched gods vs FF
-UID:cs-go-cct-europe-contenders-3-2026-1418452@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: hindsight: 0 | MANA eSports: 2\nStream: https://kick.com/albi1985
-DTEND:20260316T190332Z
-DTSTART:20260316T180841Z
-SUMMARY:Upper bracket round 1 match 11: hindsight vs MANA
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398014@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
