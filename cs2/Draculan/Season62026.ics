@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260331T100000Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 4: PSSN.UA vs TBD
 UID:cs-go-draculan-6-2026-1403847@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -51,9 +51,9 @@ SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403844@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
+DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
 DURATION:PT2H
-DTSTART:20260330T141000Z
+DTSTART:20260330T141254Z
 SUMMARY:Upper bracket round 1 match 2: FNC vs SASHI
 UID:cs-go-draculan-6-2026-1403841@tournamentics
 END:VEVENT
@@ -165,7 +165,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsc
 DURATION:PT2H
-DTSTART:20260330T142000Z
+DTSTART:20260330T144000Z
 SUMMARY:Upper bracket round 1 match 3: M80 vs BMB
 UID:cs-go-draculan-6-2026-1403843@tournamentics
 END:VEVENT
@@ -271,7 +271,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260330T170000Z
-SUMMARY:Lower bracket round 1 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 4: EF vs TBD
 UID:cs-go-draculan-6-2026-1403855@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -296,15 +296,15 @@ SUMMARY:Upper bracket quarterfinal 2: TL vs TBD
 UID:cs-go-draculan-6-2026-1403845@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
+DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260330T141500Z
+DTSTART:20260330T141323Z
 SUMMARY:Upper bracket round 1 match 8: AIMC vs FaZe
 UID:cs-go-draculan-6-2026-1403842@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Passion UA: 2 | Eternal Fire: 1\nStream: https://kick.com/draculancs
+DTEND:20260330T140905Z
 DTSTART:20260330T110522Z
 SUMMARY:Upper bracket round 1 match 7: PSSN.UA vs EF
 UID:cs-go-draculan-6-2026-1403838@tournamentics
