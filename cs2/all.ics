@@ -830,7 +830,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
 DURATION:PT2H
-DTSTART:20260330T180000Z
+DTSTART:20260330T181500Z
 SUMMARY:Lower bracket round 1 match 3: LC vs HAVU
 UID:cs-go-draculan-6-2026-1403854@tournamentics
 END:VEVENT
@@ -3609,7 +3609,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsc
 DURATION:PT2H
-DTSTART:20260330T180000Z
+DTSTART:20260330T183000Z
 SUMMARY:Lower bracket round 1 match 2: ICE vs BMB
 UID:cs-go-draculan-6-2026-1403853@tournamentics
 END:VEVENT
@@ -7140,6 +7140,13 @@ DTEND:20260326T211857Z
 DTSTART:20260326T192008Z
 SUMMARY:Upper bracket semifinal 2: Lombard vs FF
 UID:cs-go-cct-europe-contenders-3-2026-1414596@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260330T183000Z
+SUMMARY:Decider match: UNO vs paiN.A
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1424067@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: FUZOS: 2 | EC BANGA: 0\nStream: https://kick.com/cct_cs
