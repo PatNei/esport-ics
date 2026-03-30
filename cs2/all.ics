@@ -543,7 +543,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T000000Z
+DTSTART:20260331T010000Z
 SUMMARY:Round 1: ZOMB vs CW
 UID:cs-go-dust2-us-eagle-masters-7-2026-1422173@tournamentics
 END:VEVENT
@@ -6351,8 +6351,8 @@ SUMMARY:Lower bracket round 3 match 2: O49 vs Reign Above
 UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397981@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | Guara Esports: 1\nStream: No official stream linked
+DTEND:20260330T221800Z
 DTSTART:20260330T190729Z
 SUMMARY:Decider match: MIBR.A vs GE
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1418611@tournamentics
