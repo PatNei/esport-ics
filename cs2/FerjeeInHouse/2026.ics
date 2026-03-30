@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260330T160000Z
-SUMMARY:3rd Place match: paiN vs TBD
+SUMMARY:3rd Place match: paiN vs GG
 UID:cs-go-ferjee-in-house-2026-1411796@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260330T200000Z
-SUMMARY:Grand final: 9z vs TBD
+SUMMARY:Grand final: 9z vs LGC
 UID:cs-go-ferjee-in-house-2026-1411795@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:Elimination match: Magna vs SHIN
 UID:cs-go-ferjee-in-house-2026-1411772@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: Legacy: 2 | Gaimin Gladiators: 0\nStream: https://www.twitch.tv/ferjeeoficial
+DTEND:20260330T024020Z
 DTSTART:20260330T010442Z
 SUMMARY:Semifinal 2: LGC vs GG
 UID:cs-go-ferjee-in-house-2026-1411794@tournamentics
