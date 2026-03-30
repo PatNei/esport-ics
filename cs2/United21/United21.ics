@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260404T080000Z
-SUMMARY:Winners match: SNG vs TBD
+SUMMARY:Winners match: SNG vs Imperial.A
 UID:cs-go-united21-47-2026-1423174@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-47-2026-1423176@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | LPH Gaming: 1\nStream: https://kick.com/united21_en
+DTEND:20260330T155602Z
 DTSTART:20260330T130750Z
 SUMMARY:Imperial.A vs LPH
 UID:cs-go-united21-47-2026-1423173@tournamentics
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260404T103000Z
-SUMMARY:Elimination match: Z7 vs TBD
+SUMMARY:Elimination match: Z7 vs LPH
 UID:cs-go-united21-47-2026-1423175@tournamentics
 END:VEVENT
 BEGIN:VEVENT
