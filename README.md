@@ -75,6 +75,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series18Season32026.ics
 ```
 
+### Series #19 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series19Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series19Season32026.ics
+```
+
 ### Series #20 season 3 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series20Season32026.ics)
 
@@ -126,7 +133,49 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/Se
 
 </details>
 
+<details>
+<summary>Stake Ranked</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics
+```
+
+---
+
+### Episode 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode12026.ics
+```
+
+</details>
+
 ## C Tier
+
+<details>
+<summary>CCT South America</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics
+```
+
+---
+
+### Series #10 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series10Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series10Season32026.ics
+```
+
+</details>
 
 <details>
 <summary>ESL Challenger League</summary>
@@ -145,6 +194,20 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup2Season512026.ics
+```
+
+### Europe Cup #3 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup32026.ics
+```
+
+### North America Cup #2 season 51 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/NorthAmericaCup2Season512026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/NorthAmericaCup2Season512026.ics
 ```
 
 ### North America Cup #3 2026
@@ -208,6 +271,48 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FerjeeInHouse/Ferje
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FerjeeInHouse/2026.ics
+```
+
+</details>
+
+<details>
+<summary>Journey</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Journey/Journey.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Journey/Journey.ics
+```
+
+---
+
+### Spring 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Journey/Spring2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Journey/Spring2026.ics
+```
+
+</details>
+
+<details>
+<summary>Parken Challenger Championship</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/ParkenChallengerChampionship.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/ParkenChallengerChampionship.ics
+```
+
+---
+
+### Season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season32026.ics
 ```
 
 </details>
@@ -411,6 +516,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2Us/EagleMaster
 </details>
 
 <details>
+<summary>Elisa Open Suomi</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/ElisaOpenSuomi.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/ElisaOpenSuomi.ics
+```
+
+---
+
+### Season 12 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/Season122026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/Season122026.ics
+```
+
+</details>
+
+<details>
 <summary>ESEA</summary>
 
 ### Full Schedule
@@ -448,6 +574,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/AsiaCup32026.ics
+```
+
+### Asia-Pacific Cup 2 season 51 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/AsiaPacificCup2Season512026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/AsiaPacificCup2Season512026.ics
 ```
 
 ### Oceania Cup #2 season 51 2026
@@ -525,6 +658,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fragadelphia/Fragad
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fragadelphia/York2026.ics
+```
+
+</details>
+
+<details>
+<summary>Gamers Club Liga Série A</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/GamersClubLigaSRieA.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/GamersClubLigaSRieA.ics
+```
+
+---
+
+### March 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/March2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/March2026.ics
 ```
 
 </details>
