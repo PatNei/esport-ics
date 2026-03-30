@@ -40,12 +40,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260330T160000Z
-SUMMARY:3rd Place match: TBD vs TBD
+SUMMARY:3rd Place match: paiN vs TBD
 UID:cs-go-ferjee-in-house-2026-1411796@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: paiN: 1 | 9z: 2\nStream: https://www.twitch.tv/ferjeeoficial
+DTEND:20260330T001115Z
 DTSTART:20260329T213101Z
 SUMMARY:Semifinal 1: paiN vs 9z
 UID:cs-go-ferjee-in-house-2026-1411793@tournamentics
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260330T200000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: 9z vs TBD
 UID:cs-go-ferjee-in-house-2026-1411795@tournamentics
 END:VEVENT
 BEGIN:VEVENT
