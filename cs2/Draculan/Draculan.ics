@@ -47,12 +47,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260331T100000Z
-SUMMARY:Upper bracket quarterfinal 1: AUR vs TBD
+SUMMARY:Upper bracket quarterfinal 1: AUR vs SASHI
 UID:cs-go-draculan-6-2026-1403844@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: fnatic: 1 | Sashi Esport: 2\nStream: https://kick.com/draculancsd
+DTEND:20260330T171613Z
 DTSTART:20260330T141254Z
 SUMMARY:Upper bracket round 1 match 2: FNC vs SASHI
 UID:cs-go-draculan-6-2026-1403841@tournamentics
@@ -268,9 +268,9 @@ SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403858@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
+DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsb
 DURATION:PT2H
-DTSTART:20260330T172000Z
+DTSTART:20260330T171519Z
 SUMMARY:Lower bracket round 1 match 4: EF vs AIMC
 UID:cs-go-draculan-6-2026-1403855@tournamentics
 END:VEVENT
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260330T180000Z
-SUMMARY:Lower bracket round 1 match 1: INF vs TBD
+SUMMARY:Lower bracket round 1 match 1: INF vs FNC
 UID:cs-go-draculan-6-2026-1403852@tournamentics
 END:VEVENT
 BEGIN:VEVENT
