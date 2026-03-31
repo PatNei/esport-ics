@@ -243,7 +243,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260402T170000Z
-SUMMARY:Quarterfinal 4: NEM vs TBD
+SUMMARY:Quarterfinal 4: NEM vs RBLS
 UID:cs-go-cct-europe-series-19-3-2026-1399019@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -282,8 +282,8 @@ SUMMARY:Round of 16 match 6: G1 vs URSA
 UID:cs-go-cct-europe-series-19-3-2026-1399013@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nResult: BET-M 33: 1 | Rebels Gaming: 2\nStream: https://kick.com/cct_cs
+DTEND:20260331T171227Z
 DTSTART:20260331T141524Z
 SUMMARY:Round of 16 match 3: 33 vs RBLS
 UID:cs-go-cct-europe-series-19-3-2026-1399010@tournamentics
@@ -1033,7 +1033,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260331T170000Z
+DTSTART:20260331T173000Z
 SUMMARY:Round of 16 match 4: ECS vs MINLATE
 UID:cs-go-cct-europe-series-19-3-2026-1399011@tournamentics
 END:VEVENT

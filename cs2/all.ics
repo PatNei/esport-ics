@@ -2049,7 +2049,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260331T180000Z
-SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 1: ALL vs TBD
 UID:cs-go-draculan-6-2026-1403860@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2144,8 +2144,8 @@ SUMMARY:Lower bracket round 3 match 8: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420050@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nResult: BET-M 33: 1 | Rebels Gaming: 2\nStream: https://kick.com/cct_cs
+DTEND:20260331T171227Z
 DTSTART:20260331T141524Z
 SUMMARY:Round of 16 match 3: 33 vs RBLS
 UID:cs-go-cct-europe-series-19-3-2026-1399010@tournamentics
@@ -2767,8 +2767,8 @@ SUMMARY:Upper bracket quarterfinal 4: MF vs MnL
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1397991@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 1 | Alliance: 2\nStream: https://kick.com/draculancsd
+DTEND:20260331T171445Z
 DTSTART:20260331T142356Z
 SUMMARY:Lower bracket round 2 match 2: ICE vs ALL
 UID:cs-go-draculan-6-2026-1403857@tournamentics
@@ -6808,7 +6808,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsc
 DURATION:PT2H
-DTSTART:20260331T173000Z
+DTSTART:20260331T180000Z
 SUMMARY:Upper bracket semifinal 2: MNTE vs PSSN.UA
 UID:cs-go-draculan-6-2026-1403849@tournamentics
 END:VEVENT
@@ -7502,7 +7502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260402T170000Z
-SUMMARY:Quarterfinal 4: NEM vs TBD
+SUMMARY:Quarterfinal 4: NEM vs RBLS
 UID:cs-go-cct-europe-series-19-3-2026-1399019@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8640,9 +8640,9 @@ SUMMARY:Upper bracket round 3 match 7: LK vs URSA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398088@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T170000Z
+DTSTART:20260331T171324Z
 SUMMARY:Lower bracket round 1 match 7: OBSB vs DNT
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420065@tournamentics
 END:VEVENT
@@ -8663,7 +8663,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
-DTSTART:20260331T170000Z
+DTSTART:20260331T171500Z
 SUMMARY:Upper bracket quarterfinal 4: HOTU vs ACROBATS
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403897@tournamentics
 END:VEVENT
@@ -9209,7 +9209,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260331T170000Z
+DTSTART:20260331T173000Z
 SUMMARY:Round of 16 match 4: ECS vs MINLATE
 UID:cs-go-cct-europe-series-19-3-2026-1399011@tournamentics
 END:VEVENT
@@ -9494,9 +9494,9 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400939@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
+DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260331T170000Z
+DTSTART:20260331T171430Z
 SUMMARY:Round 3: R2 vs paiN.A
 UID:cs-go-betboom-storm-2-2026-1413574@tournamentics
 END:VEVENT
@@ -9552,7 +9552,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsb
 DURATION:PT2H
-DTSTART:20260331T173000Z
+DTSTART:20260331T180000Z
 SUMMARY:Upper bracket semifinal 1: M80 vs AUR
 UID:cs-go-draculan-6-2026-1403848@tournamentics
 END:VEVENT
