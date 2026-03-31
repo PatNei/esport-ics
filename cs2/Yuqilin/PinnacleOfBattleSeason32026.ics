@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Yuqilin - Pinnacle of Battle season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/narodcast
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Yuqilin - Pinnacle of Battle season 3 2026\nMatch Type: Best Of\nResult: Boring Players: 0 | Rare Atom: 2\nStream: https://www.twitch.tv/narodcast
+DTEND:20260331T113455Z
 DTSTART:20260331T095847Z
 SUMMARY:BP vs RA
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424607@tournamentics
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Yuqilin - Pinnacle of Battle season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/narodcast
 DURATION:PT2H
 DTSTART:20260401T103000Z
-SUMMARY:Elimination match: JS vs TBD
+SUMMARY:Elimination match: JS vs BP
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424609@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Yuqilin - Pinnacle of Battle season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/narodcast
 DURATION:PT2H
 DTSTART:20260331T120000Z
-SUMMARY:Winners match: TYLOO vs TBD
+SUMMARY:Winners match: TYLOO vs RA
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424608@tournamentics
 END:VEVENT
 BEGIN:VEVENT
