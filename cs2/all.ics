@@ -1916,7 +1916,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260401T110000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: NEXVOID vs TBD
 UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4447,8 +4447,8 @@ SUMMARY:Round 2: URSA vs BIG.E
 UID:cs-go-nodwin-clutch-series-6-2026-1389780@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 1 | NEXVOID: 2\nStream: No official stream linked
+DTEND:20260331T161008Z
 DTSTART:20260331T122934Z
 SUMMARY:Upper bracket final: THE vs NEXVOID
 UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424102@tournamentics
@@ -5245,9 +5245,9 @@ SUMMARY:Upper bracket quarterfinal 3: GZ vs VE
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1397990@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
+DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260331T161000Z
+DTSTART:20260331T161037Z
 SUMMARY:Lower bracket round 2 match 1: FNC vs FaZe
 UID:cs-go-draculan-6-2026-1403856@tournamentics
 END:VEVENT
@@ -7950,7 +7950,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260331T210000Z
-SUMMARY:Quarterfinal 2: LDP vs UNO
+SUMMARY:Quarterfinal 2: DS vs UNO
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1425488@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9000,7 +9000,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260401T080000Z
-SUMMARY:Lower bracket final: CW vs TBD
+SUMMARY:Lower bracket final: CW vs THE
 UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9116,8 +9116,8 @@ SUMMARY:BST.A vs ALKAa
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1396964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 | BoyBand: 0\nStream: https://www.twitch.tv/elisaviihdesport
+DTEND:20260331T160954Z
 DTSTART:20260331T143237Z
 SUMMARY:Round 6: ENCE.A vs BoyBand
 UID:cs-go-elisa-open-suomi-12-2026-1372449@tournamentics
