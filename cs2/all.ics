@@ -2448,7 +2448,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260331T143000Z
-SUMMARY:Upper bracket final: LEGION vs TBD
+SUMMARY:Upper bracket final: LEGION vs HH
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3015,7 +3015,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T140000Z
-SUMMARY:Upper bracket semifinal 1: Lavked vs K27
+SUMMARY:Upper bracket semifinal 1: K27 vs Lavked
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403902@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3880,9 +3880,9 @@ SUMMARY:Round of 16 match 6: G1 vs URSA
 UID:cs-go-cct-europe-series-19-3-2026-1399013@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
+DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
 DURATION:PT2H
-DTSTART:20260331T143000Z
+DTSTART:20260331T143329Z
 SUMMARY:WAZ vs AM
 UID:cs-go-parken-challenger-championship-3-2026-1418620@tournamentics
 END:VEVENT
@@ -4965,8 +4965,8 @@ SUMMARY:Upper bracket quarterfinal 1: FV vs REGAIN
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404164@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: Haunted House: 2 | THE UNIT: 1\nStream: No official stream linked
+DTEND:20260331T142830Z
 DTSTART:20260331T112911Z
 SUMMARY:Upper bracket semifinal 2: HH vs TU
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424601@tournamentics
@@ -5955,7 +5955,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T080000Z
-SUMMARY:Lower bracket round 1 match 1: ILWL vs WW
+SUMMARY:Lower bracket round 1 match 1: WW vs ILWL
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403898@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7086,9 +7086,9 @@ SUMMARY:Upper bracket semifinal 2: GZ vs MF
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1397993@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsc
+DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsc
 DURATION:PT2H
-DTSTART:20260331T143000Z
+DTSTART:20260331T143214Z
 SUMMARY:Lower bracket round 2 match 4: EF vs SASHI
 UID:cs-go-draculan-6-2026-1403859@tournamentics
 END:VEVENT
@@ -9088,9 +9088,9 @@ SUMMARY:BST.A vs ALKAa
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1396964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
+DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
-DTSTART:20260331T143000Z
+DTSTART:20260331T143237Z
 SUMMARY:Round 6: ENCE.A vs BoyBand
 UID:cs-go-elisa-open-suomi-12-2026-1372449@tournamentics
 END:VEVENT
@@ -9109,9 +9109,9 @@ SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403861@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
+DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
-DTSTART:20260331T143000Z
+DTSTART:20260331T143219Z
 SUMMARY:B8 vs Z7
 UID:cs-go-parken-challenger-championship-3-2026-1418619@tournamentics
 END:VEVENT
@@ -9497,7 +9497,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260331T143000Z
-SUMMARY:Lower bracket semifinal: DEPO vs TBD
+SUMMARY:Lower bracket semifinal: DEPO vs TU
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424603@tournamentics
 END:VEVENT
 BEGIN:VEVENT

@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: Haunted House: 2 | THE UNIT: 1\nStream: No official stream linked
+DTEND:20260331T142830Z
 DTSTART:20260331T112911Z
 SUMMARY:Upper bracket semifinal 2: HH vs TU
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424601@tournamentics
@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260331T143000Z
-SUMMARY:Lower bracket semifinal: DEPO vs TBD
+SUMMARY:Lower bracket semifinal: DEPO vs TU
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260331T143000Z
-SUMMARY:Upper bracket final: LEGION vs TBD
+SUMMARY:Upper bracket final: LEGION vs HH
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
