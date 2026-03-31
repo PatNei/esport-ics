@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260331T140000Z
-SUMMARY:Lower bracket round 2 match 2: ICE vs TBD
+SUMMARY:Lower bracket round 2 match 2: ICE vs ALL
 UID:cs-go-draculan-6-2026-1403857@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260331T170000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: MNTE vs TBD
 UID:cs-go-draculan-6-2026-1403849@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -156,8 +156,8 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403850@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Alliance: 0 | Monte: 2\nStream: https://kick.com/draculancsd
+DTEND:20260331T130106Z
 DTSTART:20260331T110424Z
 SUMMARY:Upper bracket quarterfinal 3: ALL vs MNTE
 UID:cs-go-draculan-6-2026-1403846@tournamentics
