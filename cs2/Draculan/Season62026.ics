@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260401T130000Z
-SUMMARY:Lower bracket quarterfinal 2: SASHI vs TBD
+SUMMARY:Lower bracket quarterfinal 2: SASHI vs PSSN.UA
 UID:cs-go-draculan-6-2026-1403863@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -142,8 +142,8 @@ SUMMARY:Lower bracket round 1 match 2: ICE vs BMB
 UID:cs-go-draculan-6-2026-1403853@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsc
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Monte: 2 | Passion UA: 0\nStream: https://kick.com/draculancsc
+DTEND:20260331T205312Z
 DTSTART:20260331T184245Z
 SUMMARY:Upper bracket semifinal 2: MNTE vs PSSN.UA
 UID:cs-go-draculan-6-2026-1403849@tournamentics
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260401T160000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: MNTE vs TBD
 UID:cs-go-draculan-6-2026-1403850@tournamentics
 END:VEVENT
 BEGIN:VEVENT
