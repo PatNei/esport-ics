@@ -2119,7 +2119,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Yuqilin - Pinnacle of Battle season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/narodcast
 DURATION:PT2H
 DTSTART:20260331T110000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: TYLOO vs TBD
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424608@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7114,9 +7114,9 @@ SUMMARY:Upper bracket semifinal 2: 1WIN vs URSA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398095@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T083000Z
+DTSTART:20260331T085948Z
 SUMMARY:Upper bracket semifinal 2: THE vs VTM
 UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424101@tournamentics
 END:VEVENT
@@ -7345,8 +7345,8 @@ SUMMARY:Lower bracket round 4 match 4: LK vs STA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398071@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Yuqilin - Pinnacle of Battle season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/narodcast
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Yuqilin - Pinnacle of Battle season 3 2026\nMatch Type: Best Of\nResult: TYLOO: 2 | Just Swing: 1\nStream: https://www.twitch.tv/narodcast
+DTEND:20260331T090430Z
 DTSTART:20260331T060547Z
 SUMMARY:TYLOO vs JS
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424606@tournamentics
@@ -9231,7 +9231,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Yuqilin - Pinnacle of Battle season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/narodcast
 DURATION:PT2H
 DTSTART:20260401T103000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: JS vs TBD
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424609@tournamentics
 END:VEVENT
 BEGIN:VEVENT
