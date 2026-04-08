@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
-DTSTART:20260401T160000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Passion UA: 0 | Alliance: 2\nStream: https://kick.com/draculancs
+DTEND:20260401T185702Z
+DTSTART:20260401T171649Z
+SUMMARY:Lower bracket semifinal: PSSN.UA vs ALL
 UID:cs-go-draculan-6-2026-1403864@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -30,10 +30,10 @@ SUMMARY:Lower bracket round 1 match 3: LC vs HAVU
 UID:cs-go-draculan-6-2026-1403854@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
-DTSTART:20260402T170000Z
-SUMMARY:Grand final: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Monte: 1 | M80: 2\nStream: https://kick.com/draculancs
+DTEND:20260402T200321Z
+DTSTART:20260402T171823Z
+SUMMARY:Grand final: MNTE vs M80
 UID:cs-go-draculan-6-2026-1403851@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,9 +107,9 @@ SUMMARY:Winners match: MOUZ.N vs LC
 UID:cs-go-draculan-6-2026-1403817@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
-DTSTART:20260401T130000Z
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Sashi Esport: 0 | Passion UA: 2\nStream: https://kick.com/draculancs
+DTEND:20260401T150851Z
+DTSTART:20260401T130218Z
 SUMMARY:Lower bracket quarterfinal 2: SASHI vs PSSN.UA
 UID:cs-go-draculan-6-2026-1403863@tournamentics
 END:VEVENT
@@ -149,10 +149,10 @@ SUMMARY:Upper bracket semifinal 2: MNTE vs PSSN.UA
 UID:cs-go-draculan-6-2026-1403849@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
-DTSTART:20260401T160000Z
-SUMMARY:Upper bracket final: MNTE vs M80
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: M80: 0 | Monte: 2\nStream: https://kick.com/draculancs
+DTEND:20260401T184540Z
+DTSTART:20260401T170915Z
+SUMMARY:Upper bracket final: M80 vs MNTE
 UID:cs-go-draculan-6-2026-1403850@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -247,16 +247,16 @@ SUMMARY:LC vs AIMC
 UID:cs-go-draculan-6-2026-1403816@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
-DTSTART:20260402T130000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: M80: 2 | Alliance: 1\nStream: https://kick.com/draculancs
+DTEND:20260402T155117Z
+DTSTART:20260402T130024Z
+SUMMARY:Lower bracket final: M80 vs ALL
 UID:cs-go-draculan-6-2026-1403865@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
-DTSTART:20260401T130000Z
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 1 | Alliance: 2\nStream: https://kick.com/draculancsb
+DTEND:20260401T155444Z
+DTSTART:20260401T130509Z
 SUMMARY:Lower bracket quarterfinal 1: AUR vs ALL
 UID:cs-go-draculan-6-2026-1403862@tournamentics
 END:VEVENT

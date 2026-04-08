@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
-DTSTART:20260407T150000Z
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: bond1e: 2 | m1x: 1\nStream: https://kick.com/starladder
+DTEND:20260407T171610Z
+DTSTART:20260407T150404Z
 SUMMARY:Upper bracket quarterfinal 3: BND vs m1x
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404923@tournamentics
 END:VEVENT
@@ -54,13 +54,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260408T173000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: IC.A vs ROTTW
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404948@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
-DTSTART:20260406T173000Z
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 0 | UNiTY esports: 2\nStream: https://kick.com/starladder
+DTEND:20260406T190903Z
+DTSTART:20260406T173525Z
 SUMMARY:Upper bracket quarterfinal 2: IC.A vs UNiTY
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404922@tournamentics
 END:VEVENT
@@ -117,14 +117,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260408T150000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: KOL vs m1x
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404947@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260409T150000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: HS vs BND
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -135,9 +135,9 @@ SUMMARY:Winners match: ASTRAL vs HS
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404898@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
-DTSTART:20260406T150000Z
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: KOLESIE: 0 | HyperSpirit: 2\nStream: https://kick.com/starladder
+DTEND:20260406T163213Z
+DTSTART:20260406T150409Z
 SUMMARY:Upper bracket quarterfinal 1: KOL vs HS
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404921@tournamentics
 END:VEVENT
@@ -201,13 +201,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260409T173000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: UNiTY vs ASTR
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404946@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
-DTSTART:20260407T173000Z
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: ASTRAL: 2 | rottweilers: 0\nStream: https://kick.com/starladder
+DTEND:20260407T192305Z
+DTSTART:20260407T174214Z
 SUMMARY:Upper bracket quarterfinal 4: ASTR vs ROTTW
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404926@tournamentics
 END:VEVENT

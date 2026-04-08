@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T110000Z
-SUMMARY:Grand final: NEXVOID vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 1 | The Huns Esports: 2\nStream: No official stream linked
+DTEND:20260401T153351Z
+DTSTART:20260401T125710Z
+SUMMARY:Grand final: NEXVOID vs THE
 UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -30,9 +30,9 @@ SUMMARY:Upper bracket final: THE vs NEXVOID
 UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424102@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T080000Z
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 0 | The Huns Esports: 2\nStream: No official stream linked
+DTEND:20260401T114811Z
+DTSTART:20260401T095715Z
 SUMMARY:Lower bracket final: CW vs THE
 UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424104@tournamentics
 END:VEVENT
