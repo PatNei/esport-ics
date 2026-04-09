@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
-DTSTART:20260408T180000Z
+DTSTART:20260518T160000Z
 SUMMARY:HUSK vs R4G
 UID:cs-go-dach-cs-masters-5-2026-1385732@tournamentics
 END:VEVENT
@@ -109,13 +109,6 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
-DTSTART:20260408T180000Z
-SUMMARY:BERG vs REV
-UID:cs-go-dach-cs-masters-5-2026-1385716@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
-DURATION:PT2H
 DTSTART:20260506T180000Z
 SUMMARY:BERG vs R4G
 UID:cs-go-dach-cs-masters-5-2026-1385751@tournamentics
@@ -156,8 +149,8 @@ SUMMARY:TAZ vs BIG.A
 UID:cs-go-dach-cs-masters-5-2026-1385734@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Wave Esports: 2 | Team LEISURE: 1\nStream: https://www.twitch.tv/dachcs
+DTEND:20260408T183404Z
 DTSTART:20260408T161729Z
 SUMMARY:WAVE vs LEI
 UID:cs-go-dach-cs-masters-5-2026-1385731@tournamentics
@@ -177,9 +170,9 @@ SUMMARY:HUSK vs TAZ
 UID:cs-go-dach-cs-masters-5-2026-1403825@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
-DURATION:PT2H
-DTSTART:20260408T180000Z
+DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: BIG Academy: 2 | Playing Ducks: 0\nStream: https://www.twitch.tv/dachcs
+DTEND:20260408T202102Z
+DTSTART:20260408T190035Z
 SUMMARY:BIG.A vs Ducks
 UID:cs-go-dach-cs-masters-5-2026-1385724@tournamentics
 END:VEVENT

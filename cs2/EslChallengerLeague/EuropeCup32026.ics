@@ -33,12 +33,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260409T170000Z
-SUMMARY:Grand final: JS vs TBD
+SUMMARY:Grand final: JS vs eLITe
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420029@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: QWENTRY: 0 | eLITenergy: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260408T192453Z
 DTSTART:20260408T171244Z
 SUMMARY:Lower bracket final: QWE vs eLITe
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420030@tournamentics
