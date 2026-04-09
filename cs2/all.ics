@@ -1129,7 +1129,7 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431957@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
 DTSTART:20260409T153000Z
 SUMMARY:Lower bracket round 3 match 2: TPL vs bankaPEPSI
@@ -3558,7 +3558,7 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431956@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
 DTSTART:20260409T153000Z
 SUMMARY:Lower bracket round 3 match 1: MJX vs Vexar
@@ -4937,6 +4937,13 @@ SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-parken-challenger-championship-4-2026-1437314@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260411T010000Z
+SUMMARY:Abyssal vs DXA
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438953@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: HyperSpirit: 0 | Infinite: 1\nStream: https://kick.com/draculancsc
 DTEND:20260329T114305Z
 DTSTART:20260329T110233Z
@@ -5077,8 +5084,8 @@ SUMMARY:Round 1: JUMBO vs HEC
 UID:cs-go-exort-series-24-2026-1401737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: FengDa Gaming: 2 | Chinggis Warriors: 1\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260409T151641Z
 DTSTART:20260409T130513Z
 SUMMARY:Grand final: FDG vs CW
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421667@tournamentics
@@ -7364,6 +7371,13 @@ DURATION:PT2H
 DTSTART:20260410T170000Z
 SUMMARY:GBL vs SAW
 UID:cs-go-parken-challenger-championship-4-2026-1437313@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260411T010000Z
+SUMMARY:ARC vs MGLBROS
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438952@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Eternal Fire: 1 | Drama eSports: 0\nStream: https://kick.com/draculancs
