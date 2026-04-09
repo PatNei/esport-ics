@@ -2711,9 +2711,9 @@ SUMMARY:Round 3: RBLS vs Lavked
 UID:cs-go-cct-europe-series-19-3-2026-1398998@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
+DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260409T180000Z
+DTSTART:20260409T180126Z
 SUMMARY:Grand final: Keyd vs FDB
 UID:cs-go-betboom-storm-2-2026-1413593@tournamentics
 END:VEVENT
@@ -4048,8 +4048,8 @@ SUMMARY:Quarterfinal 3: OG vs BST
 UID:cs-go-roman-imperium-cup-7-2026-1413630@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ZOTIX: 0 | Falcons Force: 1\nStream: No official stream linked
+DTEND:20260409T180013Z
 DTSTART:20260409T171001Z
 SUMMARY:ZOTIX vs Falcons Force
 UID:cs-go-esea-advanced-europe-57-2026-1438017@tournamentics
@@ -8171,7 +8171,7 @@ SUMMARY:Quarterfinal 2: Keyd vs CRASH
 UID:cs-go-betboom-storm-2-2026-1413588@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/itstomitv
 DURATION:PT2H
 DTSTART:20260409T180000Z
 SUMMARY:DGK vs Diamant Esports
