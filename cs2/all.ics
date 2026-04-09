@@ -2602,7 +2602,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260412T080000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: IMP.A vs BRUTE
 UID:cs-go-united21-47-2026-1438943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2711,8 +2711,8 @@ SUMMARY:Round 3: RBLS vs Lavked
 UID:cs-go-cct-europe-series-19-3-2026-1398998@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nResult: Keyd: 1 | Fake do Biru: 2\nStream: https://www.twitch.tv/dust2br
+DTEND:20260409T203453Z
 DTSTART:20260409T180126Z
 SUMMARY:Grand final: Keyd vs FDB
 UID:cs-go-betboom-storm-2-2026-1413593@tournamentics
@@ -7348,7 +7348,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260411T080000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: INF vs IC.A
 UID:cs-go-united21-47-2026-1438941@tournamentics
 END:VEVENT
 BEGIN:VEVENT
