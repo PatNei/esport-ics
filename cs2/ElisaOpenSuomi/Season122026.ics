@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
 DTSTART:20260411T143000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: KSM vs TBD
 UID:cs-go-elisa-open-suomi-12-2026-1436295@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +180,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
 DTSTART:20260411T170000Z
-SUMMARY:Upper Bracket Final: TBD vs TBD
+SUMMARY:Upper Bracket Final: ENCE vs TBD
 UID:cs-go-elisa-open-suomi-12-2026-1436296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ENCE: 2 | KUUSAMO.gg: 0\nStream: https://www.twitch.tv/elisaviihdesport
+DTEND:20260410T161532Z
 DTSTART:20260410T143510Z
 SUMMARY:Upper Bracket Semifinals 1: ENCE vs KSM
 UID:cs-go-elisa-open-suomi-12-2026-1436293@tournamentics
