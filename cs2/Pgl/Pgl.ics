@@ -95,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
 DURATION:PT2H
-DTSTART:20260410T170000Z
+DTSTART:20260410T164500Z
 SUMMARY:Semifinal 2: FUT vs MGLZ
 UID:cs-go-pgl-bucharest-2026-1427016@tournamentics
 END:VEVENT
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
 DURATION:PT2H
 DTSTART:20260411T120000Z
-SUMMARY:3rd Place match: TBD vs TBD
+SUMMARY:3rd Place match: 3DMAX vs TBD
 UID:cs-go-pgl-bucharest-2026-1427018@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -338,8 +338,8 @@ SUMMARY:Lower bracket round 1 match 2: 100T vs HOTU
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403899@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | Astralis: 2\nStream: https://www.twitch.tv/pgl
+DTEND:20260410T162614Z
 DTSTART:20260410T140321Z
 SUMMARY:Semifinal 1: 3DMAX vs AST
 UID:cs-go-pgl-bucharest-2026-1427015@tournamentics
@@ -551,7 +551,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
 DURATION:PT2H
 DTSTART:20260411T150000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: AST vs TBD
 UID:cs-go-pgl-bucharest-2026-1427017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
