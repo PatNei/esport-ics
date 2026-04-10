@@ -3057,7 +3057,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
 DURATION:PT2H
 DTSTART:20260411T120000Z
-SUMMARY:3rd Place match: 3DMAX vs TBD
+SUMMARY:3rd Place match: 3DMAX vs MGLZ
 UID:cs-go-pgl-bucharest-2026-1427018@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3701,7 +3701,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
 DURATION:PT2H
 DTSTART:20260411T150000Z
-SUMMARY:Grand final: AST vs TBD
+SUMMARY:Grand final: AST vs FUT
 UID:cs-go-pgl-bucharest-2026-1427017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4419,8 +4419,8 @@ SUMMARY:Elimination match: BBP vs ENCE.A
 UID:cs-go-nodwin-clutch-series-6-2026-1389691@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | TheMongolz: 0\nStream: https://www.twitch.tv/pgl
+DTEND:20260410T185809Z
 DTSTART:20260410T165238Z
 SUMMARY:Semifinal 2: FUT vs MGLZ
 UID:cs-go-pgl-bucharest-2026-1427016@tournamentics
