@@ -2259,7 +2259,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260411T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: UNiTY vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431914@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3677,8 +3677,8 @@ SUMMARY:BIG.A vs R4G
 UID:cs-go-dach-cs-masters-5-2026-1385739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | UNiTY esports: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260410T125153Z
 DTSTART:20260410T110817Z
 SUMMARY:Elimination match: FCF vs UNiTY
 UID:cs-go-nodwin-clutch-series-7-2026-1431912@tournamentics
@@ -5448,9 +5448,9 @@ SUMMARY:Lower bracket round 1 match 2: RA vs XDM
 UID:cs-go-gangkui-cup-2-2026-1423199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260410T124000Z
+DTSTART:20260410T124837Z
 SUMMARY:Round 3: NIC vs INF
 UID:cs-go-exort-series-25-2026-1439593@tournamentics
 END:VEVENT
