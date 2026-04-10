@@ -250,27 +250,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/S
 </details>
 
 <details>
-<summary>FERJEE In House</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FerjeeInHouse/FerjeeInHouse.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FerjeeInHouse/FerjeeInHouse.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FerjeeInHouse/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FerjeeInHouse/2026.ics
-```
-
-</details>
-
-<details>
 <summary>HLC Belgrade Pro</summary>
 
 ### Full Schedule
