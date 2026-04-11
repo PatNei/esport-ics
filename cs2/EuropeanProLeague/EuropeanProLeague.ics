@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260411T113000Z
+DTSTART:20260411T114500Z
 SUMMARY:Round of 16 match 8: MZP vs BB
 UID:cs-go-european-pro-league-series-6-2026-1400941@tournamentics
 END:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Round of 16 match 6: G1 vs HERO.A
 UID:cs-go-european-pro-league-series-6-2026-1400939@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | STATE: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260411T113137Z
 DTSTART:20260411T081115Z
 SUMMARY:Round of 16 match 7: ex-RUBY vs STA
 UID:cs-go-european-pro-league-series-6-2026-1400940@tournamentics
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260413T103000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: ex-RUBY vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400945@tournamentics
 END:VEVENT
 BEGIN:VEVENT
