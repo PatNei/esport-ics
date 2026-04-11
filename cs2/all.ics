@@ -677,7 +677,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260412T153000Z
-SUMMARY:Lower bracket final: CYBERSHOKE Prospects vs TBD
+SUMMARY:Lower bracket final: CYBERSHOKE Prospects vs Vexar
 UID:cs-go-cct-europe-contenders-4-2026-1436327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1388,8 +1388,8 @@ SUMMARY:Winners match: INF vs EF
 UID:cs-go-draculan-6-2026-1403833@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/CCT_CS5
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: ZOTIX: 1 | Vexar: 2\nStream: https://kick.com/CCT_CS5
+DTEND:20260411T210904Z
 DTSTART:20260411T182251Z
 SUMMARY:Lower bracket semifinal: ZOTIX vs Vexar
 UID:cs-go-cct-europe-contenders-4-2026-1436326@tournamentics
@@ -3859,9 +3859,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bestia_corp
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bestia_corp
 DURATION:PT2H
-DTSTART:20260411T210000Z
+DTSTART:20260411T210446Z
 SUMMARY:Upper bracket round 1 match 3: BST.A vs VEXA
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1439646@tournamentics
 END:VEVENT
