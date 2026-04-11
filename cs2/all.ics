@@ -5416,7 +5416,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
 DTSTART:20260412T170000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: ENCE vs TBD
 UID:cs-go-elisa-open-suomi-12-2026-1436298@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6102,7 +6102,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
 DTSTART:20260412T143000Z
-SUMMARY:Lower bracket final: KSM vs TBD
+SUMMARY:Lower bracket final: KSM vs  CSDIILIT
 UID:cs-go-elisa-open-suomi-12-2026-1436297@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6785,8 +6785,8 @@ SUMMARY:Upper bracket semifinal 1: NAVI vs FaZe
 UID:cs-go-blast-rivals-spring-2026-1438855@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ENCE: 2 |  CSDIILIT: 0\nStream: https://www.twitch.tv/elisaviihdesport
+DTEND:20260411T183236Z
 DTSTART:20260411T170211Z
 SUMMARY:Upper Bracket Final: ENCE vs  CSDIILIT
 UID:cs-go-elisa-open-suomi-12-2026-1436296@tournamentics
