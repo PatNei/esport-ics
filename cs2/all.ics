@@ -1867,7 +1867,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260414T080000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: ARC vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400946@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3278,9 +3278,9 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438496@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260412T093000Z
+DTSTART:20260412T093620Z
 SUMMARY:Round 4: EP vs KSM
 UID:cs-go-exort-series-25-2026-1442151@tournamentics
 END:VEVENT
@@ -4713,8 +4713,8 @@ SUMMARY:Round 3: ex-RUBY vs TNC
 UID:cs-go-cct-europe-series-20-3-2026-1406950@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | MOUZ NXT: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260412T094551Z
 DTSTART:20260412T080016Z
 SUMMARY:Quarterfinal 1: ARC vs MOUZ.N
 UID:cs-go-european-pro-league-series-6-2026-1400942@tournamentics
@@ -7786,8 +7786,8 @@ SUMMARY:Lower bracket semifinal: 100T vs ACROBATS
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403905@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | Persona Grata: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260412T093817Z
 DTSTART:20260412T081032Z
 SUMMARY:MANA vs PG
 UID:cs-go-nodwin-clutch-series-7-2026-1431918@tournamentics
