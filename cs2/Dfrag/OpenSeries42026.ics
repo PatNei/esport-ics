@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260412T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: RSTR vs TBD
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438961@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:TW vs Ding Cuts
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438958@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nResult: Rooster: 0 | Ding Cuts: 2\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260412T061234Z
 DTSTART:20260412T044815Z
 SUMMARY:Winners match: RSTR vs Ding Cuts
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438960@tournamentics
