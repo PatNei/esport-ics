@@ -749,27 +749,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerCha
 </details>
 
 <details>
-<summary>PGL</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/Pgl.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/Pgl.ics
-```
-
----
-
-### Astana: Asia Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaAsiaClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaAsiaClosedQualifier2026.ics
-```
-
-</details>
-
-<details>
 <summary>United21</summary>
 
 ### Full Schedule
