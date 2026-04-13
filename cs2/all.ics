@@ -1545,7 +1545,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260414T203000Z
-SUMMARY:Lower bracket quarterfinal 2: LGC vs TBD
+SUMMARY:Lower bracket quarterfinal 2: LGC vs HOTU
 UID:cs-go-iem-rio-2026-1436306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2133,7 +2133,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260414T203000Z
-SUMMARY:Upper bracket semifinal 2: MOUZ vs TBD
+SUMMARY:Upper bracket semifinal 2: MOUZ vs AUR
 UID:cs-go-iem-rio-2026-1436305@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2424,8 +2424,8 @@ SUMMARY:Entropy vs WAZ
 UID:cs-go-parken-challenger-championship-4-2026-1437301@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | HOTU: 0\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260413T232316Z
 DTSTART:20260413T212358Z
 SUMMARY:Upper bracket quarterfinal 3: AUR vs HOTU
 UID:cs-go-iem-rio-2026-1429131@tournamentics
@@ -6284,7 +6284,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260414T233000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: MARS vs TBD
 UID:cs-go-cct-north-america-series-4-3-2026-1431986@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6813,8 +6813,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438513@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT North America - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #4 season 3 2026\nMatch Type: Best Of\nResult: Marsborne: 2 | Team Aether: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260413T232558Z
 DTSTART:20260413T213812Z
 SUMMARY:Semifinal 2: MARS vs TA
 UID:cs-go-cct-north-america-series-4-3-2026-1431985@tournamentics
