@@ -621,7 +621,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260413T213000Z
-SUMMARY:Semifinal 1: REGAIN vs TBD
+SUMMARY:Semifinal 1: REGAIN vs VOCA
 UID:cs-go-cct-north-america-series-4-3-2026-1431984@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3089,8 +3089,8 @@ SUMMARY:Lower bracket quarterfinal 1: Y.TigeRES vs Vexar
 UID:cs-go-cct-europe-contenders-4-2026-1436323@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT North America - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #4 season 3 2026\nMatch Type: Best Of\nResult: Voca: 2 | Akimbo Esports: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260413T015549Z
 DTSTART:20260413T004227Z
 SUMMARY:Quarterfinal 1: VOCA vs AKIMBO
 UID:cs-go-cct-north-america-series-4-3-2026-1431980@tournamentics
@@ -5462,8 +5462,8 @@ SUMMARY:Elimination match: TW vs The Bardolphs
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438959@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/wxfan21
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: CHICANERY: 2 | mouse: 0\nStream: https://www.twitch.tv/wxfan21
+DTEND:20260413T015542Z
 DTSTART:20260413T001816Z
 SUMMARY:Round 5: CHICANERY vs mouse
 UID:cs-go-dust2-us-eagle-masters-7-2026-1441139@tournamentics
