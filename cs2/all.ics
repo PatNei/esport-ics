@@ -3852,9 +3852,9 @@ SUMMARY:Round 3: PLT vs Z7
 UID:cs-go-exort-series-25-2026-1439594@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sinon__cs
 DURATION:PT2H
-DTSTART:20260413T193000Z
+DTSTART:20260413T194443Z
 SUMMARY:ZOTIX vs FCF
 UID:cs-go-esea-advanced-europe-57-2026-1444159@tournamentics
 END:VEVENT
@@ -4043,7 +4043,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260413T203000Z
+DTSTART:20260413T210000Z
 SUMMARY:Upper bracket quarterfinal 1: FURIA vs PSSN.UA
 UID:cs-go-iem-rio-2026-1429129@tournamentics
 END:VEVENT
@@ -4503,8 +4503,8 @@ SUMMARY:Round 3: NIC vs INF
 UID:cs-go-exort-series-25-2026-1439593@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jumboteamesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 1 | XI Esport: 0\nStream: https://www.twitch.tv/jumboteamesports
+DTEND:20260413T194308Z
 DTSTART:20260413T190907Z
 SUMMARY:JUMBO vs XI
 UID:cs-go-esea-advanced-europe-57-2026-1444158@tournamentics
