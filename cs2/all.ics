@@ -1027,7 +1027,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260414T103000Z
-SUMMARY:Semifinal 2: PHA vs TBD
+SUMMARY:Semifinal 2: PHA vs MZP
 UID:cs-go-european-pro-league-series-6-2026-1400947@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2312,8 +2312,8 @@ SUMMARY:Round 4: MEGO vs TNC
 UID:cs-go-cct-europe-series-20-3-2026-1406953@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: ex-RUBY: 1 | Metizport: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260413T132535Z
 DTSTART:20260413T103110Z
 SUMMARY:Quarterfinal 4: ex-RUBY vs MZP
 UID:cs-go-european-pro-league-series-6-2026-1400945@tournamentics
