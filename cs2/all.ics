@@ -348,7 +348,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260415T080000Z
-SUMMARY:3rd Place match: TBD vs TBD
+SUMMARY:3rd Place match: Lavked vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400948@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1465,8 +1465,8 @@ SUMMARY:Round 4: MZP vs BBP
 UID:cs-go-cct-europe-series-20-3-2026-1406954@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | Lavked: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260414T093727Z
 DTSTART:20260414T080438Z
 SUMMARY:Semifinal 1: ARC vs Lavked
 UID:cs-go-european-pro-league-series-6-2026-1400946@tournamentics
@@ -6571,7 +6571,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260416T080000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: ARC vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
