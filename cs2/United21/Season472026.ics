@@ -103,12 +103,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260416T080000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: YN vs TBD
 UID:cs-go-united21-47-2026-1438951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Brute: 1 | Young Ninjas: 2\nStream: https://kick.com/united21_en
+DTEND:20260414T102308Z
 DTSTART:20260414T080428Z
 SUMMARY:Upper bracket final: BRUTE vs YN
 UID:cs-go-united21-47-2026-1438947@tournamentics
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260415T080000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: BRUTE vs TBD
 UID:cs-go-united21-47-2026-1438949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
