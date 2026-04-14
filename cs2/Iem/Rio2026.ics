@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260415T130000Z
-SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+SUMMARY:Lower bracket semifinal 1: RED vs TBD
 UID:cs-go-iem-rio-2026-1436307@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -135,8 +135,8 @@ SUMMARY:Upper bracket semifinal 1: NAVI vs FURIA
 UID:cs-go-iem-rio-2026-1436303@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: RED Canids: 2 | Gentle Mates: 1\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260414T155227Z
 DTSTART:20260414T130052Z
 SUMMARY:Lower bracket quarterfinal 1: RED vs M8
 UID:cs-go-iem-rio-2026-1436300@tournamentics
