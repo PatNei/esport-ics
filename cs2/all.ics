@@ -376,7 +376,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260415T130000Z
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: G2 vs TBD
 UID:cs-go-iem-rio-2026-1436308@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -926,7 +926,7 @@ SUMMARY:Lower bracket quarterfinal 1: BMZ vs QUBE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421669@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tavarescs2
 DURATION:PT2H
 DTSTART:20260414T163000Z
 SUMMARY:XI vs FCF
@@ -3714,7 +3714,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
-DTSTART:20260414T180000Z
+DTSTART:20260414T183000Z
 SUMMARY:Round 2: MOUZ.N vs Qual4
 UID:cs-go-conquest-of-prague-online-stage-2026-1438494@tournamentics
 END:VEVENT
@@ -4330,7 +4330,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
-DTSTART:20260414T170000Z
+DTSTART:20260414T173000Z
 SUMMARY:Round 2: YN vs TRI
 UID:cs-go-conquest-of-prague-online-stage-2026-1438493@tournamentics
 END:VEVENT
@@ -4386,7 +4386,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260414T163000Z
+DTSTART:20260414T164500Z
 SUMMARY:Upper bracket semifinal 2: TS vs FAL
 UID:cs-go-iem-rio-2026-1436301@tournamentics
 END:VEVENT
@@ -4883,7 +4883,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
 DURATION:PT2H
-DTSTART:20260414T162000Z
+DTSTART:20260414T163500Z
 SUMMARY:Round 2: FNC vs EYE
 UID:cs-go-conquest-of-prague-online-stage-2026-1438492@tournamentics
 END:VEVENT
@@ -5028,8 +5028,8 @@ SUMMARY:3rd Place match: ILWL vs MGC
 UID:cs-go-hlc-belgrade-pro-2026-1427076@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Vitality: 2 | G2: 1\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260414T162634Z
 DTSTART:20260414T130122Z
 SUMMARY:Upper bracket semifinal 1: VIT vs G2
 UID:cs-go-iem-rio-2026-1436299@tournamentics
@@ -5199,7 +5199,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260415T180000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: VIT vs TBD
 UID:cs-go-iem-rio-2026-1436311@tournamentics
 END:VEVENT
 BEGIN:VEVENT
