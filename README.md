@@ -200,27 +200,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/S
 
 </details>
 
-<details>
-<summary>HLC Belgrade Pro</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HlcBelgradePro/HlcBelgradePro.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HlcBelgradePro/HlcBelgradePro.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HlcBelgradePro/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HlcBelgradePro/2026.ics
-```
-
-</details>
-
 ## D Tier
 
 <details>
