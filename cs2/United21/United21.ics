@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260416T080000Z
-SUMMARY:Grand final: YN vs TBD
+SUMMARY:Grand final: YN vs FF
 UID:cs-go-united21-47-2026-1438951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +170,8 @@ SUMMARY:Upper bracket quarterfinal 4: MISA vs LPH
 UID:cs-go-united21-47-2026-1437370@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Brute: 1 | Fire Flux Esports: 2\nStream: https://kick.com/united21_en
+DTEND:20260415T111052Z
 DTSTART:20260415T080748Z
 SUMMARY:Lower bracket final: BRUTE vs FF
 UID:cs-go-united21-47-2026-1438949@tournamentics
