@@ -200,6 +200,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/S
 
 </details>
 
+<details>
+<summary>LORGAR RANKINGS</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/LorgarRankings.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/LorgarRankings.ics
+```
+
+---
+
+### 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/2026.ics
+```
+
+</details>
+
 ## D Tier
 
 <details>
