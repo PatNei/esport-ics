@@ -2102,9 +2102,9 @@ SUMMARY:Upper bracket quarterfinal 4: CRASH vs LDP
 UID:cs-go-esl-challenger-league-south-america-cup-3-2026-1421588@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260417T185000Z
+DTSTART:20260417T185140Z
 SUMMARY:Round 2: PHTM.Ac vs TS.A
 UID:cs-go-exort-series-25-2026-1449859@tournamentics
 END:VEVENT
@@ -5362,6 +5362,13 @@ DTEND:20260407T084309Z
 DTSTART:20260407T070301Z
 SUMMARY:Round 4: NRG vs LGC
 UID:cs-go-pgl-bucharest-2026-1427001@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260421T080000Z
+SUMMARY:Elimination match: AAB vs SNG
+UID:cs-go-european-pro-league-regular-4-2026-1451288@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: Qual4: 0 | BASEMENT BOYS: 2\nStream: https://kick.com/starladder
