@@ -100,6 +100,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series20S
 
 </details>
 
+<details>
+<summary>CCT Global Finals</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/CctGlobalFinals.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/CctGlobalFinals.ics
+```
+
+---
+
+### Season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/Season32026.ics
+```
+
+</details>
+
 ## C Tier
 
 <details>
@@ -268,27 +289,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Challenge
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders42026.ics
-```
-
-</details>
-
-<details>
-<summary>CCT Global Finals</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/CctGlobalFinals.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/CctGlobalFinals.ics
-```
-
----
-
-### Season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/Season32026.ics
 ```
 
 </details>
@@ -464,6 +464,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/OceaniaCup32026.ics
+```
+
+</details>
+
+<details>
+<summary>European Pro League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
+```
+
+---
+
+### Regular season 4 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/RegularSeason42026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/RegularSeason42026.ics
 ```
 
 </details>
