@@ -788,7 +788,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260417T170000Z
+DTSTART:20260420T190000Z
 SUMMARY:SE7ENS vs JUMBO
 UID:cs-go-esea-advanced-europe-57-2026-1433387@tournamentics
 END:VEVENT
@@ -1927,11 +1927,11 @@ SUMMARY:WAVE vs BERG
 UID:cs-go-dach-cs-masters-5-2026-1385740@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 1 | Wave Esports: 2\nStream: https://kick.com/exort_en2
-DTEND:20260412T174557Z
-DTSTART:20260412T153403Z
-SUMMARY:Round 4: 3DMAX.A vs WAVE
-UID:cs-go-exort-series-25-2026-1442152@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260417T150000Z
+SUMMARY:QWE vs TLR
+UID:cs-go-esea-advanced-europe-57-2026-1450336@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
@@ -1974,6 +1974,13 @@ DTEND:20260409T151641Z
 DTSTART:20260409T130513Z
 SUMMARY:Grand final: FDG vs CW
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421667@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 1 | Wave Esports: 2\nStream: https://kick.com/exort_en2
+DTEND:20260412T174557Z
+DTSTART:20260412T153403Z
+SUMMARY:Round 4: 3DMAX.A vs WAVE
+UID:cs-go-exort-series-25-2026-1442152@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | FC Famalicão Esports: 1\nStream: https://kick.com/nodwin_cs2
