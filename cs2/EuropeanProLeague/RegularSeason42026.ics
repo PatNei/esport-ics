@@ -2,11 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: XI Esport: 2 | Sangal ALTERS: 1\nStream: https://kick.com/eplcs_en
-DTEND:20260417T141104Z
-DTSTART:20260417T104150Z
-SUMMARY:XI vs SNG
-UID:cs-go-european-pro-league-regular-4-2026-1450386@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260419T080000Z
+SUMMARY:PRE vs IMP.A
+UID:cs-go-european-pro-league-regular-4-2026-1451290@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260420T103000Z
+SUMMARY:ALGO vs RT
+UID:cs-go-european-pro-league-regular-4-2026-1451292@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -16,10 +23,31 @@ SUMMARY:Elimination match: AAB vs SNG
 UID:cs-go-european-pro-league-regular-4-2026-1451288@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: XI Esport: 2 | Sangal ALTERS: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260417T141104Z
+DTSTART:20260417T104150Z
+SUMMARY:XI vs SNG
+UID:cs-go-european-pro-league-regular-4-2026-1450386@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260420T080000Z
+SUMMARY:KSM vs FF
+UID:cs-go-european-pro-league-regular-4-2026-1451291@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | BIG Academy: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260417T100502Z
 DTSTART:20260417T080808Z
 SUMMARY:AAB vs BIG.A
 UID:cs-go-european-pro-league-regular-4-2026-1450385@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260418T080000Z
+SUMMARY:LPH vs NAVI.J
+UID:cs-go-european-pro-league-regular-4-2026-1451289@tournamentics
 END:VEVENT
 END:VCALENDAR

@@ -532,27 +532,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 </details>
 
 <details>
-<summary>GLuck SixSeven</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckSixseven/GluckSixseven.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckSixseven/GluckSixseven.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckSixseven/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckSixseven/Season12026.ics
-```
-
-</details>
-
-<details>
 <summary>LORGAR RANKINGS</summary>
 
 ### Full Schedule
