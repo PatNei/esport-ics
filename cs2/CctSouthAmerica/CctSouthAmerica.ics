@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
 DTSTART:20260418T234500Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: PCY vs TBD
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447264@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Upper bracket round 1 match 3: BST.A vs VEXA
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1439646@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 2 | paiN Academy: 1\nStream: https://kick.com/cct_cs6
+DTEND:20260417T235413Z
 DTSTART:20260417T210231Z
 SUMMARY:Lower bracket quarterfinal 1: PCY vs paiN.A
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447269@tournamentics
@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
-DTSTART:20260417T234500Z
+DTSTART:20260418T000000Z
 SUMMARY:Lower bracket quarterfinal 2: UNO vs ALKA
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447270@tournamentics
 END:VEVENT
