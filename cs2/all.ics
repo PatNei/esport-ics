@@ -193,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/dust2us
 DURATION:PT2H
-DTSTART:20260418T000000Z
+DTSTART:20260418T002500Z
 SUMMARY:Semifinal 1: IP vs ZOMB
 UID:cs-go-dust2-us-eagle-masters-7-2026-1448784@tournamentics
 END:VEVENT
@@ -2716,6 +2716,13 @@ DTEND:20260408T024234Z
 DTSTART:20260408T001330Z
 SUMMARY:Quarterfinal 4: FDB vs paiN.A
 UID:cs-go-betboom-storm-2-2026-1413590@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260420T190000Z
+SUMMARY:RED.A vs QUIN
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1451798@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
