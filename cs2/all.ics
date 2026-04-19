@@ -2945,7 +2945,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260420T134500Z
-SUMMARY:Upper bracket quarterfinal 2: TLR vs TBD
+SUMMARY:Upper bracket quarterfinal 2: TLR vs eLITe
 UID:cs-go-cct-europe-challengers-series-1-2026-1449731@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4338,7 +4338,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260420T110000Z
-SUMMARY:Lower bracket round 1 match 2: HERO.A vs TBD
+SUMMARY:Lower bracket round 1 match 2: HERO.A vs AIMC
 UID:cs-go-cct-europe-challengers-series-1-2026-1449729@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4608,8 +4608,8 @@ SUMMARY:Round 3: LGC vs MIBR
 UID:cs-go-pgl-bucharest-2026-1426994@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: 1WIN: 0 | CYBERSHOKE Esports: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260419T155457Z
 DTSTART:20260419T140558Z
 SUMMARY:Round 3: 1WIN vs CS
 UID:cs-go-nodwin-clutch-series-7-2026-1431943@tournamentics
@@ -5399,8 +5399,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438515@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: eLITenergy: 2 | aimclub: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260419T154527Z
 DTSTART:20260419T142046Z
 SUMMARY:Upper bracket round 1 match 3: eLITe vs AIMC
 UID:cs-go-cct-europe-challengers-series-1-2026-1449727@tournamentics
@@ -6183,7 +6183,7 @@ SUMMARY:AAB vs XI
 UID:cs-go-parken-challenger-championship-5-2026-1448791@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
+DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
 DURATION:PT2H
 DTSTART:20260419T160000Z
 SUMMARY:Round 3: CC vs UNiTY
