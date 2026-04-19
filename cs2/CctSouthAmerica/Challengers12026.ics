@@ -131,12 +131,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
 DTSTART:20260419T234500Z
-SUMMARY:Grand final: MIBR.A vs TBD
+SUMMARY:Grand final: MIBR.A vs UNO
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447268@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: Vasco Esports: 0 | UNO MILLE: 2\nStream: https://kick.com/cct_cs6
+DTEND:20260419T225133Z
 DTSTART:20260419T210337Z
 SUMMARY:Lower bracket final: VSC vs UNO
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447265@tournamentics
