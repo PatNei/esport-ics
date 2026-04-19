@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260419T180000Z
-SUMMARY:Lower bracket quarterfinal 2: XI vs TBD
+SUMMARY:Lower bracket quarterfinal 2: XI vs TNC
 UID:cs-go-parken-challenger-championship-5-2026-1448829@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:ELITEN vs INF
 UID:cs-go-parken-challenger-championship-5-2026-1448796@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: TNC: 1 | zajezdzacze: 2\nStream: https://kick.com/challengerchampionship
+DTEND:20260419T162427Z
 DTSTART:20260419T140401Z
 SUMMARY:Upper bracket semifinal 1: TNC vs zajezdzacze
 UID:cs-go-parken-challenger-championship-5-2026-1448822@tournamentics
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260420T110000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: zajezdzacze vs TBD
 UID:cs-go-parken-challenger-championship-5-2026-1448824@tournamentics
 END:VEVENT
 BEGIN:VEVENT
