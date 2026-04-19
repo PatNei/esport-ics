@@ -289,9 +289,9 @@ SUMMARY:Round 1: B8 vs WC
 UID:cs-go-pgl-bucharest-2026-1426979@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260419T170000Z
+DTSTART:20260419T170126Z
 SUMMARY:Grand final: TS vs VIT
 UID:cs-go-iem-rio-2026-1436342@tournamentics
 END:VEVENT
@@ -1195,7 +1195,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260420T110000Z
-SUMMARY:Upper bracket final: zajezdzacze vs TBD
+SUMMARY:Upper bracket final: zajezdzacze vs INF
 UID:cs-go-parken-challenger-championship-5-2026-1448824@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1752,8 +1752,8 @@ SUMMARY:Upper bracket final: RSTR vs Ding Cuts
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Infinite: 2 | Rebels Gaming: 1\nStream: https://kick.com/challengerchampionship_b
+DTEND:20260419T170526Z
 DTSTART:20260419T141530Z
 SUMMARY:Upper bracket semifinal 2: INF vs RBLS
 UID:cs-go-parken-challenger-championship-5-2026-1448823@tournamentics
@@ -5549,7 +5549,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260419T180000Z
-SUMMARY:Lower bracket quarterfinal 1: PHTM.Ac vs TBD
+SUMMARY:Lower bracket quarterfinal 1: PHTM.Ac vs RBLS
 UID:cs-go-parken-challenger-championship-5-2026-1448828@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6176,8 +6176,8 @@ SUMMARY:AAB vs XI
 UID:cs-go-parken-challenger-championship-5-2026-1448791@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: Clutchain: 0 | UNiTY esports: 1\nStream: https://www.twitch.tv/playzoneup
+DTEND:20260419T165944Z
 DTSTART:20260419T160107Z
 SUMMARY:Round 3: CC vs UNiTY
 UID:cs-go-conquest-of-prague-online-stage-2026-1438502@tournamentics
