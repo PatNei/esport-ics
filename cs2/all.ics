@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260420T140000Z
-SUMMARY:Lower bracket final: TNC vs TBD
+SUMMARY:Lower bracket final: TNC vs zajezdzacze
 UID:cs-go-parken-challenger-championship-5-2026-1448826@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -562,8 +562,8 @@ SUMMARY:WAVE vs LEI
 UID:cs-go-dach-cs-masters-5-2026-1385731@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: BIG Academy: 0 | AaB Esport: 2\nStream: https://kick.com/united21_en
+DTEND:20260420T123248Z
 DTSTART:20260420T105155Z
 SUMMARY:BIG.A vs AAB
 UID:cs-go-united21-48-2026-1453430@tournamentics
@@ -586,7 +586,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260420T170000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: INF vs TBD
 UID:cs-go-parken-challenger-championship-5-2026-1448825@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1045,8 +1045,8 @@ SUMMARY:Lower bracket semifinal: Abyssal vs DXA
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438965@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: zajezdzacze: 0 | Infinite: 2\nStream: https://kick.com/challengerchampionship
+DTEND:20260420T123753Z
 DTSTART:20260420T110614Z
 SUMMARY:Upper bracket final: zajezdzacze vs INF
 UID:cs-go-parken-challenger-championship-5-2026-1448824@tournamentics
@@ -1934,9 +1934,9 @@ SUMMARY:Round 1: KOL vs YN
 UID:cs-go-conquest-of-prague-online-stage-2026-1438485@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260420T123000Z
+DTSTART:20260420T123715Z
 SUMMARY:Round 3: DRAMA vs WING
 UID:cs-go-exort-series-25-2026-1452829@tournamentics
 END:VEVENT
@@ -3453,6 +3453,13 @@ SUMMARY:Round 1: KSM vs EK
 UID:cs-go-elisa-open-suomi-12-2026-1372427@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260423T103000Z
+SUMMARY:Elimination match: SNG vs Golden Five
+UID:cs-go-united21-48-2026-1455260@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: Vasco Esports: 2 | Crashers: 1\nStream: https://kick.com/cct-cs7
 DTEND:20260415T021959Z
 DTSTART:20260414T235222Z
@@ -4200,6 +4207,13 @@ DTEND:20260407T084031Z
 DTSTART:20260407T070351Z
 SUMMARY:Round 4: MIBR vs EYE
 UID:cs-go-pgl-bucharest-2026-1427002@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260423T080000Z
+SUMMARY:Winners match: PSN.A vs LPH
+UID:cs-go-united21-48-2026-1455259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: LPH Gaming: 0 | NAVI Junior: 2\nStream: https://kick.com/eplcs_en

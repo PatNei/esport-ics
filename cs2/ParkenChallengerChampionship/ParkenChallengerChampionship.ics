@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260420T140000Z
-SUMMARY:Lower bracket final: TNC vs TBD
+SUMMARY:Lower bracket final: TNC vs zajezdzacze
 UID:cs-go-parken-challenger-championship-5-2026-1448826@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260420T170000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: INF vs TBD
 UID:cs-go-parken-challenger-championship-5-2026-1448825@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -401,8 +401,8 @@ SUMMARY:Lower bracket round 1 match 1: LAG vs Eclipse
 UID:cs-go-parken-challenger-championship-4-2026-1437320@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: zajezdzacze: 0 | Infinite: 2\nStream: https://kick.com/challengerchampionship
+DTEND:20260420T123753Z
 DTSTART:20260420T110614Z
 SUMMARY:Upper bracket final: zajezdzacze vs INF
 UID:cs-go-parken-challenger-championship-5-2026-1448824@tournamentics
