@@ -166,27 +166,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/On
 </details>
 
 <details>
-<summary>ESL Challenger League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics
-```
-
----
-
-### North America Cup #3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/NorthAmericaCup32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/NorthAmericaCup32026.ics
-```
-
-</details>
-
-<details>
 <summary>European Pro League</summary>
 
 ### Full Schedule
