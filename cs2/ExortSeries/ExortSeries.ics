@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: aimclub: 0 | CSGOPOSITIVE: 2\nStream: https://kick.com/exort_en2
+DTEND:20260421T132843Z
 DTSTART:20260421T124026Z
 SUMMARY:Round 4: AIMC vs CSGOPOSITIVE
 UID:cs-go-exort-series-25-2026-1456252@tournamentics
@@ -114,6 +114,13 @@ SUMMARY:Round 3: HEC vs EP
 UID:cs-go-exort-series-25-2026-1452827@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260423T183000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-exort-series-25-2026-1457366@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | Wingman: 2\nStream: https://kick.com/exort_en2
 DTEND:20260414T204725Z
 DTSTART:20260414T192905Z
@@ -133,6 +140,13 @@ DTEND:20260411T174947Z
 DTSTART:20260411T153513Z
 SUMMARY:Round 3: EF.A vs CSGOPOSITIVE
 UID:cs-go-exort-series-25-2026-1439598@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260422T183000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-exort-series-25-2026-1457363@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
@@ -219,11 +233,25 @@ SUMMARY:Round 3: PHTM.Ac vs HAVEN
 UID:cs-go-exort-series-25-2026-1452830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260423T153000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-exort-series-25-2026-1457365@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: VP.Future: 1 | Eternal Fire Academy: 2\nStream: https://kick.com/exort_en2
 DTEND:20260414T181248Z
 DTSTART:20260414T154148Z
 SUMMARY:Round 5: VP.F vs EF.A
 UID:cs-go-exort-series-25-2026-1445605@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260422T153000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-exort-series-25-2026-1457362@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: NeverPlay: 0 | Wave Esports: 2\nStream: https://kick.com/exort_en2
@@ -331,11 +359,25 @@ SUMMARY:Round 3: EP vs WING
 UID:cs-go-exort-series-25-2026-1439599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260423T123000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-exort-series-25-2026-1457364@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: VP.Future: 1 | KUUSAMO.gg: 2\nStream: https://kick.com/exort_en2
 DTEND:20260411T120858Z
 DTSTART:20260411T093424Z
 SUMMARY:Round 3: VP.F vs KSM
 UID:cs-go-exort-series-25-2026-1439596@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260422T123000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-exort-series-25-2026-1457361@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Nebula In Chaox: 0 | INFURITY Gaming: 2\nStream: https://kick.com/exort_en2
