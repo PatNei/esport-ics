@@ -177,11 +177,11 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague
 
 ---
 
-### Europe Cup #4 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup42026.ics)
+### Europe Cup #4 season 51 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup4Season512026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup42026.ics
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup4Season512026.ics
 ```
 
 ### North America Cup #4 2026
