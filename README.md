@@ -564,6 +564,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season4820
 
 </details>
 
+<details>
+<summary>XPortal</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Xportal/Xportal.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Xportal/Xportal.ics
+```
+
+---
+
+### Closed Qualifier #1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Xportal/ClosedQualifier12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Xportal/ClosedQualifier12026.ics
+```
+
+</details>
+
 ## License
 
 ### Calendar Data (.ics files)
