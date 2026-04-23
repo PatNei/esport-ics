@@ -481,6 +481,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 </details>
 
 <details>
+<summary>Odyssey Cup</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/OdysseyCup/OdysseyCup.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/OdysseyCup/OdysseyCup.ics
+```
+
+---
+
+### Brazil 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/OdysseyCup/Brazil2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/OdysseyCup/Brazil2026.ics
+```
+
+</details>
+
+<details>
 <summary>Parken Challenger Championship</summary>
 
 ### Full Schedule

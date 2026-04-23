@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260427T080000Z
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: LPH vs TBD
 UID:cs-go-united21-48-2026-1458883@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Decider Match: TBD vs TBD
 UID:cs-go-united21-48-2026-1458885@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Passion Academy: 2 | LPH Gaming: 1\nStream: https://kick.com/united21_en
+DTEND:20260423T104403Z
 DTSTART:20260423T080531Z
 SUMMARY:Winners match: PSN.A vs LPH
 UID:cs-go-united21-48-2026-1455259@tournamentics
@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260423T103000Z
+DTSTART:20260423T110000Z
 SUMMARY:Elimination match: SNG vs Golden Five
 UID:cs-go-united21-48-2026-1455260@tournamentics
 END:VEVENT
