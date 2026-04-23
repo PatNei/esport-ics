@@ -2133,7 +2133,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260424T113000Z
-SUMMARY:Elimination match: LILMIX vs TBD
+SUMMARY:Elimination match: LILMIX vs TS
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458875@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2665,7 +2665,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260424T083000Z
-SUMMARY:Winners match: ENCE vs TBD
+SUMMARY:Winners match: ENCE vs JJH
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458874@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3145,8 +3145,8 @@ SUMMARY:Quarterfinal 2: VIT vs NAVI
 UID:cs-go-iem-rio-2026-1436337@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: JiJieHao: 2 | The Suspect: 0\nStream: https://www.twitch.tv/xportalesports
+DTEND:20260423T191547Z
 DTSTART:20260423T175105Z
 SUMMARY:JJH vs TS
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458873@tournamentics
@@ -4510,9 +4510,9 @@ SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457354@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260423T191500Z
+DTSTART:20260423T191421Z
 SUMMARY:Upper bracket quarterfinal 2: NIP vs SHK
 UID:cs-go-cct-global-finals-3-2026-1449751@tournamentics
 END:VEVENT
