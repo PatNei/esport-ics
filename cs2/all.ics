@@ -1356,7 +1356,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260424T173000Z
-SUMMARY:Elimination match: FCF vs TBD
+SUMMARY:Elimination match: FCF vs TLR
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458865@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1874,7 +1874,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260424T143000Z
-SUMMARY:Winners match: Atreides vs TBD
+SUMMARY:Winners match: Atreides vs MANA
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458864@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2389,8 +2389,8 @@ SUMMARY:Round 3: Reign Above vs CW
 UID:cs-go-dust2-us-eagle-masters-7-2026-1431895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | The Last Resort: 0\nStream: https://www.twitch.tv/xportalesports
+DTEND:20260423T121154Z
 DTSTART:20260423T105523Z
 SUMMARY:MANA vs TLR
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458863@tournamentics
