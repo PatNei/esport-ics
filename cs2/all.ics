@@ -1629,7 +1629,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260426T143000Z
-SUMMARY:Decider match: ENCE vs TBD
+SUMMARY:Decider match: ENCE vs LILMIX
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458876@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2144,8 +2144,8 @@ SUMMARY:Semifinal 2: FURIA vs VIT
 UID:cs-go-iem-rio-2026-1436339@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: Lilmix: 2 | The Suspect: 0\nStream: https://www.twitch.tv/xportalesports
+DTEND:20260424T161806Z
 DTSTART:20260424T144153Z
 SUMMARY:Elimination match: LILMIX vs TS
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458875@tournamentics
@@ -6281,9 +6281,9 @@ SUMMARY:Quarterfinal 1: IP vs TA
 UID:cs-go-dust2-us-eagle-masters-7-2026-1445109@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260424T160000Z
+DTSTART:20260424T161806Z
 SUMMARY:Winners match: MIBR.A vs ALKA
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1461143@tournamentics
 END:VEVENT
@@ -6330,9 +6330,9 @@ SUMMARY:FROX vs HUSK
 UID:cs-go-dach-cs-masters-5-2026-1385721@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260424T153000Z
+DTSTART:20260424T162601Z
 SUMMARY:Round 1 match 2: TS.A vs EP
 UID:cs-go-exort-series-25-2026-1460889@tournamentics
 END:VEVENT
