@@ -4211,7 +4211,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260424T150000Z
+DTSTART:20260424T163000Z
 SUMMARY:ENJOY vs MEGO
 UID:cs-go-esea-advanced-europe-57-2026-1454788@tournamentics
 END:VEVENT
@@ -4487,6 +4487,13 @@ DTEND:20260420T184149Z
 DTSTART:20260420T181300Z
 SUMMARY:AUR.YB vs COW
 UID:cs-go-esea-advanced-europe-57-2026-1454776@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260424T180000Z
+SUMMARY:BRAWLSTARS vs TEAM_COPH9K
+UID:cs-go-esea-advanced-europe-57-2026-1460892@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: 1WIN: 0 | CYBERSHOKE Esports: 2\nStream: https://kick.com/nodwin_cs2
