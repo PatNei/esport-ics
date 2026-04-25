@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Winners match: WC vs TBD
+SUMMARY:Winners match: WC vs VOCA
 UID:cs-go-fragadelphia-20-2026-1462418@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,9 +72,9 @@ SUMMARY:LAG vs EMP
 UID:cs-go-fragadelphia-20-2026-1462407@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260425T210000Z
+DTSTART:20260425T202053Z
 SUMMARY:Elimination match: Secret vs CCE
 UID:cs-go-fragadelphia-20-2026-1462404@tournamentics
 END:VEVENT
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Elimination match: FRZ vs TBD
+SUMMARY:Elimination match: FRZ vs MARS
 UID:cs-go-fragadelphia-20-2026-1462419@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -100,8 +100,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-fragadelphia-20-2026-1462420@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Voca: 2 | Marsborne: 1\nStream: https://kick.com/frag2
+DTEND:20260425T202244Z
 DTSTART:20260425T182700Z
 SUMMARY:VOCA vs MARS
 UID:cs-go-fragadelphia-20-2026-1462416@tournamentics
@@ -135,9 +135,9 @@ SUMMARY:NRG vs FXT
 UID:cs-go-fragadelphia-20-2026-1462406@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260425T210000Z
+DTSTART:20260425T201952Z
 SUMMARY:Winners match: M80 vs InC
 UID:cs-go-fragadelphia-20-2026-1462403@tournamentics
 END:VEVENT
