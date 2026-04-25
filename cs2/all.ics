@@ -705,7 +705,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Elimination match: FXT vs TBD
+SUMMARY:Elimination match: FXT vs EMP
 UID:cs-go-fragadelphia-20-2026-1462409@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -999,7 +999,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T170000Z
-SUMMARY:Upper bracket quarterfinal 3: G1 vs TBD
+SUMMARY:Upper bracket quarterfinal 3: G1 vs SPARTA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456889@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1265,7 +1265,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Winners match: NRG vs TBD
+SUMMARY:Winners match: NRG vs LAG
 UID:cs-go-fragadelphia-20-2026-1462408@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1871,8 +1871,8 @@ SUMMARY:AAB vs INF
 UID:cs-go-parken-challenger-championship-5-2026-1448800@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | EMPIRE: 1\nStream: No official stream linked
+DTEND:20260425T203132Z
 DTSTART:20260425T182511Z
 SUMMARY:LAG vs EMP
 UID:cs-go-fragadelphia-20-2026-1462407@tournamentics
@@ -2221,8 +2221,8 @@ SUMMARY:Round 2: GH vs CRASH
 UID:cs-go-odyssey-cup-brazil-2026-1459524@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Lavked: 1 | SPARTA: 2\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260425T203511Z
 DTSTART:20260425T170600Z
 SUMMARY:Upper bracket round of 16 match 6: Lavked vs SPARTA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456864@tournamentics
@@ -5066,7 +5066,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260426T170000Z
-SUMMARY:Lower bracket round 3 match 6: G2.A vs TBD
+SUMMARY:Lower bracket round 3 match 6: G2.A vs Lavked
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456882@tournamentics
 END:VEVENT
 BEGIN:VEVENT

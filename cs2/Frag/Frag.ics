@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Winners match: NRG vs TBD
+SUMMARY:Winners match: NRG vs LAG
 UID:cs-go-fragadelphia-20-2026-1462408@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -65,8 +65,8 @@ SUMMARY:PSSN.UA vs AGA
 UID:cs-go-fragadelphia-20-2026-1462411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | EMPIRE: 1\nStream: No official stream linked
+DTEND:20260425T203132Z
 DTSTART:20260425T182511Z
 SUMMARY:LAG vs EMP
 UID:cs-go-fragadelphia-20-2026-1462407@tournamentics
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Elimination match: FXT vs TBD
+SUMMARY:Elimination match: FXT vs EMP
 UID:cs-go-fragadelphia-20-2026-1462409@tournamentics
 END:VEVENT
 BEGIN:VEVENT
