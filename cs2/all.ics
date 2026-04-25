@@ -3036,7 +3036,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T233000Z
-SUMMARY:Decider match: InC vs TBD
+SUMMARY:Decider match: InC vs CCE
 UID:cs-go-fragadelphia-20-2026-1462405@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3621,8 +3621,8 @@ SUMMARY:Round 2: NIC vs EF.A
 UID:cs-go-exort-series-25-2026-1435738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: It's a Secret: 1 | Chicken Coop Esports: 2\nStream: No official stream linked
+DTEND:20260425T222737Z
 DTSTART:20260425T202053Z
 SUMMARY:Elimination match: Secret vs CCE
 UID:cs-go-fragadelphia-20-2026-1462404@tournamentics
