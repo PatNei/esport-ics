@@ -3897,7 +3897,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260426T110000Z
-SUMMARY:Quarterfinal 2: NEMI vs TBD
+SUMMARY:Quarterfinal 2: NEMI vs CS
 UID:cs-go-nodwin-clutch-series-7-2026-1431956@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4734,8 +4734,8 @@ SUMMARY:Lower bracket semifinal: MISA vs FF
 UID:cs-go-united21-47-2026-1438948@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 0 | CYBERSHOKE Esports: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260425T200237Z
 DTSTART:20260425T182632Z
 SUMMARY:Round of 16 match 8: EYE vs CS
 UID:cs-go-nodwin-clutch-series-7-2026-1431966@tournamentics
@@ -5119,9 +5119,9 @@ SUMMARY:Upper bracket round 1 match 10: FCF vs bankaPEPSI
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456410@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260425T200000Z
+DTSTART:20260425T200506Z
 SUMMARY:Lower bracket semifinal: BIG vs NIP
 UID:cs-go-cct-global-finals-3-2026-1449762@tournamentics
 END:VEVENT
