@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
 DTSTART:20260426T140000Z
-SUMMARY:Semifinal 1: SIN vs TBD
+SUMMARY:Semifinal 1: SIN vs KOL
 UID:cs-go-lorgar-rankings-2026-1450341@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T170000Z
-SUMMARY:Upper bracket quarterfinal 4: RBLS vs TBD
+SUMMARY:Upper bracket quarterfinal 4: RBLS vs aAa
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456890@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1038,8 +1038,8 @@ SUMMARY:Round 2: FDB vs paiN.A
 UID:cs-go-odyssey-cup-brazil-2026-1459526@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ozstrik3rtv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: against All authority: 2 | Misa Esports: 1\nStream: https://www.twitch.tv/ozstrik3rtv
+DTEND:20260425T195629Z
 DTSTART:20260425T170537Z
 SUMMARY:Upper bracket round of 16 match 8: aAa vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456866@tournamentics
@@ -2025,8 +2025,8 @@ SUMMARY:Round 2: KOL vs ESC
 UID:cs-go-conquest-of-prague-online-stage-2026-1438497@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nResult: FOKUS: 1 | KOLESIE: 2\nStream: https://www.twitch.tv/starladder_cs_en
+DTEND:20260425T195125Z
 DTSTART:20260425T170027Z
 SUMMARY:Quarterfinal 2: FOKUS vs KOL
 UID:cs-go-lorgar-rankings-2026-1450338@tournamentics
@@ -2431,8 +2431,8 @@ SUMMARY:Lower bracket final: VSC vs UNO
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447265@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 1 | Game Hunters: 0\nStream: No official stream linked
+DTEND:20260425T194721Z
 DTSTART:20260425T191502Z
 SUMMARY:Round 3: BHE vs GH
 UID:cs-go-odyssey-cup-brazil-2026-1459535@tournamentics
@@ -3019,8 +3019,8 @@ SUMMARY:Lower bracket semifinal: PCY vs UNO
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447264@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Fake do Biru: 1 | UNO MILLE: 0\nStream: No official stream linked
+DTEND:20260425T195257Z
 DTSTART:20260425T191459Z
 SUMMARY:Round 3: FDB vs UNO
 UID:cs-go-odyssey-cup-brazil-2026-1459534@tournamentics
@@ -3582,7 +3582,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Elimination match: Secret vs TBD
+SUMMARY:Elimination match: Secret vs CCE
 UID:cs-go-fragadelphia-20-2026-1462404@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3600,8 +3600,8 @@ SUMMARY:Lower bracket round 3 match 2: R2 vs ALKA
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447263@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kabrafps
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Turma do Pagode: 1 | Keyd: 0\nStream: https://www.twitch.tv/kabrafps
+DTEND:20260425T195335Z
 DTSTART:20260425T190713Z
 SUMMARY:Round 3: TdP vs Keyd
 UID:cs-go-odyssey-cup-brazil-2026-1459533@tournamentics
@@ -3862,7 +3862,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260426T170000Z
-SUMMARY:Lower bracket round 3 match 8: CYBERSHOKE Prospects vs TBD
+SUMMARY:Lower bracket round 3 match 8: CYBERSHOKE Prospects vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456884@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4163,7 +4163,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Winners match: M80 vs TBD
+SUMMARY:Winners match: M80 vs InC
 UID:cs-go-fragadelphia-20-2026-1462403@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4720,8 +4720,8 @@ SUMMARY:OBOYS vs GE
 UID:cs-go-esea-advanced-europe-57-2026-1453385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Chicken Coop Esports: 0 | InControl: 2\nStream: No official stream linked
+DTEND:20260425T195305Z
 DTSTART:20260425T183155Z
 SUMMARY:CCE vs InC
 UID:cs-go-fragadelphia-20-2026-1462402@tournamentics
@@ -5121,7 +5121,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260425T194500Z
+DTSTART:20260425T200000Z
 SUMMARY:Lower bracket semifinal: BIG vs NIP
 UID:cs-go-cct-global-finals-3-2026-1449762@tournamentics
 END:VEVENT
