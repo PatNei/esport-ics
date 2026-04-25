@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260426T113000Z
-SUMMARY:Winners match: UNiTY vs TBD
+SUMMARY:Winners match: UNiTY vs INOX
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458879@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -705,7 +705,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: FXT vs TBD
 UID:cs-go-fragadelphia-20-2026-1462409@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1094,8 +1094,8 @@ SUMMARY:Round 3: OXUJI vs Lavked
 UID:cs-go-nodwin-clutch-series-7-2026-1431938@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: EC BANGA: 0 | INOX Division: 2\nStream: https://www.twitch.tv/xportalesports
+DTEND:20260425T190114Z
 DTSTART:20260425T173703Z
 SUMMARY:EC BANGA vs INOX
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458877@tournamentics
@@ -1265,7 +1265,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: NRG vs TBD
 UID:cs-go-fragadelphia-20-2026-1462408@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2417,8 +2417,8 @@ SUMMARY:Lower bracket round 1 match 3: Alzon vs R2
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1444719@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: NRG: 2 | Foxtrot Esports: 0\nStream: https://kick.com/trottah
+DTEND:20260425T185915Z
 DTSTART:20260425T181949Z
 SUMMARY:NRG vs FXT
 UID:cs-go-fragadelphia-20-2026-1462406@tournamentics
@@ -3600,7 +3600,7 @@ SUMMARY:Lower bracket round 3 match 2: R2 vs ALKA
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447263@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kabrafps
 DURATION:PT2H
 DTSTART:20260425T190000Z
 SUMMARY:Round 3: TdP vs Keyd
@@ -5121,7 +5121,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260425T190000Z
+DTSTART:20260425T194500Z
 SUMMARY:Lower bracket semifinal: BIG vs NIP
 UID:cs-go-cct-global-finals-3-2026-1449762@tournamentics
 END:VEVENT
@@ -6046,7 +6046,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260426T083000Z
-SUMMARY:Elimination match: FPR vs TBD
+SUMMARY:Elimination match: FPR vs EC BANGA
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458880@tournamentics
 END:VEVENT
 BEGIN:VEVENT
