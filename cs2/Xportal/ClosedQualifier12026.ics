@@ -4,6 +4,20 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
+DTSTART:20260426T173000Z
+SUMMARY:Decider match: AIMC vs TBD
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458871@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | aimclub: 0\nStream: https://www.twitch.tv/xportalesports
+DTEND:20260425T103244Z
+DTSTART:20260425T083934Z
+SUMMARY:AAB vs AIMC
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458867@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
+DURATION:PT2H
 DTSTART:20260426T113000Z
 SUMMARY:Winners match: UNiTY vs INOX
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458879@tournamentics
@@ -23,6 +37,20 @@ SUMMARY:Decider match: ENCE vs LILMIX
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458876@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | The Last Resort: 2\nStream: https://www.twitch.tv/tavarescs2
+DTEND:20260424T163344Z
+DTSTART:20260424T145134Z
+SUMMARY:Elimination match: FCF vs TLR
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458865@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: Atreides: 2 | MANA eSports: 0\nStream: https://www.twitch.tv/xportalesports
+DTEND:20260424T134237Z
+DTSTART:20260424T120821Z
+SUMMARY:Winners match: Atreides vs MANA
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458864@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: JiJieHao: 2 | The Suspect: 0\nStream: https://www.twitch.tv/xportalesports
 DTEND:20260423T191547Z
 DTSTART:20260423T175105Z
@@ -37,11 +65,11 @@ SUMMARY:Winners match: AAB vs BMB
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458869@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
-DTSTART:20260426T113000Z
-SUMMARY:Elimination match: AIMC vs MEGO
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458870@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | Atreides: 2\nStream: https://www.twitch.tv/xportalesports
+DTEND:20260423T102102Z
+DTSTART:20260423T084521Z
+SUMMARY:FCF vs Atreides
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458862@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
@@ -51,18 +79,18 @@ SUMMARY:Decider Match: MANA vs TLR
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458866@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | The Last Resort: 0\nStream: https://www.twitch.tv/xportalesports
-DTEND:20260423T121154Z
-DTSTART:20260423T105523Z
-SUMMARY:MANA vs TLR
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458863@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | FromPR: 0\nStream: https://www.twitch.tv/xportalesports
 DTEND:20260425T155901Z
 DTSTART:20260425T143942Z
 SUMMARY:UNiTY vs FPR
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458878@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | The Last Resort: 0\nStream: https://www.twitch.tv/xportalesports
+DTEND:20260423T121154Z
+DTSTART:20260423T105523Z
+SUMMARY:MANA vs TLR
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458863@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: Lilmix: 2 | The Suspect: 0\nStream: https://www.twitch.tv/xportalesports
@@ -77,20 +105,6 @@ DTEND:20260423T161059Z
 DTSTART:20260423T143627Z
 SUMMARY:ENCE vs LILMIX
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458872@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | The Last Resort: 2\nStream: https://www.twitch.tv/tavarescs2
-DTEND:20260424T163344Z
-DTSTART:20260424T145134Z
-SUMMARY:Elimination match: FCF vs TLR
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458865@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | Atreides: 2\nStream: https://www.twitch.tv/xportalesports
-DTEND:20260423T102102Z
-DTSTART:20260423T084521Z
-SUMMARY:FCF vs Atreides
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458862@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
@@ -112,26 +126,5 @@ DTEND:20260424T103152Z
 DTSTART:20260424T084117Z
 SUMMARY:Winners match: ENCE vs JJH
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458874@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
-DTSTART:20260426T173000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458871@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | aimclub: 0\nStream: https://www.twitch.tv/xportalesports
-DTEND:20260425T103244Z
-DTSTART:20260425T083934Z
-SUMMARY:AAB vs AIMC
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458867@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: Atreides: 2 | MANA eSports: 0\nStream: https://www.twitch.tv/xportalesports
-DTEND:20260424T134237Z
-DTSTART:20260424T120821Z
-SUMMARY:Winners match: Atreides vs MANA
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458864@tournamentics
 END:VEVENT
 END:VCALENDAR
