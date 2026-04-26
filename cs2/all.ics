@@ -1454,7 +1454,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260430T003000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: IP vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460368@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1972,7 +1972,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260429T003000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: Incognito vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460367@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2392,7 +2392,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T210000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: RTT100 vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456993@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2697,8 +2697,8 @@ SUMMARY:Round 1: HAVEN vs NIC
 UID:cs-go-exort-series-25-2026-1447168@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/elmorocho7
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | RTT100: 0\nStream: https://kick.com/elmorocho7
+DTEND:20260426T222146Z
 DTSTART:20260426T211854Z
 SUMMARY:Upper bracket round 1 match 1: ODK vs RTT100
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456981@tournamentics
@@ -3003,13 +3003,6 @@ DURATION:PT2H
 DTSTART:20260501T080000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-series-1-play-in-2026-1462483@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
-DTSTART:20260427T003000Z
-SUMMARY:IP vs Incognito
-UID:cs-go-thunderpick-world-championship-north-american-2026-1460365@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Voca: 2 | Marsborne: 1\nStream: https://kick.com/frag2
@@ -4842,7 +4835,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T210000Z
-SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 1: ODK vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456989@tournamentics
 END:VEVENT
 BEGIN:VEVENT
