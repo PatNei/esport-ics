@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | Imperial Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260403T095959Z
+DTSTART:20260403T082010Z
+SUMMARY:Winners match: SNG vs Imperial.A
+UID:cs-go-united21-47-2026-1423174@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 0 | Brute: 2\nStream: https://kick.com/united21_en
 DTEND:20260409T133825Z
 DTSTART:20260409T115535Z
@@ -58,6 +65,34 @@ SUMMARY:INF vs BRUTE
 UID:cs-go-united21-47-2026-1423183@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 1 | Inner Circle Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260404T104411Z
+DTSTART:20260404T081041Z
+SUMMARY:Winners match: FF vs IC.A
+UID:cs-go-united21-47-2026-1423179@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: XI Esport: 2 | ReThink: 0\nStream: https://kick.com/united21_en
+DTEND:20260404T130223Z
+DTSTART:20260404T110132Z
+SUMMARY:Elimination match: XI vs RT
+UID:cs-go-united21-47-2026-1423180@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | LPH Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260407T093301Z
+DTSTART:20260407T080840Z
+SUMMARY:Decider match: SNG vs LPH
+UID:cs-go-united21-47-2026-1423176@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | LPH Gaming: 1\nStream: https://kick.com/united21_en
+DTEND:20260330T155602Z
+DTSTART:20260330T130750Z
+SUMMARY:Imperial.A vs LPH
+UID:cs-go-united21-47-2026-1423173@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | Infinite: 1\nStream: https://kick.com/united21_en
 DTEND:20260409T114248Z
 DTSTART:20260409T081917Z
@@ -105,6 +140,20 @@ DTEND:20260401T103521Z
 DTSTART:20260401T080705Z
 SUMMARY:KSM vs YN
 UID:cs-go-united21-47-2026-1423182@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: ReThink: 1 | Inner Circle Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260331T141731Z
+DTSTART:20260331T105742Z
+SUMMARY:RT vs IC.A
+UID:cs-go-united21-47-2026-1423178@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Z7 Esports: 0 | LPH Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260403T122917Z
+DTSTART:20260403T104444Z
+SUMMARY:Elimination match: Z7 vs LPH
+UID:cs-go-united21-47-2026-1423175@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Young Ninjas: 2 | Fire Flux Esports: 1\nStream: https://kick.com/united21_en
@@ -161,5 +210,19 @@ DTEND:20260405T103533Z
 DTSTART:20260405T081254Z
 SUMMARY:Winners match: YN vs BRUTE
 UID:cs-go-united21-47-2026-1423184@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 | XI Esport: 0\nStream: https://kick.com/united21_en
+DTEND:20260407T122037Z
+DTSTART:20260407T103531Z
+SUMMARY:Decider match: FF vs XI
+UID:cs-go-united21-47-2026-1423181@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 | XI Esport: 0\nStream: https://kick.com/united21_en
+DTEND:20260331T103634Z
+DTSTART:20260331T081203Z
+SUMMARY:FF vs XI
+UID:cs-go-united21-47-2026-1423177@tournamentics
 END:VEVENT
 END:VCALENDAR

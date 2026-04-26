@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260426T170000Z
-SUMMARY:Semifinal 1: MARS vs TBD
+SUMMARY:Semifinal 1: MARS vs FC
 UID:cs-go-fragadelphia-20-2026-1463486@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +170,8 @@ SUMMARY:Elimination match: FXT vs EMP
 UID:cs-go-fragadelphia-20-2026-1462409@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Fisher College: 2 | LAG Gaming: 1\nStream: No official stream linked
+DTEND:20260426T060537Z
 DTSTART:20260426T035739Z
 SUMMARY:Quarterfinal 2: FC vs LAG
 UID:cs-go-fragadelphia-20-2026-1463483@tournamentics
