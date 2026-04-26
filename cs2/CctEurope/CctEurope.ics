@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260426T134500Z
-SUMMARY:Grand final: INOX vs TBD
+SUMMARY:Grand final: INOX vs RUST
 UID:cs-go-cct-europe-challengers-series-1-2026-1449749@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -268,8 +268,8 @@ SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-series-1-play-in-2026-1462476@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: RUSTEC: 2 | Brute: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260426T134519Z
 DTSTART:20260426T110408Z
 SUMMARY:Lower bracket final: RUST vs BRUTE
 UID:cs-go-cct-europe-challengers-series-1-2026-1449748@tournamentics
