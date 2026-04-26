@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: UNiTY esports: 0 | INOX Division: 2\nStream: https://www.twitch.tv/xportalesports
+DTEND:20260426T101634Z
 DTSTART:20260426T084626Z
 SUMMARY:Winners match: UNiTY vs INOX
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458879@tournamentics
@@ -3260,7 +3260,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260428T103000Z
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: RT vs TBD
 UID:cs-go-united21-48-2026-1458892@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4247,7 +4247,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260427T080000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: BIG vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431967@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4573,8 +4573,8 @@ SUMMARY:Lower bracket round 1 match 2: HERO.A vs AIMC
 UID:cs-go-cct-europe-challengers-series-1-2026-1449729@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: BIG: 2 | SPARTA: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260426T102438Z
 DTSTART:20260426T081012Z
 SUMMARY:Quarterfinal 1: BIG vs SPARTA
 UID:cs-go-nodwin-clutch-series-7-2026-1431955@tournamentics
@@ -5521,7 +5521,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260426T173000Z
-SUMMARY:Decider Match: FPR vs TBD
+SUMMARY:Decider Match: FPR vs UNiTY
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458881@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5924,8 +5924,8 @@ SUMMARY:Round 1: FURIA.F vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-1-2026-1460951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Z7 Esports: 0 | ReThink: 2\nStream: https://kick.com/united21_en
+DTEND:20260426T102114Z
 DTSTART:20260426T081023Z
 SUMMARY:Elimination match: Z7 vs RT
 UID:cs-go-united21-48-2026-1458888@tournamentics
