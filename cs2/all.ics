@@ -401,9 +401,9 @@ SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457034@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
-DTSTART:20260426T200000Z
+DTSTART:20260426T203000Z
 SUMMARY:3rd place match: MARS vs PSSN.UA
 UID:cs-go-fragadelphia-20-2026-1463488@tournamentics
 END:VEVENT
@@ -3621,8 +3621,8 @@ SUMMARY:Upper bracket round 1 match 7: BMZ vs LB
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fyflo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | Misa Esports: 1\nStream: https://www.twitch.tv/fyflo
+DTEND:20260426T200033Z
 DTSTART:20260426T170301Z
 SUMMARY:Lower bracket round 3 match 8: CYBERSHOKE Prospects vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456884@tournamentics
@@ -4394,7 +4394,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T170000Z
-SUMMARY:Lower bracket round 4 match 4: WAL vs TBD
+SUMMARY:Lower bracket round 4 match 4: WAL vs CYBERSHOKE Prospects
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456894@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4461,8 +4461,8 @@ SUMMARY:Round 3: IMP vs YAW
 UID:cs-go-odyssey-cup-brazil-2026-1459531@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Eternal Fire: 1 | Lilmix: 2\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260426T195825Z
 DTSTART:20260426T170732Z
 SUMMARY:Lower bracket round 3 match 5: EF vs LILMIX
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456871@tournamentics
@@ -5017,7 +5017,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T170000Z
-SUMMARY:Lower bracket round 4 match 3: Lavked vs TBD
+SUMMARY:Lower bracket round 4 match 3: Lavked vs LILMIX
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456893@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5420,8 +5420,8 @@ SUMMARY:Leo vs URSA
 UID:cs-go-nodwin-clutch-series-7-2026-1431919@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nResult: Gentle Mates: 1 | Sinners: 2\nStream: https://www.twitch.tv/starladder_cs_en
+DTEND:20260426T195405Z
 DTSTART:20260426T162025Z
 SUMMARY:Grand final: M8 vs SIN
 UID:cs-go-lorgar-rankings-2026-1450343@tournamentics
@@ -5525,9 +5525,9 @@ SUMMARY:STA vs LILMIX
 UID:cs-go-cct-europe-series-1-play-in-2026-1462479@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260426T193000Z
+DTSTART:20260426T195333Z
 SUMMARY:Grand final: TS.A vs 33
 UID:cs-go-exort-series-25-2026-1464033@tournamentics
 END:VEVENT
@@ -6374,7 +6374,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260426T200000Z
+DTSTART:20260426T203000Z
 SUMMARY:Grand final: FC vs WC
 UID:cs-go-fragadelphia-20-2026-1463489@tournamentics
 END:VEVENT
