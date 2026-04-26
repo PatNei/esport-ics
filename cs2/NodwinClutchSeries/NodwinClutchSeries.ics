@@ -257,7 +257,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260427T110000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: WAL vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431968@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -436,8 +436,8 @@ SUMMARY:Round of 16 match 3: BB vs URSA
 UID:cs-go-nodwin-clutch-series-7-2026-1431961@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Ursa: 0 | Walczaki: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260426T123016Z
 DTSTART:20260426T110416Z
 SUMMARY:Quarterfinal 3: URSA vs WAL
 UID:cs-go-nodwin-clutch-series-7-2026-1431957@tournamentics
