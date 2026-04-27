@@ -3631,7 +3631,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260428T140000Z
-SUMMARY:Winners match: LILMIX vs TBD
+SUMMARY:Winners match: LILMIX vs URSA
 UID:cs-go-cct-europe-series-1-play-in-2026-1462482@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4247,7 +4247,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260428T080000Z
-SUMMARY:Elimination match: STA vs TBD
+SUMMARY:Elimination match: STA vs BRUTE
 UID:cs-go-cct-europe-series-1-play-in-2026-1462481@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4797,8 +4797,8 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457038@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: Ursa: 2 | Brute: 1\nStream: https://kick.com/cct_cs
+DTEND:20260427T140106Z
 DTSTART:20260427T111850Z
 SUMMARY:URSA vs BRUTE
 UID:cs-go-cct-europe-series-1-play-in-2026-1462480@tournamentics
@@ -5044,7 +5044,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260427T134000Z
+DTSTART:20260427T135000Z
 SUMMARY:Elimination match: ALGO vs SASHI.A
 UID:cs-go-united21-48-2026-1458889@tournamentics
 END:VEVENT
