@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260429T080000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: LPH vs TBD
 UID:cs-go-european-pro-league-regular-4-2026-1466108@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -212,8 +212,8 @@ SUMMARY:PRE vs IMP.A
 UID:cs-go-european-pro-league-regular-4-2026-1451290@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | LPH Gaming: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260427T150822Z
 DTSTART:20260427T113804Z
 SUMMARY:Upper bracket quarterfinal 3: IMP.A vs LPH
 UID:cs-go-european-pro-league-regular-4-2026-1465432@tournamentics
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260430T080000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: IMP.A vs TBD
 UID:cs-go-european-pro-league-regular-4-2026-1466098@tournamentics
 END:VEVENT
 BEGIN:VEVENT
