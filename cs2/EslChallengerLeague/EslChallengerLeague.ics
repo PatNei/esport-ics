@@ -530,7 +530,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T170000Z
-SUMMARY:Lower bracket round 5 match 1: aAa vs TBD
+SUMMARY:Lower bracket round 5 match 1: aAa vs PHA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -600,7 +600,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T090000Z
-SUMMARY:Lower bracket round 1 match 2: LC vs TW
+SUMMARY:Lower bracket round 1 match 2: TW vs LC
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457352@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -845,7 +845,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260429T090000Z
-SUMMARY:Upper bracket semifinal 1: Abyssal vs TdU
+SUMMARY:Upper bracket semifinal 1: TdU vs Abyssal
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457349@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -954,8 +954,8 @@ SUMMARY:Lower bracket round 1 match 2: RA vs LEGION
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457024@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sh1ngekiiii
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: The Last Resort: 1 | Phantom: 2\nStream: https://www.twitch.tv/sh1ngekiiii
+DTEND:20260427T193625Z
 DTSTART:20260427T170438Z
 SUMMARY:Lower bracket round 4 match 1: TLR vs PHA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456891@tournamentics
