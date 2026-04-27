@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260427T180000Z
-SUMMARY:EP vs PF
-UID:cs-go-esea-advanced-europe-57-2026-1465454@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T181923Z
@@ -499,15 +492,15 @@ SUMMARY:BIG.E vs SINQU
 UID:cs-go-esea-advanced-europe-57-2026-1433395@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Dripmen: 0 | Project 91: 1\nStream: No official stream linked
+DTEND:20260427T184826Z
 DTSTART:20260427T181911Z
 SUMMARY:DRIP vs Project 91
 UID:cs-go-esea-advanced-europe-57-2026-1465458@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: TEAM_COPH9K: 1 | ENRAGE: 0\nStream: No official stream linked
+DTEND:20260427T184800Z
 DTSTART:20260427T181908Z
 SUMMARY:TEAM_COPH9K vs ENRAGE
 UID:cs-go-esea-advanced-europe-57-2026-1465455@tournamentics
