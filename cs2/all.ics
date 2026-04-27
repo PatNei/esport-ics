@@ -3673,7 +3673,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260428T080000Z
-SUMMARY:Decider Match: NAVI.J vs TBD
+SUMMARY:Decider Match: NAVI.J vs ALGO
 UID:cs-go-united21-48-2026-1458891@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5119,8 +5119,8 @@ SUMMARY:Round 1: PLS vs R2
 UID:cs-go-champion-of-champions-tour-series-1-2026-1460952@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: ALGO Esports: 2 | Sashi Academy: 0\nStream: https://kick.com/united21_en
+DTEND:20260427T163438Z
 DTSTART:20260427T150440Z
 SUMMARY:Elimination match: ALGO vs SASHI.A
 UID:cs-go-united21-48-2026-1458889@tournamentics
