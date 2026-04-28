@@ -1010,9 +1010,9 @@ SUMMARY:Round 4: LAG vs mouse
 UID:cs-go-dust2-us-eagle-masters-7-2026-1438475@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260428T171000Z
+DTSTART:20260428T171913Z
 SUMMARY:Winners match: NNP vs INOX
 UID:cs-go-cct-europe-series-1-play-in-2026-1462487@tournamentics
 END:VEVENT
@@ -4303,7 +4303,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
 DTSTART:20260429T150000Z
-SUMMARY:KOL vs TBD
+SUMMARY:KOL vs WAL
 UID:cs-go-conquest-of-prague-online-stage-2026-1438518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5000,7 +5000,7 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
+DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
 DURATION:PT2H
 DTSTART:20260428T173000Z
 SUMMARY:YN vs UNiTY
@@ -5686,8 +5686,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-odyssey-cup-brazil-2026-1459542@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: Walczaki: 2 | Tricked: 0\nStream: https://www.twitch.tv/playzonecz
+DTEND:20260428T171605Z
 DTSTART:20260428T150616Z
 SUMMARY:WAL vs TRI
 UID:cs-go-conquest-of-prague-online-stage-2026-1438516@tournamentics
