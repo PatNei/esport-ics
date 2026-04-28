@@ -130,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260428T180000Z
+DTSTART:20260428T181500Z
 SUMMARY:OBSB vs MEGO
 UID:cs-go-esea-advanced-europe-57-2026-1457925@tournamentics
 END:VEVENT
@@ -196,13 +196,6 @@ DTEND:20260420T185558Z
 DTSTART:20260420T181454Z
 SUMMARY:BIG.E vs Falcons Force
 UID:cs-go-esea-advanced-europe-57-2026-1454789@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgfbailey
-DURATION:PT2H
-DTSTART:20260428T171000Z
-SUMMARY:XI vs PeePuP
-UID:cs-go-esea-advanced-europe-57-2026-1466519@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: The Last Resort: 0 | Glitchtech Esports: 1\nStream: https://www.twitch.tv/glitchtechgaming
@@ -618,9 +611,9 @@ SUMMARY:COW vs IMP.A
 UID:cs-go-esea-advanced-europe-57-2026-1454790@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/michass00
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/michass00
 DURATION:PT2H
-DTSTART:20260428T180000Z
+DTSTART:20260428T181006Z
 SUMMARY:BJNG vs FF
 UID:cs-go-esea-advanced-europe-57-2026-1466520@tournamentics
 END:VEVENT
