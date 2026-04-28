@@ -13,45 +13,22 @@ Subscribe to every tournament at once:
 ## S Tier
 
 <details>
-<summary>BLAST Rivals</summary>
+<summary>IEM</summary>
 
 ### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastRivals/BlastRivals.ics)
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Iem.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastRivals/BlastRivals.ics
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Iem.ics
 ```
 
 ---
 
-### Spring 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastRivals/Spring2026.ics)
+### Rio 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Rio2026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastRivals/Spring2026.ics
-```
-
-</details>
-
-## B Tier
-
-<details>
-<summary>CCT Global Finals</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/CctGlobalFinals.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/CctGlobalFinals.ics
-```
-
----
-
-### Season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/Season32026.ics
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Rio2026.ics
 ```
 
 </details>
@@ -80,27 +57,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BcGameMasters/Europ
 </details>
 
 <details>
-<summary>BetBoom RUSH B!</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomRushB/BetboomRushB.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomRushB/BetboomRushB.ics
-```
-
----
-
-### Summit season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomRushB/SummitSeason32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomRushB/SummitSeason32026.ics
-```
-
-</details>
-
-<details>
 <summary>CCT South America</summary>
 
 ### Full Schedule
@@ -117,27 +73,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Cct
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series1Season42026.ics
-```
-
-</details>
-
-<details>
-<summary>Conquest of Prague</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/ConquestOfPrague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/ConquestOfPrague.ics
-```
-
----
-
-### Online Stage 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/OnlineStage2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/OnlineStage2026.ics
 ```
 
 </details>
@@ -178,27 +113,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague
 </details>
 
 <details>
-<summary>LORGAR RANKINGS</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/LorgarRankings.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/LorgarRankings.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/2026.ics
-```
-
-</details>
-
-<details>
 <summary>Stake Ranked</summary>
 
 ### Full Schedule
@@ -219,6 +133,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode
 
 </details>
 
+<details>
+<summary>Thunderpick World Championship</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/ThunderpickWorldChampionship.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/ThunderpickWorldChampionship.ics
+```
+
+---
+
+### North American 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/NorthAmerican2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/NorthAmerican2026.ics
+```
+
+</details>
+
 ## D Tier
 
 <details>
@@ -233,74 +168,11 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 
 ---
 
-### Challengers Series 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ChallengersSeries12026.ics)
+### Series #1 Play-In 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series1PlayIn2026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ChallengersSeries12026.ics
-```
-
-</details>
-
-<details>
-<summary>CCT South America</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics
-```
-
----
-
-### Challengers #1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Challengers12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Challengers12026.ics
-```
-
-</details>
-
-<details>
-<summary>DACH CS Masters</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/DachCsMasters.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/DachCsMasters.ics
-```
-
----
-
-### Season 5 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Season52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Season52026.ics
-```
-
-</details>
-
-<details>
-<summary>Dfrag</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dfrag/Dfrag.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dfrag/Dfrag.ics
-```
-
----
-
-### Open Series #4 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dfrag/OpenSeries42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dfrag/OpenSeries42026.ics
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series1PlayIn2026.ics
 ```
 
 </details>
@@ -322,6 +194,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Dust2
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Season322026.ics
+```
+
+</details>
+
+<details>
+<summary>Dust2.us</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2Us/Dust2Us.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2Us/Dust2Us.ics
+```
+
+---
+
+### Eagle Masters season 7 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2Us/EagleMastersSeason72026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2Us/EagleMastersSeason72026.ics
 ```
 
 </details>
@@ -541,6 +434,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 
 ---
 
+### Season 7 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season72026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season72026.ics
+```
+
 ### Season 8 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season82026.ics)
 
@@ -551,22 +451,22 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 </details>
 
 <details>
-<summary>Parken Challenger Championship</summary>
+<summary>Odyssey Cup</summary>
 
 ### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/ParkenChallengerChampionship.ics)
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/OdysseyCup/OdysseyCup.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/ParkenChallengerChampionship.ics
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/OdysseyCup/OdysseyCup.ics
 ```
 
 ---
 
-### Season 5 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season52026.ics)
+### Brazil 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/OdysseyCup/Brazil2026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season52026.ics
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/OdysseyCup/Brazil2026.ics
 ```
 
 </details>
