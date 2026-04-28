@@ -80,6 +80,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/Sea
 ## C Tier
 
 <details>
+<summary>BC Game Masters</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BcGameMasters/BcGameMasters.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BcGameMasters/BcGameMasters.ics
+```
+
+---
+
+### Europe Series #1 season 2 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BcGameMasters/EuropeSeries1Season22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BcGameMasters/EuropeSeries1Season22026.ics
+```
+
+</details>
+
+<details>
 <summary>BetBoom RUSH B!</summary>
 
 ### Full Schedule
