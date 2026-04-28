@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260501T110000Z
-SUMMARY:Decider match: BBP vs TBD
+SUMMARY:Decider match: BBP vs NNP
 UID:cs-go-cct-europe-series-1-play-in-2026-1462488@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-series-1-play-in-2026-1462516@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: NNP: 0 | INOX Division: 2\nStream: https://kick.com/cct_cs
+DTEND:20260428T183626Z
 DTSTART:20260428T171913Z
 SUMMARY:Winners match: NNP vs INOX
 UID:cs-go-cct-europe-series-1-play-in-2026-1462487@tournamentics
