@@ -467,7 +467,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260429T130000Z
-SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 2: LB vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457034@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -555,11 +555,11 @@ SUMMARY:QUA vs Project 91
 UID:cs-go-esea-advanced-europe-57-2026-1454783@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: 1WIN: 1 | GenOne: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260421T133404Z
-DTSTART:20260421T110312Z
-SUMMARY:Round 4: 1WIN vs G1
-UID:cs-go-nodwin-clutch-series-7-2026-1431950@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260508T140000Z
+SUMMARY:Round of 16 match 7: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467684@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
@@ -567,6 +567,13 @@ DURATION:PT2H
 DTSTART:20260428T143000Z
 SUMMARY:Round 2: TMVG vs BJNG
 UID:cs-go-elisa-open-suomi-13-2026-1463385@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: 1WIN: 1 | GenOne: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260421T133404Z
+DTSTART:20260421T110312Z
+SUMMARY:Round 4: 1WIN vs G1
+UID:cs-go-nodwin-clutch-series-7-2026-1431950@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Acend: 2 | GenOne: 0\nStream: https://kick.com/nodwin_cs2
@@ -1155,6 +1162,13 @@ DTEND:20260420T190050Z
 DTSTART:20260420T182525Z
 SUMMARY:Diamant Esports vs FCF
 UID:cs-go-esea-advanced-europe-57-2026-1454782@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260508T110000Z
+SUMMARY:Round of 16 match 6: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467683@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nResult: ENCE: 1 | BoyBand: 2\nStream: https://www.twitch.tv/elisaviihdesport
@@ -1843,6 +1857,13 @@ SUMMARY:Lower bracket final: 9z vs VSC
 UID:cs-go-betboom-rush-b-summit-3-2026-1456328@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260508T080000Z
+SUMMARY:Round of 16 match 5: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467682@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nResult: ENCE: 2 | BOJONG: 1\nStream: https://www.twitch.tv/elisaviihdesport
 DTEND:20260427T173600Z
 DTSTART:20260427T143739Z
@@ -2058,6 +2079,13 @@ DTEND:20260418T175700Z
 DTSTART:20260418T173218Z
 SUMMARY:XI vs ELITEN
 UID:cs-go-parken-challenger-championship-5-2026-1448799@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
+DURATION:PT2H
+DTSTART:20260429T140000Z
+SUMMARY:Round 1: AM vs INOX
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467693@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
@@ -2445,6 +2473,13 @@ SUMMARY:Lower bracket semifinal: MW vs VSC
 UID:cs-go-betboom-rush-b-summit-3-2026-1456327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260507T170000Z
+SUMMARY:Round of 16 match 4: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467681@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nResult: KAJO: 0 | KUUSAMO.gg: 2\nStream: https://www.twitch.tv/elisaviihdesport
 DTEND:20260426T172411Z
 DTSTART:20260426T160750Z
@@ -2681,6 +2716,13 @@ DTEND:20260423T165532Z
 DTSTART:20260423T150444Z
 SUMMARY:Round 4: WAL vs EYE
 UID:cs-go-conquest-of-prague-online-stage-2026-1438509@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260510T170000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467692@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
@@ -2935,13 +2977,6 @@ SUMMARY:Lower bracket round 2 match 4: ex-MARS vs CCE
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456960@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260428T130000Z
-SUMMARY:Lower bracket round 2 match 4: AE vs LB
-UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457030@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: NRG: 1 | Passion UA: 2\nStream: https://kick.com/frag
 DTEND:20260426T054629Z
 DTSTART:20260426T030905Z
@@ -3026,7 +3061,7 @@ SUMMARY:Upper bracket round of 16 match 5: G1 vs LILMIX
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456863@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/krl_stream
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemastersb
 DURATION:PT2H
 DTSTART:20260428T140000Z
 SUMMARY:Round 1: TNC vs G1
@@ -3059,6 +3094,13 @@ DTEND:20260425T010140Z
 DTSTART:20260424T230646Z
 SUMMARY:Lower bracket quarterfinal 2: VSC vs CRASH
 UID:cs-go-betboom-rush-b-summit-3-2026-1456326@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260507T140000Z
+SUMMARY:Round of 16 match 3: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467680@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nResult: SINQU: 0 | TOOMUCHVIDEOGAMES: 2\nStream: https://www.twitch.tv/elisaviihdesport
@@ -3341,11 +3383,25 @@ SUMMARY:Round 4: SIN vs YN
 UID:cs-go-conquest-of-prague-online-stage-2026-1438508@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260510T130000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467691@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
 DTSTART:20260505T143000Z
 SUMMARY:Round 4: SINQU vs BOYB
 UID:cs-go-elisa-open-suomi-13-2026-1463392@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Favbet: 2 | Lavked: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260421T165753Z
+DTSTART:20260421T140224Z
+SUMMARY:Round 4: FAV vs Lavked
+UID:cs-go-nodwin-clutch-series-7-2026-1431951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | CYBERSHOKE Esports: 2\nStream: https://kick.com/nodwin_cs2
@@ -3901,7 +3957,7 @@ SUMMARY:Lower bracket round 2 match 3: BP vs JS
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457029@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/krl_stream
 DURATION:PT2H
 DTSTART:20260428T170000Z
 SUMMARY:Lower bracket round 5 match 2: BIG.A vs G1
@@ -3978,11 +4034,11 @@ SUMMARY:Round 4: UNiTY vs KOL
 UID:cs-go-conquest-of-prague-online-stage-2026-1438507@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Oldboys: 1 | OldBoys: 0\nStream: https://www.twitch.tv/byalli
-DTEND:20260420T185308Z
-DTSTART:20260420T181604Z
-SUMMARY:OLDBOYS- vs OBOYS
-UID:cs-go-esea-advanced-europe-57-2026-1454778@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260510T100000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467690@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
@@ -3992,11 +4048,25 @@ SUMMARY:Round 3: CRH vs SINQU
 UID:cs-go-elisa-open-suomi-13-2026-1463391@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Oldboys: 1 | OldBoys: 0\nStream: https://www.twitch.tv/byalli
+DTEND:20260420T185308Z
+DTSTART:20260420T181604Z
+SUMMARY:OLDBOYS- vs OBOYS
+UID:cs-go-esea-advanced-europe-57-2026-1454778@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: MANA eSports: 0 | Bebop: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260419T183925Z
 DTSTART:20260419T171248Z
 SUMMARY:Round 3: MANA vs BBP
 UID:cs-go-nodwin-clutch-series-7-2026-1431945@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260507T110000Z
+SUMMARY:Round of 16 match 2: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467679@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: PLATOON: 1 | Z7 Esports: 2\nStream: https://kick.com/exort_en2
@@ -4034,7 +4104,7 @@ SUMMARY:OBSB vs MEGO
 UID:cs-go-esea-advanced-europe-57-2026-1457925@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
 DURATION:PT2H
 DTSTART:20260428T170000Z
 SUMMARY:Upper bracket quarterfinal 4: MP vs DRIP
@@ -4671,6 +4741,13 @@ SUMMARY:RGG vs 8S
 UID:cs-go-esea-advanced-europe-57-2026-1454777@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260507T080000Z
+SUMMARY:Round of 16 match 1: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467678@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 0 | ESC Gaming: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260419T132821Z
 DTSTART:20260419T110409Z
@@ -4963,6 +5040,13 @@ DTEND:20260424T174503Z
 DTSTART:20260424T165200Z
 SUMMARY:ENJOY vs MEGO
 UID:cs-go-esea-advanced-europe-57-2026-1454788@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260509T170000Z
+SUMMARY:Quarterfinal 4: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467689@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: BIG: 2 | SPARTA: 0\nStream: https://kick.com/nodwin_cs2
@@ -5635,6 +5719,13 @@ DTEND:20260420T220234Z
 DTSTART:20260420T201803Z
 SUMMARY:MW vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1451287@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260509T140000Z
+SUMMARY:Quarterfinal 3: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467688@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
@@ -6316,6 +6407,13 @@ SUMMARY:Round 5: ACE vs MOUZ.N
 UID:cs-go-nodwin-clutch-series-7-2026-1431953@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260509T110000Z
+SUMMARY:Quarterfinal 2: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467687@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
 DTSTART:20260503T133000Z
@@ -6988,11 +7086,11 @@ SUMMARY:PURE vs BW
 UID:cs-go-esea-advanced-europe-57-2026-1454785@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: GenOne: 1 | Ursa: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260422T111447Z
-DTSTART:20260422T080516Z
-SUMMARY:Round 5: G1 vs URSA
-UID:cs-go-nodwin-clutch-series-7-2026-1431952@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260509T080000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467686@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
@@ -7000,6 +7098,13 @@ DURATION:PT2H
 DTSTART:20260503T110000Z
 SUMMARY:Round 2: SINQU vs KAJO
 UID:cs-go-elisa-open-suomi-13-2026-1463387@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: GenOne: 1 | Ursa: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260422T111447Z
+DTSTART:20260422T080516Z
+SUMMARY:Round 5: G1 vs URSA
+UID:cs-go-nodwin-clutch-series-7-2026-1431952@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Dripmen: 0 | Project 91: 1\nStream: No official stream linked
@@ -7611,11 +7716,11 @@ SUMMARY:ENRAGE vs DNT
 UID:cs-go-esea-advanced-europe-57-2026-1454784@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Favbet: 2 | Lavked: 1\nStream: https://kick.com/nodwin_cs2
-DTEND:20260421T165753Z
-DTSTART:20260421T140224Z
-SUMMARY:Round 4: FAV vs Lavked
-UID:cs-go-nodwin-clutch-series-7-2026-1431951@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DURATION:PT2H
+DTSTART:20260508T170000Z
+SUMMARY:Round of 16 match 8: TBD vs TBD
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467685@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
