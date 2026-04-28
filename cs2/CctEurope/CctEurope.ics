@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: Lilmix: 2 | Ursa: 1\nStream: https://kick.com/cct_cs
+DTEND:20260428T165740Z
 DTSTART:20260428T140503Z
 SUMMARY:Winners match: LILMIX vs URSA
 UID:cs-go-cct-europe-series-1-play-in-2026-1462482@tournamentics
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260501T080000Z
-SUMMARY:Decider match: STA vs TBD
+SUMMARY:Decider match: STA vs URSA
 UID:cs-go-cct-europe-series-1-play-in-2026-1462483@tournamentics
 END:VEVENT
 BEGIN:VEVENT
