@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: B8: 1 | Natus Vincere: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260413T202517Z
-DTSTART:20260413T180803Z
-SUMMARY:Upper bracket quarterfinal 2: B8 vs NAVI
-UID:cs-go-iem-rio-2026-1429130@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Gentle Mates: 1 | G2: 2\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260413T155745Z
-DTSTART:20260413T130120Z
-SUMMARY:Upper bracket quarterfinal 2: M8 vs G2
-UID:cs-go-iem-rio-2026-1429126@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Team Falcons: 2 | FURIA: 0\nStream: https://www.twitch.tv/ESLCS
 DTEND:20260419T153538Z
 DTSTART:20260419T133026Z
@@ -63,27 +49,6 @@ DTEND:20260414T181127Z
 DTSTART:20260414T164207Z
 SUMMARY:Upper bracket semifinal 2: TS vs FAL
 UID:cs-go-iem-rio-2026-1436301@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Legacy: 1 | MOUZ: 2\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260413T210935Z
-DTSTART:20260413T182429Z
-SUMMARY:Upper bracket quarterfinal 4: LGC vs MOUZ
-UID:cs-go-iem-rio-2026-1429132@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | Team Falcons: 2\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260413T180846Z
-DTSTART:20260413T161501Z
-SUMMARY:Upper bracket quarterfinal 4: 3DMAX vs FAL
-UID:cs-go-iem-rio-2026-1429128@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Vitality: 2 | RED Canids: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260413T144424Z
-DTSTART:20260413T130124Z
-SUMMARY:Upper bracket quarterfinal 1: VIT vs RED
-UID:cs-go-iem-rio-2026-1429125@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: FURIA: 0 | Vitality: 2\nStream: https://www.twitch.tv/ESLCS
@@ -142,20 +107,6 @@ SUMMARY:Lower bracket quarterfinal 1: RED vs M8
 UID:cs-go-iem-rio-2026-1436300@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | HOTU: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260413T232316Z
-DTSTART:20260413T212358Z
-SUMMARY:Upper bracket quarterfinal 3: AUR vs HOTU
-UID:cs-go-iem-rio-2026-1429131@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Spirit: 2 | Liquid: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260413T172011Z
-DTSTART:20260413T153056Z
-SUMMARY:Upper bracket quarterfinal 3: TS vs TL
-UID:cs-go-iem-rio-2026-1429127@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Spirit: 0 | Vitality: 3\nStream: https://www.twitch.tv/ESLCS
 DTEND:20260419T201122Z
 DTSTART:20260419T170126Z
@@ -203,12 +154,5 @@ DTEND:20260414T180739Z
 DTSTART:20260414T160755Z
 SUMMARY:Lower bracket quarterfinal 2: TL vs 3DMAX
 UID:cs-go-iem-rio-2026-1436302@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: FURIA: 2 | Passion UA: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260413T222349Z
-DTSTART:20260413T204028Z
-SUMMARY:Upper bracket quarterfinal 1: FURIA vs PSSN.UA
-UID:cs-go-iem-rio-2026-1429129@tournamentics
 END:VEVENT
 END:VCALENDAR
