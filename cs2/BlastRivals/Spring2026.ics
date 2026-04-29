@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260430T150000Z
-SUMMARY:Lower bracket semifinal: FUT vs TBD
+SUMMARY:Lower bracket semifinal: FUT vs AST
 UID:cs-go-blast-rivals-spring-2026-1438570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260430T173000Z
-SUMMARY:Upper bracket final: VIT vs TBD
+SUMMARY:Upper bracket final: VIT vs G2
 UID:cs-go-blast-rivals-spring-2026-1438563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -65,8 +65,8 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-blast-rivals-spring-2026-1448725@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: Astralis: 0 | G2: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260429T200615Z
 DTSTART:20260429T182101Z
 SUMMARY:Upper bracket semifinal 2: AST vs G2
 UID:cs-go-blast-rivals-spring-2026-1438562@tournamentics
