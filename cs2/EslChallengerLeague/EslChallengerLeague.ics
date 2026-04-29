@@ -677,7 +677,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260430T010000Z
-SUMMARY:Lower bracket round 3 match 1: FC vs TBD
+SUMMARY:Lower bracket round 3 match 1: FC vs Reign Above
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456963@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -877,8 +877,8 @@ SUMMARY:Upper bracket round 2 match 3: PHA vs Atreides
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: F5 Esports: 1 | Reign Above: 2\nStream: No official stream linked
+DTEND:20260429T034123Z
 DTSTART:20260429T010938Z
 SUMMARY:Lower bracket round 2 match 1: F5 vs Reign Above
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456957@tournamentics
