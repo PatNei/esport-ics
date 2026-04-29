@@ -1076,7 +1076,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260501T003000Z
-SUMMARY:Decider match: Incognito vs TBD
+SUMMARY:Decider match: Incognito vs GK
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460369@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1764,13 +1764,6 @@ DURATION:PT2H
 DTSTART:20260508T190000Z
 SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467628@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
-DTSTART:20260430T003000Z
-SUMMARY:Elimination match: IP vs GK
-UID:cs-go-thunderpick-world-championship-north-american-2026-1460368@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: FRZ Unit: 0 | Marsborne: 2\nStream: No official stream linked
@@ -3957,6 +3950,13 @@ SUMMARY:Upper bracket quarterfinal 3: XI vs RBLS
 UID:cs-go-parken-challenger-championship-5-2026-1448820@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260429T183000Z
+SUMMARY:Round 2: INF vs NP
+UID:cs-go-exort-series-26-2026-1468558@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260510T210000Z
@@ -3976,13 +3976,6 @@ DTEND:20260419T201833Z
 DTSTART:20260419T184122Z
 SUMMARY:Round 3: HEC vs EP
 UID:cs-go-exort-series-25-2026-1452827@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ROUNDS: 0 | Aurora Young Blood: 1\nStream: https://www.twitch.tv/theeb1ye
-DTEND:20260415T170347Z
-DTSTART:20260415T161601Z
-SUMMARY:RGG vs AUR.YB
-UID:cs-go-esea-advanced-europe-57-2026-1447110@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 1 | Z7 Esports: 0\nStream: https://kick.com/challengerchampionship_b
@@ -4601,6 +4594,13 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-odyssey-cup-brazil-2026-1460066@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ROUNDS: 0 | Aurora Young Blood: 1\nStream: https://www.twitch.tv/theeb1ye
+DTEND:20260415T170347Z
+DTSTART:20260415T161601Z
+SUMMARY:RGG vs AUR.YB
+UID:cs-go-esea-advanced-europe-57-2026-1447110@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: ALGO Esports: 0 | AaB Esport: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260427T094614Z
 DTSTART:20260427T081129Z
@@ -4657,6 +4657,13 @@ SUMMARY:FROX vs WAVE
 UID:cs-go-dach-cs-masters-5-2026-1385714@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260429T153000Z
+SUMMARY:Round 2: YL vs VP.F
+UID:cs-go-exort-series-26-2026-1468557@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260510T180000Z
@@ -4678,18 +4685,18 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Team Aether: 1 | EMPIRE: 2\nStream: https://www.twitch.tv/endiezcasts
-DTEND:20260413T032405Z
-DTSTART:20260413T011817Z
-SUMMARY:Round 5: TA vs EMP
-UID:cs-go-dust2-us-eagle-masters-7-2026-1441140@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: TNC: 0 | Sashi Academy: 1\nStream: https://kick.com/challengerchampionship_b
 DTEND:20260418T133341Z
 DTSTART:20260418T130417Z
 SUMMARY:TNC vs SASHI.A
 UID:cs-go-parken-challenger-championship-5-2026-1448808@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Team Aether: 1 | EMPIRE: 2\nStream: https://www.twitch.tv/endiezcasts
+DTEND:20260413T032405Z
+DTSTART:20260413T011817Z
+SUMMARY:Round 5: TA vs EMP
+UID:cs-go-dust2-us-eagle-masters-7-2026-1441140@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: uust _esports: 1 | Imperial Academy: 0\nStream: No official stream linked
@@ -5313,6 +5320,13 @@ DURATION:PT2H
 DTSTART:20260429T190000Z
 SUMMARY:Round 1: BST.A vs Keyd
 UID:cs-go-champion-of-champions-tour-series-1-2026-1460953@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260429T153000Z
+SUMMARY:Round 2: MJX vs Oldboys
+UID:cs-go-exort-series-26-2026-1468556@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -6050,6 +6064,13 @@ SUMMARY:R4G vs Ducks
 UID:cs-go-dach-cs-masters-5-2026-1385712@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260429T123000Z
+SUMMARY:Round 2: FORZE.R vs HAVEN
+UID:cs-go-exort-series-26-2026-1468555@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260509T220000Z
@@ -6071,13 +6092,6 @@ SUMMARY:Round 4: WING vs NIC
 UID:cs-go-exort-series-25-2026-1456254@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: InControl: 2 | girl kissers: 0\nStream: No official stream linked
-DTEND:20260402T234607Z
-DTSTART:20260402T225222Z
-SUMMARY:Round 2: InC vs GK
-UID:cs-go-dust2-us-eagle-masters-7-2026-1427599@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 1 | Dua Lipa Enjoyers: 0\nStream: https://kick.com/challengerchampionship_b
 DTEND:20260418T124858Z
 DTSTART:20260418T113242Z
@@ -6090,6 +6104,13 @@ DTEND:20260426T153315Z
 DTSTART:20260426T130954Z
 SUMMARY:Grand final: STA vs MSC
 UID:cs-go-gamebox-festival-2026-1463988@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: InControl: 2 | girl kissers: 0\nStream: No official stream linked
+DTEND:20260402T234607Z
+DTSTART:20260402T225222Z
+SUMMARY:Round 2: InC vs GK
+UID:cs-go-dust2-us-eagle-masters-7-2026-1427599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
