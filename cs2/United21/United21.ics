@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260501T103000Z
-SUMMARY:Lower bracket round 1 match 2: BIG.A vs TBD
+SUMMARY:Lower bracket round 1 match 2: BIG.A vs KSM
 UID:cs-go-united21-48-2026-1469566@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260502T103000Z
-SUMMARY:Upper bracket semifinal 2: FF vs TBD
+SUMMARY:Upper bracket semifinal 2: FF vs LPH
 UID:cs-go-united21-48-2026-1469568@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -212,8 +212,8 @@ SUMMARY:Golden Five vs LPH
 UID:cs-go-united21-48-2026-1453428@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 | LPH Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260430T130449Z
 DTSTART:20260430T112225Z
 SUMMARY:Upper bracket quarterfinal 4: KSM vs LPH
 UID:cs-go-united21-48-2026-1468033@tournamentics
