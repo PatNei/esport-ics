@@ -313,7 +313,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260501T140000Z
-SUMMARY:Decider match: HS vs TBD
+SUMMARY:Decider match: HS vs MANA
 UID:cs-go-cct-europe-series-1-play-in-2026-1462493@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -639,8 +639,8 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470245@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: MANA eSports: 0 | ASTRAL: 2\nStream: No official stream linked
+DTEND:20260430T153706Z
 DTSTART:20260430T140835Z
 SUMMARY:Winners match: MANA vs ASTR
 UID:cs-go-cct-europe-series-1-play-in-2026-1462492@tournamentics
