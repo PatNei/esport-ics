@@ -2657,7 +2657,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260430T080000Z
+DTSTART:20260430T081000Z
 SUMMARY:WAL vs BBP
 UID:cs-go-nodwin-clutch-series-8-2026-1467060@tournamentics
 END:VEVENT
@@ -3649,9 +3649,9 @@ SUMMARY:Lower bracket round 2 match 4: ODK vs Keyd
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457000@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260430T080000Z
+DTSTART:20260430T080601Z
 SUMMARY:Upper bracket semifinal 2: IMP.A vs AAB
 UID:cs-go-european-pro-league-regular-4-2026-1466098@tournamentics
 END:VEVENT
@@ -4104,7 +4104,7 @@ SUMMARY:ZOTIX vs FCF
 UID:cs-go-esea-advanced-europe-57-2026-1444159@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
 DURATION:PT2H
 DTSTART:20260430T090000Z
 SUMMARY:Lower bracket quarterfinal 2: MandL vs FURY
@@ -4527,7 +4527,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260501T140000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: HS vs TBD
 UID:cs-go-cct-europe-series-1-play-in-2026-1462493@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5847,11 +5847,11 @@ SUMMARY:Round 1 match 4: PAR vs PHTM.Ac
 UID:cs-go-exort-series-25-2026-1460891@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260430T080000Z
-SUMMARY:Elimination match: HS vs CC.FE
-UID:cs-go-cct-europe-series-1-play-in-2026-1462491@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Partizan Esport: 2 | aimclub: 0\nStream: https://kick.com/exort_en2
+DTEND:20260419T112035Z
+DTSTART:20260419T095157Z
+SUMMARY:Round 3: PAR vs AIMC
+UID:cs-go-exort-series-25-2026-1452824@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nResult: Players: 0 | R2 Esports Club: 2\nStream: https://kick.com/cct_cs2
@@ -5866,13 +5866,6 @@ DTEND:20260427T163438Z
 DTSTART:20260427T150440Z
 SUMMARY:Elimination match: ALGO vs SASHI.A
 UID:cs-go-united21-48-2026-1458889@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Partizan Esport: 2 | aimclub: 0\nStream: https://kick.com/exort_en2
-DTEND:20260419T112035Z
-DTSTART:20260419T095157Z
-SUMMARY:Round 3: PAR vs AIMC
-UID:cs-go-exort-series-25-2026-1452824@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Regnum4Games: 0 | Playing Ducks: 2\nStream: https://www.twitch.tv/dachcs
@@ -6309,9 +6302,9 @@ SUMMARY:TLR vs GE
 UID:cs-go-esea-advanced-europe-57-2026-1454786@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260430T080000Z
+DTSTART:20260430T080635Z
 SUMMARY:Upper bracket quarterfinal 3: FF vs BIG.A
 UID:cs-go-united21-48-2026-1468032@tournamentics
 END:VEVENT
@@ -7569,7 +7562,7 @@ SUMMARY:Round 2: SASHI.A vs AAB.B
 UID:cs-go-dust2-dk-32-2026-1467579@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xristcs
 DURATION:PT2H
 DTSTART:20260430T130000Z
 SUMMARY:Lower bracket quarterfinal 1: RA vs TYLOO
@@ -7611,7 +7604,7 @@ SUMMARY:Upper bracket round 1 match 2: F5 vs CCE
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456942@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kronyii
 DURATION:PT2H
 DTSTART:20260430T210000Z
 SUMMARY:Lower bracket quarterfinal 2: ISG vs BHE
