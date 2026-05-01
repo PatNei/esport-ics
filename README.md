@@ -296,11 +296,11 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Challenge
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ChallengersSeriesSeason22026.ics
 ```
 
-### Series #1 Play-In 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series1PlayIn2026.ics)
+### Closed Qualifier: Series #1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries12026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series1PlayIn2026.ics
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries12026.ics
 ```
 
 </details>
