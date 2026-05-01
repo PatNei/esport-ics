@@ -1236,7 +1236,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
-DTSTART:20260501T170000Z
+DTSTART:20260501T180000Z
 SUMMARY:Round 2: HERO.A vs ASTR
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467660@tournamentics
 END:VEVENT
@@ -1538,7 +1538,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260502T080000Z
-SUMMARY:Decider Match: OXUJI vs TBD
+SUMMARY:Decider Match: OXUJI vs BBP
 UID:cs-go-nodwin-clutch-series-8-2026-1467639@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2165,8 +2165,8 @@ SUMMARY:Alzon vs FURIA.F
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1448772@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 1 | Bebop: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260501T165821Z
 DTSTART:20260501T144233Z
 SUMMARY:Elimination match: HERO.A vs BBP
 UID:cs-go-nodwin-clutch-series-8-2026-1467638@tournamentics
@@ -2844,8 +2844,8 @@ SUMMARY:Winners match: WAL vs OXUJI
 UID:cs-go-nodwin-clutch-series-8-2026-1467637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: HyperSpirit: 1 | MANA eSports: 2\nStream: https://kick.com/cct_cs
+DTEND:20260501T170527Z
 DTSTART:20260501T141108Z
 SUMMARY:Decider match: HS vs MANA
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462493@tournamentics
@@ -3329,7 +3329,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260501T170000Z
+DTSTART:20260513T170000Z
 SUMMARY:TLR vs OLDBOYS-
 UID:cs-go-esea-advanced-europe-57-2026-1471615@tournamentics
 END:VEVENT
