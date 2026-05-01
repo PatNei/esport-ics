@@ -5024,7 +5024,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260502T173000Z
-SUMMARY:Semifinal 1: NAVI vs TBD
+SUMMARY:Semifinal 1: NAVI vs FaZe
 UID:cs-go-blast-rivals-spring-2026-1448727@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5674,7 +5674,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260501T230000Z
+DTSTART:20260501T232000Z
 SUMMARY:Quarterfinal 2: AST vs GL
 UID:cs-go-blast-rivals-spring-2026-1448726@tournamentics
 END:VEVENT
@@ -6372,8 +6372,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469204@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: G2: 1 | FaZe: 2\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260501T230115Z
 DTSTART:20260501T193358Z
 SUMMARY:Quarterfinal 1: G2 vs FaZe
 UID:cs-go-blast-rivals-spring-2026-1448725@tournamentics
