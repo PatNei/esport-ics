@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: Astralis: 0 | GamerLegion: 2\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260502T021042Z
 DTSTART:20260501T235117Z
 SUMMARY:Quarterfinal 2: AST vs GL
 UID:cs-go-blast-rivals-spring-2026-1448726@tournamentics
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260502T203000Z
-SUMMARY:Semifinal 2: VIT vs TBD
+SUMMARY:Semifinal 2: VIT vs GL
 UID:cs-go-blast-rivals-spring-2026-1448728@tournamentics
 END:VEVENT
 BEGIN:VEVENT
