@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nResult: Zomblers: 2 | InControl: 0\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260502T225809Z
 DTSTART:20260502T213323Z
 SUMMARY:Quarterfinal 2: ZOMB vs InC
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460371@tournamentics
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260503T203000Z
-SUMMARY:Semifinal 1: M80 vs TBD
+SUMMARY:Semifinal 1: M80 vs ZOMB
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460374@tournamentics
 END:VEVENT
 END:VCALENDAR
