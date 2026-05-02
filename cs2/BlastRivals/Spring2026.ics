@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260503T173000Z
-SUMMARY:Grand final: NAVI vs TBD
+SUMMARY:Grand final: NAVI vs VIT
 UID:cs-go-blast-rivals-spring-2026-1448730@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -37,8 +37,8 @@ SUMMARY:Lower bracket semifinal: FaZe vs FURIA
 UID:cs-go-blast-rivals-spring-2026-1438920@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: Vitality: 2 | GamerLegion: 0\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260502T220312Z
 DTSTART:20260502T201043Z
 SUMMARY:Semifinal 2: VIT vs GL
 UID:cs-go-blast-rivals-spring-2026-1448728@tournamentics

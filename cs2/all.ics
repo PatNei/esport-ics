@@ -170,13 +170,6 @@ SUMMARY:Lower bracket quarterfinal 2: BIG.A vs RT
 UID:cs-go-united21-48-2026-1469570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
-DTSTART:20260503T003000Z
-SUMMARY:Quarterfinal 1: M80 vs Incognito
-UID:cs-go-thunderpick-world-championship-north-american-2026-1460370@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260506T160000Z
@@ -2595,7 +2588,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260503T173000Z
-SUMMARY:Grand final: NAVI vs TBD
+SUMMARY:Grand final: NAVI vs VIT
 UID:cs-go-blast-rivals-spring-2026-1448730@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4307,8 +4300,8 @@ SUMMARY:Upper bracket round 2 match 16: 9INE vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: Vitality: 2 | GamerLegion: 0\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260502T220312Z
 DTSTART:20260502T201043Z
 SUMMARY:Semifinal 2: VIT vs GL
 UID:cs-go-blast-rivals-spring-2026-1448728@tournamentics
@@ -5381,7 +5374,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260503T203000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: M80 vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460374@tournamentics
 END:VEVENT
 BEGIN:VEVENT
