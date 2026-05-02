@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260503T010000Z
-SUMMARY:Lower bracket final: VOCA vs TBD
+SUMMARY:Lower bracket final: VOCA vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456969@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -100,8 +100,8 @@ SUMMARY:Upper bracket round 1 match 6: EMP vs TA
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456946@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bonamant
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Zomblers: 2 | regain: 0\nStream: https://www.twitch.tv/bonamant
+DTEND:20260502T024441Z
 DTSTART:20260502T011832Z
 SUMMARY:Lower bracket semifinal: ZOMB vs REGAIN
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456968@tournamentics
