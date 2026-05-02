@@ -2538,7 +2538,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esplaycom
 DURATION:PT2H
-DTSTART:20260502T170000Z
+DTSTART:20260502T180000Z
 SUMMARY:3rd place match: G2.A vs TBD
 UID:cs-go-esplay-elite-gaming-1-2026-1466513@tournamentics
 END:VEVENT
@@ -3231,7 +3231,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esplaycom
 DURATION:PT2H
-DTSTART:20260502T170000Z
+DTSTART:20260502T180000Z
 SUMMARY:Grand final: JS vs TBD
 UID:cs-go-esplay-elite-gaming-1-2026-1466512@tournamentics
 END:VEVENT
@@ -3992,9 +3992,9 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467636@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260502T154000Z
+DTSTART:20260502T154416Z
 SUMMARY:Round 3: NP vs VP.F
 UID:cs-go-exort-series-26-2026-1472561@tournamentics
 END:VEVENT
@@ -7310,8 +7310,8 @@ SUMMARY:Decider match: LPH vs BOJONG
 UID:cs-go-european-pro-league-regular-4-2026-1452817@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 0 | Lavked: 2\nStream: https://www.twitch.tv/bcgamemasters
+DTEND:20260502T154612Z
 DTSTART:20260502T140929Z
 SUMMARY:Round 3: CS vs Lavked
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467663@tournamentics
