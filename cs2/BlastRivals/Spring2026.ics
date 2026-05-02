@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260503T173000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: NAVI vs TBD
 UID:cs-go-blast-rivals-spring-2026-1448730@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260502T203000Z
+DTSTART:20260502T200500Z
 SUMMARY:Semifinal 2: VIT vs GL
 UID:cs-go-blast-rivals-spring-2026-1448728@tournamentics
 END:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Upper bracket semifinal 2: AST vs G2
 UID:cs-go-blast-rivals-spring-2026-1438562@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | FaZe: 0\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260502T192037Z
 DTSTART:20260502T173324Z
 SUMMARY:Semifinal 1: NAVI vs FaZe
 UID:cs-go-blast-rivals-spring-2026-1448727@tournamentics

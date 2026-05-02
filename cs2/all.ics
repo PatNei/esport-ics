@@ -2588,7 +2588,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260503T173000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: NAVI vs TBD
 UID:cs-go-blast-rivals-spring-2026-1448730@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4302,7 +4302,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260502T203000Z
+DTSTART:20260502T200500Z
 SUMMARY:Semifinal 2: VIT vs GL
 UID:cs-go-blast-rivals-spring-2026-1448728@tournamentics
 END:VEVENT
@@ -5007,8 +5007,8 @@ SUMMARY:Upper bracket round 2 match 15: aAa vs Just Players
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456734@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | FaZe: 0\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260502T192037Z
 DTSTART:20260502T173324Z
 SUMMARY:Semifinal 1: NAVI vs FaZe
 UID:cs-go-blast-rivals-spring-2026-1448727@tournamentics
@@ -5968,7 +5968,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
 DURATION:PT2H
-DTSTART:20260503T080000Z
+DTSTART:20260503T110000Z
 SUMMARY:Round 3: SPARTA vs HERO.A
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467665@tournamentics
 END:VEVENT
