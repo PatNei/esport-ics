@@ -866,7 +866,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
 DTSTART:20260506T190000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: MIBR.A vs TBD
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1468041@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3278,13 +3278,6 @@ SUMMARY:XI vs SNG
 UID:cs-go-european-pro-league-regular-4-2026-1450386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
-DURATION:PT2H
-DTSTART:20260504T213000Z
-SUMMARY:Quarterfinal 2: BST.A vs MIBR.A
-UID:cs-go-gamers-club-liga-serie-a-april-2026-1468038@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: largadosypelados: 0 | Yawara Esports: 1\nStream: No official stream linked
 DTEND:20260424T224929Z
 DTSTART:20260424T221150Z
@@ -3297,6 +3290,13 @@ DTEND:20260425T181226Z
 DTSTART:20260425T170706Z
 SUMMARY:Upper bracket round of 16 match 5: G1 vs LILMIX
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456863@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nResult: TNC: 1 | GenOne: 2\nStream: https://www.twitch.tv/bcgamemastersb
+DTEND:20260428T164549Z
+DTSTART:20260428T140926Z
+SUMMARY:Round 1: TNC vs G1
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467058@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Clutchain Female: 0 | Atreides: 2\nStream: https://kick.com/cct_cs2
@@ -3313,11 +3313,11 @@ SUMMARY:Decider Match: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1467648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nResult: TNC: 1 | GenOne: 2\nStream: https://www.twitch.tv/bcgamemastersb
-DTEND:20260428T164549Z
-DTSTART:20260428T140926Z
-SUMMARY:Round 1: TNC vs G1
-UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467058@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | SINQU: 1\nStream: https://www.twitch.tv/sinquesports
+DTEND:20260427T174359Z
+DTSTART:20260427T171245Z
+SUMMARY:BIG.E vs SINQU
+UID:cs-go-esea-advanced-europe-57-2026-1433395@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nResult: Vasco Esports: 2 | Crashers: 0\nStream: https://www.twitch.tv/btsbrasilfps
@@ -8260,13 +8260,6 @@ DTEND:20260426T030851Z
 DTSTART:20260426T003715Z
 SUMMARY:Decider match: LAG vs EMP
 UID:cs-go-fragadelphia-20-2026-1462410@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | SINQU: 1\nStream: https://www.twitch.tv/sinquesports
-DTEND:20260427T174359Z
-DTSTART:20260427T171245Z
-SUMMARY:BIG.E vs SINQU
-UID:cs-go-esea-advanced-europe-57-2026-1433395@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: F5 Esports: 1 | Chicken Coop Esports: 2\nStream: No official stream linked
