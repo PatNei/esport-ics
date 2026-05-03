@@ -4051,7 +4051,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260504T010000Z
-SUMMARY:Grand final: WC vs VOCA
+SUMMARY:Grand final: VOCA vs WC
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456970@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4722,8 +4722,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260503T233000Z
-SUMMARY:Semifinal 2: WC vs TBD
+DTSTART:20260503T203000Z
+SUMMARY:Semifinal 2: WC vs TA
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5415,7 +5415,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260503T203000Z
+DTSTART:20260503T233000Z
 SUMMARY:Semifinal 1: M80 vs ZOMB
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460374@tournamentics
 END:VEVENT
