@@ -313,7 +313,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260504T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: HAVU vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1467646@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -394,8 +394,8 @@ SUMMARY:Winners match: PG vs BBP
 UID:cs-go-nodwin-clutch-series-7-2026-1431910@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Ursa: 2 | HAVU: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260503T105458Z
 DTSTART:20260503T081523Z
 SUMMARY:URSA vs HAVU
 UID:cs-go-nodwin-clutch-series-8-2026-1467066@tournamentics
@@ -964,7 +964,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260504T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: URSA vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1467647@tournamentics
 END:VEVENT
 END:VCALENDAR
