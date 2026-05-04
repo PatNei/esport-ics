@@ -1598,18 +1598,18 @@ SUMMARY:MIBR.A vs VEXA
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1448773@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260504T110000Z
-SUMMARY:Lower bracket round 1 match 1: playersclub vs BG
-UID:cs-go-cct-europe-challengers-series-2-2026-1470198@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
 DURATION:PT2H
 DTSTART:20260519T193000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-ukic-masters-division-10-2026-1469280@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 2 | EC BANGA: 1\nStream: https://kick.com/cct_cs
+DTEND:20260429T195423Z
+DTSTART:20260429T170742Z
+SUMMARY:FCF vs EC BANGA
+UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462495@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nResult: Legacy: 2 | Alzon: 0\nStream: https://www.twitch.tv/btsbrasilfps
@@ -1626,11 +1626,11 @@ SUMMARY:Round 4: HERO.A vs TLR
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467671@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 2 | EC BANGA: 1\nStream: https://kick.com/cct_cs
-DTEND:20260429T195423Z
-DTSTART:20260429T170742Z
-SUMMARY:FCF vs EC BANGA
-UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462495@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ENJOY: 1 | Fire Flux Esports: 0\nStream: No official stream linked
+DTEND:20260406T192448Z
+DTSTART:20260406T161417Z
+SUMMARY:ENJOY vs FF
+UID:cs-go-esea-advanced-europe-57-2026-1433386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ENJOY: 1 | Imperial Academy: 0\nStream: No official stream linked
@@ -1638,13 +1638,6 @@ DTEND:20260427T170637Z
 DTSTART:20260427T161250Z
 SUMMARY:ENJOY vs IMP.A
 UID:cs-go-esea-advanced-europe-57-2026-1465443@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ENJOY: 1 | Fire Flux Esports: 0\nStream: No official stream linked
-DTEND:20260406T192448Z
-DTSTART:20260406T161417Z
-SUMMARY:ENJOY vs FF
-UID:cs-go-esea-advanced-europe-57-2026-1433386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Acend: 0 | Ursa: 2\nStream: https://kick.com/nodwin_cs2
@@ -2319,9 +2312,9 @@ SUMMARY:Upper bracket quartefinal 2: MW vs VSC
 UID:cs-go-betboom-rush-b-summit-3-2026-1456316@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemastersb
 DURATION:PT2H
-DTSTART:20260504T140000Z
+DTSTART:20260504T110000Z
 SUMMARY:Round 4: CS vs MEGO
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467670@tournamentics
 END:VEVENT
@@ -6809,7 +6802,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260506T110000Z
-SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 1: BG vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470238@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7228,7 +7221,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260504T110000Z
+DTSTART:20260504T111500Z
 SUMMARY:Lower bracket semifinal: INF vs BIG.A
 UID:cs-go-united21-48-2026-1469572@tournamentics
 END:VEVENT
