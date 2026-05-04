@@ -2125,7 +2125,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260504T153000Z
+DTSTART:20260504T154500Z
 SUMMARY:Round 4: CAD vs P2N
 UID:cs-go-exort-series-26-2026-1474492@tournamentics
 END:VEVENT
@@ -4377,7 +4377,7 @@ SUMMARY:KSM vs FF
 UID:cs-go-european-pro-league-regular-4-2026-1451291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260504T160000Z
 SUMMARY:Round 4: CRASH vs Alzon
@@ -5847,11 +5847,11 @@ SUMMARY:Lower bracket round 3 match 5: EF vs LILMIX
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456871@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260504T153000Z
-SUMMARY:eLITe vs ARCH
-UID:cs-go-esea-advanced-europe-57-2026-1475987@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | Wingman: 2\nStream: https://kick.com/exort_en2
+DTEND:20260414T204725Z
+DTSTART:20260414T192905Z
+SUMMARY:Round 5: 3DMAX.A vs WING
+UID:cs-go-exort-series-25-2026-1445606@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: Tricked: 2 | Johnny Speeds: 1\nStream: https://www.twitch.tv/playzonecz
@@ -5866,13 +5866,6 @@ DTEND:20260420T184149Z
 DTSTART:20260420T181300Z
 SUMMARY:AUR.YB vs COW
 UID:cs-go-esea-advanced-europe-57-2026-1454776@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | Wingman: 2\nStream: https://kick.com/exort_en2
-DTEND:20260414T204725Z
-DTSTART:20260414T192905Z
-SUMMARY:Round 5: 3DMAX.A vs WING
-UID:cs-go-exort-series-25-2026-1445606@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: PeePuP: 0 | TEAM_COPH9K: 1\nStream: No official stream linked
