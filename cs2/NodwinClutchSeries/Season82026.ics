@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Lavked: 2 | Phantom: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260504T164542Z
 DTSTART:20260504T140701Z
 SUMMARY:Winners match: Lavked vs PHA
 UID:cs-go-nodwin-clutch-series-8-2026-1467644@tournamentics
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260505T080000Z
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: PHA vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1467645@tournamentics
 END:VEVENT
 BEGIN:VEVENT

@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260509T080000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-european-pro-league-regular-5-2026-1476916@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: NAVI Junior: 1 | ReThink: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260429T130347Z
 DTSTART:20260429T104719Z
@@ -70,6 +77,20 @@ DTEND:20260430T125303Z
 DTSTART:20260430T111455Z
 SUMMARY:Upper bracket semifinal 1: PRE vs BIG.A
 UID:cs-go-european-pro-league-regular-4-2026-1466097@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260514T080000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-european-pro-league-regular-5-2026-1476918@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260505T103000Z
+SUMMARY:Kinoa vs NAVI.J
+UID:cs-go-european-pro-league-regular-5-2026-1476915@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: Prestige: 0 | ALGO Esports: 2\nStream: https://kick.com/eplcs_en
@@ -156,11 +177,25 @@ SUMMARY:XI vs SNG
 UID:cs-go-european-pro-league-regular-4-2026-1450386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260509T103000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-european-pro-league-regular-5-2026-1476917@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: LPH Gaming: 0 | ALGO Esports: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260429T094225Z
 DTSTART:20260429T080345Z
 SUMMARY:Lower bracket round 1 match 2: LPH vs ALGO
 UID:cs-go-european-pro-league-regular-4-2026-1466108@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260505T080000Z
+SUMMARY:BJNG vs MANA
+UID:cs-go-european-pro-league-regular-5-2026-1476914@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | ReThink: 0\nStream: https://kick.com/eplcs_en
