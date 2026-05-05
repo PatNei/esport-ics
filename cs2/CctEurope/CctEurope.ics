@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260507T134500Z
-SUMMARY:Upper bracket semifinal 1: BRUTE vs TBD
+SUMMARY:Upper bracket semifinal 1: BRUTE vs NEW VISION
 UID:cs-go-cct-europe-challengers-series-2-2026-1470244@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260506T134500Z
-SUMMARY:Lower bracket round 2 match 3: EC BANGA vs TBD
+SUMMARY:Lower bracket round 2 match 3: EC BANGA vs home
 UID:cs-go-cct-europe-challengers-series-2-2026-1470240@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -730,8 +730,8 @@ SUMMARY:Upper bracket quarterfinal 3: TLR vs m1x
 UID:cs-go-cct-europe-challengers-series-2-2026-1470236@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: home: 1 | NEW VISION: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260505T164327Z
 DTSTART:20260505T135334Z
 SUMMARY:Upper bracket quarterfinal 2: home vs NEW VISION
 UID:cs-go-cct-europe-challengers-series-2-2026-1470233@tournamentics

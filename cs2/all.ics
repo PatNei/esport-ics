@@ -565,7 +565,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260507T134500Z
-SUMMARY:Upper bracket semifinal 1: BRUTE vs TBD
+SUMMARY:Upper bracket semifinal 1: BRUTE vs NEW VISION
 UID:cs-go-cct-europe-challengers-series-2-2026-1470244@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1293,7 +1293,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260506T134500Z
-SUMMARY:Lower bracket round 2 match 3: EC BANGA vs TBD
+SUMMARY:Lower bracket round 2 match 3: EC BANGA vs home
 UID:cs-go-cct-europe-challengers-series-2-2026-1470240@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2676,8 +2676,8 @@ SUMMARY:Round 3: PHTM.Ac vs HAVEN
 UID:cs-go-exort-series-25-2026-1452830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: home: 1 | NEW VISION: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260505T164327Z
 DTSTART:20260505T135334Z
 SUMMARY:Upper bracket quarterfinal 2: home vs NEW VISION
 UID:cs-go-cct-europe-challengers-series-2-2026-1470233@tournamentics
@@ -4223,8 +4223,8 @@ SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471703@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 0 | OlyBet SB: 1\nStream: No official stream linked
+DTEND:20260505T164612Z
 DTSTART:20260505T161506Z
 SUMMARY:AUR.YB vs OBSB
 UID:cs-go-esea-advanced-europe-57-2026-1477440@tournamentics
