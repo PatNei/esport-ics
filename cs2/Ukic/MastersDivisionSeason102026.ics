@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
 DURATION:PT2H
 DTSTART:20260519T193000Z
-SUMMARY:Upper bracket final: DRIP vs TBD
+SUMMARY:Upper bracket final: DRIP vs TLR
 UID:cs-go-ukic-masters-division-10-2026-1469280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-ukic-masters-division-10-2026-1469385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tlrlive
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: Messiah: 0 | The Last Resort: 2\nStream: https://www.twitch.tv/tlrlive
+DTEND:20260505T212254Z
 DTSTART:20260505T194726Z
 SUMMARY:Upper bracket semifinal 1: MES vs TLR
 UID:cs-go-ukic-masters-division-10-2026-1469273@tournamentics
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
 DURATION:PT2H
 DTSTART:20260514T193000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: MES vs TBD
 UID:cs-go-ukic-masters-division-10-2026-1469278@tournamentics
 END:VEVENT
 BEGIN:VEVENT
