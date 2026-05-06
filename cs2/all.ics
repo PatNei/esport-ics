@@ -1334,7 +1334,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260506T124500Z
+DTSTART:20260506T130000Z
 SUMMARY:Round 1: DNT vs INF
 UID:cs-go-exort-series-26-2026-1478899@tournamentics
 END:VEVENT
@@ -5255,7 +5255,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260507T110000Z
-SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 1: BG vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470242@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8332,8 +8332,8 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-pgl-astana-2026-1474575@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 0 | Benched gods: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260506T130146Z
 DTSTART:20260506T110251Z
 SUMMARY:Lower bracket round 2 match 1: ex-Zero Tenacity vs BG
 UID:cs-go-cct-europe-challengers-series-2-2026-1470238@tournamentics
