@@ -859,7 +859,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
 DURATION:PT2H
 DTSTART:20260514T193000Z
-SUMMARY:Lower bracket quarterfinal 2: MES vs TBD
+SUMMARY:Lower bracket quarterfinal 2: MES vs OKS
 UID:cs-go-ukic-masters-division-10-2026-1469278@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5476,9 +5476,9 @@ SUMMARY:Lower bracket round 1 match 1: DRIP vs 9INE
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456688@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
-DURATION:PT2H
-DTSTART:20260507T193000Z
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: MAGIC PIGGY: 0 | OKSUCC: 2\nStream: https://www.twitch.tv/UKICircuit
+DTEND:20260506T030051Z
+DTSTART:20260506T030036Z
 SUMMARY:Lower bracket round 1 match 2: MP vs OKS
 UID:cs-go-ukic-masters-division-10-2026-1469276@tournamentics
 END:VEVENT
