@@ -326,13 +326,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 
 ---
 
-### Challengers Series 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ChallengersSeries12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ChallengersSeries12026.ics
-```
-
 ### Challengers Series season 2 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ChallengersSeriesSeason22026.ics)
 
@@ -555,27 +548,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Frag/Frag.ics
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Frag/Season202026.ics
-```
-
-</details>
-
-<details>
-<summary>Gamebox Festival</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GameboxFestival/GameboxFestival.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GameboxFestival/GameboxFestival.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GameboxFestival/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GameboxFestival/2026.ics
 ```
 
 </details>
