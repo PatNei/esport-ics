@@ -4,7 +4,7 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260506T160000Z
+DTSTART:20260507T160000Z
 SUMMARY:CC.FE vs RT
 UID:cs-go-esea-advanced-europe-57-2026-1478882@tournamentics
 END:VEVENT
@@ -387,8 +387,8 @@ SUMMARY:OLDBOYS PL vs DNT
 UID:cs-go-esea-advanced-europe-57-2026-1465453@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/goyarego
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 1 | QUAZAR: 0\nStream: https://www.twitch.tv/goyarego
+DTEND:20260506T160209Z
 DTSTART:20260506T151147Z
 SUMMARY:BW vs QUA
 UID:cs-go-esea-advanced-europe-57-2026-1478881@tournamentics
@@ -779,8 +779,8 @@ SUMMARY:BOJONG vs XI
 UID:cs-go-esea-advanced-europe-57-2026-1465452@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vectizz
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 0 | OldBoys: 1\nStream: https://www.twitch.tv/vectizz
+DTEND:20260506T160416Z
 DTSTART:20260506T151142Z
 SUMMARY:AUR.YB vs OBOYS
 UID:cs-go-esea-advanced-europe-57-2026-1478880@tournamentics
