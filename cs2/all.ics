@@ -341,7 +341,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260527T150000Z
-SUMMARY:Upper bracket quarterfinal 2: ALL vs FaZe
+SUMMARY:Upper bracket quarterfinal 2: FaZe vs ALL
 UID:cs-go-stake-ranked-episode-2-2026-1479968@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -399,6 +399,13 @@ DTEND:20260505T132418Z
 DTSTART:20260505T110235Z
 SUMMARY:Lower bracket round 1 match 4: AUR.YB vs LILMIX
 UID:cs-go-cct-europe-challengers-series-2-2026-1470235@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260507T170000Z
+SUMMARY:OLDBOYS PL vs BW
+UID:cs-go-esea-advanced-europe-57-2026-1480455@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Donstu Esports: 1 | Clutchain Female: 0\nStream: No official stream linked
@@ -952,6 +959,13 @@ DURATION:PT2H
 DTSTART:20260508T220000Z
 SUMMARY:Round of 16 match 8: GLS vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467629@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260507T170000Z
+SUMMARY:ENRAGE vs TLR
+UID:cs-go-esea-advanced-europe-57-2026-1480454@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | LPH Gaming: 1\nStream: https://kick.com/united21_en
@@ -1598,11 +1612,11 @@ SUMMARY:Round of 16 match 7: MIBR.F vs ISG
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467628@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260518T170000Z
-SUMMARY:Round of 16 match 4: TBD vs TBD
-UID:cs-go-nodwin-clutch-series-8-2026-1471699@tournamentics
+DTSTART:20260507T163000Z
+SUMMARY:Falcons Force vs 8S
+UID:cs-go-esea-advanced-europe-57-2026-1480453@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 | LPH Gaming: 0\nStream: https://kick.com/united21_en
@@ -1610,6 +1624,13 @@ DTEND:20260502T120158Z
 DTSTART:20260502T103524Z
 SUMMARY:Upper bracket semifinal 2: FF vs LPH
 UID:cs-go-united21-48-2026-1469568@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260518T170000Z
+SUMMARY:Round of 16 match 4: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-8-2026-1471699@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: home: 1 | NEW VISION: 2\nStream: https://kick.com/cct_cs3
@@ -6155,18 +6176,18 @@ SUMMARY:XI vs WRAITH PCIFIC
 UID:cs-go-european-pro-league-regular-5-2026-1476929@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260507T193000Z
+SUMMARY:FCF vs SE7ENS
+UID:cs-go-esea-advanced-europe-57-2026-1480458@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 0 | Benched gods: 2\nStream: https://kick.com/cct_cs3
 DTEND:20260506T130146Z
 DTSTART:20260506T110251Z
 SUMMARY:Lower bracket round 2 match 1: ex-Zero Tenacity vs BG
 UID:cs-go-cct-europe-challengers-series-2-2026-1470238@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: eternal premium: 1 | OLDBOYS PL: 0\nStream: No official stream linked
-DTEND:20260413T184902Z
-DTSTART:20260413T181658Z
-SUMMARY:EP vs OLDB
-UID:cs-go-esea-advanced-europe-57-2026-1444110@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -6188,6 +6209,13 @@ DTEND:20260429T175712Z
 DTSTART:20260429T150605Z
 SUMMARY:Upper bracket semifinal 1: VIT vs FUT
 UID:cs-go-blast-rivals-spring-2026-1438555@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: eternal premium: 1 | OLDBOYS PL: 0\nStream: No official stream linked
+DTEND:20260413T184902Z
+DTSTART:20260413T181658Z
+SUMMARY:EP vs OLDB
+UID:cs-go-esea-advanced-europe-57-2026-1444110@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Voca: 0 | Wildcard: 2\nStream: https://kick.com/eslcs
@@ -6501,7 +6529,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260527T173000Z
-SUMMARY:Upper bracket quarterfinal 4: SHK vs 9z
+SUMMARY:Upper bracket quarterfinal 4: 9z vs SHK
 UID:cs-go-stake-ranked-episode-2-2026-1479970@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6846,6 +6874,13 @@ DURATION:PT2H
 DTSTART:20260513T080000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-regular-5-2026-1476928@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260507T180000Z
+SUMMARY:TLR vs NEW VISION
+UID:cs-go-esea-advanced-europe-57-2026-1480457@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | ex-Zero Tenacity: 1\nStream: https://kick.com/cct_cs4
@@ -7483,6 +7518,13 @@ DTEND:20260504T155416Z
 DTSTART:20260504T135218Z
 SUMMARY:Upper bracket quarterfinal 3: TLR vs m1x
 UID:cs-go-cct-europe-challengers-series-2-2026-1470236@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260507T180000Z
+SUMMARY:SINQU vs TEAM_COPH9K
+UID:cs-go-esea-advanced-europe-57-2026-1480456@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
