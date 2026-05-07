@@ -319,6 +319,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Challenge
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries12026.ics
 ```
 
+### Contenders #5 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders52026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders52026.ics
+```
+
 </details>
 
 <details>
