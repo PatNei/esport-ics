@@ -57,6 +57,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Atlanta2026.ics
 ## A Tier
 
 <details>
+<summary>CS Asia Championships</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CsAsiaChampionships/CsAsiaChampionships.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CsAsiaChampionships/CsAsiaChampionships.ics
+```
+
+---
+
+### 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CsAsiaChampionships/2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CsAsiaChampionships/2026.ics
+```
+
+</details>
+
+<details>
 <summary>PGL</summary>
 
 ### Full Schedule
