@@ -294,6 +294,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldCha
 ## D Tier
 
 <details>
+<summary>Asian Champions League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AsianChampionsLeague/AsianChampionsLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AsianChampionsLeague/AsianChampionsLeague.ics
+```
+
+---
+
+### 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AsianChampionsLeague/2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AsianChampionsLeague/2026.ics
+```
+
+</details>
+
+<details>
 <summary>CCT Europe</summary>
 
 ### Full Schedule
