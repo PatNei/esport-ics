@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260509T080000Z
+DTSTART:20260509T065004Z
 SUMMARY:Round 1: MGLZ vs MGC
 UID:cs-go-pgl-astana-2026-1474545@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 0 | Heroic: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260509T065108Z
 DTSTART:20260509T050054Z
 SUMMARY:Round 1: AUR vs HERO
 UID:cs-go-pgl-astana-2026-1474542@tournamentics
@@ -95,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260509T080000Z
+DTSTART:20260509T070500Z
 SUMMARY:Round 1: MOUZ vs M8
 UID:cs-go-pgl-astana-2026-1474544@tournamentics
 END:VEVENT
