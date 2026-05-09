@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260514T080000Z
-SUMMARY:Decider match: NAVI.J vs TBD
+SUMMARY:Decider match: NAVI.J vs MANA
 UID:cs-go-european-pro-league-regular-5-2026-1476918@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -86,8 +86,8 @@ SUMMARY:Elimination match: SNG vs STA
 UID:cs-go-european-pro-league-regular-5-2026-1476921@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nResult: MANA eSports: 0 | Kinoa: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260509T131015Z
 DTSTART:20260509T114607Z
 SUMMARY:Winners match: MANA vs Kinoa
 UID:cs-go-european-pro-league-regular-5-2026-1476917@tournamentics
