@@ -214,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260509T220000Z
+DTSTART:20260509T221500Z
 SUMMARY:Quarterfinal 1: IMP vs YAW
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467630@tournamentics
 END:VEVENT
@@ -4093,7 +4093,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260510T203000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: UNO vs TBD
 UID:cs-go-odyssey-cup-brazil-2026-1460067@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6393,8 +6393,8 @@ SUMMARY:Round 2: DRAMA vs VP.F2
 UID:cs-go-exort-series-26-2026-1484138@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Imperial: 1 | UNO MILLE: 2\nStream: https://www.twitch.tv/gamersclubcs
+DTEND:20260509T220635Z
 DTSTART:20260509T190833Z
 SUMMARY:Quarterfinal 3: IMP vs UNO
 UID:cs-go-odyssey-cup-brazil-2026-1460064@tournamentics
