@@ -4002,7 +4002,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260510T100000Z
-SUMMARY:Semifinal 1: NTR vs TBD
+SUMMARY:Semifinal 1: NTR vs WAL
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467690@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4144,6 +4144,13 @@ DTEND:20260506T140246Z
 DTSTART:20260506T110946Z
 SUMMARY:Round 2: WAL vs INOX
 UID:cs-go-cct-europe-series-1-21-2026-1469207@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260509T183000Z
+SUMMARY:Round 2: Oldboys vs NP
+UID:cs-go-exort-series-26-2026-1484140@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: 9INE: 1 | Misa Esports: 2\nStream: https://www.twitch.tv/vanfantv
@@ -4412,8 +4419,8 @@ SUMMARY:Semifinal 1: INF vs LILMIX
 UID:cs-go-esplay-elite-gaming-1-2026-1466510@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: GenOne: 2 | Ursa: 1\nStream: https://kick.com/cct_cs
+DTEND:20260509T134310Z
 DTSTART:20260509T110438Z
 SUMMARY:Round 4: G1 vs URSA
 UID:cs-go-cct-europe-series-1-21-2026-1469218@tournamentics
@@ -5168,6 +5175,13 @@ SUMMARY:HUSK vs BERG
 UID:cs-go-dach-cs-masters-5-2026-1385736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260509T153000Z
+SUMMARY:Round 2: HEC vs YL
+UID:cs-go-exort-series-26-2026-1484139@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260509T213000Z
@@ -5889,11 +5903,11 @@ SUMMARY:FROX vs R4G
 UID:cs-go-dach-cs-masters-5-2026-1385735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | Z7 Esports: 0\nStream: https://kick.com/united21_en
-DTEND:20260422T094432Z
-DTSTART:20260422T080753Z
-SUMMARY:KSM vs Z7
-UID:cs-go-united21-48-2026-1453434@tournamentics
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260509T134159Z
+SUMMARY:Round 2: DRAMA vs VP.F2
+UID:cs-go-exort-series-26-2026-1484138@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -5910,11 +5924,11 @@ SUMMARY:Lower bracket semifinal: FNC vs Lavked
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456906@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
-DTSTART:20260528T150000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
-UID:cs-go-stake-ranked-episode-2-2026-1479971@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | Z7 Esports: 0\nStream: https://kick.com/united21_en
+DTEND:20260422T094432Z
+DTSTART:20260422T080753Z
+SUMMARY:KSM vs Z7
+UID:cs-go-united21-48-2026-1453434@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: NAVI Junior: 0 | Prestige: 2\nStream: https://kick.com/eplcs_en
@@ -5922,6 +5936,13 @@ DTEND:20260428T094431Z
 DTSTART:20260428T081333Z
 SUMMARY:Upper bracket quarterfinal 2: NAVI.J vs PRE
 UID:cs-go-european-pro-league-regular-4-2026-1465431@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20260528T150000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-stake-ranked-episode-2-2026-1479971@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -6442,8 +6463,8 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-asian-champions-league-2026-1481135@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemastersb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nResult: Walczaki: 2 | BET-M 33: 1\nStream: https://www.twitch.tv/bcgamemastersb
+DTEND:20260509T133814Z
 DTSTART:20260509T110645Z
 SUMMARY:Quarterfinal 2: WAL vs 33
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467687@tournamentics
@@ -6596,11 +6617,11 @@ SUMMARY:OLDB vs RT
 UID:cs-go-esea-advanced-europe-57-2026-1447118@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Sashi Academy: 1 | NAVI Junior: 2\nStream: https://kick.com/united21_en
-DTEND:20260422T174523Z
-DTSTART:20260422T144620Z
-SUMMARY:SASHI.A vs NAVI.J
-UID:cs-go-united21-48-2026-1453433@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 0 | MAJIX ESPORTS: 2\nStream: https://kick.com/exort_en2
+DTEND:20260509T134316Z
+DTSTART:20260509T134242Z
+SUMMARY:Round 2: INF vs MJX
+UID:cs-go-exort-series-26-2026-1484137@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: largadosypelados: 0 | Turma do Pagode: 2\nStream: https://www.twitch.tv/vanfantv
@@ -6617,11 +6638,11 @@ SUMMARY:Lower bracket quarterfinal 2: RBLS vs Lavked
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456905@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
-DTSTART:20260527T173000Z
-SUMMARY:Upper bracket quarterfinal 4: 9z vs SHK
-UID:cs-go-stake-ranked-episode-2-2026-1479970@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Sashi Academy: 1 | NAVI Junior: 2\nStream: https://kick.com/united21_en
+DTEND:20260422T174523Z
+DTSTART:20260422T144620Z
+SUMMARY:SASHI.A vs NAVI.J
+UID:cs-go-united21-48-2026-1453433@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: BIG Academy: 2 | ReThink: 0\nStream: https://kick.com/eplcs_en
@@ -6631,11 +6652,11 @@ SUMMARY:Upper bracket quarterfinal 1: BIG.A vs RT
 UID:cs-go-european-pro-league-regular-4-2026-1465430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260509T134500Z
-SUMMARY:Lower bracket semifinal: Atreides vs NEW VISION
-UID:cs-go-cct-europe-challengers-series-2-2026-1470249@tournamentics
+DTSTART:20260527T173000Z
+SUMMARY:Upper bracket quarterfinal 4: 9z vs SHK
+UID:cs-go-stake-ranked-episode-2-2026-1479970@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -6643,6 +6664,13 @@ DURATION:PT2H
 DTSTART:20260511T110000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-pgl-astana-2026-1474563@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260509T134500Z
+SUMMARY:Lower bracket semifinal: Atreides vs NEW VISION
+UID:cs-go-cct-europe-challengers-series-2-2026-1470249@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nResult: FURIA fe: 0 | paiN Academy: 2\nStream: https://kick.com/cct_cs2
