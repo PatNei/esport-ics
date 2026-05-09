@@ -13,27 +13,6 @@ Subscribe to every tournament at once:
 ## S Tier
 
 <details>
-<summary>BLAST Rivals</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastRivals/BlastRivals.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastRivals/BlastRivals.ics
-```
-
----
-
-### Spring 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastRivals/Spring2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastRivals/Spring2026.ics
-```
-
-</details>
-
-<details>
 <summary>IEM</summary>
 
 ### Full Schedule
@@ -212,13 +191,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/Co
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/Finals2026.ics
 ```
 
-### Online Stage 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/OnlineStage2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/OnlineStage2026.ics
-```
-
 </details>
 
 <details>
@@ -232,13 +204,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague
 ```
 
 ---
-
-### Europe Cup #4 season 51 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup4Season512026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup4Season512026.ics
-```
 
 ### North America Cup #4 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/NorthAmericaCup42026.ics)
@@ -380,27 +345,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contender
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series2PlayIn2026.ics
-```
-
-</details>
-
-<details>
-<summary>DACH CS Masters</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/DachCsMasters.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/DachCsMasters.ics
-```
-
----
-
-### Season 5 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Season52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Season52026.ics
 ```
 
 </details>
