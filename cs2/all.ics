@@ -3232,7 +3232,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260511T110000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: 100T vs TBD
 UID:cs-go-parken-challenger-championship-6-2026-1484600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4076,8 +4076,8 @@ SUMMARY:URSA vs BRUTE
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462480@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 0 | 100 Thieves: 2\nStream: https://kick.com/challengerchampionship
+DTEND:20260510T152431Z
 DTSTART:20260510T140959Z
 SUMMARY:Upper bracket semifinal 1: BMB vs 100T
 UID:cs-go-parken-challenger-championship-6-2026-1484598@tournamentics
@@ -4821,7 +4821,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260510T180000Z
-SUMMARY:Lower bracket quarterfinal 2: Matrix vs TBD
+SUMMARY:Lower bracket quarterfinal 2: Matrix vs BMB
 UID:cs-go-parken-challenger-championship-6-2026-1484597@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6078,7 +6078,7 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-2-2026-1484556@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
 DTSTART:20260510T153000Z
 SUMMARY:Upper bracket round 1 match 6: DNT vs ROTTW
