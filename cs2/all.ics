@@ -2581,7 +2581,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260511T080000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: BMB vs TBD
 UID:cs-go-parken-challenger-championship-6-2026-1484601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3166,8 +3166,8 @@ SUMMARY:Round 2: VSC vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: TDK: 0 | Nuclear TigeRES: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260510T192152Z
 DTSTART:20260510T175333Z
 SUMMARY:Round 2: TDK vs NTR
 UID:cs-go-nodwin-clutch-series-8-2026-1471674@tournamentics
@@ -4818,8 +4818,8 @@ SUMMARY:Round 4: G1 vs URSA
 UID:cs-go-cct-europe-series-1-21-2026-1469218@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nResult: Matrix: 0 | BASEMENT BOYS: 2\nStream: https://kick.com/challengerchampionship_b
+DTEND:20260510T191825Z
 DTSTART:20260510T180139Z
 SUMMARY:Lower bracket quarterfinal 2: Matrix vs BMB
 UID:cs-go-parken-challenger-championship-6-2026-1484597@tournamentics
