@@ -3232,7 +3232,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260511T110000Z
-SUMMARY:Upper bracket final: 100T vs TBD
+SUMMARY:Upper bracket final: 100T vs ACE
 UID:cs-go-parken-challenger-championship-6-2026-1484600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3355,8 +3355,8 @@ SUMMARY:Elimination match: STA vs BRUTE
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462481@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nResult: Acend: 2 |  Gatorian: 0\nStream: https://kick.com/challengerchampionship_b
+DTEND:20260510T154330Z
 DTSTART:20260510T140355Z
 SUMMARY:Upper bracket semifinal 2: ACE vs GAT
 UID:cs-go-parken-challenger-championship-6-2026-1484599@tournamentics
@@ -3796,8 +3796,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-2-2026-1484559@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: Team Falcons: 1 | 9z: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260510T154508Z
 DTSTART:20260510T130943Z
 SUMMARY:Round 2: FAL vs 9z
 UID:cs-go-pgl-astana-2026-1474556@tournamentics
@@ -5626,7 +5626,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260510T180000Z
-SUMMARY:Lower bracket quarterfinal 1: A Great Chaos vs TBD
+SUMMARY:Lower bracket quarterfinal 1: A Great Chaos vs GAT
 UID:cs-go-parken-challenger-championship-6-2026-1484596@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5903,9 +5903,9 @@ SUMMARY:Upper bracket quarterfinal 3: TYLOO vs GZ
 UID:cs-go-asian-champions-league-2026-1481125@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260510T154000Z
+DTSTART:20260510T154107Z
 SUMMARY:Round 3: NP vs YL
 UID:cs-go-exort-series-26-2026-1485126@tournamentics
 END:VEVENT
@@ -6078,9 +6078,9 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-2-2026-1484556@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
-DTSTART:20260510T154000Z
+DTSTART:20260510T154454Z
 SUMMARY:Upper bracket round 1 match 6: DNT vs ROTTW
 UID:cs-go-cct-europe-contenders-5-2026-1481119@tournamentics
 END:VEVENT
