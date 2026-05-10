@@ -74,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260510T110000Z
+DTSTART:20260510T112000Z
 SUMMARY:Round 2: FURIA vs HERO
 UID:cs-go-pgl-astana-2026-1474554@tournamentics
 END:VEVENT
@@ -275,8 +275,8 @@ SUMMARY:Round 2: PRV vs FC
 UID:cs-go-pgl-astana-2026-1474555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: TheMongolz: 0 | Spirit: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260510T105710Z
 DTSTART:20260510T083842Z
 SUMMARY:Round 2: MGLZ vs TS
 UID:cs-go-pgl-astana-2026-1474552@tournamentics
