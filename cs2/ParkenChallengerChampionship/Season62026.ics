@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 2 | Linx Legacy Esport: 0\nStream: https://kick.com/challengerchampionship_c
+DTEND:20260510T093210Z
 DTSTART:20260510T080550Z
 SUMMARY:Upper bracket quarterfinal 2: BMB vs LLE
 UID:cs-go-parken-challenger-championship-6-2026-1484591@tournamentics
@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260510T140000Z
-SUMMARY:Upper bracket semifinal 2: ACE vs TBD
+SUMMARY:Upper bracket semifinal 2: ACE vs GAT
 UID:cs-go-parken-challenger-championship-6-2026-1484599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -44,8 +44,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-parken-challenger-championship-6-2026-1484603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nResult: 100 Thieves: 2 | A Great Chaos: 0\nStream: https://kick.com/challengerchampionship
+DTEND:20260510T093218Z
 DTSTART:20260510T080535Z
 SUMMARY:Upper bracket quarterfinal 1: 100T vs A Great Chaos
 UID:cs-go-parken-challenger-championship-6-2026-1484590@tournamentics
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260510T140000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: BMB vs 100T
 UID:cs-go-parken-challenger-championship-6-2026-1484598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -65,15 +65,15 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-parken-challenger-championship-6-2026-1484600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
+DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
 DURATION:PT2H
 DTSTART:20260510T110000Z
-SUMMARY:Lower bracket round 1 match 2: HAFO vs TBD
+SUMMARY:Lower bracket round 1 match 2: HAFO vs Matrix
 UID:cs-go-parken-challenger-championship-6-2026-1484595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_d
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nResult: Matrix: 0 |  Gatorian: 2\nStream: https://kick.com/challengerchampionship_d
+DTEND:20260510T093530Z
 DTSTART:20260510T080136Z
 SUMMARY:Upper bracket quarterfinal 3: Matrix vs GAT
 UID:cs-go-parken-challenger-championship-6-2026-1484592@tournamentics
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260510T110000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: LLE vs A Great Chaos
 UID:cs-go-parken-challenger-championship-6-2026-1484594@tournamentics
 END:VEVENT
 END:VCALENDAR
