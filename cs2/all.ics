@@ -6855,25 +6855,11 @@ SUMMARY:Lower bracket round 2 match 1: ex-Zero Tenacity vs BG
 UID:cs-go-cct-europe-challengers-series-2-2026-1470238@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260510T154500Z
-SUMMARY:Upper bracket round 1 match 5: DRIP vs FF
-UID:cs-go-cct-europe-contenders-5-2026-1481118@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: TheMongolz: 0 | Spirit: 2\nStream: https://www.twitch.tv/PGL
 DTEND:20260510T105710Z
 DTSTART:20260510T083842Z
 SUMMARY:Round 2: MGLZ vs TS
 UID:cs-go-pgl-astana-2026-1474552@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: Vitality: 2 | FUT Esports: 1\nStream: https://www.twitch.tv/blastpremier
-DTEND:20260429T175712Z
-DTSTART:20260429T150605Z
-SUMMARY:Upper bracket semifinal 1: VIT vs FUT
-UID:cs-go-blast-rivals-spring-2026-1438555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 1 | PURE: 0\nStream: https://www.twitch.tv/cspuregg
@@ -6883,11 +6869,11 @@ SUMMARY:FF vs PURE
 UID:cs-go-esea-advanced-europe-57-2026-1468052@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Voca: 0 | Wildcard: 2\nStream: https://kick.com/eslcs
-DTEND:20260502T023203Z
-DTSTART:20260502T010541Z
-SUMMARY:Upper bracket final: VOCA vs WC
-UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456967@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: Vitality: 2 | FUT Esports: 1\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260429T175712Z
+DTSTART:20260429T150605Z
+SUMMARY:Upper bracket semifinal 1: VIT vs FUT
+UID:cs-go-blast-rivals-spring-2026-1438555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: eternal premium: 1 | OLDBOYS PL: 0\nStream: No official stream linked
@@ -6895,6 +6881,13 @@ DTEND:20260413T184902Z
 DTSTART:20260413T181658Z
 SUMMARY:EP vs OLDB
 UID:cs-go-esea-advanced-europe-57-2026-1444110@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Voca: 0 | Wildcard: 2\nStream: https://kick.com/eslcs
+DTEND:20260502T023203Z
+DTSTART:20260502T010541Z
+SUMMARY:Upper bracket final: VOCA vs WC
+UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456967@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: NAVI Junior: 1 | ReThink: 2\nStream: https://kick.com/eplcs_en
