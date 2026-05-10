@@ -3616,7 +3616,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
-DTSTART:20260510T130000Z
+DTSTART:20260510T133000Z
 SUMMARY:Semifinal 2: NEMI vs CS
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467691@tournamentics
 END:VEVENT
@@ -5350,8 +5350,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-2-2026-1484557@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: FURIA: 2 | Heroic: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260510T125451Z
 DTSTART:20260510T112013Z
 SUMMARY:Round 2: FURIA vs HERO
 UID:cs-go-pgl-astana-2026-1474554@tournamentics
