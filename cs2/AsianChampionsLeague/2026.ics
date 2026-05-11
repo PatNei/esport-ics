@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nResult: FlyQuest: 1 | JiJieHao: 2\nStream: https://www.twitch.tv/churchd0gg
+DTEND:20260511T070222Z
 DTSTART:20260511T040819Z
 SUMMARY:Upper bracket quarterfinal 1: FLY vs JJH
 UID:cs-go-asian-champions-league-2026-1481123@tournamentics
@@ -124,14 +124,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260512T070000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: FLY vs TBD
 UID:cs-go-asian-champions-league-2026-1481131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260512T030000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: JJH vs TBD
 UID:cs-go-asian-champions-league-2026-1481127@tournamentics
 END:VEVENT
 BEGIN:VEVENT
