@@ -502,7 +502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260511T140000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: BMB vs TBD
 UID:cs-go-parken-challenger-championship-6-2026-1484602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2991,8 +2991,8 @@ SUMMARY:Upper bracket round of 16 match 6: Lavked vs SPARTA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456864@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 2 | A Great Chaos: 0\nStream: https://kick.com/challengerchampionship
+DTEND:20260511T093316Z
 DTSTART:20260511T080821Z
 SUMMARY:Lower bracket semifinal: BMB vs A Great Chaos
 UID:cs-go-parken-challenger-championship-6-2026-1484601@tournamentics
@@ -4284,13 +4284,6 @@ DTEND:20260428T115309Z
 DTSTART:20260428T090948Z
 SUMMARY:Lower bracket round 1 match 1: FURY vs Skele
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457351@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260511T140000Z
-SUMMARY:Round 5: FAV vs HAVU
-UID:cs-go-cct-europe-series-1-21-2026-1469225@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Game Hunters: 0 | ShindeN: 2\nStream: https://kick.com/eslcs
@@ -5658,9 +5651,9 @@ SUMMARY:Round 3: KSM vs BOYB
 UID:cs-go-elisa-open-suomi-13-2026-1463390@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260511T093000Z
+DTSTART:20260511T093654Z
 SUMMARY:Round 3: INF vs FORZE.R
 UID:cs-go-exort-series-26-2026-1485127@tournamentics
 END:VEVENT
