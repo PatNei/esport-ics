@@ -2434,7 +2434,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260512T153000Z
-SUMMARY:Lower bracket quarterfinal 1: B8 vs TBD
+SUMMARY:Lower bracket quarterfinal 1: B8 vs BCG
 UID:cs-go-iem-atlanta-2026-1474584@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4251,8 +4251,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-asian-champions-league-2026-1481122@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nResult: Vitality: 2 | BC.Game Esports: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260511T195201Z
 DTSTART:20260511T180101Z
 SUMMARY:Upper bracket quarterfinal 1: VIT vs BCG
 UID:cs-go-iem-atlanta-2026-1473068@tournamentics
@@ -4639,7 +4639,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260512T153000Z
-SUMMARY:Upper bracket semifinal 1: BB vs TBD
+SUMMARY:Upper bracket semifinal 1: BB vs VIT
 UID:cs-go-iem-atlanta-2026-1474583@tournamentics
 END:VEVENT
 BEGIN:VEVENT
