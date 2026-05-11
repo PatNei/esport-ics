@@ -5812,7 +5812,7 @@ SUMMARY:Round 1: AUR vs HERO
 UID:cs-go-pgl-astana-2026-1474542@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260511T150000Z
 SUMMARY:Round 2: LLE vs 820
@@ -6433,6 +6433,13 @@ DTEND:20260510T110422Z
 DTSTART:20260510T093703Z
 SUMMARY:Round 3: DNT vs CC
 UID:cs-go-exort-series-26-2026-1485123@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260530T190000Z
+SUMMARY:Grand final: YAW vs UNO
+UID:cs-go-odyssey-cup-brazil-2026-1487705@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Nemiga: 0 | Eternal Fire: 2\nStream: https://kick.com/starladder
@@ -7884,8 +7891,8 @@ SUMMARY:Upper bracket quarterfinal 3: IMP.A vs LPH
 UID:cs-go-european-pro-league-regular-4-2026-1465432@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: The Huns Esports: 2 | Fisher College: 0\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260511T144218Z
 DTSTART:20260511T130046Z
 SUMMARY:Round 3: THE vs FC
 UID:cs-go-pgl-astana-2026-1474565@tournamentics
@@ -8101,7 +8108,7 @@ SUMMARY:R4G vs Ducks
 UID:cs-go-dach-cs-masters-5-2026-1385712@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260511T150000Z
 SUMMARY:Round 2: STA vs FLOD
