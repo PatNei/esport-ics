@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260513T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: ALGO vs TBD
 UID:cs-go-european-pro-league-regular-5-2026-1476928@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -65,8 +65,8 @@ SUMMARY:Elimination match: XI vs ENCE
 UID:cs-go-european-pro-league-regular-5-2026-1476931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nResult: ALGO Esports: 0 | BIG Academy: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260511T122123Z
 DTSTART:20260511T103837Z
 SUMMARY:Winners match: ALGO vs BIG.A
 UID:cs-go-european-pro-league-regular-5-2026-1476927@tournamentics
