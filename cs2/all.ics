@@ -2445,13 +2445,6 @@ SUMMARY:WAVE vs BIG.A
 UID:cs-go-dach-cs-masters-5-2026-1385755@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260512T170000Z
-SUMMARY:Round 1: Keyd vs VSC
-UID:cs-go-betboom-storm-3-2026-1484473@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260517T190000Z
@@ -4342,8 +4335,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-betboom-storm-3-2026-1484533@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 2 2026\nMatch Type: Best Of\nResult: ex-KRÜ Esports: 0 | ALKA GAMING: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260512T173441Z
 DTSTART:20260512T160403Z
 SUMMARY:Round 1: ex-KRÜ Esports vs ALKA
 UID:cs-go-champion-of-champions-tour-series-2-2026-1484543@tournamentics
