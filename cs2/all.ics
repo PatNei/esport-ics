@@ -1461,7 +1461,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 2 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260513T110000Z
-SUMMARY:Elimination match: aAa vs TBD
+SUMMARY:Elimination match: aAa vs RE
 UID:cs-go-cct-europe-series-2-play-in-2026-1484241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1745,7 +1745,7 @@ SUMMARY:Round 1: BCA vs FAV
 UID:cs-go-nodwin-clutch-series-8-2026-1471670@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
 DURATION:PT2H
 DTSTART:20260512T203000Z
 SUMMARY:Lower bracket quarterfinal 1: PSSN.UA vs SIN
@@ -3621,7 +3621,7 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489288@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
 DURATION:PT2H
 DTSTART:20260512T230000Z
 SUMMARY:Lower bracket quarterfinal 2: TL vs M80
@@ -4006,8 +4006,8 @@ SUMMARY:Round 2: OMG vs UNiTY
 UID:cs-go-cct-europe-series-1-21-2026-1469205@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 2 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 2 Play-In 2026\nMatch Type: Best Of\nResult: Rune Eaters: 1 | MASONIC: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260512T195450Z
 DTSTART:20260512T170737Z
 SUMMARY:RE vs MSC
 UID:cs-go-cct-europe-series-2-play-in-2026-1484240@tournamentics
@@ -4253,7 +4253,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260512T203000Z
+DTSTART:20260512T210000Z
 SUMMARY:Upper bracket semifinal 1: NAVI vs GL
 UID:cs-go-iem-atlanta-2026-1474587@tournamentics
 END:VEVENT
@@ -4426,8 +4426,8 @@ SUMMARY:PURE vs BW
 UID:cs-go-esea-advanced-europe-57-2026-1454785@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 1 | OKSUCC: 0\nStream: No official stream linked
+DTEND:20260512T195301Z
 DTSTART:20260512T191216Z
 SUMMARY:VP.P vs OKS
 UID:cs-go-esea-advanced-europe-57-2026-1488344@tournamentics
@@ -4799,7 +4799,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260512T200000Z
+DTSTART:20260513T003000Z
 SUMMARY:Round 1: UNO vs paiN.A
 UID:cs-go-betboom-storm-3-2026-1484472@tournamentics
 END:VEVENT
@@ -6577,7 +6577,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260512T230000Z
+DTSTART:20260512T213000Z
 SUMMARY:Round 1: BHE vs MIBR.F
 UID:cs-go-betboom-storm-3-2026-1484475@tournamentics
 END:VEVENT
@@ -8041,7 +8041,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 2 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260513T170000Z
-SUMMARY:Winners match: G2.A vs TBD
+SUMMARY:Winners match: G2.A vs MSC
 UID:cs-go-cct-europe-series-2-play-in-2026-1484242@tournamentics
 END:VEVENT
 BEGIN:VEVENT
