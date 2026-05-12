@@ -1712,7 +1712,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
 DURATION:PT2H
-DTSTART:20260512T203000Z
+DTSTART:20260512T213000Z
 SUMMARY:Lower bracket quarterfinal 1: PSSN.UA vs SIN
 UID:cs-go-iem-atlanta-2026-1474588@tournamentics
 END:VEVENT
@@ -6085,8 +6085,8 @@ SUMMARY:Round 2: LLE vs 820
 UID:cs-go-dust2-dk-32-2026-1467582@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | Lavked: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260512T201851Z
 DTSTART:20260512T172942Z
 SUMMARY:Round 3: MOUZ.N vs Lavked
 UID:cs-go-nodwin-clutch-series-8-2026-1471682@tournamentics
