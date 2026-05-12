@@ -119,6 +119,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series12026.ics
 ```
 
+### Series 2 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series22026.ics
+```
+
 </details>
 
 <details>
