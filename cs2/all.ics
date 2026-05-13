@@ -3946,7 +3946,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260517T103000Z
-SUMMARY:Elimination match: MANA vs TBD
+SUMMARY:Elimination match: MANA vs XI
 UID:cs-go-united21-49-2026-1483535@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6417,7 +6417,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260517T080000Z
-SUMMARY:Winners match: RT vs TBD
+SUMMARY:Winners match: RT vs NAVI.J
 UID:cs-go-united21-49-2026-1483534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7940,9 +7940,9 @@ SUMMARY:Lower bracket round 5 match 2: BIG.A vs G1
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456896@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
+DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
 DURATION:PT2H
-DTSTART:20260513T113000Z
+DTSTART:20260513T113608Z
 SUMMARY:Lower bracket semifinal: HH vs TdU
 UID:cs-go-asian-champions-league-2026-1481242@tournamentics
 END:VEVENT
@@ -8757,13 +8757,6 @@ DTEND:20260424T210014Z
 DTSTART:20260424T200829Z
 SUMMARY:Round 1: BHE vs UNO
 UID:cs-go-odyssey-cup-brazil-2026-1459518@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260513T113000Z
-SUMMARY:NAVI.J vs XI
-UID:cs-go-united21-49-2026-1483533@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
