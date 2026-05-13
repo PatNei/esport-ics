@@ -208,12 +208,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260514T110000Z
-SUMMARY:Quarterfinal 3: Lavked vs TBD
+SUMMARY:Quarterfinal 3: Lavked vs TNC
 UID:cs-go-cct-europe-series-1-21-2026-1469237@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: Betclic Apogee Esports: 1 | TNC: 2\nStream: https://kick.com/cct_cs
+DTEND:20260513T203943Z
 DTSTART:20260513T171303Z
 SUMMARY:Round of 16 match 6: BCA vs TNC
 UID:cs-go-cct-europe-series-1-21-2026-1469234@tournamentics
