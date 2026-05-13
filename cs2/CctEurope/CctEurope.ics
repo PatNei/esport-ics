@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260516T080000Z
-SUMMARY:Decider match: Project 91 vs TBD
+SUMMARY:Decider match: Project 91 vs HYPEW
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -774,7 +774,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260513T170000Z
+DTSTART:20260513T171000Z
 SUMMARY:Round of 16 match 6: BCA vs TNC
 UID:cs-go-cct-europe-series-1-21-2026-1469234@tournamentics
 END:VEVENT
@@ -898,8 +898,8 @@ SUMMARY:Round 1: MOUZ.N vs URSA
 UID:cs-go-cct-europe-series-1-21-2026-1469184@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: GenOne: 2 | hypewrld: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260513T170407Z
 DTSTART:20260513T140628Z
 SUMMARY:Winners match: G1 vs HYPEW
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484179@tournamentics
