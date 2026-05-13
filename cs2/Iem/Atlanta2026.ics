@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260513T180000Z
-SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+SUMMARY:Lower bracket semifinal 1: SIN vs TBD
 UID:cs-go-iem-atlanta-2026-1474593@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -191,8 +191,8 @@ SUMMARY:Lower bracket semifinal 2: FaZe vs VIT
 UID:cs-go-iem-atlanta-2026-1474592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nResult: Passion UA: 1 | Sinners: 2\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260513T010152Z
 DTSTART:20260512T220516Z
 SUMMARY:Lower bracket quarterfinal 1: PSSN.UA vs SIN
 UID:cs-go-iem-atlanta-2026-1474588@tournamentics
