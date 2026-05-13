@@ -2363,7 +2363,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ruizinholf89
 DURATION:PT2H
-DTSTART:20260513T030000Z
+DTSTART:20260513T031000Z
 SUMMARY:Lower bracket quarterfinal 1: 5S vs FLY
 UID:cs-go-asian-champions-league-2026-1481133@tournamentics
 END:VEVENT
@@ -5987,6 +5987,13 @@ SUMMARY:Upper bracket semifinal 2: SASHI vs EYE
 UID:cs-go-conquest-of-prague-finals-2026-1470185@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260513T190000Z
+SUMMARY:ENJOY vs LFO
+UID:cs-go-esea-advanced-europe-57-2026-1489957@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ENJOY: 1 | megoshort: 0\nStream: No official stream linked
 DTEND:20260424T174503Z
 DTSTART:20260424T165200Z
@@ -8759,9 +8766,9 @@ SUMMARY:AUR.YB vs PeePuP
 UID:cs-go-esea-advanced-europe-57-2026-1466515@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
+DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
 DURATION:PT2H
-DTSTART:20260513T030000Z
+DTSTART:20260513T031118Z
 SUMMARY:Lower bracket quarterfinal 2: CW vs GZ
 UID:cs-go-asian-champions-league-2026-1481134@tournamentics
 END:VEVENT
