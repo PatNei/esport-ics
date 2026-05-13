@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260516T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Project 91 vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -877,8 +877,8 @@ SUMMARY:Winners match: G1 vs HYPEW
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484179@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Project 91: 2 | SAW: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260513T105549Z
 DTSTART:20260513T080509Z
 SUMMARY:Elimination match: Project 91 vs SAW
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484176@tournamentics
