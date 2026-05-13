@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 | MASONIC: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260513T200207Z
 DTSTART:20260513T172444Z
 SUMMARY:Winners match: G2.A vs MSC
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484242@tournamentics
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260516T110000Z
-SUMMARY:Decider match: RE vs TBD
+SUMMARY:Decider match: RE vs MSC
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484243@tournamentics
 END:VEVENT
 BEGIN:VEVENT
