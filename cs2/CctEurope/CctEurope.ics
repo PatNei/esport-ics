@@ -394,8 +394,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-cct-europe-contenders-5-2026-1490617@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: HOTU: 1 | Walczaki: 2\nStream: https://kick.com/cct_cs
+DTEND:20260514T193655Z
 DTSTART:20260514T170708Z
 SUMMARY:Quarterfinal 1: HOTU vs WAL
 UID:cs-go-cct-europe-series-1-21-2026-1469235@tournamentics
@@ -1111,7 +1111,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260515T100000Z
-SUMMARY:Semifinal 1: NEMI vs TBD
+SUMMARY:Semifinal 1: NEMI vs WAL
 UID:cs-go-cct-europe-series-1-21-2026-1469239@tournamentics
 END:VEVENT
 END:VCALENDAR
