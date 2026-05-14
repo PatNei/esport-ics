@@ -46,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260514T103000Z
+DTSTART:20260514T104500Z
 SUMMARY:Elimination match: Oldboys vs PSN.A
 UID:cs-go-united21-49-2026-1483520@tournamentics
 END:VEVENT
@@ -1920,8 +1920,8 @@ SUMMARY:Decider Match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484458@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: TDK: 2 | MOUZ NXT: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260514T103052Z
 DTSTART:20260514T080852Z
 SUMMARY:Round 4: TDK vs MOUZ.N
 UID:cs-go-nodwin-clutch-series-8-2026-1471687@tournamentics
