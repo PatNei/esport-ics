@@ -2413,7 +2413,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260516T140000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: MGC vs TBD
 UID:cs-go-pgl-astana-2026-1474580@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4671,8 +4671,8 @@ SUMMARY:Round 2: CS vs aAa
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467655@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: 9z: 1 | magic: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260515T143336Z
 DTSTART:20260515T114755Z
 SUMMARY:Quarterfinal 3: 9z vs MGC
 UID:cs-go-pgl-astana-2026-1474577@tournamentics
@@ -4888,8 +4888,8 @@ SUMMARY:Upper bracket quarterfinal 1: LVG vs AE
 UID:cs-go-asian-champions-league-2026-1481137@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nResult: MAJIX ESPORTS: 2 | LPH Gaming: 0\nStream: https://kick.com/exort_en2
+DTEND:20260515T143204Z
 DTSTART:20260515T124221Z
 SUMMARY:Round 1 match 1: MJX vs LPH
 UID:cs-go-exort-series-26-2026-1493010@tournamentics
