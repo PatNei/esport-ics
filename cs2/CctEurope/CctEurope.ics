@@ -306,7 +306,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260516T170000Z
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: YN vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484463@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1052,8 +1052,8 @@ SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484464@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Young Ninjas: 2 | Hashiras: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260515T125604Z
 DTSTART:20260515T110822Z
 SUMMARY:Elimination match: YN vs Hashiras
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484461@tournamentics
@@ -1108,9 +1108,9 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489277@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260515T130000Z
+DTSTART:20260515T130308Z
 SUMMARY:Semifinal 1: WAL vs NEMI
 UID:cs-go-cct-europe-series-1-21-2026-1469239@tournamentics
 END:VEVENT
