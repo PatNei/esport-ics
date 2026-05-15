@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260516T100000Z
-SUMMARY:Semifinal 1: MOUZ vs TBD
+SUMMARY:Semifinal 1: MOUZ vs TS
 UID:cs-go-pgl-astana-2026-1474579@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-pgl-astana-2026-1474580@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: Spirit: 2 | G2: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260515T101933Z
 DTSTART:20260515T082433Z
 SUMMARY:Quarterfinal 2: TS vs G2
 UID:cs-go-pgl-astana-2026-1474576@tournamentics
