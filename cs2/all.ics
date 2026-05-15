@@ -3568,7 +3568,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260518T103000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: VIT.A vs TBD
 UID:cs-go-united21-49-2026-1483526@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4244,8 +4244,8 @@ SUMMARY:Lower bracket round 1 match 2: MP vs OKS
 UID:cs-go-ukic-masters-division-10-2026-1469276@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nResult: FTUR: 1 | Vitality Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260515T133103Z
 DTSTART:20260515T104954Z
 SUMMARY:Elimination match: FTUR vs VIT.A
 UID:cs-go-united21-49-2026-1483525@tournamentics
@@ -4960,7 +4960,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260515T133000Z
+DTSTART:20260515T134500Z
 SUMMARY:Winners match: ALGO vs PRE
 UID:cs-go-united21-49-2026-1483524@tournamentics
 END:VEVENT
