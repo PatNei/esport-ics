@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
-DURATION:PT2H
-DTSTART:20260515T183000Z
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: SNARKY: 0 | SSSghoul: 2\nStream: https://www.twitch.tv/zachtually
+DTEND:20260515T202852Z
+DTSTART:20260515T185828Z
 SUMMARY:Lower bracket quarterfinal 1: SNARKY vs SSS
 UID:cs-go-ukic-masters-division-10-2026-1469277@tournamentics
 END:VEVENT
@@ -30,16 +30,16 @@ SUMMARY:Upper bracket quarterfinal 3: OKS vs RUK
 UID:cs-go-ukic-masters-division-10-2026-1467070@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
-DURATION:PT2H
-DTSTART:20260521T193000Z
-SUMMARY:Lower bracket semifinal: OKS vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: OKSUCC: 2 | SSSghoul: 0\nStream: https://www.twitch.tv/UKICircuit
+DTEND:20260525T194803Z
+DTSTART:20260525T180436Z
+SUMMARY:Lower bracket semifinal: OKS vs SSS
 UID:cs-go-ukic-masters-division-10-2026-1469279@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
-DURATION:PT2H
-DTSTART:20260526T150000Z
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: Dripmen: 0 | The Last Resort: 2\nStream: https://www.twitch.tv/UKICircuit
+DTEND:20260526T174421Z
+DTSTART:20260526T161152Z
 SUMMARY:Upper bracket final: DRIP vs TLR
 UID:cs-go-ukic-masters-division-10-2026-1469280@tournamentics
 END:VEVENT
@@ -51,10 +51,10 @@ SUMMARY:Lower bracket round 1 match 2: MP vs OKS
 UID:cs-go-ukic-masters-division-10-2026-1469276@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
-DURATION:PT2H
-DTSTART:20260613T140000Z
-SUMMARY:Grand final: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: The Last Resort: 3 | Dripmen: 1\nStream: https://www.twitch.tv/UKICircuit
+DTEND:20260613T174025Z
+DTSTART:20260613T140520Z
+SUMMARY:Grand final: TLR vs DRIP
 UID:cs-go-ukic-masters-division-10-2026-1469385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -79,10 +79,10 @@ SUMMARY:Lower bracket quarterfinal 2: MES vs OKS
 UID:cs-go-ukic-masters-division-10-2026-1469278@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
-DURATION:PT2H
-DTSTART:20260528T193000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: OKSUCC: 1 | Dripmen: 2\nStream: https://www.twitch.tv/UKICircuit
+DTEND:20260529T204559Z
+DTSTART:20260529T180510Z
+SUMMARY:Lower bracket final: OKS vs DRIP
 UID:cs-go-ukic-masters-division-10-2026-1469307@tournamentics
 END:VEVENT
 BEGIN:VEVENT
