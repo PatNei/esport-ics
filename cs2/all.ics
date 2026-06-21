@@ -114,9 +114,9 @@ SUMMARY:SINQU vs TLR
 UID:cs-go-esea-advanced-europe-57-2026-1468061@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 3: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260621T123000Z
+DTSTART:20260621T123744Z
 SUMMARY:Semifinal 1: FOKUS vs PHA
 UID:cs-go-stake-ranked-episode-3-closed-qualifier-2026-1543922@tournamentics
 END:VEVENT
@@ -642,7 +642,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
 DURATION:PT2H
 DTSTART:20260622T160000Z
-SUMMARY:Elimination match: LILMIX vs TBD
+SUMMARY:Elimination match: LILMIX vs RT
 UID:cs-go-svenska-cs-ligan-2026-1545959@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1181,7 +1181,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
 DURATION:PT2H
 DTSTART:20260621T130000Z
-SUMMARY:Winners match: EULTRA vs TBD
+SUMMARY:Winners match: EULTRA vs roamsfiest
 UID:cs-go-svenska-cs-ligan-2026-1545958@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1682,8 +1682,8 @@ SUMMARY:TLR vs hindsight
 UID:cs-go-esea-advanced-europe-57-2026-1436244@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nResult: ReThink: 1 | roamsfiest: 2\nStream: https://www.twitch.tv/fragbite
+DTEND:20260621T124417Z
 DTSTART:20260621T100826Z
 SUMMARY:RT vs roamsfiest
 UID:cs-go-svenska-cs-ligan-2026-1545957@tournamentics
