@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
 DURATION:PT2H
 DTSTART:20260622T183000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: EULTRA vs TBD
 UID:cs-go-svenska-cs-ligan-2026-1545960@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:JS vs VEN
 UID:cs-go-svenska-cs-ligan-2026-1545962@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nResult: ENERGYULTRA: 1 | roamsfiest: 2\nStream: https://www.twitch.tv/fragbite
+DTEND:20260621T154401Z
 DTSTART:20260621T130316Z
 SUMMARY:Winners match: EULTRA vs roamsfiest
 UID:cs-go-svenska-cs-ligan-2026-1545958@tournamentics
