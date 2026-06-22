@@ -82,27 +82,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series420
 ## C Tier
 
 <details>
-<summary>DraculaN</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Draculan.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Draculan.ics
-```
-
----
-
-### Season 7 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Season72026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Season72026.ics
-```
-
-</details>
-
-<details>
 <summary>European Pro League</summary>
 
 ### Full Schedule
@@ -140,6 +119,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRa
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode3ClosedQualifier2026.ics
+```
+
+</details>
+
+<details>
+<summary>Super DraculaN</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SuperDraculan/SuperDraculan.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SuperDraculan/SuperDraculan.ics
+```
+
+---
+
+### Season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SuperDraculan/Season12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SuperDraculan/Season12026.ics
 ```
 
 </details>
