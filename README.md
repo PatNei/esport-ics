@@ -124,27 +124,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode
 </details>
 
 <details>
-<summary>Super DraculaN</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SuperDraculan/SuperDraculan.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SuperDraculan/SuperDraculan.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SuperDraculan/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SuperDraculan/Season12026.ics
-```
-
-</details>
-
-<details>
 <summary>Thunderpick World Championship</summary>
 
 ### Full Schedule
@@ -184,27 +163,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ChallengersSeriesSeason42026.ics
-```
-
-</details>
-
-<details>
-<summary>DACH CS Masters</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/DachCsMasters.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/DachCsMasters.ics
-```
-
----
-
-### Season 5 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Season52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Season52026.ics
 ```
 
 </details>
@@ -282,27 +240,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/AdvancedEurope
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/EuropeanFinalsSeason572026.ics
-```
-
-</details>
-
-<details>
-<summary>Gamers Club Liga Série A</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/GamersClubLigaSRieA.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/GamersClubLigaSRieA.ics
-```
-
----
-
-### June 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/June2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/June2026.ics
 ```
 
 </details>
@@ -413,48 +350,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RogJourney/Summer20
 </details>
 
 <details>
-<summary>Svenska CS-Ligan</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SvenskaCsLigan/SvenskaCsLigan.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SvenskaCsLigan/SvenskaCsLigan.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SvenskaCsLigan/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SvenskaCsLigan/2026.ics
-```
-
-</details>
-
-<details>
-<summary>TESFED League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TesfedLeague/TesfedLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TesfedLeague/TesfedLeague.ics
-```
-
----
-
-### Season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TesfedLeague/Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TesfedLeague/Season32026.ics
-```
-
-</details>
-
-<details>
 <summary>UKIC</summary>
 
 ### Full Schedule
@@ -492,13 +387,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/United21.i
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season502026.ics
-```
-
-### Season 51 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season512026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season512026.ics
 ```
 
 </details>
