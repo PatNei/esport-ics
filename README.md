@@ -256,13 +256,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Dust2
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Division1Season322026.ics
 ```
 
-### Season 32 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Season322026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Season322026.ics
-```
-
 </details>
 
 <details>
@@ -478,27 +471,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TesfedLeague/Tesfed
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TesfedLeague/Season32026.ics
-```
-
-</details>
-
-<details>
-<summary>UKIC</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Ukic/Ukic.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Ukic/Ukic.ics
-```
-
----
-
-### Masters Division season 10 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Ukic/MastersDivisionSeason102026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Ukic/MastersDivisionSeason102026.ics
 ```
 
 </details>
