@@ -1979,7 +1979,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260624T150000Z
-SUMMARY:Lower bracket quarterfinal 1: BCA vs TBD
+SUMMARY:Lower bracket quarterfinal 1: BCA vs OG
 UID:cs-go-draculan-7-2026-1545547@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3112,7 +3112,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260623T180000Z
+DTSTART:20260623T181500Z
 SUMMARY:Winners match: RED.A vs BST.A
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1549589@tournamentics
 END:VEVENT
@@ -3950,8 +3950,8 @@ SUMMARY:Quarterfinal 3: 1WIN vs VP
 UID:cs-go-cct-europe-series-4-2026-1519592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: FOKUS: 2 | OG: 1\nStream: https://kick.com/draculancs
+DTEND:20260623T175816Z
 DTSTART:20260623T150432Z
 SUMMARY:Upper bracket quarterfinal 1: FOKUS vs OG
 UID:cs-go-draculan-7-2026-1545463@tournamentics
@@ -3967,7 +3967,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260624T090000Z
-SUMMARY:Upper bracket semifinal 1: ECHO vs TBD
+SUMMARY:Upper bracket semifinal 1: ECHO vs FOKUS
 UID:cs-go-draculan-7-2026-1545544@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5891,7 +5891,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260623T180000Z
+DTSTART:20260623T181500Z
 SUMMARY:Winners match: HR vs Alzon
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1543904@tournamentics
 END:VEVENT
@@ -6892,7 +6892,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260623T180000Z
+DTSTART:20260623T181500Z
 SUMMARY:Upper bracket quarterfinal 1: GL vs ACE
 UID:cs-go-draculan-7-2026-1545459@tournamentics
 END:VEVENT
