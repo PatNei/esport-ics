@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | MARKandLARRY: 0\nStream: https://www.twitch.tv/flamboyantttt
-DTEND:20260615T094203Z
-DTSTART:20260615T081330Z
-SUMMARY:Upper bracket semifinal 2: GZ vs MandL
-UID:cs-go-dfrag-open-series-open-series-5-2026-1525871@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Ding Cuts: 1 | DXA Esports: 2\nStream: https://www.twitch.tv/dfragtv
 DTEND:20260612T114101Z
 DTSTART:20260612T085958Z
@@ -21,13 +14,6 @@ DTEND:20260608T101752Z
 DTSTART:20260608T084616Z
 SUMMARY:RSTR vs MandL
 UID:cs-go-dfrag-open-series-open-series-5-2026-1528515@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Ground Zero: 1 | Rooster: 2\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260618T105833Z
-DTSTART:20260618T084002Z
-SUMMARY:Grand final: GZ vs RSTR
-UID:cs-go-dfrag-open-series-open-series-5-2026-1525873@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Ding Cuts: 2 | DXA Esports: 0\nStream: https://www.twitch.tv/ngsabyts
@@ -70,20 +56,6 @@ DTEND:20260617T112625Z
 DTSTART:20260617T085606Z
 SUMMARY:Lower bracket final: RSTR vs DXA
 UID:cs-go-dfrag-open-series-open-series-5-2026-1525875@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Rooster: 2 | DXA Esports: 0\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260615T101130Z
-DTSTART:20260615T084011Z
-SUMMARY:Upper bracket semifinal 1: RSTR vs DXA
-UID:cs-go-dfrag-open-series-open-series-5-2026-1525870@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Rooster: 0\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260616T102252Z
-DTSTART:20260616T084053Z
-SUMMARY:Upper bracket final: GZ vs RSTR
-UID:cs-go-dfrag-open-series-open-series-5-2026-1525872@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Ding Cuts: 0\nStream: https://www.twitch.tv/flamboyantttt
