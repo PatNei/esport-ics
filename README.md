@@ -455,27 +455,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RainhasDoClutchFerj
 </details>
 
 <details>
-<summary>ROG Journey</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RogJourney/RogJourney.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RogJourney/RogJourney.ics
-```
-
----
-
-### Summer 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RogJourney/Summer2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RogJourney/Summer2026.ics
-```
-
-</details>
-
-<details>
 <summary>Svenska CS-Ligan</summary>
 
 ### Full Schedule
