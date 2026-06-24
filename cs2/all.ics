@@ -1503,7 +1503,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260625T120000Z
-SUMMARY:Lower bracket semifinal 2: SASHI vs TBD
+SUMMARY:Lower bracket semifinal 2: SASHI vs AM
 UID:cs-go-draculan-7-2026-1545502@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2669,8 +2669,8 @@ SUMMARY:Round 2: paiN vs BIG
 UID:cs-go-iem-cologne-major-2026-1508678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: AM Gaming: 2 | Eternal Fire: 1\nStream: https://kick.com/draculancsb
+DTEND:20260624T151210Z
 DTSTART:20260624T120456Z
 SUMMARY:Lower bracket quarterfinal 2: AM vs EF
 UID:cs-go-draculan-7-2026-1545500@tournamentics
@@ -4041,9 +4041,9 @@ SUMMARY:OBOYS vs NEW VISION
 UID:cs-go-esea-advanced-europe-57-2026-1499170@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260624T150000Z
+DTSTART:20260624T150819Z
 SUMMARY:Upper bracket semifinal 2: ICE vs SHK
 UID:cs-go-draculan-7-2026-1545497@tournamentics
 END:VEVENT
