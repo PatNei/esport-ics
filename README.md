@@ -56,6 +56,29 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/2026.i
 
 </details>
 
+## B Tier
+
+<details>
+<summary>CCT Europe</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics
+```
+
+---
+
+### Series #4 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series42026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series42026.ics
+```
+
+</details>
+
 ## C Tier
 
 <details>
@@ -90,6 +113,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/E
 ```
 
 ---
+
+### Series 7 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series72026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series72026.ics
+```
 
 ### Series 8 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series82026.ics)
@@ -182,6 +212,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ChallengersSeriesSeason42026.ics
+```
+
+</details>
+
+<details>
+<summary>DACH CS Masters</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/DachCsMasters.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/DachCsMasters.ics
+```
+
+---
+
+### Season 5 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Season52026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Season52026.ics
 ```
 
 </details>
@@ -336,6 +387,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LgUltragearTourname
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LgUltragearTournament/2026.ics
+```
+
+</details>
+
+<details>
+<summary>NODWIN Clutch Series</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/NodwinClutchSeries.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/NodwinClutchSeries.ics
+```
+
+---
+
+### Season 9 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season92026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season92026.ics
 ```
 
 </details>
