@@ -33,29 +33,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/CologneMajor202
 
 </details>
 
-## A Tier
-
-<details>
-<summary>XSE Pro League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/XseProLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/XseProLeague.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/2026.ics
-```
-
-</details>
-
 ## B Tier
 
 <details>
@@ -98,13 +75,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/E
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series72026.ics
-```
-
-### Series 8 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series82026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series82026.ics
 ```
 
 </details>
@@ -151,49 +121,7 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SuperDraculan/Seaso
 
 </details>
 
-<details>
-<summary>Thunderpick World Championship</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/ThunderpickWorldChampionship.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/ThunderpickWorldChampionship.ics
-```
-
----
-
-### South American Series #1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/SouthAmericanSeries12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/SouthAmericanSeries12026.ics
-```
-
-</details>
-
 ## D Tier
-
-<details>
-<summary>CCT Europe</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics
-```
-
----
-
-### Challengers Series season 4 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ChallengersSeriesSeason42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ChallengersSeriesSeason42026.ics
-```
-
-</details>
 
 <details>
 <summary>DACH CS Masters</summary>
@@ -287,27 +215,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/EuropeanFinals
 </details>
 
 <details>
-<summary>European Pro League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
-```
-
----
-
-### Series 8 Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series8ClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series8ClosedQualifier2026.ics
-```
-
-</details>
-
-<details>
 <summary>Gamers Club Liga Série A</summary>
 
 ### Full Schedule
@@ -324,27 +231,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/June2026.ics
-```
-
-</details>
-
-<details>
-<summary>LG UltraGear Tournament</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LgUltragearTournament/LgUltragearTournament.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LgUltragearTournament/LgUltragearTournament.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LgUltragearTournament/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LgUltragearTournament/2026.ics
 ```
 
 </details>
@@ -499,27 +385,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season5020
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season512026.ics
-```
-
-</details>
-
-<details>
-<summary>Urban Riga</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/UrbanRiga.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/UrbanRiga.ics
-```
-
----
-
-### Open #5 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open52026.ics
 ```
 
 </details>
