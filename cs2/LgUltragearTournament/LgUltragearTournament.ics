@@ -46,8 +46,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
 DURATION:PT2H
-DTSTART:20260625T120000Z
-SUMMARY:Decider match: DEPO vs TBD
+DTSTART:20260625T121000Z
+SUMMARY:Decider match: DEPO vs CSH.P
 UID:cs-go-lg-ultragear-tournament-2026-1550181@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-lg-ultragear-tournament-2026-1550183@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cybershoke_tv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nResult: WRAITH PCIFIC: 2 | CYBERSHOKE Prospects: 1\nStream: https://www.twitch.tv/cybershoke_tv
+DTEND:20260625T114902Z
 DTSTART:20260625T085415Z
 SUMMARY:Winners match: PCIFIC vs CSH.P
 UID:cs-go-lg-ultragear-tournament-2026-1550179@tournamentics
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
 DURATION:PT2H
-DTSTART:20260625T120000Z
+DTSTART:20260625T123000Z
 SUMMARY:Decider match: RE vs TBD
 UID:cs-go-lg-ultragear-tournament-2026-1550176@tournamentics
 END:VEVENT
