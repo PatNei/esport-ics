@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260629T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: JUL vs TBD
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553988@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -656,7 +656,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260629T103000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: ENJOY vs TBD
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553987@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1717,8 +1717,8 @@ SUMMARY:TLR vs hindsight
 UID:cs-go-esea-advanced-europe-57-2026-1436244@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ENJOY: 2 | Julie&cie: 0\nStream: https://www.kick.com/eplcs_en
+DTEND:20260625T095133Z
 DTSTART:20260625T081746Z
 SUMMARY:ENJOY vs JUL
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553985@tournamentics
@@ -2732,9 +2732,9 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-xse-pro-league-2026-1551629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
+DESCRIPTION:🔴 LIVE NOW\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
 DURATION:PT2H
-DTSTART:20260625T094000Z
+DTSTART:20260625T094903Z
 SUMMARY:Elimination match: GAMEPOINT vs RE
 UID:cs-go-lg-ultragear-tournament-2026-1550175@tournamentics
 END:VEVENT
@@ -3334,9 +3334,9 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-xse-pro-league-2026-1551628@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nStream: https://kick.com/mio
+DESCRIPTION:🔴 LIVE NOW\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nStream: https://kick.com/mio
 DURATION:PT2H
-DTSTART:20260625T094000Z
+DTSTART:20260625T095027Z
 SUMMARY:Winners match: THE vs NVQ
 UID:cs-go-lg-ultragear-tournament-2026-1550174@tournamentics
 END:VEVENT
