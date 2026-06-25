@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260625T180000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: SASHI vs TBD
 UID:cs-go-draculan-7-2026-1545503@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:3rd place decider: TBD vs TBD
 UID:cs-go-draculan-7-2026-1545557@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Sashi Esport: 2 | AM Gaming: 1\nStream: https://kick.com/draculancs
+DTEND:20260625T121124Z
 DTSTART:20260625T090540Z
 SUMMARY:Lower bracket semifinal 2: SASHI vs AM
 UID:cs-go-draculan-7-2026-1545502@tournamentics
@@ -156,9 +156,9 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-draculan-7-2026-1545553@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260625T120000Z
+DTSTART:20260625T115956Z
 SUMMARY:Lower bracket semifinal 1: EAC vs BCA
 UID:cs-go-draculan-7-2026-1545549@tournamentics
 END:VEVENT
