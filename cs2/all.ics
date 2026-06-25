@@ -859,7 +859,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260625T180000Z
-SUMMARY:Lower bracket final: SASHI vs TBD
+SUMMARY:Lower bracket final: SASHI vs ICE
 UID:cs-go-draculan-7-2026-1545503@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1913,8 +1913,8 @@ SUMMARY:OldBoys vs ARCH
 UID:cs-go-esea-advanced-europe-57-2026-1433385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | 9INE: 1\nStream: https://kick.com/draculancs
+DTEND:20260625T160100Z
 DTSTART:20260625T124125Z
 SUMMARY:Lower bracket semifinal 1: ICE vs 9INE
 UID:cs-go-draculan-7-2026-1545501@tournamentics
@@ -3175,7 +3175,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260625T160000Z
+DTSTART:20260625T161500Z
 SUMMARY:Upper bracket final: ACE vs SHK
 UID:cs-go-draculan-7-2026-1545498@tournamentics
 END:VEVENT
