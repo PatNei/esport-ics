@@ -858,7 +858,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260625T180000Z
+DTSTART:20260625T190000Z
 SUMMARY:Lower bracket final: SASHI vs ICE
 UID:cs-go-draculan-7-2026-1545503@tournamentics
 END:VEVENT
@@ -2196,7 +2196,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260626T210000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Keyd vs TBD
 UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1547976@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2396,8 +2396,8 @@ SUMMARY:Round 3: FAL vs MNTE
 UID:cs-go-iem-cologne-major-2026-1513139@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: ECHO: 2 | Walczaki: 1\nStream: https://kick.com/draculancs
+DTEND:20260625T175735Z
 DTSTART:20260625T150452Z
 SUMMARY:Upper bracket final: ECHO vs WAL
 UID:cs-go-draculan-7-2026-1545546@tournamentics
@@ -3425,8 +3425,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-xse-pro-league-2026-1551605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nResult: Keyd: 0 | UNO MILLE: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260625T175409Z
 DTSTART:20260625T161216Z
 SUMMARY:Winners match: Keyd vs UNO
 UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1547974@tournamentics
@@ -6276,7 +6276,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260625T180000Z
+DTSTART:20260625T182000Z
 SUMMARY:Lower bracket final: INF vs BCA
 UID:cs-go-draculan-7-2026-1545551@tournamentics
 END:VEVENT
