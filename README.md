@@ -291,13 +291,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/Esea.ics
 
 ---
 
-### Advanced Europe season 57 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/AdvancedEuropeSeason572026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/AdvancedEuropeSeason572026.ics
-```
-
 ### European Finals season 57 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/EuropeanFinalsSeason572026.ics)
 
