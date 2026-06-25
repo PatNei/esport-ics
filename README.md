@@ -413,27 +413,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 </details>
 
 <details>
-<summary>NSTLGA League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NstlgaLeague/NstlgaLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NstlgaLeague/NstlgaLeague.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NstlgaLeague/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NstlgaLeague/Season12026.ics
-```
-
-</details>
-
-<details>
 <summary>Rainhas do Clutch FERJEE</summary>
 
 ### Full Schedule
