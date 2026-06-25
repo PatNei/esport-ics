@@ -509,7 +509,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
 DURATION:PT2H
 DTSTART:20260625T090000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: PCIFIC vs CSH.P
 UID:cs-go-lg-ultragear-tournament-2026-1550179@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1010,8 +1010,8 @@ SUMMARY:3rd Place match: ATRIX vs TBD
 UID:cs-go-rainhas-do-clutch-ferjee-2026-1544944@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cybershoke_tv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | Dark Moon: 0\nStream: https://www.twitch.tv/cybershoke_tv
+DTEND:20260625T081601Z
 DTSTART:20260625T062105Z
 SUMMARY:CSH.P vs DM
 UID:cs-go-lg-ultragear-tournament-2026-1550178@tournamentics
@@ -1563,8 +1563,8 @@ SUMMARY:Semifinal 2: CC.FE vs MIBR.F
 UID:cs-go-rainhas-do-clutch-ferjee-2026-1544943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mariomax11
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nResult: DEPO: 0 | WRAITH PCIFIC: 2\nStream: https://www.twitch.tv/mariomax11
+DTEND:20260625T081258Z
 DTSTART:20260625T062314Z
 SUMMARY:DEPO vs PCIFIC
 UID:cs-go-lg-ultragear-tournament-2026-1550177@tournamentics
@@ -1710,9 +1710,9 @@ SUMMARY:TLR vs hindsight
 UID:cs-go-esea-advanced-europe-57-2026-1436244@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260625T080000Z
+DTSTART:20260625T081746Z
 SUMMARY:ENJOY vs JUL
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553985@tournamentics
 END:VEVENT
@@ -6634,7 +6634,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
 DURATION:PT2H
 DTSTART:20260625T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: DEPO vs DM
 UID:cs-go-lg-ultragear-tournament-2026-1550180@tournamentics
 END:VEVENT
 BEGIN:VEVENT
