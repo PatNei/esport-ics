@@ -2994,7 +2994,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
 DURATION:PT2H
 DTSTART:20260626T123000Z
-SUMMARY:Grand final: CSH.P vs TBD
+SUMMARY:Grand final: CSH.P vs PCF
 UID:cs-go-lg-ultragear-tournament-2026-1550184@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3425,8 +3425,8 @@ SUMMARY:Round 3: OXUJI vs BL
 UID:cs-go-cct-europe-series-4-2026-1519579@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LG UltraGear Tournament - 2026\nMatch Type: Best Of\nResult: PCIFIC: 2 | Rune Eaters: 1\nStream: https://www.twitch.tv/myskill_top
+DTEND:20260626T122546Z
 DTSTART:20260626T085115Z
 SUMMARY:Semifinal 2: PCF vs RE
 UID:cs-go-lg-ultragear-tournament-2026-1550183@tournamentics
@@ -3628,8 +3628,8 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-cct-europe-challengers-series-4-2026-1550168@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: Prestige: 2 | Millennium Esports: 0\nStream: https://kick.com/united21_en
+DTEND:20260626T122139Z
 DTSTART:20260626T103512Z
 SUMMARY:Upper bracket quarterfinal 4: PRE vs ME
 UID:cs-go-united21-51-2026-1555601@tournamentics
