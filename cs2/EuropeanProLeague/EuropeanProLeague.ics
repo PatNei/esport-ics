@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260630T080000Z
-SUMMARY:Elimination match: DNT vs TBD
+SUMMARY:Elimination match: DNT vs FOR
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553993@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260630T103000Z
-SUMMARY:Winners match: Entropy vs TBD
+SUMMARY:Winners match: Entropy vs EJ
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553992@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -459,7 +459,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260626T133000Z
+DTSTART:20260626T131500Z
 SUMMARY:ex-Sashi Academy vs EP
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553986@tournamentics
 END:VEVENT
@@ -569,8 +569,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553994@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Fortress: 0 | Endless Journey: 2\nStream: https://www.kick.com/eplcs_en
+DTEND:20260626T124910Z
 DTSTART:20260626T114420Z
 SUMMARY:FOR vs EJ
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553991@tournamentics
