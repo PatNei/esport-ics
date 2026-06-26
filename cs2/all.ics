@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260629T080000Z
-SUMMARY:Elimination match: JUL vs TBD
+SUMMARY:Elimination match: JUL vs EP
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553988@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -453,7 +453,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260629T103000Z
-SUMMARY:Winners match: ENJOY vs TBD
+SUMMARY:Winners match: ENJOY vs ex-Sashi Academy
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553987@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -688,8 +688,8 @@ SUMMARY:Round 1: GH vs VEXA
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555095@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Rainhas do Clutch FERJEE - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Rainhas do Clutch FERJEE - 2026\nMatch Type: Best Of\nResult: Atrix Esports: 0 | Clutchain Female: 2\nStream: https://www.twitch.tv/ferjeeoficial
+DTEND:20260626T165549Z
 DTSTART:20260626T140903Z
 SUMMARY:3rd Place match: ATRIX vs CC.FE
 UID:cs-go-rainhas-do-clutch-ferjee-2026-1544944@tournamentics
@@ -821,8 +821,8 @@ SUMMARY:Quarterfinal 3: K27 vs ACE
 UID:cs-go-stake-ranked-episode-3-closed-qualifier-2026-1543920@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ex-Sashi Academy: 2 | eternal premium: 1\nStream: https://www.kick.com/eplcs_en
+DTEND:20260626T170240Z
 DTSTART:20260626T134006Z
 SUMMARY:ex-Sashi Academy vs EP
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553986@tournamentics
