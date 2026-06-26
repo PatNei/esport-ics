@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260627T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: ARGOS vs TBD
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555290@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -93,8 +93,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ARGOS: 0 | Avtostopom Po Galaktike: 2\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260626T094900Z
 DTSTART:20260626T080951Z
 SUMMARY:ARGOS vs Avtostopom Po Galaktike
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555287@tournamentics
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260627T080000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: Avtostopom Po Galaktike vs TBD
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555289@tournamentics
 END:VEVENT
 END:VCALENDAR
