@@ -2221,9 +2221,9 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553994@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
+DESCRIPTION:🔴 LIVE NOW\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
 DURATION:PT2H
-DTSTART:20260626T164500Z
+DTSTART:20260626T164850Z
 SUMMARY:Upper bracket semifinal 1: roamsfiest vs train launcher
 UID:cs-go-svenska-cs-ligan-2026-1545966@tournamentics
 END:VEVENT
@@ -3169,7 +3169,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260627T120000Z
-SUMMARY:Semifinal 1: TBD vs SHK
+SUMMARY:Semifinal 1: ICE vs SHK
 UID:cs-go-draculan-7-2026-1545554@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3600,8 +3600,8 @@ SUMMARY:Round 4: BB vs VIT
 UID:cs-go-iem-cologne-major-2026-1513146@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Walczaki: 0 | Inner Circle Esports: 2\nStream: https://kick.com/draculancs
+DTEND:20260626T164805Z
 DTSTART:20260626T150659Z
 SUMMARY:Quarterfinal 2: WAL vs ICE
 UID:cs-go-draculan-7-2026-1545553@tournamentics
