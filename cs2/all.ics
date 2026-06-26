@@ -425,7 +425,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
 DURATION:PT2H
 DTSTART:20260627T100000Z
-SUMMARY:Lower bracket semifinal: JS vs TBD
+SUMMARY:Lower bracket semifinal: JS vs roamsfiest
 UID:cs-go-svenska-cs-ligan-2026-1545970@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1370,7 +1370,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
 DURATION:PT2H
 DTSTART:20260626T190000Z
-SUMMARY:Upper bracket final: RT vs TBD
+SUMMARY:Upper bracket final: RT vs train launcher
 UID:cs-go-svenska-cs-ligan-2026-1545968@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2214,8 +2214,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553994@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nResult: roamsfiest: 0 | train launcher: 2\nStream: https://www.twitch.tv/fragbite
+DTEND:20260626T181052Z
 DTSTART:20260626T164850Z
 SUMMARY:Upper bracket semifinal 1: roamsfiest vs train launcher
 UID:cs-go-svenska-cs-ligan-2026-1545966@tournamentics
@@ -3698,9 +3698,9 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1549554@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260626T180000Z
+DTSTART:20260626T180638Z
 SUMMARY:Decider match: MIBR.A vs ISG
 UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1547971@tournamentics
 END:VEVENT
