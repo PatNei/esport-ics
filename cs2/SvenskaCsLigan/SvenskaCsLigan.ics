@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
 DURATION:PT2H
 DTSTART:20260627T130000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: train launcher vs TBD
 UID:cs-go-svenska-cs-ligan-2026-1545971@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -75,12 +75,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
 DURATION:PT2H
 DTSTART:20260627T170000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: RT vs TBD
 UID:cs-go-svenska-cs-ligan-2026-1545972@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nResult: ReThink: 2 | train launcher: 1\nStream: https://www.twitch.tv/fragbite
+DTEND:20260626T214946Z
 DTSTART:20260626T190426Z
 SUMMARY:Upper bracket final: RT vs train launcher
 UID:cs-go-svenska-cs-ligan-2026-1545968@tournamentics
