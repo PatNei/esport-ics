@@ -866,7 +866,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260627T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: OMG vs TBD
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1440,7 +1440,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260627T080000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: TS.A vs TBD
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555279@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2298,8 +2298,8 @@ SUMMARY:Round 4: G2 vs LGC
 UID:cs-go-iem-cologne-major-2026-1513149@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Omega: 0 | Spirit Academy: 2\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260626T093441Z
 DTSTART:20260626T080948Z
 SUMMARY:OMG vs TS.A
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555277@tournamentics
@@ -2959,7 +2959,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260630T200000Z
-SUMMARY:ALKA vs paiN.A
+SUMMARY:Decider match: ALKA vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1557770@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3752,6 +3752,13 @@ DTEND:20260602T192508Z
 DTSTART:20260602T185054Z
 SUMMARY:Round 2: BIG vs GG
 UID:cs-go-iem-cologne-major-2026-1508628@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | ODDIK Academy: 0\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260625T220000Z
+SUMMARY:Elimination match: paiN.A vs ODK.A
+UID:cs-go-gamers-club-liga-serie-a-june-2026-1557872@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Monte: 1 | BetBoom Team: 2\nStream: https://www.twitch.tv/ESLCS

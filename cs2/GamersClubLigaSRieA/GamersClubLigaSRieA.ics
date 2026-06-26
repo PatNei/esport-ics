@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260630T200000Z
-SUMMARY:ALKA vs paiN.A
+SUMMARY:Decider match: ALKA vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1557770@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -42,6 +42,13 @@ DTEND:20260615T220952Z
 DTSTART:20260615T211426Z
 SUMMARY:QUIN vs BST.A
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1536143@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | ODDIK Academy: 0\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260625T220000Z
+SUMMARY:Elimination match: paiN.A vs ODK.A
+UID:cs-go-gamers-club-liga-serie-a-june-2026-1557872@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: QUINTESSÊNCIA: 2 | 4M: 0\nStream: No official stream linked
