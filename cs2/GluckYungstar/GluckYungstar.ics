@@ -40,12 +40,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260627T170000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: NEXORA vs TBD
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555295@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ENJOY: 2 | NEXORA: 0\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260626T154325Z
 DTSTART:20260626T140045Z
 SUMMARY:ENJOY vs NEXORA
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555292@tournamentics
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260627T140000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: ENJOY vs TBD
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555294@tournamentics
 END:VEVENT
 BEGIN:VEVENT
