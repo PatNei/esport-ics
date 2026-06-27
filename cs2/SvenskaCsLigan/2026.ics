@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nResult: train launcher: 0 | roamsfiest: 2\nStream: https://www.twitch.tv/fragbite
+DTEND:20260627T161516Z
 DTSTART:20260627T142214Z
 SUMMARY:Lower bracket final: train launcher vs roamsfiest
 UID:cs-go-svenska-cs-ligan-2026-1545971@tournamentics
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
 DURATION:PT2H
 DTSTART:20260627T170000Z
-SUMMARY:Grand final: RT vs TBD
+SUMMARY:Grand final: RT vs roamsfiest
 UID:cs-go-svenska-cs-ligan-2026-1545972@tournamentics
 END:VEVENT
 BEGIN:VEVENT
