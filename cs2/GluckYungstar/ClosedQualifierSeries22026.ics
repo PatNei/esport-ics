@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ARGOS: 1 | MONSTROUS: 2\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260627T134102Z
 DTSTART:20260627T110226Z
 SUMMARY:Elimination match: ARGOS vs MONSTROUS
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555290@tournamentics
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260628T110000Z
-SUMMARY:Decider match: Avtostopom Po Galaktike vs TBD
+SUMMARY:Decider match: Avtostopom Po Galaktike vs MONSTROUS
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
