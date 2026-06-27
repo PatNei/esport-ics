@@ -422,9 +422,9 @@ SUMMARY:Round 1: TS vs BB
 UID:cs-go-iem-cologne-major-2026-1508647@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
+DESCRIPTION:🔴 LIVE NOW\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragbite
 DURATION:PT2H
-DTSTART:20260627T100000Z
+DTSTART:20260627T100452Z
 SUMMARY:Lower bracket semifinal: JS vs roamsfiest
 UID:cs-go-svenska-cs-ligan-2026-1545970@tournamentics
 END:VEVENT
@@ -474,7 +474,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260628T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: TS.A vs TBD
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555281@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1430,8 +1430,8 @@ SUMMARY:Elimination match: ARGOS vs MONSTROUS
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555290@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Spirit Academy: 0 | Just Players: 2\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260627T101002Z
 DTSTART:20260627T081345Z
 SUMMARY:Winners match: TS.A vs Just Players
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555279@tournamentics
