@@ -385,27 +385,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LgUltragearTourname
 </details>
 
 <details>
-<summary>NODWIN Clutch Series</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/NodwinClutchSeries.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/NodwinClutchSeries.ics
-```
-
----
-
-### Season 9 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season92026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season92026.ics
-```
-
-</details>
-
-<details>
 <summary>Rainhas do Clutch FERJEE</summary>
 
 ### Full Schedule

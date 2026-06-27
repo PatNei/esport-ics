@@ -282,18 +282,18 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554007@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: Infinite: 2 | Virtus.pro: 1\nStream: https://kick.com/eplcs_en
-DTEND:20260614T163142Z
-DTSTART:20260614T133623Z
-SUMMARY:Round 16 match 2: INF vs VP
-UID:cs-go-european-pro-league-series-7-2026-1504769@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260706T080000Z
 SUMMARY:TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554004@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: Infinite: 2 | Virtus.pro: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260614T163142Z
+DTSTART:20260614T133623Z
+SUMMARY:Round 16 match 2: INF vs VP
+UID:cs-go-european-pro-league-series-7-2026-1504769@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | Virtus.pro: 0\nStream: https://kick.com/eplcs_en
@@ -380,18 +380,18 @@ SUMMARY:TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554015@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: TDK: 1 | Walczaki: 2\nStream: https://kick.com/eplcs_en
-DTEND:20260618T131242Z
-DTSTART:20260618T103244Z
-SUMMARY:Quarterfinal 2: TDK vs WAL
-UID:cs-go-european-pro-league-series-7-2026-1504777@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260711T080000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554012@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: TDK: 1 | Walczaki: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260618T131242Z
+DTSTART:20260618T103244Z
+SUMMARY:Quarterfinal 2: TDK vs WAL
+UID:cs-go-european-pro-league-series-7-2026-1504777@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: Acend: 2 | Lavked: 1\nStream: https://kick.com/eplcs_en
