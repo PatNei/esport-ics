@@ -107,6 +107,13 @@ SUMMARY:Winners match: CLS vs ESB
 UID:cs-go-united21-51-2026-1540260@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260628T103000Z
+SUMMARY:Upper bracket semifinal 2: INF vs PRE
+UID:cs-go-united21-51-2026-1560514@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: eSuba: 1 | ex-MANA eSports: 2\nStream: https://kick.com/united21_en
 DTEND:20260625T111300Z
 DTSTART:20260625T080352Z
@@ -154,5 +161,12 @@ DTEND:20260626T122139Z
 DTSTART:20260626T103512Z
 SUMMARY:Upper bracket quarterfinal 4: PRE vs ME
 UID:cs-go-united21-51-2026-1555601@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260628T080000Z
+SUMMARY:Upper bracket semifinal 1: ex-MANA vs ADN
+UID:cs-go-united21-51-2026-1560513@tournamentics
 END:VEVENT
 END:VCALENDAR
