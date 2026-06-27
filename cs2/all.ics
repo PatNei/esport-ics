@@ -474,7 +474,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260628T080000Z
-SUMMARY:Decider match: TS.A vs TBD
+SUMMARY:Decider match: TS.A vs OMG
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555281@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -854,13 +854,6 @@ DTEND:20260615T203936Z
 DTSTART:20260615T170058Z
 SUMMARY:Round 5: NAVI vs G2
 UID:cs-go-iem-cologne-major-2026-1513152@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
-DTSTART:20260627T110000Z
-SUMMARY:Elimination match: OMG vs SHISHKA
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #4 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | INOX Division: 1\nStream: https://kick.com/cct_cs2
