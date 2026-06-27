@@ -2718,9 +2718,9 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554013@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/TESFED
+DESCRIPTION:🔴 LIVE NOW\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/TESFED
 DURATION:PT2H
-DTSTART:20260627T160000Z
+DTSTART:20260627T160759Z
 SUMMARY:Lower bracket quarterfinal 1: FF vs FUT.T
 UID:cs-go-tesfed-league-3-2026-1527912@tournamentics
 END:VEVENT
@@ -3337,7 +3337,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260628T140000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: DNT vs TBD
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555286@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4167,8 +4167,8 @@ SUMMARY:Elimination match: MIBR.A vs MW
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1543903@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: QUAZAR: 2 | Donstu Esports: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260627T155944Z
 DTSTART:20260627T140331Z
 SUMMARY:Winners match: QUA vs DNT
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555284@tournamentics
@@ -4447,9 +4447,9 @@ SUMMARY:TAZ vs R4G
 UID:cs-go-dach-cs-masters-5-2026-1385756@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260627T160000Z
+DTSTART:20260627T160446Z
 SUMMARY:Quarterfinal 2: BHE vs UNO
 UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1549552@tournamentics
 END:VEVENT
