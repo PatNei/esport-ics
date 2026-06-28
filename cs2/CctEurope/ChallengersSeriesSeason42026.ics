@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nResult: Lilmix: 1 | Subtop De France: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260628T165600Z
 DTSTART:20260628T140154Z
 SUMMARY:Upper bracket round 1 match 7: LILMIX vs Subtop De France
 UID:cs-go-cct-europe-challengers-series-4-2026-1550148@tournamentics
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260630T134500Z
-SUMMARY:Upper bracket quarterfinal 4: JUL vs TBD
+SUMMARY:Upper bracket quarterfinal 4: JUL vs Subtop De France
 UID:cs-go-cct-europe-challengers-series-4-2026-1550157@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260630T110000Z
-SUMMARY:Lower bracket round 1 match 4: NEW VISION vs TBD
+SUMMARY:Lower bracket round 1 match 4: NEW VISION vs LILMIX
 UID:cs-go-cct-europe-challengers-series-4-2026-1550155@tournamentics
 END:VEVENT
 BEGIN:VEVENT
