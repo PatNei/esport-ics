@@ -191,18 +191,18 @@ SUMMARY:ISG vs MIBR.A
 UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1547968@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260702T103000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553999@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260703T220000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555120@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260702T103000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553999@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -378,13 +378,6 @@ DTEND:20260627T134210Z
 DTSTART:20260627T100452Z
 SUMMARY:Lower bracket semifinal: JS vs roamsfiest
 UID:cs-go-svenska-cs-ligan-2026-1545970@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Ding Cuts: 2 | DXA Esports: 0\nStream: https://www.twitch.tv/ngsabyts
-DTEND:20260610T102557Z
-DTSTART:20260610T083136Z
-SUMMARY:DC vs DXA
-UID:cs-go-dfrag-open-series-open-series-5-2026-1528517@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3: Closed Qualifier 2026\nMatch Type: Best Of\nResult: ECHO: 2 | Inner Circle Esports: 1\nStream: https://kick.com/starladder
@@ -716,13 +709,6 @@ SUMMARY:BIG.A vs LEI
 UID:cs-go-dach-cs-masters-5-2026-1385719@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Masked Regime: 1\nStream: https://www.twitch.tv/flamboyantttt
-DTEND:20260610T110228Z
-DTSTART:20260610T083643Z
-SUMMARY:GZ vs MR
-UID:cs-go-dfrag-open-series-open-series-5-2026-1528516@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260724T080000Z
@@ -912,13 +898,6 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Ding Cuts: 1 | DXA Esports: 2\nStream: https://www.twitch.tv/dfragtv
-DTEND:20260612T114101Z
-DTSTART:20260612T085958Z
-SUMMARY:Decider match: DC vs DXA
-UID:cs-go-dfrag-open-series-open-series-5-2026-1526033@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: Infinite: 2 | Oxuji Esports: 1\nStream: https://kick.com/eplcs_en
 DTEND:20260618T162708Z
 DTSTART:20260618T133629Z
@@ -1038,13 +1017,6 @@ SUMMARY:FROX vs Ducks
 UID:cs-go-dach-cs-masters-5-2026-1385718@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Rooster: 2 | MARKandLARRY: 0\nStream: https://www.twitch.tv/synkloites
-DTEND:20260608T101752Z
-DTSTART:20260608T084616Z
-SUMMARY:RSTR vs MandL
-UID:cs-go-dfrag-open-series-open-series-5-2026-1528515@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ENJOY: 2 | Julie&cie: 0\nStream: https://www.kick.com/eplcs_en
 DTEND:20260625T095133Z
 DTSTART:20260625T081746Z
@@ -1071,13 +1043,6 @@ DTEND:20260602T190907Z
 DTSTART:20260602T181205Z
 SUMMARY:Round 2: GL vs FLY
 UID:cs-go-iem-cologne-major-2026-1508622@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Rooster: 2 | DXA Esports: 1\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260617T112625Z
-DTSTART:20260617T085606Z
-SUMMARY:Lower bracket final: RSTR vs DXA
-UID:cs-go-dfrag-open-series-open-series-5-2026-1525875@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | FUT Esports: 0\nStream: https://www.twitch.tv/ESLCS
@@ -1297,13 +1262,6 @@ SUMMARY:Lower bracket final: MISA vs TBD
 UID:cs-go-tesfed-league-3-2026-1527915@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: DXA Esports: 2 | Masked Regime: 0\nStream: https://www.twitch.tv/onlyjoshintv
-DTEND:20260611T100719Z
-DTSTART:20260611T083251Z
-SUMMARY:Elimination match: DXA vs MR
-UID:cs-go-dfrag-open-series-open-series-5-2026-1526032@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: SPARTA: 1 | INOX Division: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260617T145022Z
 DTSTART:20260617T114957Z
@@ -1409,13 +1367,6 @@ SUMMARY:Round 5: TYLOO vs LVG
 UID:cs-go-iem-cologne-major-2026-1508644@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Abyssal: 2 | MGLBROS: 0\nStream: https://www.twitch.tv/churchd0gg
-DTEND:20260608T100152Z
-DTSTART:20260608T084630Z
-SUMMARY:Abyssal vs MGLBROS
-UID:cs-go-dfrag-open-series-open-series-5-2026-1528514@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260703T080000Z
@@ -1442,13 +1393,6 @@ DTEND:20260602T162521Z
 DTSTART:20260602T153102Z
 SUMMARY:Round 2: HERO vs LVG
 UID:cs-go-iem-cologne-major-2026-1508621@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: MARKandLARRY: 1 | DXA Esports: 2\nStream: https://www.twitch.tv/flamboyantttt
-DTEND:20260616T111348Z
-DTSTART:20260616T083813Z
-SUMMARY:Lower bracket semifinal: MandL vs DXA
-UID:cs-go-dfrag-open-series-open-series-5-2026-1525874@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: 9z: 2 | TheMongolz: 0\nStream: https://www.twitch.tv/ESLCS
@@ -1598,18 +1542,18 @@ SUMMARY:Quarterfinal 1: FOKUS vs CS
 UID:cs-go-stake-ranked-episode-3-closed-qualifier-2026-1543918@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260722T103000Z
-SUMMARY:Semifinal 2: TBD vs TBD
-UID:cs-go-european-pro-league-series-8-2026-1554038@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260629T220000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555105@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260722T103000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-european-pro-league-series-8-2026-1554038@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nResult: Banger Gang: 1 | FULLPOWER: 2\nStream: https://www.twitch.tv/TESFED
@@ -1673,13 +1617,6 @@ DURATION:PT2H
 DTSTART:20260708T103000Z
 SUMMARY:TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554015@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Ding Cuts: 0\nStream: https://www.twitch.tv/flamboyantttt
-DTEND:20260611T095230Z
-DTSTART:20260611T083453Z
-SUMMARY:Winners match: GZ vs DC
-UID:cs-go-dfrag-open-series-open-series-5-2026-1526031@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/TESFED
@@ -1836,13 +1773,6 @@ SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554026@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Ground Zero: 1 | Rooster: 2\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260618T105833Z
-DTSTART:20260618T084002Z
-SUMMARY:Grand final: GZ vs RSTR
-UID:cs-go-dfrag-open-series-open-series-5-2026-1525873@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | G2: 0\nStream: https://www.twitch.tv/ESLCS
 DTEND:20260613T141409Z
 DTSTART:20260613T122115Z
@@ -1976,11 +1906,11 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554037@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3: Closed Qualifier 2026\nMatch Type: Best Of\nResult: ECHO: 2 | KOLESIE: 1\nStream: https://kick.com/starladder
-DTEND:20260618T180927Z
-DTSTART:20260618T150639Z
-SUMMARY:Round of 16 match 8: ECHO vs KOL
-UID:cs-go-stake-ranked-episode-3-closed-qualifier-2026-1543917@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260629T190000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
@@ -1990,11 +1920,11 @@ SUMMARY:Upper bracket semifinal 2: INF vs PRE
 UID:cs-go-united21-51-2026-1560514@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260629T190000Z
-SUMMARY:Round 2: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555104@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3: Closed Qualifier 2026\nMatch Type: Best Of\nResult: ECHO: 2 | KOLESIE: 1\nStream: https://kick.com/starladder
+DTEND:20260618T180927Z
+DTSTART:20260618T150639Z
+SUMMARY:Round of 16 match 8: ECHO vs KOL
+UID:cs-go-stake-ranked-episode-3-closed-qualifier-2026-1543917@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Liquid: 0 | MIBR: 1\nStream: https://www.twitch.tv/ESLCS
@@ -2228,13 +2158,6 @@ SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554025@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Rooster: 0\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260616T102252Z
-DTSTART:20260616T084053Z
-SUMMARY:Upper bracket final: GZ vs RSTR
-UID:cs-go-dfrag-open-series-open-series-5-2026-1525872@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: B8: 1 | FUT Esports: 2\nStream: https://www.twitch.tv/eslcsb
 DTEND:20260613T115335Z
 DTSTART:20260613T090052Z
@@ -2298,18 +2221,18 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-xse-pro-league-2026-1551616@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #5 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
-DURATION:PT2H
-DTSTART:20260629T160000Z
-SUMMARY:3rd place match: TBD vs TBD
-UID:cs-go-urban-riga-open-5-2026-1551595@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260708T160000Z
 SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555149@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #5 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
+DURATION:PT2H
+DTSTART:20260629T160000Z
+SUMMARY:3rd place match: TBD vs TBD
+UID:cs-go-urban-riga-open-5-2026-1551595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Legacy: 1 | FlyQuest: 0\nStream: https://www.twitch.tv/eslcsb
@@ -2368,11 +2291,11 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554036@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | Spirit Academy: 0\nStream: https://kick.com/starladder
-DTEND:20260618T195614Z
-DTSTART:20260618T183652Z
-SUMMARY:Round of 16 match 7: ICE vs TS.A
-UID:cs-go-stake-ranked-episode-3-closed-qualifier-2026-1543916@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260629T160000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Alpha Dominion Nation: 0\nStream: https://kick.com/united21_en
@@ -2382,11 +2305,11 @@ SUMMARY:Upper bracket semifinal 1: ex-MANA vs ADN
 UID:cs-go-united21-51-2026-1560513@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260629T160000Z
-SUMMARY:Round 2: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555103@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | Spirit Academy: 0\nStream: https://kick.com/starladder
+DTEND:20260618T195614Z
+DTSTART:20260618T183652Z
+SUMMARY:Round of 16 match 7: ICE vs TS.A
+UID:cs-go-stake-ranked-episode-3-closed-qualifier-2026-1543916@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Sharks: 0 | Lynn Vision: 1\nStream: https://www.twitch.tv/ESLCSb
@@ -2578,13 +2501,6 @@ SUMMARY:FROX vs WAVE
 UID:cs-go-dach-cs-masters-5-2026-1385714@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: MGLBROS: 0 | MARKandLARRY: 2\nStream: https://www.twitch.tv/ishmahl
-DTEND:20260609T094910Z
-DTSTART:20260609T083642Z
-SUMMARY:Elimination match: MGLBROS vs MandL
-UID:cs-go-dfrag-open-series-open-series-5-2026-1525975@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: OlyBet SB: 1 | Subtop De France: 2\nStream: https://www.kick.com/eplcs_en
 DTEND:20260625T160857Z
 DTSTART:20260625T134606Z
@@ -2618,13 +2534,6 @@ DTEND:20260617T185944Z
 DTSTART:20260617T174541Z
 SUMMARY:Round 2 match  4: SNG vs WBT
 UID:cs-go-esea-european-finals-57-2026-1542819@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | MARKandLARRY: 0\nStream: https://www.twitch.tv/flamboyantttt
-DTEND:20260615T094203Z
-DTSTART:20260615T081330Z
-SUMMARY:Upper bracket semifinal 2: GZ vs MandL
-UID:cs-go-dfrag-open-series-open-series-5-2026-1525871@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: Walczaki: 3 | KOLESIE: 2\nStream: https://kick.com/eplcs_en
@@ -2704,18 +2613,18 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-xse-pro-league-2026-1551615@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #5 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
-DURATION:PT2H
-DTSTART:20260629T160000Z
-SUMMARY:Grand final: TBD vs TBD
-UID:cs-go-urban-riga-open-5-2026-1551594@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260708T130000Z
 SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555148@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #5 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
+DURATION:PT2H
+DTSTART:20260629T160000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-urban-riga-open-5-2026-1551594@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: G2: 1 | Monte: 0\nStream: https://www.twitch.tv/ESLCS
@@ -2760,13 +2669,6 @@ SUMMARY:R4G vs LEI
 UID:cs-go-dach-cs-masters-5-2026-1385725@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: MARKandLARRY: 2 | Abyssal: 1\nStream: https://www.twitch.tv/dfragtv
-DTEND:20260612T110844Z
-DTSTART:20260612T084240Z
-SUMMARY:Decider match: MandL vs Abyssal
-UID:cs-go-dfrag-open-series-open-series-5-2026-1525986@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Sashi Esport: 0 | Acend: 2\nStream: https://kick.com/draculancs
 DTEND:20260624T141757Z
 DTSTART:20260624T121358Z
@@ -2795,18 +2697,18 @@ SUMMARY:Round of 16 match 6: ACE vs 33
 UID:cs-go-stake-ranked-episode-3-closed-qualifier-2026-1543915@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260721T080000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
-UID:cs-go-european-pro-league-series-8-2026-1554035@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260629T130000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555102@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260721T080000Z
+SUMMARY:Quarterfinal 3: TBD vs TBD
+UID:cs-go-european-pro-league-series-8-2026-1554035@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: TYLOO: 0 | 9z: 2\nStream: https://www.twitch.tv/ESLCSb
@@ -2991,13 +2893,6 @@ SUMMARY:Round 3: NRG vs FLY
 UID:cs-go-iem-cologne-major-2026-1508629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Abyssal: 1 | Rooster: 2\nStream: https://www.twitch.tv/flamboyantttt
-DTEND:20260609T111853Z
-DTSTART:20260609T084056Z
-SUMMARY:Winners match: Abyssal vs RSTR
-UID:cs-go-dfrag-open-series-open-series-5-2026-1525974@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Honvéd: 0\nStream: https://www.kick.com/eplcs_en
 DTEND:20260624T100007Z
 DTSTART:20260624T082111Z
@@ -3024,13 +2919,6 @@ DTEND:20260617T203818Z
 DTSTART:20260617T174539Z
 SUMMARY:Round 2 match  3: banda chuya vs WC
 UID:cs-go-esea-european-finals-57-2026-1542818@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #5 2026\nMatch Type: Best Of\nResult: Rooster: 2 | DXA Esports: 0\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260615T101130Z
-DTSTART:20260615T084011Z
-SUMMARY:Upper bracket semifinal 1: RSTR vs DXA
-UID:cs-go-dfrag-open-series-open-series-5-2026-1525870@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: Infinite: 2 | INOX Division: 0\nStream: https://kick.com/eplcs_en
@@ -4020,11 +3908,11 @@ SUMMARY:Semifinal 2: ECHO vs K27
 UID:cs-go-stake-ranked-episode-3-closed-qualifier-2026-1543923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #4 2026\nMatch Type: Best Of\nResult: HOTU: 0 | GenOne: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260618T153858Z
-DTSTART:20260618T141340Z
-SUMMARY:Round of 16 match 3: HOTU vs G1
-UID:cs-go-cct-europe-series-4-2026-1519600@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260701T130000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555110@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
@@ -4034,11 +3922,11 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553989@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260701T130000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555110@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #4 2026\nMatch Type: Best Of\nResult: HOTU: 0 | GenOne: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260618T153858Z
+DTSTART:20260618T141340Z
+SUMMARY:Round of 16 match 3: HOTU vs G1
+UID:cs-go-cct-europe-series-4-2026-1519600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: GamerLegion: 1 | NRG: 0\nStream: https://www.twitch.tv/ESLCS
