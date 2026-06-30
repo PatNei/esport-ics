@@ -515,7 +515,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260630T134500Z
+DTSTART:20260630T135500Z
 SUMMARY:Upper bracket quarterfinal 1: EJ vs MISA
 UID:cs-go-cct-europe-challengers-series-4-2026-1550152@tournamentics
 END:VEVENT
@@ -688,8 +688,8 @@ SUMMARY:LEI vs BERG
 UID:cs-go-dach-cs-masters-5-2026-1385753@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: Prestige: 2 | Millennium Esports: 1\nStream: https://kick.com/united21_en
+DTEND:20260630T135758Z
 DTSTART:20260630T105603Z
 SUMMARY:Lower bracket semifinal: PRE vs ME
 UID:cs-go-united21-51-2026-1561954@tournamentics
@@ -3026,9 +3026,9 @@ SUMMARY:Semifinal 2: PCF vs RE
 UID:cs-go-lg-ultragear-tournament-2026-1550183@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260630T134500Z
+DTSTART:20260630T135528Z
 SUMMARY:Upper bracket quarterfinal 4: Subtop De France vs JUL
 UID:cs-go-cct-europe-challengers-series-4-2026-1550157@tournamentics
 END:VEVENT
@@ -3953,7 +3953,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260701T080000Z
-SUMMARY:Lower bracket final: ex-MANA vs TBD
+SUMMARY:Lower bracket final: ex-MANA vs PRE
 UID:cs-go-united21-51-2026-1562022@tournamentics
 END:VEVENT
 BEGIN:VEVENT
