@@ -10,29 +10,6 @@ Subscribe to every tournament at once:
 
 ---
 
-## S Tier
-
-<details>
-<summary>IEM</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Iem.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Iem.ics
-```
-
----
-
-### Cologne Major 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/CologneMajor2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/CologneMajor2026.ics
-```
-
-</details>
-
 ## A Tier
 
 <details>
@@ -317,27 +294,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/June2026.ics
-```
-
-</details>
-
-<details>
-<summary>GLuck Yungstar</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/GluckYungstar.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/GluckYungstar.ics
-```
-
----
-
-### Closed Qualifier: Series #2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/ClosedQualifierSeries22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/ClosedQualifierSeries22026.ics
 ```
 
 </details>
