@@ -196,6 +196,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldCha
 ## D Tier
 
 <details>
+<summary>BetBoom Streamers Battle</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStreamersBattle/BetboomStreamersBattle.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStreamersBattle/BetboomStreamersBattle.ics
+```
+
+---
+
+### Season 5 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStreamersBattle/Season52026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStreamersBattle/Season52026.ics
+```
+
+</details>
+
+<details>
 <summary>CCT Europe</summary>
 
 ### Full Schedule

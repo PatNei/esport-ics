@@ -86,18 +86,18 @@ SUMMARY:Quarterfinal 3: FURIA vs 9z
 UID:cs-go-iem-cologne-major-2026-1513154@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ex-RUBY: 0 | QUAZAR: 2\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260626T160512Z
-DTSTART:20260626T144619Z
-SUMMARY:ex-RUBY vs QUA
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555282@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | ALKA GAMING: 1\nStream: No official stream linked
 DTEND:20260623T001641Z
 DTSTART:20260622T202135Z
 SUMMARY:Winners match: ODK vs ALKA
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1543901@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ex-RUBY: 0 | QUAZAR: 2\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260626T160512Z
+DTSTART:20260626T144619Z
+SUMMARY:ex-RUBY vs QUA
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555282@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - European Finals season 57 2026\nMatch Type: Best Of\nResult: WeClear: 2 | de verdwaalde honden: 0\nStream: No official stream linked
@@ -1185,18 +1185,18 @@ SUMMARY:Quarterfinal 2: PHA vs WAL
 UID:cs-go-stake-ranked-episode-3-closed-qualifier-2026-1543919@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260630T130000Z
-SUMMARY:Round 2: YAW vs GH
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555106@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260723T080000Z
 SUMMARY:3rd Place match: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554039@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260630T130000Z
+SUMMARY:Round 2: YAW vs GH
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555106@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nResult: VENOM ESPOR: 2 | Amsterdam Türkgücü: 1\nStream: No official stream linked
@@ -1339,11 +1339,11 @@ SUMMARY:BERG vs R4G
 UID:cs-go-dach-cs-masters-5-2026-1385751@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #4 2026\nMatch Type: Best Of\nResult: KOLESIE: 1 | GenOne: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260616T211550Z
-DTSTART:20260616T180812Z
-SUMMARY:Round 4: KOL vs G1
-UID:cs-go-cct-europe-series-4-2026-1519607@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
+DURATION:PT2H
+DTSTART:20260701T180000Z
+SUMMARY:zoneR vs Shadowkek
+UID:cs-go-betboom-streamers-battle-5-2026-1564609@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -1351,6 +1351,13 @@ DURATION:PT2H
 DTSTART:20260702T220000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555117@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #4 2026\nMatch Type: Best Of\nResult: KOLESIE: 1 | GenOne: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260616T211550Z
+DTSTART:20260616T180812Z
+SUMMARY:Round 4: KOL vs G1
+UID:cs-go-cct-europe-series-4-2026-1519607@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: TYLOO: 2 | Lynn Vision: 0\nStream: https://www.twitch.tv/ESLCS
@@ -1591,18 +1598,18 @@ SUMMARY:Semifinal 2: AUR vs FURIA
 UID:cs-go-iem-cologne-major-2026-1513161@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Just Players: 2 | SHISHKA: 0\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260626T130456Z
-DTSTART:20260626T112127Z
-SUMMARY:Just Players vs SHISHKA
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555278@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - European Finals season 57 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 0 | BakS eSports: 2\nStream: https://www.twitch.tv/baks_esports
 DTEND:20260618T193212Z
 DTSTART:20260618T174621Z
 SUMMARY:Round 3 match 2: IC.A vs BAKS
 UID:cs-go-esea-european-finals-57-2026-1542821@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Just Players: 2 | SHISHKA: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260626T130456Z
+DTSTART:20260626T112127Z
+SUMMARY:Just Players vs SHISHKA
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555278@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Sharks: 1 | ECHO: 2\nStream: https://kick.com/draculancs
@@ -1738,6 +1745,13 @@ SUMMARY:Round 4: ILWL vs ex-RUBY
 UID:cs-go-cct-europe-series-4-2026-1519606@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
+DURATION:PT2H
+DTSTART:20260701T150000Z
+SUMMARY:SHOKE vs AUNK
+UID:cs-go-betboom-streamers-battle-5-2026-1564608@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260702T190000Z
@@ -1745,18 +1759,18 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555116@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Avtostopom Po Galaktike: 0 | NEW VISION: 2\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260627T104351Z
-DTSTART:20260627T082522Z
-SUMMARY:Winners match: Avtostopom Po Galaktike vs NEW VISION
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555289@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Honvéd: 2 | OlyBet SB: 1\nStream: https://www.kick.com/eplcs_en
 DTEND:20260628T104023Z
 DTSTART:20260628T081325Z
 SUMMARY:Elimination match: Honvéd vs OBSB
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553983@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Avtostopom Po Galaktike: 0 | NEW VISION: 2\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260627T104351Z
+DTSTART:20260627T082522Z
+SUMMARY:Winners match: Avtostopom Po Galaktike vs NEW VISION
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555289@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -1778,6 +1792,13 @@ DTEND:20260620T200248Z
 DTSTART:20260620T182256Z
 SUMMARY:Quarterfinal 2: G1 vs 100T
 UID:cs-go-cct-europe-series-4-2026-1519593@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
+DURATION:PT2H
+DTSTART:20260701T120000Z
+SUMMARY:HOOCH vs OverDrive
+UID:cs-go-betboom-streamers-battle-5-2026-1564595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: ECHO: 2 | Betclic Apogee Esports: 0\nStream: https://kick.com/draculancs
@@ -2102,6 +2123,13 @@ SUMMARY:Round 4: SPARTA vs G2.A
 UID:cs-go-cct-europe-series-4-2026-1519605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
+DURATION:PT2H
+DTSTART:20260630T180000Z
+SUMMARY:zoneR vs AUNK
+UID:cs-go-betboom-streamers-battle-5-2026-1564607@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260702T160000Z
@@ -2130,18 +2158,18 @@ SUMMARY:HUSK vs LEI
 UID:cs-go-dach-cs-masters-5-2026-1385715@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: NEW VISION: 2 | MONSTROUS: 1\nStream: https://www.twitch.tv/gluck_esports_2
-DTEND:20260626T135558Z
-DTSTART:20260626T112430Z
-SUMMARY:NEW VISION vs MONSTROUS
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555288@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Subtop De France: 1\nStream: https://www.kick.com/eplcs_en
 DTEND:20260628T130911Z
 DTSTART:20260628T110142Z
 SUMMARY:Winners match: ex-MANA vs Subtop De France
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553982@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: NEW VISION: 2 | MONSTROUS: 1\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260626T135558Z
+DTSTART:20260626T112430Z
+SUMMARY:NEW VISION vs MONSTROUS
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555288@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -2163,6 +2191,13 @@ DTEND:20260620T140431Z
 DTSTART:20260620T111111Z
 SUMMARY:Quarterfinal 3: 1WIN vs VP
 UID:cs-go-cct-europe-series-4-2026-1519592@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
+DURATION:PT2H
+DTSTART:20260701T090000Z
+SUMMARY:StRoGo vs Recrent
+UID:cs-go-betboom-streamers-battle-5-2026-1564594@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: FOKUS: 2 | OG: 1\nStream: https://kick.com/draculancs
@@ -2466,6 +2501,13 @@ SUMMARY:Round 4: VP vs BL
 UID:cs-go-cct-europe-series-4-2026-1519604@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
+DURATION:PT2H
+DTSTART:20260630T150000Z
+SUMMARY:Shadowkek vs SHOKE
+UID:cs-go-betboom-streamers-battle-5-2026-1564606@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260702T130000Z
@@ -2487,13 +2529,6 @@ SUMMARY:FROX vs WAVE
 UID:cs-go-dach-cs-masters-5-2026-1385714@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ARGOS: 0 | Avtostopom Po Galaktike: 2\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260626T094900Z
-DTSTART:20260626T080951Z
-SUMMARY:ARGOS vs Avtostopom Po Galaktike
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555287@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: OlyBet SB: 1 | Subtop De France: 2\nStream: https://www.kick.com/eplcs_en
 DTEND:20260625T160857Z
 DTSTART:20260625T134606Z
@@ -2506,6 +2541,13 @@ DTEND:20260621T203429Z
 DTSTART:20260621T175829Z
 SUMMARY:Grand final: QUA vs FF
 UID:cs-go-esea-european-finals-57-2026-1542830@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ARGOS: 0 | Avtostopom Po Galaktike: 2\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260626T094900Z
+DTSTART:20260626T080951Z
+SUMMARY:ARGOS vs Avtostopom Po Galaktike
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555287@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -2879,18 +2921,18 @@ SUMMARY:Round 3: NRG vs FLY
 UID:cs-go-iem-cologne-major-2026-1508629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Donstu Esports: 0 | ex-RUBY: 2\nStream: No official stream linked
-DTEND:20260628T083327Z
-DTSTART:20260628T070821Z
-SUMMARY:Decider match: DNT vs ex-RUBY
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555286@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Honvéd: 0\nStream: https://www.kick.com/eplcs_en
 DTEND:20260624T100007Z
 DTSTART:20260624T082111Z
 SUMMARY:ex-MANA vs Honvéd
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553980@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Donstu Esports: 0 | ex-RUBY: 2\nStream: No official stream linked
+DTEND:20260628T083327Z
+DTSTART:20260628T070821Z
+SUMMARY:Decider match: DNT vs ex-RUBY
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555286@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -3285,6 +3327,13 @@ SUMMARY:Round 2: AUR vs TS
 UID:cs-go-iem-cologne-major-2026-1513134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
+DURATION:PT2H
+DTSTART:20260630T120000Z
+SUMMARY:StRoGo vs OverDrive
+UID:cs-go-betboom-streamers-battle-5-2026-1564591@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Sashi Esport: 2 | 9INE: 1\nStream: https://kick.com/draculancsb
 DTEND:20260623T151748Z
 DTSTART:20260623T115834Z
@@ -3362,13 +3411,6 @@ SUMMARY:Round 4: GL vs BIG
 UID:cs-go-iem-cologne-major-2026-1508639@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Wingman: 2 | NEXORA: 1\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260628T222828Z
-DTSTART:20260628T182018Z
-SUMMARY:Decider match: WING vs NEXORA
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555296@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Donstu Esports: 1\nStream: https://www.kick.com/eplcs_en
 DTEND:20260626T105243Z
 DTSTART:20260626T080331Z
@@ -3381,6 +3423,13 @@ DTEND:20260623T172321Z
 DTSTART:20260623T160314Z
 SUMMARY:JS vs VEN
 UID:cs-go-svenska-cs-ligan-2026-1545962@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Wingman: 2 | NEXORA: 1\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260628T222828Z
+DTSTART:20260628T182018Z
+SUMMARY:Decider match: WING vs NEXORA
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Walczaki: 2 | Oxuji Esports: 0\nStream: https://kick.com/starladder
@@ -3593,18 +3642,18 @@ SUMMARY:Quarterfinal 2: VIT vs FAL
 UID:cs-go-iem-cologne-major-2026-1513156@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: QUAZAR: 2 | Donstu Esports: 0\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260627T155944Z
-DTSTART:20260627T140331Z
-SUMMARY:Winners match: QUA vs DNT
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555284@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | METANOIA WOLVES: 1\nStream: No official stream linked
 DTEND:20260624T003034Z
 DTSTART:20260623T212235Z
 SUMMARY:Elimination match: MIBR.A vs MW
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1543903@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: QUAZAR: 2 | Donstu Esports: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260627T155944Z
+DTSTART:20260627T140331Z
+SUMMARY:Winners match: QUA vs DNT
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555284@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -3647,6 +3696,13 @@ DTEND:20260612T170553Z
 DTSTART:20260612T151022Z
 SUMMARY:Round 2: FAL vs BB
 UID:cs-go-iem-cologne-major-2026-1513133@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
+DURATION:PT2H
+DTSTART:20260630T101526Z
+SUMMARY:HOOCH vs Recrent
+UID:cs-go-betboom-streamers-battle-5-2026-1564590@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #4 2026\nMatch Type: Best Of\nResult: SPARTA: 1 | GenOne: 2\nStream: https://kick.com/cct_cs2
@@ -3936,18 +3992,18 @@ SUMMARY:Quarterfinal 1: TS vs G2
 UID:cs-go-iem-cologne-major-2026-1513155@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Donstu Esports: 2 | HOTU Academy: 0\nStream: No official stream linked
-DTEND:20260626T190656Z
-DTSTART:20260626T171623Z
-SUMMARY:DNT vs HOTU.A
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555283@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: Vexa: 1 | FURIA fe: 0\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260611T000000Z
 SUMMARY:VEXA vs FURIA.F
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1543902@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Donstu Esports: 2 | HOTU Academy: 0\nStream: No official stream linked
+DTEND:20260626T190656Z
+DTSTART:20260626T171623Z
+SUMMARY:DNT vs HOTU.A
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555283@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
