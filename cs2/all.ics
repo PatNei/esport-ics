@@ -642,7 +642,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260702T110000Z
-SUMMARY:Lower bracket round 3 match 2: DNT vs TBD
+SUMMARY:Lower bracket round 3 match 2: DNT vs LILMIX
 UID:cs-go-cct-europe-challengers-series-4-2026-1550163@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -884,9 +884,9 @@ SUMMARY:Ducks vs TAZ
 UID:cs-go-dach-cs-masters-5-2026-1385741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260701T110000Z
+DTSTART:20260701T110805Z
 SUMMARY:Winners match: IC.A vs MISA
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553997@tournamentics
 END:VEVENT
@@ -1309,13 +1309,6 @@ DTEND:20260625T172703Z
 DTSTART:20260625T132535Z
 SUMMARY:Decider match: RE vs NVQ
 UID:cs-go-lg-ultragear-tournament-2026-1550176@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260701T110000Z
-SUMMARY:Lower bracket round 2 match 4: LILMIX vs MISA
-UID:cs-go-cct-europe-challengers-series-4-2026-1550161@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: brazylijski luz: 1 | HyperSpirit: 2\nStream: https://kick.com/eplcs_en
@@ -2300,7 +2293,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
 DURATION:PT2H
-DTSTART:20260701T124000Z
+DTSTART:20260701T134000Z
 SUMMARY:Round 1: BIG vs LVG
 UID:cs-go-xse-pro-league-2026-1533032@tournamentics
 END:VEVENT
@@ -3063,7 +3056,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
 DURATION:PT2H
-DTSTART:20260701T114000Z
+DTSTART:20260701T124000Z
 SUMMARY:Round 1: PRV vs ALL
 UID:cs-go-xse-pro-league-2026-1533030@tournamentics
 END:VEVENT
@@ -3609,7 +3602,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
 DURATION:PT2H
-DTSTART:20260701T111000Z
+DTSTART:20260701T113000Z
 SUMMARY:Round 1: LG vs NEM
 UID:cs-go-xse-pro-league-2026-1533029@tournamentics
 END:VEVENT
