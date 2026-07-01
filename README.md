@@ -215,27 +215,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Seaso
 </details>
 
 <details>
-<summary>ESEA</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/Esea.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/Esea.ics
-```
-
----
-
-### European Finals season 57 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/EuropeanFinalsSeason572026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/EuropeanFinalsSeason572026.ics
-```
-
-</details>
-
-<details>
 <summary>European Pro League</summary>
 
 ### Full Schedule
