@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Astralis: 0 | TYLOO: 1\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260607T130836Z
-DTSTART:20260607T123054Z
-SUMMARY:Round 3: AST vs TYLOO
-UID:cs-go-iem-cologne-major-2026-1508682@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Wave Esports: 1 | BIG Academy: 2\nStream: https://www.twitch.tv/dachcs
 DTEND:20260511T201203Z
 DTSTART:20260511T181231Z
@@ -37,13 +30,6 @@ SUMMARY:Round 1: 3DMAX vs NIP
 UID:cs-go-xse-pro-league-2026-1533027@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Astralis: 1 | GamerLegion: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260606T110400Z
-DTSTART:20260606T103056Z
-SUMMARY:Round 1: AST vs GL
-UID:cs-go-iem-cologne-major-2026-1508648@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Huskies eSport: 2 | Regnum4Games: 0\nStream: https://www.twitch.tv/dachcs
 DTEND:20260518T175841Z
 DTSTART:20260518T160830Z
@@ -63,20 +49,6 @@ DTEND:20260629T104826Z
 DTSTART:20260629T081901Z
 SUMMARY:Elimination match: JUL vs EP
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553988@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Sinners: 0 | NRG: 1\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260602T172532Z
-DTSTART:20260602T164554Z
-SUMMARY:Round 2: SIN vs NRG
-UID:cs-go-iem-cologne-major-2026-1508625@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: FURIA: 2 | 9z: 1\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260618T201255Z
-DTSTART:20260618T170216Z
-SUMMARY:Quarterfinal 3: FURIA vs 9z
-UID:cs-go-iem-cologne-major-2026-1513154@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ex-RUBY: 0 | QUAZAR: 2\nStream: https://www.twitch.tv/gluck_esports
@@ -119,13 +91,6 @@ DTEND:20260619T092916Z
 DTSTART:20260619T080655Z
 SUMMARY:Winners match: CLS vs ESB
 UID:cs-go-united21-51-2026-1540260@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: PARIVISION: 1 | Monte: 2\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260612T141956Z
-DTSTART:20260612T113059Z
-SUMMARY:Round 2: PRV vs MNTE
-UID:cs-go-iem-cologne-major-2026-1513131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: GenOne: 1 | Virtus.pro: 2\nStream: https://kick.com/eplcs_en
@@ -205,13 +170,6 @@ SUMMARY:Round 2: PDAF vs GE
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555109@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Gaimin Gladiators: 0 | Heroic: 2\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260603T184846Z
-DTSTART:20260603T170343Z
-SUMMARY:Round 3: GG vs HERO
-UID:cs-go-iem-cologne-major-2026-1508636@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Regnum4Games: 0 | Wave Esports: 2\nStream: https://www.twitch.tv/dachcs
 DTEND:20260330T194430Z
 DTSTART:20260330T180740Z
@@ -245,13 +203,6 @@ DTEND:20260615T215058Z
 DTSTART:20260615T211423Z
 SUMMARY:MIBR.A vs HR
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1534441@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: BetBoom Team: 0 | FURIA: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260613T192335Z
-DTSTART:20260613T174341Z
-SUMMARY:Round 3: BB vs FURIA
-UID:cs-go-iem-cologne-major-2026-1513142@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: Sashi Esport: 1 | KOLESIE: 2\nStream: https://kick.com/eplcs_en
@@ -303,13 +254,6 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-xse-pro-league-2026-1551621@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Monte: 1 | Legacy: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260607T140620Z
-DTSTART:20260607T123113Z
-SUMMARY:Round 3: MNTE vs LGC
-UID:cs-go-iem-cologne-major-2026-1508681@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #5 2026\nMatch Type: Best Of\nResult: ASTRAL: 1 | SINQU Rehti: 0\nStream: https://kick.com/urbancontenders
 DTEND:20260628T195207Z
 DTSTART:20260628T191454Z
@@ -329,13 +273,6 @@ DTEND:20260701T094422Z
 DTSTART:20260701T084651Z
 SUMMARY:Round 1: FaZe vs TYLOO
 UID:cs-go-xse-pro-league-2026-1533026@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Spirit: 1 | BetBoom Team: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260606T143245Z
-DTSTART:20260606T135203Z
-SUMMARY:Round 1: TS vs BB
-UID:cs-go-iem-cologne-major-2026-1508647@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Wave Esports: 2 | Team LEISURE: 1\nStream: https://www.twitch.tv/dachcs
@@ -364,20 +301,6 @@ DTEND:20260622T184523Z
 DTSTART:20260622T160517Z
 SUMMARY:Elimination match: LILMIX vs RT
 UID:cs-go-svenska-cs-ligan-2026-1545959@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: MIBR: 1 | TYLOO: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260602T175152Z
-DTSTART:20260602T164908Z
-SUMMARY:Round 2: MIBR vs TYLOO
-UID:cs-go-iem-cologne-major-2026-1508624@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | BetBoom Team: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260618T153617Z
-DTSTART:20260618T134815Z
-SUMMARY:Quarterfinal 4: AUR vs BB
-UID:cs-go-iem-cologne-major-2026-1513153@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Spirit Academy: 1 | Omega: 2\nStream: https://www.twitch.tv/gluck_esports
@@ -420,13 +343,6 @@ DTEND:20260628T141922Z
 DTSTART:20260628T134137Z
 SUMMARY:GHY vs Leo
 UID:cs-go-urban-riga-open-5-2026-1551601@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: FUT Esports: 1 | G2: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260612T144934Z
-DTSTART:20260612T121148Z
-SUMMARY:Round 2: FUT vs G2
-UID:cs-go-iem-cologne-major-2026-1513130@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | Virtus.pro: 0\nStream: https://kick.com/eplcs_en
@@ -478,13 +394,6 @@ SUMMARY:Round 2: BST.A vs MAG
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555108@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: M80: 0 | B8: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260603T194656Z
-DTSTART:20260603T170130Z
-SUMMARY:Round 3: M80 vs B8
-UID:cs-go-iem-cologne-major-2026-1508635@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ENJOY: 2 | NEXORA: 0\nStream: https://www.twitch.tv/gluck_esports_2
 DTEND:20260626T154325Z
 DTSTART:20260626T140045Z
@@ -511,13 +420,6 @@ DTEND:20260612T193833Z
 DTSTART:20260612T181831Z
 SUMMARY:MW vs Alzon
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1534440@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: PARIVISION: 0 | Legacy: 2\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260613T183445Z
-DTSTART:20260613T154552Z
-SUMMARY:Round 3: PRV vs LGC
-UID:cs-go-iem-cologne-major-2026-1513141@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: TDK: 1 | Walczaki: 2\nStream: https://kick.com/eplcs_en
@@ -590,13 +492,6 @@ SUMMARY:Round 2: PRV vs TYLOO
 UID:cs-go-xse-pro-league-2026-1551609@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Spirit: 1 | MIBR: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260606T201009Z
-DTSTART:20260606T194057Z
-SUMMARY:Round 2: TS vs MIBR
-UID:cs-go-iem-cologne-major-2026-1508680@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #5 2026\nMatch Type: Best Of\nResult: 6666: 0 | Esport BERG: 1\nStream: https://www.twitch.tv/kleverrgg
 DTEND:20260628T200407Z
 DTSTART:20260628T191449Z
@@ -630,13 +525,6 @@ DURATION:PT2H
 DTSTART:20260703T190000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555119@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: NRG: 1 | BIG: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260605T201113Z
-DTSTART:20260605T170545Z
-SUMMARY:Round 5: NRG vs BIG
-UID:cs-go-iem-cologne-major-2026-1508646@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Playing Ducks: 0 | Esport BERG: 2\nStream: https://www.twitch.tv/dachcs
@@ -679,20 +567,6 @@ DURATION:PT2H
 DTSTART:20260718T103000Z
 SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554029@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: B8: 1 | THUNDER dOWNUNDER: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260602T162836Z
-DTSTART:20260602T153809Z
-SUMMARY:Round 2: B8 vs TdU
-UID:cs-go-iem-cologne-major-2026-1508623@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Natus Vincere: 1 | G2: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260615T203936Z
-DTSTART:20260615T170058Z
-SUMMARY:Round 5: NAVI vs G2
-UID:cs-go-iem-cologne-major-2026-1513152@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -779,20 +653,6 @@ SUMMARY:Round 2: ALKA vs RF
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555107@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: TYLOO: 2 | Sinners: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260603T164312Z
-DTSTART:20260603T144339Z
-SUMMARY:Round 3: TYLOO vs SIN
-UID:cs-go-iem-cologne-major-2026-1508634@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: BIG: 1 | B8: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260609T193556Z
-DTSTART:20260609T170100Z
-SUMMARY:Round 5: BIG vs B8
-UID:cs-go-iem-cologne-major-2026-1508715@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Avtostopom Po Galaktike: 0 | ARGOS: 2\nStream: No official stream linked
 DTEND:20260630T154500Z
 DTSTART:20260630T140000Z
@@ -814,25 +674,11 @@ SUMMARY:Quarterfinal 1: INF vs OXUJI
 UID:cs-go-european-pro-league-series-7-2026-1504776@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Vitality: 2 | MOUZ: 1\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260613T172214Z
-DTSTART:20260613T143454Z
-SUMMARY:Round 3: VIT vs MOUZ
-UID:cs-go-iem-cologne-major-2026-1513140@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: Millennium Esports: 1 | Coalesce: 2\nStream: https://kick.com/united21_en
 DTEND:20260615T101639Z
 DTSTART:20260615T080229Z
 SUMMARY:ME vs CLS
 UID:cs-go-united21-51-2026-1540258@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | B8: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260612T105108Z
-DTSTART:20260612T090054Z
-SUMMARY:Round 2: MGLZ vs B8
-UID:cs-go-iem-cologne-major-2026-1513129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Rainhas do Clutch FERJEE - 2026\nMatch Type: Best Of\nResult: Clutchain Female: 0 | MIBR fe: 2\nStream: https://www.twitch.tv/ferjeeoficial
@@ -898,13 +744,6 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555118@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Liquid: 0 | FlyQuest: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260605T160446Z
-DTSTART:20260605T143100Z
-SUMMARY:Round 5: TL vs FLY
-UID:cs-go-iem-cologne-major-2026-1508645@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: FROX: 0 | Playing Ducks: 2\nStream: https://www.twitch.tv/dachcs
 DTEND:20260311T214959Z
 DTSTART:20260311T193327Z
@@ -931,20 +770,6 @@ DURATION:PT2H
 DTSTART:20260718T080000Z
 SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554028@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: GamerLegion: 1 | FlyQuest: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260602T190907Z
-DTSTART:20260602T181205Z
-SUMMARY:Round 2: GL vs FLY
-UID:cs-go-iem-cologne-major-2026-1508622@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | FUT Esports: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260615T161352Z
-DTSTART:20260615T143102Z
-SUMMARY:Round 5: BB vs FUT
-UID:cs-go-iem-cologne-major-2026-1513151@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: paiN Academy: 0 | ODDIK: 1\nStream: No official stream linked
@@ -1001,13 +826,6 @@ DTEND:20260628T115238Z
 DTSTART:20260628T111126Z
 SUMMARY:Leo vs Aimhaus
 UID:cs-go-urban-riga-open-5-2026-1551598@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | GamerLegion: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260606T192032Z
-DTSTART:20260606T183157Z
-SUMMARY:Round 2: BB vs GL
-UID:cs-go-iem-cologne-major-2026-1508679@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | 9INE: 1\nStream: https://kick.com/draculancs
@@ -1073,27 +891,6 @@ SUMMARY:Semifinal 2: VENOM vs AT
 UID:cs-go-tesfed-league-3-2026-1526443@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: GamerLegion: 0 | BetBoom Team: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260603T162750Z
-DTSTART:20260603T145316Z
-SUMMARY:Round 3: GL vs BB
-UID:cs-go-iem-cologne-major-2026-1508633@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Heroic: 0 | Sharks: 1\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260602T133947Z
-DTSTART:20260602T125042Z
-SUMMARY:Round 1: HERO vs SHK
-UID:cs-go-iem-cologne-major-2026-1494593@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: TYLOO: 0 | Legacy: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260609T161242Z
-DTSTART:20260609T143059Z
-SUMMARY:Round 5: TYLOO vs LGC
-UID:cs-go-iem-cologne-major-2026-1508714@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Spirit Academy: 0 | Just Players: 2\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260627T101002Z
 DTSTART:20260627T081345Z
@@ -1120,13 +917,6 @@ DTEND:20260617T145022Z
 DTSTART:20260617T114957Z
 SUMMARY:Round 16 match 8: SPARTA vs INOX
 UID:cs-go-european-pro-league-series-7-2026-1504775@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: FURIA: 2 | MOUZ: 1\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260612T114935Z
-DTSTART:20260612T090215Z
-SUMMARY:Round 2: FURIA vs MOUZ
-UID:cs-go-iem-cologne-major-2026-1513128@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Rainhas do Clutch FERJEE - 2026\nMatch Type: Best Of\nResult: Atrix Esports: 1 | shimmer: 2\nStream: https://www.twitch.tv/ferjeeoficial
@@ -1199,13 +989,6 @@ SUMMARY:Round 3: PDAF vs BST.A
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555117@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: TYLOO: 2 | Lynn Vision: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260605T135005Z
-DTSTART:20260605T120205Z
-SUMMARY:Round 5: TYLOO vs LVG
-UID:cs-go-iem-cologne-major-2026-1508644@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260703T080000Z
@@ -1227,20 +1010,6 @@ SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554027@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Heroic: 0 | Lynn Vision: 1\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260602T162521Z
-DTSTART:20260602T153102Z
-SUMMARY:Round 2: HERO vs LVG
-UID:cs-go-iem-cologne-major-2026-1508621@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: 9z: 2 | TheMongolz: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260615T135824Z
-DTSTART:20260615T120131Z
-SUMMARY:Round 5: 9z vs MGLZ
-UID:cs-go-iem-cologne-major-2026-1513150@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | Alpha Gaming: 0\nStream: https://kick.com/united21_en
 DTEND:20260617T093745Z
 DTSTART:20260617T080828Z
@@ -1253,13 +1022,6 @@ DTEND:20260617T205846Z
 DTSTART:20260617T201246Z
 SUMMARY:RED.A vs 4M
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1534438@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Team Falcons: 2 | Monte: 1\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260613T152552Z
-DTSTART:20260613T121353Z
-SUMMARY:Round 3: FAL vs MNTE
-UID:cs-go-iem-cologne-major-2026-1513139@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Infinite: 0 | Esport Academy Copenhagen: 2\nStream: https://kick.com/draculancsb
@@ -1309,13 +1071,6 @@ DTEND:20260628T115004Z
 DTSTART:20260628T110928Z
 SUMMARY:GHY vs ex-CLS
 UID:cs-go-urban-riga-open-5-2026-1551597@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: paiN: 0 | BIG: 1\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260606T175124Z
-DTSTART:20260606T170025Z
-SUMMARY:Round 2: paiN vs BIG
-UID:cs-go-iem-cologne-major-2026-1508678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
@@ -1388,34 +1143,6 @@ SUMMARY:Semifinal 1: BG vs FP
 UID:cs-go-tesfed-league-3-2026-1526442@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 0 | BIG: 1\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260603T142236Z
-DTSTART:20260603T133454Z
-SUMMARY:Round 3: TdU vs BIG
-UID:cs-go-iem-cologne-major-2026-1508632@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: MIBR: 0 | THUNDER dOWNUNDER: 1\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260602T122956Z
-DTSTART:20260602T114607Z
-SUMMARY:Round 1: MIBR vs TdU
-UID:cs-go-iem-cologne-major-2026-1494592@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Monte: 2 | paiN: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260609T135418Z
-DTSTART:20260609T120155Z
-SUMMARY:Round 5: MNTE vs paiN
-UID:cs-go-iem-cologne-major-2026-1508713@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 0 | FURIA: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260620T153901Z
-DTSTART:20260620T134707Z
-SUMMARY:Semifinal 2: AUR vs FURIA
-UID:cs-go-iem-cologne-major-2026-1513161@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Just Players: 2 | SHISHKA: 0\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260626T130456Z
 DTSTART:20260626T112127Z
@@ -1449,13 +1176,6 @@ DTEND:20260617T112813Z
 DTSTART:20260617T081624Z
 SUMMARY:Round 16 match 7: ACE vs Lavked
 UID:cs-go-european-pro-league-series-7-2026-1504774@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: MOUZ: 2 | Legacy: 0\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260611T134843Z
-DTSTART:20260611T120957Z
-SUMMARY:Round 1: MOUZ vs LGC
-UID:cs-go-iem-cologne-major-2026-1513127@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1577,13 +1297,6 @@ SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554026@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | G2: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260613T141409Z
-DTSTART:20260613T122115Z
-SUMMARY:Round 3: AUR vs G2
-UID:cs-go-iem-cologne-major-2026-1513138@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team hooch: 2 | Team OverDrive: 0\nStream: https://www.twitch.tv/betboom_sb_cs
 DTEND:20260701T164236Z
 DTSTART:20260701T153602Z
@@ -1638,13 +1351,6 @@ DURATION:PT2H
 DTSTART:20260703T100000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-xse-pro-league-2026-1551617@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: B8: 0 | M80: 1\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260606T200644Z
-DTSTART:20260606T191604Z
-SUMMARY:Round 2: B8 vs M80
-UID:cs-go-iem-cologne-major-2026-1508677@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
@@ -1724,41 +1430,6 @@ SUMMARY:Upper bracket semifinal 2: INF vs PRE
 UID:cs-go-united21-51-2026-1560514@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Liquid: 0 | MIBR: 1\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260603T143146Z
-DTSTART:20260603T134337Z
-SUMMARY:Round 3: TL vs MIBR
-UID:cs-go-iem-cologne-major-2026-1508631@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Sinners: 0 | FlyQuest: 1\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260602T113950Z
-DTSTART:20260602T103124Z
-SUMMARY:Round 1: SIN vs FLY
-UID:cs-go-iem-cologne-major-2026-1494591@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: M80: 0 | Legacy: 2\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260608T194243Z
-DTSTART:20260608T171856Z
-SUMMARY:Round 4: M80 vs LGC
-UID:cs-go-iem-cologne-major-2026-1508712@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Spirit: 1 | Team Falcons: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260620T203836Z
-DTSTART:20260620T170037Z
-SUMMARY:Semifinal 1: TS vs FAL
-UID:cs-go-iem-cologne-major-2026-1513160@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: G2: 2 | Legacy: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260614T183741Z
-DTSTART:20260614T170051Z
-SUMMARY:Round 4: G2 vs LGC
-UID:cs-go-iem-cologne-major-2026-1513149@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Omega: 0 | Spirit Academy: 2\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260626T093441Z
 DTSTART:20260626T080948Z
@@ -1794,13 +1465,6 @@ SUMMARY:Round 16 match 6: EAC vs KOL
 UID:cs-go-european-pro-league-series-7-2026-1504773@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: TheMongolz: 1 | BetBoom Team: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260611T115509Z
-DTSTART:20260611T090420Z
-SUMMARY:Round 1: MGLZ vs BB
-UID:cs-go-iem-cologne-major-2026-1513126@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260709T080000Z
@@ -1813,13 +1477,6 @@ DTEND:20260625T124751Z
 DTSTART:20260625T095027Z
 SUMMARY:Winners match: THE vs NVQ
 UID:cs-go-lg-ultragear-tournament-2026-1550174@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Spirit: 2 | 9z: 0\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260607T182324Z
-DTSTART:20260607T170114Z
-SUMMARY:Round 3: TS vs 9z
-UID:cs-go-iem-cologne-major-2026-1508688@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: PsychoFace: 0 | brazylijski luz: 2\nStream: https://kick.com/eplcs_en
@@ -1892,20 +1549,6 @@ SUMMARY:Round 3: GH vs ALKA
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555115@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: M80: 2 | NRG: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260604T185000Z
-DTSTART:20260604T170253Z
-SUMMARY:Round 4: M80 vs NRG
-UID:cs-go-iem-cologne-major-2026-1508642@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: FURIA: 0 | Team Falcons: 3\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260621T180613Z
-DTSTART:20260621T150119Z
-SUMMARY:Grand final: FURIA vs FAL
-UID:cs-go-iem-cologne-major-2026-1513171@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Huskies eSport: 2 | Team LEISURE: 1\nStream: https://www.twitch.tv/dachcs
 DTEND:20260406T190736Z
 DTSTART:20260406T161157Z
@@ -1932,13 +1575,6 @@ DURATION:PT2H
 DTSTART:20260716T103000Z
 SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554025@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: B8: 1 | FUT Esports: 2\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260613T115335Z
-DTSTART:20260613T090052Z
-SUMMARY:Round 3: B8 vs FUT
-UID:cs-go-iem-cologne-major-2026-1513137@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team StRoGo: 0 | Team Recrent: 2\nStream: https://www.twitch.tv/betboom_sb_cs
@@ -2011,13 +1647,6 @@ SUMMARY:3rd place match: BERG vs SINQU Rehti
 UID:cs-go-urban-riga-open-5-2026-1551595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Legacy: 1 | FlyQuest: 0\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260606T185551Z
-DTSTART:20260606T181150Z
-SUMMARY:Round 2: LGC vs FLY
-UID:cs-go-iem-cologne-major-2026-1508676@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Team LEISURE: 0 | Team AceZone: 2\nStream: https://www.twitch.tv/dachcs
 DTEND:20260504T174033Z
 DTSTART:20260504T161507Z
@@ -2074,39 +1703,11 @@ SUMMARY:Upper bracket semifinal 1: ex-MANA vs ADN
 UID:cs-go-united21-51-2026-1560513@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Sharks: 0 | Lynn Vision: 1\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260603T131743Z
-DTSTART:20260603T123118Z
-SUMMARY:Round 3: SHK vs LVG
-UID:cs-go-iem-cologne-major-2026-1508630@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: M80: 1 | Lynn Vision: 0\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260602T112456Z
-DTSTART:20260602T103113Z
-SUMMARY:Round 1: M80 vs LVG
-UID:cs-go-iem-cologne-major-2026-1494590@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: G2: 2 | BIG: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260608T190536Z
-DTSTART:20260608T172943Z
-SUMMARY:Round 4: G2 vs BIG
-UID:cs-go-iem-cologne-major-2026-1508711@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | KUUSAMO.gg: 0\nStream: https://kick.com/united21_en
 DTEND:20260624T124302Z
 DTSTART:20260624T110851Z
 SUMMARY:Decider match: ex-MANA vs KSM
 UID:cs-go-united21-51-2026-1540277@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Natus Vincere: 1 | Team Falcons: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260614T210156Z
-DTSTART:20260614T174129Z
-SUMMARY:Round 4: NAVI vs FAL
-UID:cs-go-iem-cologne-major-2026-1513148@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Acend: 2 | ECHO: 1\nStream: https://kick.com/draculancs
@@ -2137,13 +1738,6 @@ SUMMARY:Round 16 match 5: SASHI vs HS
 UID:cs-go-european-pro-league-series-7-2026-1504772@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: PARIVISION: 1 | 9z: 2\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260611T115111Z
-DTSTART:20260611T090056Z
-SUMMARY:Round 1: PRV vs 9z
-UID:cs-go-iem-cologne-major-2026-1513125@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
 DURATION:PT2H
 DTSTART:20260705T090000Z
@@ -2156,13 +1750,6 @@ DTEND:20260625T091259Z
 DTSTART:20260625T060808Z
 SUMMARY:NVQ vs RE
 UID:cs-go-lg-ultragear-tournament-2026-1550173@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: G2: 1 | FUT Esports: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260607T213945Z
-DTSTART:20260607T185247Z
-SUMMARY:Round 3: G2 vs FUT
-UID:cs-go-iem-cologne-major-2026-1508687@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nResult: Atreides: 2 | Donstu Esports: 1\nStream: https://kick.com/cct_cs2
@@ -2207,13 +1794,6 @@ SUMMARY:Quarterfinal 2: ODK vs HAT
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1564529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: 9z: 1 | FlyQuest: 0\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260606T111910Z
-DTSTART:20260606T103115Z
-SUMMARY:Round 1: 9z vs FLY
-UID:cs-go-iem-cologne-major-2026-1508664@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Wave Esports: 1 | Playing Ducks: 2\nStream: https://www.twitch.tv/dachcs
 DTEND:20260518T204558Z
 DTSTART:20260518T183301Z
@@ -2233,13 +1813,6 @@ DURATION:PT2H
 DTSTART:20260702T130000Z
 SUMMARY:Round 3: MW vs VEXA
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555114@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Liquid: 2 | Heroic: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260604T185831Z
-DTSTART:20260604T170523Z
-SUMMARY:Round 4: TL vs HERO
-UID:cs-go-iem-cologne-major-2026-1508641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: FROX: 0 | Wave Esports: 2\nStream: https://www.twitch.tv/dach_cs2
@@ -2291,13 +1864,6 @@ SUMMARY:Winners match: MASQ vs LPH
 UID:cs-go-united21-51-2026-1540265@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | TheMongolz: 1\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260613T120025Z
-DTSTART:20260613T090057Z
-SUMMARY:Round 3: NAVI vs MGLZ
-UID:cs-go-iem-cologne-major-2026-1513136@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Sharks: 2 | Eternal Fire: 0\nStream: https://kick.com/draculancsb
 DTEND:20260623T172608Z
 DTSTART:20260623T153805Z
@@ -2345,13 +1911,6 @@ DTEND:20260629T173307Z
 DTSTART:20260629T160544Z
 SUMMARY:Grand final: Leo vs ASTR
 UID:cs-go-urban-riga-open-5-2026-1551594@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: G2: 1 | Monte: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260606T181202Z
-DTSTART:20260606T164324Z
-SUMMARY:Round 2: G2 vs MNTE
-UID:cs-go-iem-cologne-major-2026-1508675@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: FROX: 0 | BIG Academy: 2\nStream: https://www.twitch.tv/dachcs
@@ -2424,25 +1983,11 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554035@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: TYLOO: 0 | 9z: 2\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260608T165830Z
-DTSTART:20260608T150356Z
-SUMMARY:Round 4: TYLOO vs 9z
-UID:cs-go-iem-cologne-major-2026-1508710@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | Passion Academy: 1\nStream: https://kick.com/united21_en
 DTEND:20260622T134226Z
 DTSTART:20260622T103157Z
 SUMMARY:Elimination match: KSM vs PSN.A
 UID:cs-go-united21-51-2026-1540276@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | 9z: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260614T164008Z
-DTSTART:20260614T151959Z
-SUMMARY:Round 4: AUR vs 9z
-UID:cs-go-iem-cologne-major-2026-1513147@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | Sharks: 1\nStream: https://kick.com/draculancs
@@ -2480,13 +2025,6 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-cct-europe-challengers-series-4-2026-1550169@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | Monte: 0\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260611T182501Z
-DTSTART:20260611T163055Z
-SUMMARY:Round 1: AUR vs MNTE
-UID:cs-go-iem-cologne-major-2026-1513124@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Huskies eSport: 0 | Team AceZone: 2\nStream: https://www.twitch.tv/dachcs
 DTEND:20260311T171000Z
 DTSTART:20260311T160000Z
@@ -2513,13 +2051,6 @@ DURATION:PT2H
 DTSTART:20260709T150000Z
 SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555159@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: FlyQuest: 0 | paiN: 2\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260607T163547Z
-DTSTART:20260607T144151Z
-SUMMARY:Round 3: FLY vs paiN
-UID:cs-go-iem-cologne-major-2026-1508686@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -2571,27 +2102,6 @@ SUMMARY:Round 3: paiN.A vs GE
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555113@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: MIBR: 2 | Lynn Vision: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260604T164254Z
-DTSTART:20260604T150618Z
-SUMMARY:Round 4: MIBR vs LVG
-UID:cs-go-iem-cologne-major-2026-1508640@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: BIG: 0 | Liquid: 1\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260602T151556Z
-DTSTART:20260602T142720Z
-SUMMARY:Round 1: BIG vs TL
-UID:cs-go-iem-cologne-major-2026-1494589@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: NRG: 1 | FlyQuest: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260603T132152Z
-DTSTART:20260603T123104Z
-SUMMARY:Round 3: NRG vs FLY
-UID:cs-go-iem-cologne-major-2026-1508629@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Donstu Esports: 0 | ex-RUBY: 2\nStream: No official stream linked
 DTEND:20260628T083327Z
 DTSTART:20260628T070821Z
@@ -2625,13 +2135,6 @@ DTEND:20260616T133712Z
 DTSTART:20260616T111859Z
 SUMMARY:CC vs LPH
 UID:cs-go-united21-51-2026-1540264@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Vitality: 1 | 9z: 2\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260612T193829Z
-DTSTART:20260612T164753Z
-SUMMARY:Round 2: VIT vs 9z
-UID:cs-go-iem-cologne-major-2026-1513135@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | AM Gaming: 0\nStream: https://kick.com/draculancs
@@ -2676,13 +2179,6 @@ SUMMARY:Semifinal 2: Leo vs BERG
 UID:cs-go-urban-riga-open-5-2026-1551593@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Astralis: 0 | 9z: 1\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260606T163427Z
-DTSTART:20260606T155630Z
-SUMMARY:Round 2: AST vs 9z
-UID:cs-go-iem-cologne-major-2026-1508674@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Team AceZone: 1 | Wave Esports: 2\nStream: No official stream linked
 DTEND:20260429T205023Z
 DTSTART:20260429T204714Z
@@ -2702,13 +2198,6 @@ DURATION:PT2H
 DTSTART:20260705T160000Z
 SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555124@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Legacy: 0 | MIBR: 1\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260606T144730Z
-DTSTART:20260606T135846Z
-SUMMARY:Round 1: LGC vs MIBR
-UID:cs-go-iem-cologne-major-2026-1508651@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: QUINTESSÊNCIA: 0 | BESTIA Academy: 1\nStream: No official stream linked
@@ -2753,13 +2242,6 @@ SUMMARY:Winners match: PRE vs ex-MANA
 UID:cs-go-united21-51-2026-1540275@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: BetBoom Team: 0 | Vitality: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260614T171915Z
-DTSTART:20260614T152242Z
-SUMMARY:Round 4: BB vs VIT
-UID:cs-go-iem-cologne-major-2026-1513146@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Walczaki: 0 | Inner Circle Esports: 2\nStream: https://kick.com/draculancs
 DTEND:20260626T164805Z
 DTSTART:20260626T150659Z
@@ -2795,13 +2277,6 @@ SUMMARY:Upper bracket quarterfinal 4: PRE vs ME
 UID:cs-go-united21-51-2026-1555601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: FURIA: 2 | B8: 0\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260611T160516Z
-DTSTART:20260611T141723Z
-SUMMARY:Round 1: FURIA vs B8
-UID:cs-go-iem-cologne-major-2026-1513123@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: RUSTEC: 0 | Young Ninjas: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260606T115843Z
 DTSTART:20260606T104033Z
@@ -2821,13 +2296,6 @@ DURATION:PT2H
 DTSTART:20260708T220000Z
 SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555158@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: B8: 2 | GamerLegion: 1\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260607T182839Z
-DTSTART:20260607T152210Z
-SUMMARY:Round 3: B8 vs GL
-UID:cs-go-iem-cologne-major-2026-1508685@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nResult: Fluxo: 2 | Keyd: 0\nStream: https://www.twitch.tv/thunderpicktv
@@ -2858,20 +2326,6 @@ SUMMARY:FROX vs R4G
 UID:cs-go-dach-cs-masters-5-2026-1385735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | Gaimin Gladiators: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260602T143803Z
-DTSTART:20260602T140036Z
-SUMMARY:Round 1: BB vs GG
-UID:cs-go-iem-cologne-major-2026-1494588@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: BIG: 1 | Gaimin Gladiators: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260602T192508Z
-DTSTART:20260602T185054Z
-SUMMARY:Round 2: BIG vs GG
-UID:cs-go-iem-cologne-major-2026-1508628@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Regnum4Games: 0 | Playing Ducks: 2\nStream: https://www.twitch.tv/dachcs
 DTEND:20260304T210638Z
 DTSTART:20260304T195001Z
@@ -2884,13 +2338,6 @@ DURATION:PT2H
 DTSTART:20260625T220000Z
 SUMMARY:Elimination match: paiN.A vs ODK.A
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1557872@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Monte: 1 | BetBoom Team: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260608T170852Z
-DTSTART:20260608T143055Z
-SUMMARY:Round 4: MNTE vs BB
-UID:cs-go-iem-cologne-major-2026-1508709@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | HOTU Academy: 0\nStream: No official stream linked
@@ -2928,13 +2375,6 @@ SUMMARY:MASQ vs Xept
 UID:cs-go-united21-51-2026-1540263@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 1 | Spirit: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260612T201247Z
-DTSTART:20260612T172555Z
-SUMMARY:Round 2: AUR vs TS
-UID:cs-go-iem-cologne-major-2026-1513134@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team StRoGo: 2 | Team OverDrive: 1\nStream: https://www.twitch.tv/betboom_sb_cs
 DTEND:20260630T154355Z
 DTSTART:20260630T125939Z
@@ -2970,13 +2410,6 @@ SUMMARY:Semifinal 1: ASTR vs SINQU Rehti
 UID:cs-go-urban-riga-open-5-2026-1551592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: FUT Esports: 1 | TYLOO: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260606T162227Z
-DTSTART:20260606T153058Z
-SUMMARY:Round 2: FUT vs TYLOO
-UID:cs-go-iem-cologne-major-2026-1508673@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Esport BERG: 2 | FROX: 0\nStream: https://www.twitch.tv/dachcs
 DTEND:20260429T203621Z
 DTSTART:20260429T192304Z
@@ -2989,20 +2422,6 @@ DURATION:PT2H
 DTSTART:20260704T220000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555123@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: FUT Esports: 1 | B8: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260606T122239Z
-DTSTART:20260606T113229Z
-SUMMARY:Round 1: FUT vs B8
-UID:cs-go-iem-cologne-major-2026-1508650@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: GamerLegion: 2 | BIG: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260604T164246Z
-DTSTART:20260604T143130Z
-SUMMARY:Round 4: GL vs BIG
-UID:cs-go-iem-cologne-major-2026-1508639@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Esport BERG: 0 | Team AceZone: 2\nStream: https://www.twitch.tv/dach_cs2
@@ -3047,13 +2466,6 @@ SUMMARY:PSN.A vs ex-MANA
 UID:cs-go-united21-51-2026-1540274@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | Monte: 1\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260614T150014Z
-DTSTART:20260614T120054Z
-SUMMARY:Round 4: MGLZ vs MNTE
-UID:cs-go-iem-cologne-major-2026-1513145@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Acend: 2 | Infinite: 0\nStream: https://kick.com/draculancs
 DTEND:20260626T134730Z
 DTSTART:20260626T121007Z
@@ -3089,13 +2501,6 @@ SUMMARY:Upper bracket quarterfinal 3: INF vs LPH
 UID:cs-go-united21-51-2026-1555600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Natus Vincere: 0 | Spirit: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260611T202740Z
-DTSTART:20260611T184558Z
-SUMMARY:Round 1: NAVI vs TS
-UID:cs-go-iem-cologne-major-2026-1513122@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 | against All authority: 0\nStream: https://kick.com/eplcs_en
 DTEND:20260606T092914Z
 DTSTART:20260606T080314Z
@@ -3115,13 +2520,6 @@ DURATION:PT2H
 DTSTART:20260708T190000Z
 SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555157@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: MIBR: 0 | BIG: 1\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260607T142139Z
-DTSTART:20260607T133116Z
-SUMMARY:Round 3: MIBR vs BIG
-UID:cs-go-iem-cologne-major-2026-1508684@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: MASQ: 1 | Alpha Dominion Nation: 2\nStream: https://kick.com/united21_en
@@ -3173,34 +2571,6 @@ SUMMARY:TAZ vs BIG.A
 UID:cs-go-dach-cs-masters-5-2026-1385734@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: B8: 1 | TYLOO: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260602T124724Z
-DTSTART:20260602T120013Z
-SUMMARY:Round 1: B8 vs TYLOO
-UID:cs-go-iem-cologne-major-2026-1494587@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | Liquid: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260602T201442Z
-DTSTART:20260602T193138Z
-SUMMARY:Round 2: BB vs TL
-UID:cs-go-iem-cologne-major-2026-1508627@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: MIBR: 1 | B8: 2\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260608T144426Z
-DTSTART:20260608T120212Z
-SUMMARY:Round 4: MIBR vs B8
-UID:cs-go-iem-cologne-major-2026-1508708@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Vitality: 1 | Team Falcons: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260619T231009Z
-DTSTART:20260619T193123Z
-SUMMARY:Quarterfinal 2: VIT vs FAL
-UID:cs-go-iem-cologne-major-2026-1513156@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: QUAZAR: 2 | Donstu Esports: 0\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260627T155944Z
 DTSTART:20260627T140331Z
@@ -3234,13 +2604,6 @@ DURATION:PT2H
 DTSTART:20260705T160000Z
 SUMMARY:Grand final: PCIFIC vs TBD
 UID:cs-go-tesfed-league-3-2026-1527909@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Team Falcons: 0 | BetBoom Team: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260612T170553Z
-DTSTART:20260612T151022Z
-SUMMARY:Round 2: FAL vs BB
-UID:cs-go-iem-cologne-major-2026-1513133@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: Infinite: 2 | Virtus.pro: 1\nStream: https://kick.com/eplcs_en
@@ -3292,13 +2655,6 @@ SUMMARY:Quarterfinal 2: BERG vs Aimhaus
 UID:cs-go-urban-riga-open-5-2026-1551591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Monte: 1 | BIG: 0\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260606T133735Z
-DTSTART:20260606T124851Z
-SUMMARY:Round 1: MNTE vs BIG
-UID:cs-go-iem-cologne-major-2026-1508672@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Playing Ducks: 1 | Team LEISURE: 2\nStream: https://www.twitch.tv/dachcs
 DTEND:20260429T184539Z
 DTSTART:20260429T161459Z
@@ -3311,13 +2667,6 @@ DURATION:PT2H
 DTSTART:20260704T190000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555122@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 0 | FlyQuest: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260604T134456Z
-DTSTART:20260604T120058Z
-SUMMARY:Round 4: TdU vs FLY
-UID:cs-go-iem-cologne-major-2026-1508638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Svenska CS-Ligan - 2026\nMatch Type: Best Of\nResult: train launcher: 2 | LEO: 1\nStream: https://www.twitch.tv/esplaycom
@@ -3339,13 +2688,6 @@ DTEND:20260618T095252Z
 DTSTART:20260618T080819Z
 SUMMARY:KSM vs PRE
 UID:cs-go-united21-51-2026-1540273@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: MOUZ: 1 | FUT Esports: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260614T150153Z
-DTSTART:20260614T120059Z
-SUMMARY:Round 4: MOUZ vs FUT
-UID:cs-go-iem-cologne-major-2026-1513144@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Infinite: 2 | Betclic Apogee Esports: 0\nStream: https://kick.com/draculancs
@@ -3376,13 +2718,6 @@ SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-cct-europe-challengers-series-4-2026-1550166@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Team Falcons: 2 | G2: 1\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260611T182537Z
-DTSTART:20260611T150611Z
-SUMMARY:Round 1: FAL vs G2
-UID:cs-go-iem-cologne-major-2026-1513121@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | Misa Esports: 0\nStream: https://kick.com/eplcs_en
 DTEND:20260613T121606Z
 DTSTART:20260613T104154Z
@@ -3395,13 +2730,6 @@ DURATION:PT2H
 DTSTART:20260704T110000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-xse-pro-league-2026-1551623@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | M80: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260607T150226Z
-DTSTART:20260607T142708Z
-SUMMARY:Round 3: BB vs M80
-UID:cs-go-iem-cologne-major-2026-1508683@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: eSuba: 1 | ex-MANA eSports: 2\nStream: https://kick.com/united21_en
@@ -3439,13 +2767,6 @@ SUMMARY:Round 1: 9z vs EYE
 UID:cs-go-xse-pro-league-2026-1533028@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: G2: 1 | M80: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260606T133047Z
-DTSTART:20260606T124325Z
-SUMMARY:Round 1: G2 vs M80
-UID:cs-go-iem-cologne-major-2026-1508649@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Prestige: 0\nStream: https://kick.com/united21_en
 DTEND:20260701T104340Z
 DTSTART:20260701T090938Z
@@ -3465,34 +2786,6 @@ DURATION:PT2H
 DTSTART:20260703T103000Z
 SUMMARY:Decider match: ex-Sashi Academy vs EP
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553989@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: GamerLegion: 1 | NRG: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260602T140343Z
-DTSTART:20260602T131040Z
-SUMMARY:Round 1: GL vs NRG
-UID:cs-go-iem-cologne-major-2026-1494586@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: M80: 1 | Sharks: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260602T183019Z
-DTSTART:20260602T174559Z
-SUMMARY:Round 2: M80 vs SHK
-UID:cs-go-iem-cologne-major-2026-1508626@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Astralis: 0 | paiN: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260608T134430Z
-DTSTART:20260608T120142Z
-SUMMARY:Round 4: AST vs paiN
-UID:cs-go-iem-cologne-major-2026-1508707@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Spirit: 2 | G2: 1\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260619T183258Z
-DTSTART:20260619T134920Z
-SUMMARY:Quarterfinal 1: TS vs G2
-UID:cs-go-iem-cologne-major-2026-1513155@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Donstu Esports: 2 | HOTU Academy: 0\nStream: No official stream linked
@@ -3535,13 +2828,6 @@ DTEND:20260619T135815Z
 DTSTART:20260619T113924Z
 SUMMARY:Elimination match: ME vs EAC Rising
 UID:cs-go-united21-51-2026-1540261@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | Legacy: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260612T162744Z
-DTSTART:20260612T144007Z
-SUMMARY:Round 2: NAVI vs LGC
-UID:cs-go-iem-cologne-major-2026-1513132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | Oxuji Esports: 2\nStream: https://kick.com/eplcs_en
@@ -3614,13 +2900,6 @@ SUMMARY:Winners match: LDP vs MIBR.A
 UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1547969@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: paiN: 0 | TYLOO: 1\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260606T122730Z
-DTSTART:20260606T114030Z
-SUMMARY:Round 1: paiN vs TYLOO
-UID:cs-go-iem-cologne-major-2026-1508671@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: BIG Academy: 2 | Huskies eSport: 0\nStream: https://www.twitch.tv/dachcs
 DTEND:20260520T194101Z
 DTSTART:20260520T182222Z
@@ -3640,13 +2919,6 @@ DURATION:PT2H
 DTSTART:20260704T160000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555121@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: TYLOO: 2 | Sharks: 1\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260604T144537Z
-DTSTART:20260604T120105Z
-SUMMARY:Round 4: TYLOO vs SHK
-UID:cs-go-iem-cologne-major-2026-1508637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: FROX: 2 | Huskies eSport: 1\nStream: https://www.twitch.tv/dachcs
@@ -3684,13 +2956,6 @@ SUMMARY:Decider match: ADN vs Alpha Gaming
 UID:cs-go-united21-51-2026-1540272@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Spirit: 2 | 9z: 1\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260613T223823Z
-DTSTART:20260613T185531Z
-SUMMARY:Round 3: TS vs 9z
-UID:cs-go-iem-cologne-major-2026-1513143@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: Acend: 0 | INOX Division: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260619T135550Z
 DTSTART:20260619T111607Z
@@ -3710,13 +2975,6 @@ DURATION:PT2H
 DTSTART:20260702T134500Z
 SUMMARY:Upper bracket semifinal 2: Atreides vs Subtop De France
 UID:cs-go-cct-europe-challengers-series-4-2026-1550165@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: Vitality: 2 | FUT Esports: 1\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260611T144458Z
-DTSTART:20260611T121417Z
-SUMMARY:Round 1: VIT vs FUT
-UID:cs-go-iem-cologne-major-2026-1513120@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 7 2026\nMatch Type: Best Of\nResult: Lavked: 2 | Misa Esports: 0\nStream: https://kick.com/eplcs_en
