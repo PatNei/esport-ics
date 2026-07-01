@@ -131,27 +131,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/S
 </details>
 
 <details>
-<summary>Stake Ranked</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics
-```
-
----
-
-### Episode 3: Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode3ClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode3ClosedQualifier2026.ics
-```
-
-</details>
-
-<details>
 <summary>Super DraculaN</summary>
 
 ### Full Schedule
