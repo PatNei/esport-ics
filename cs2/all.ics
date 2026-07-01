@@ -950,7 +950,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260702T110000Z
-SUMMARY:Lower bracket round 3 match 1: Wampirki vs TBD
+SUMMARY:Lower bracket round 3 match 1: Wampirki vs SAW
 UID:cs-go-cct-europe-challengers-series-4-2026-1550162@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1710,9 +1710,9 @@ SUMMARY:OverDrive vs Recrent
 UID:cs-go-betboom-streamers-battle-5-2026-1564895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
 DURATION:PT2H
-DTSTART:20260701T171500Z
+DTSTART:20260701T171300Z
 SUMMARY:SHOKE vs AUNK
 UID:cs-go-betboom-streamers-battle-5-2026-1564608@tournamentics
 END:VEVENT
@@ -2193,8 +2193,8 @@ SUMMARY:Winners match: G2.A vs YN
 UID:cs-go-european-pro-league-series-7-2026-1504761@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nResult: Just Players: 1 | SAW: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260701T170938Z
 DTSTART:20260701T134759Z
 SUMMARY:Lower bracket round 2 match 2: Just Players vs SAW
 UID:cs-go-cct-europe-challengers-series-4-2026-1550159@tournamentics
