@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
 DURATION:PT2H
-DTSTART:20260701T141500Z
+DTSTART:20260701T143500Z
 SUMMARY:Round 1: BB vs SIN
 UID:cs-go-xse-pro-league-2026-1533031@tournamentics
 END:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:Round 1: B8 vs MIBR
 UID:cs-go-xse-pro-league-2026-1533033@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: Luminosity: 0 | Team Nemesis: 1\nStream: https://kick.com/xsecs
+DTEND:20260701T140826Z
 DTSTART:20260701T130602Z
 SUMMARY:Round 1: LG vs NEM
 UID:cs-go-xse-pro-league-2026-1533029@tournamentics
