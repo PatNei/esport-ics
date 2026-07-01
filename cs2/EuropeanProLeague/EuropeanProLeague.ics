@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260702T103000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: WBT vs TBD
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553999@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -324,8 +324,8 @@ SUMMARY:INOX vs BL
 UID:cs-go-european-pro-league-series-7-2026-1504749@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: SAW: 1 | WBT: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260701T104232Z
 DTSTART:20260701T080538Z
 SUMMARY:Elimination match: SAW vs WBT
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553998@tournamentics
@@ -557,7 +557,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260701T104500Z
+DTSTART:20260701T110000Z
 SUMMARY:Winners match: IC.A vs MISA
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553997@tournamentics
 END:VEVENT
