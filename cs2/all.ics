@@ -1206,18 +1206,18 @@ SUMMARY:Quarterfinal 2: PHA vs WAL
 UID:cs-go-stake-ranked-episode-3-closed-qualifier-2026-1543919@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Yawara Esports: 2 | Game Hunters: 1\nStream: https://kick.com/cct_cs
-DTEND:20260630T155510Z
-DTSTART:20260630T130130Z
-SUMMARY:Round 2: YAW vs GH
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555106@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260723T080000Z
 SUMMARY:3rd Place match: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554039@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Yawara Esports: 2 | Game Hunters: 1\nStream: https://kick.com/cct_cs
+DTEND:20260630T155510Z
+DTSTART:20260630T130130Z
+SUMMARY:Round 2: YAW vs GH
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555106@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nResult: VENOM ESPOR: 2 | Amsterdam Türkgücü: 1\nStream: No official stream linked
@@ -1370,7 +1370,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260702T220000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: PDAF vs BST.A
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555117@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1776,7 +1776,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260702T190000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: YAW vs RF
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555116@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2161,7 +2161,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260702T160000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: MAG vs VEXA
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555115@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2539,7 +2539,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260702T130000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: MW vs GH
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555114@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2924,7 +2924,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260701T220000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: paiN.A vs GE
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555113@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3267,7 +3267,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260701T190000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: MIBR.A vs ALKA
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555112@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3635,13 +3635,6 @@ SUMMARY:Round of 16 match 2: M8 vs KOL
 UID:cs-go-cct-europe-series-4-2026-1519601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260701T160000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555111@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: B8: 1 | TYLOO: 0\nStream: https://www.twitch.tv/ESLCS
 DTEND:20260602T124724Z
 DTSTART:20260602T120013Z
@@ -3971,11 +3964,11 @@ SUMMARY:Semifinal 2: ECHO vs K27
 UID:cs-go-stake-ranked-episode-3-closed-qualifier-2026-1543923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260701T130000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555110@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #4 2026\nMatch Type: Best Of\nResult: HOTU: 0 | GenOne: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260618T153858Z
+DTSTART:20260618T141340Z
+SUMMARY:Round of 16 match 3: HOTU vs G1
+UID:cs-go-cct-europe-series-4-2026-1519600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
@@ -3983,13 +3976,6 @@ DURATION:PT2H
 DTSTART:20260703T103000Z
 SUMMARY:Decider match: ex-Sashi Academy vs EP
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553989@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #4 2026\nMatch Type: Best Of\nResult: HOTU: 0 | GenOne: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260618T153858Z
-DTSTART:20260618T141340Z
-SUMMARY:Round of 16 match 3: HOTU vs G1
-UID:cs-go-cct-europe-series-4-2026-1519600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: GamerLegion: 1 | NRG: 0\nStream: https://www.twitch.tv/ESLCS
