@@ -1222,7 +1222,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
 DURATION:PT2H
-DTSTART:20260701T193000Z
+DTSTART:20260701T203000Z
 SUMMARY:zoneR vs Burger
 UID:cs-go-betboom-streamers-battle-5-2026-1564609@tournamentics
 END:VEVENT
@@ -1710,8 +1710,8 @@ SUMMARY:Round of 16 match 1: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555127@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: B8: 1 | MIBR: 0\nStream: https://kick.com/xsecsb
+DTEND:20260701T191309Z
 DTSTART:20260701T174953Z
 SUMMARY:Round 1: B8 vs MIBR
 UID:cs-go-xse-pro-league-2026-1533033@tournamentics
@@ -2935,13 +2935,6 @@ SUMMARY:FROX vs R4G
 UID:cs-go-dach-cs-masters-5-2026-1385735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260701T190000Z
-SUMMARY:Round 3: MIBR.A vs MAG
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555112@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Cologne Major 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | Gaimin Gladiators: 0\nStream: https://www.twitch.tv/ESLCSb
 DTEND:20260602T143803Z
 DTSTART:20260602T140036Z
@@ -3670,9 +3663,9 @@ SUMMARY:Round 16 match 1: NTR vs OXUJI
 UID:cs-go-european-pro-league-series-7-2026-1504768@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
-DTSTART:20260701T190000Z
+DTSTART:20260701T191023Z
 SUMMARY:Quarterfinal 4: CHAMA vs ALKA
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1566234@tournamentics
 END:VEVENT
