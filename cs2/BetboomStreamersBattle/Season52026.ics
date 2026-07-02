@@ -72,11 +72,11 @@ SUMMARY:HOOCH vs OverDrive
 UID:cs-go-betboom-streamers-battle-5-2026-1564595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team StRoGo: 0 | Team Recrent: 2\nStream: https://www.twitch.tv/betboom_sb_cs
-DTEND:20260701T141622Z
-DTSTART:20260701T122427Z
-SUMMARY:StRoGo vs Recrent
-UID:cs-go-betboom-streamers-battle-5-2026-1564594@tournamentics
+DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
+DURATION:PT2H
+DTSTART:20260702T190541Z
+SUMMARY:Upper bracket semifinal 2: HOOCH vs Burger
+UID:cs-go-betboom-streamers-battle-5-2026-1568942@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team Aunkere: 2 | Team Burger: 0\nStream: https://www.twitch.tv/betboom_sb_cs
@@ -84,6 +84,13 @@ DURATION:PT2H
 DTSTART:20260629T150000Z
 SUMMARY:AUNK vs Shadowkek vs Burger
 UID:cs-go-betboom-streamers-battle-5-2026-1564933@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team StRoGo: 0 | Team Recrent: 2\nStream: https://www.twitch.tv/betboom_sb_cs
+DTEND:20260701T141622Z
+DTSTART:20260701T122427Z
+SUMMARY:StRoGo vs Recrent
+UID:cs-go-betboom-streamers-battle-5-2026-1564594@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team Burger: 2 | Team OverDrive: 1\nStream: https://www.twitch.tv/betboom_sb_cs
@@ -98,5 +105,12 @@ DTEND:20260630T212150Z
 DTSTART:20260630T182726Z
 SUMMARY:zoneR vs AUNK
 UID:cs-go-betboom-streamers-battle-5-2026-1564607@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team Aunkere: 2 | Team shoke: 0\nStream: https://www.twitch.tv/betboom_sb_cs
+DTEND:20260702T174300Z
+DTSTART:20260702T163000Z
+SUMMARY:Upper bracket semifinal 1: AUNK vs SHOKE
+UID:cs-go-betboom-streamers-battle-5-2026-1568941@tournamentics
 END:VEVENT
 END:VCALENDAR
