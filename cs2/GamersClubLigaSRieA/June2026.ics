@@ -159,12 +159,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
 DTSTART:20260703T190000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: RED.A vs TBD
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1567948@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 2 | ODDIK: 1\nStream: https://www.twitch.tv/gamersclubcs
+DTEND:20260702T221606Z
 DTSTART:20260702T191410Z
 SUMMARY:Semifinal 1: RED.A vs ODK
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1567945@tournamentics
