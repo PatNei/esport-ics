@@ -667,9 +667,9 @@ SUMMARY:Upper bracket final: BIG.A vs BERG
 UID:cs-go-dach-cs-masters-5-2026-1497829@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecsb
+DESCRIPTION:🔴 LIVE NOW\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecsb
 DURATION:PT2H
-DTSTART:20260702T132500Z
+DTSTART:20260702T133309Z
 SUMMARY:Round 2: BB vs BIG
 UID:cs-go-xse-pro-league-2026-1551608@tournamentics
 END:VEVENT
@@ -1682,13 +1682,6 @@ SUMMARY:Burger vs SHOKE
 UID:cs-go-betboom-streamers-battle-5-2026-1564606@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260702T132614Z
-SUMMARY:Round 3: MW vs ex-Vexa
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555114@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: FROX: 0 | Wave Esports: 2\nStream: https://www.twitch.tv/dach_cs2
 DTEND:20260401T192313Z
 DTSTART:20260401T180150Z
@@ -2235,6 +2228,13 @@ SUMMARY:BERG vs FROX
 UID:cs-go-dach-cs-masters-5-2026-1385746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
+DURATION:PT2H
+DTSTART:20260702T160000Z
+SUMMARY:Upper bracket quarterfinal 2: AUNK vs SHOKE
+UID:cs-go-betboom-streamers-battle-5-2026-1568679@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260704T220000Z
@@ -2457,6 +2457,13 @@ DTEND:20260429T184539Z
 DTSTART:20260429T161459Z
 SUMMARY:Ducks vs LEI
 UID:cs-go-dach-cs-masters-5-2026-1385745@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
+DURATION:PT2H
+DTSTART:20260702T131037Z
+SUMMARY:Upper bracket quarterfinal 1: Burger vs OverDrive
+UID:cs-go-betboom-streamers-battle-5-2026-1568678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
