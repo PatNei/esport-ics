@@ -47,12 +47,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
 DURATION:PT2H
 DTSTART:20260704T120000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: AUNK vs TBD
 UID:cs-go-betboom-streamers-battle-5-2026-1569494@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team Aunkere: 1 | Team hooch: 2\nStream: https://www.twitch.tv/betboom_sb_cs
+DTEND:20260703T183701Z
 DTSTART:20260703T160938Z
 SUMMARY:Upper bracket final: AUNK vs HOOCH
 UID:cs-go-betboom-streamers-battle-5-2026-1569491@tournamentics
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_sb_cs
 DURATION:PT2H
 DTSTART:20260704T153000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: HOOCH vs TBD
 UID:cs-go-betboom-streamers-battle-5-2026-1569493@tournamentics
 END:VEVENT
 BEGIN:VEVENT
