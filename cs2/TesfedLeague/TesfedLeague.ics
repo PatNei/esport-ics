@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/TESFED
 DURATION:PT2H
 DTSTART:20260704T160000Z
-SUMMARY:Lower bracket final: MISA vs TBD
+SUMMARY:Lower bracket final: MISA vs FF
 UID:cs-go-tesfed-league-3-2026-1527915@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -93,8 +93,8 @@ SUMMARY:Upper bracket quarterfinal 1: MISA vs FP
 UID:cs-go-tesfed-league-3-2026-1527902@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/TESFED
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nResult: VENOM ESPOR: 0 | Fire Flux Esports: 2\nStream: https://www.twitch.tv/TESFED
+DTEND:20260703T175159Z
 DTSTART:20260703T161136Z
 SUMMARY:Lower bracket semifinal: VENOM vs FF
 UID:cs-go-tesfed-league-3-2026-1527914@tournamentics
