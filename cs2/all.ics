@@ -936,7 +936,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260708T103000Z
-SUMMARY:Elimination match: LEO vs TBD
+SUMMARY:Elimination match: LEO vs Prestige Academy
 UID:cs-go-united21-52-2026-1568951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1195,7 +1195,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260708T080000Z
-SUMMARY:Winners match: FaZe UN vs TBD
+SUMMARY:Winners match: FaZe UN vs vsters
 UID:cs-go-united21-52-2026-1568950@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1314,7 +1314,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260705T134500Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: EJ vs TBD
 UID:cs-go-cct-europe-challengers-series-4-2026-1550171@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1573,7 +1573,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260705T110000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: Atreides vs TBD
 UID:cs-go-cct-europe-challengers-series-4-2026-1550170@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1598,8 +1598,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555160@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: Prestige Academy: 1 | Västerås: 2\nStream: https://kick.com/united21_en
+DTEND:20260704T133527Z
 DTSTART:20260704T103916Z
 SUMMARY:Prestige Academy vs vsters
 UID:cs-go-united21-52-2026-1568949@tournamentics
@@ -1964,7 +1964,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260704T134500Z
+DTSTART:20260704T140000Z
 SUMMARY:Lower bracket semifinal: DNT vs SAW.Y
 UID:cs-go-cct-europe-challengers-series-4-2026-1550169@tournamentics
 END:VEVENT
@@ -2214,8 +2214,8 @@ SUMMARY:Lower bracket round 1 match  1: FP vs FUT.T
 UID:cs-go-tesfed-league-3-2026-1527910@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nResult: Atreides: 1 | Endless Journey: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260704T133812Z
 DTSTART:20260704T110504Z
 SUMMARY:Upper bracket final: Atreides vs EJ
 UID:cs-go-cct-europe-challengers-series-4-2026-1550168@tournamentics
@@ -2685,7 +2685,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecsb
 DURATION:PT2H
-DTSTART:20260704T140000Z
+DTSTART:20260704T141500Z
 SUMMARY:Round 4: EYE vs NEM
 UID:cs-go-xse-pro-league-2026-1551623@tournamentics
 END:VEVENT

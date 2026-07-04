@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260705T134500Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: EJ vs TBD
 UID:cs-go-cct-europe-challengers-series-4-2026-1550171@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260704T134500Z
+DTSTART:20260704T140000Z
 SUMMARY:Lower bracket semifinal: DNT vs SAW.Y
 UID:cs-go-cct-europe-challengers-series-4-2026-1550169@tournamentics
 END:VEVENT
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260705T110000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: Atreides vs TBD
 UID:cs-go-cct-europe-challengers-series-4-2026-1550170@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Upper bracket round 1 match 8: NEW VISION vs JUL
 UID:cs-go-cct-europe-challengers-series-4-2026-1550149@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nResult: Atreides: 1 | Endless Journey: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260704T133812Z
 DTSTART:20260704T110504Z
 SUMMARY:Upper bracket final: Atreides vs EJ
 UID:cs-go-cct-europe-challengers-series-4-2026-1550168@tournamentics
