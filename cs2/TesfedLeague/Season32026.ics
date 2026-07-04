@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/TESFED
 DURATION:PT2H
 DTSTART:20260705T160000Z
-SUMMARY:Grand final: PCIFIC vs TBD
+SUMMARY:Grand final: PCIFIC vs MISA
 UID:cs-go-tesfed-league-3-2026-1527909@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -44,8 +44,8 @@ SUMMARY:Upper bracket semifinal 1: MISA vs FF
 UID:cs-go-tesfed-league-3-2026-1527906@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/TESFED
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | Fire Flux Esports: 1\nStream: https://kick.com/TESFED
+DTEND:20260704T201145Z
 DTSTART:20260704T161100Z
 SUMMARY:Lower bracket final: MISA vs FF
 UID:cs-go-tesfed-league-3-2026-1527915@tournamentics
