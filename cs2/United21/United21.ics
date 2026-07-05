@@ -201,7 +201,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260709T103000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: ADN vs TBD
 UID:cs-go-united21-52-2026-1568956@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -219,8 +219,8 @@ SUMMARY:Upper bracket semifinal 2: INF vs PRE
 UID:cs-go-united21-51-2026-1560514@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: Alpha Dominion Nation: 0 | Vitality Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260705T093921Z
 DTSTART:20260705T081257Z
 SUMMARY:ADN vs VIT.A
 UID:cs-go-united21-52-2026-1568953@tournamentics
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260709T080000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: VIT.A vs TBD
 UID:cs-go-united21-52-2026-1568955@tournamentics
 END:VEVENT
 BEGIN:VEVENT
