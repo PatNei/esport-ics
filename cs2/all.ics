@@ -2034,7 +2034,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
 DURATION:PT2H
-DTSTART:20260705T090000Z
+DTSTART:20260705T100000Z
 SUMMARY:Round 5: B8 vs BIG
 UID:cs-go-xse-pro-league-2026-1551626@tournamentics
 END:VEVENT
@@ -2284,8 +2284,8 @@ SUMMARY:Upper bracket quarterfinal 4: PRE vs ME
 UID:cs-go-united21-51-2026-1555601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: MIBR: 0 | 9z: 2\nStream: https://kick.com/xsecs
+DTEND:20260705T085232Z
 DTSTART:20260705T061541Z
 SUMMARY:Round 5: MIBR vs 9z
 UID:cs-go-xse-pro-league-2026-1551625@tournamentics
