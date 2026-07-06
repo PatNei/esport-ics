@@ -262,27 +262,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/Close
 </details>
 
 <details>
-<summary>LG UltraGear Tournament</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LgUltragearTournament/LgUltragearTournament.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LgUltragearTournament/LgUltragearTournament.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LgUltragearTournament/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LgUltragearTournament/2026.ics
-```
-
-</details>
-
-<details>
 <summary>Rainhas do Clutch FERJEE</summary>
 
 ### Full Schedule
