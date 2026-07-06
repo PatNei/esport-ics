@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nResult: Keyd: 2 | Yawara Esports: 0\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260624T205550Z
-DTSTART:20260624T190642Z
-SUMMARY:Keyd vs YAW
-UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1547972@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nResult: Isurus: 0 | MIBR Academy: 2\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260624T180129Z
-DTSTART:20260624T160422Z
-SUMMARY:ISG vs MIBR.A
-UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1547968@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nResult: UNO MILLE: 1 | ShindeN: 2\nStream: https://www.twitch.tv/thunderpicktv
 DTEND:20260629T022715Z
 DTSTART:20260629T000407Z
@@ -49,6 +35,27 @@ DTEND:20260626T193334Z
 DTSTART:20260626T180638Z
 SUMMARY:Decider match: MIBR.A vs ISG
 UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1547971@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260709T160000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574385@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260710T180000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574382@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260708T130000Z
+SUMMARY:ISG vs UNO
+UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574378@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nResult: Fluxo: 1 | UNO MILLE: 2\nStream: https://www.twitch.tv/thunderpicktv
@@ -86,6 +93,27 @@ SUMMARY:Winners match: LDP vs MIBR.A
 UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1547969@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260710T210000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574387@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260708T220000Z
+SUMMARY:Keyd vs MIBR.A
+UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574384@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260709T190000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574381@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nResult: ShindeN: 2 | largadosypelados: 0\nStream: https://www.twitch.tv/thunderpicktv
 DTEND:20260628T231050Z
 DTSTART:20260628T212434Z
@@ -105,5 +133,47 @@ DTEND:20260627T174351Z
 DTSTART:20260627T160446Z
 SUMMARY:Quarterfinal 2: BHE vs UNO
 UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1549552@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nResult: Keyd: 2 | Yawara Esports: 0\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260624T205550Z
+DTSTART:20260624T190642Z
+SUMMARY:Keyd vs YAW
+UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1547972@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nResult: Isurus: 0 | MIBR Academy: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260624T180129Z
+DTSTART:20260624T160422Z
+SUMMARY:ISG vs MIBR.A
+UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1547968@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260709T220000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574386@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260708T190000Z
+SUMMARY:YAW vs MW
+UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574383@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260708T160000Z
+SUMMARY:FDB vs paiN.A
+UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574379@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260709T130000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574380@tournamentics
 END:VEVENT
 END:VCALENDAR
