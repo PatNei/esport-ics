@@ -262,27 +262,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/Close
 </details>
 
 <details>
-<summary>Rainhas do Clutch FERJEE</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RainhasDoClutchFerjee/RainhasDoClutchFerjee.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RainhasDoClutchFerjee/RainhasDoClutchFerjee.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RainhasDoClutchFerjee/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RainhasDoClutchFerjee/2026.ics
-```
-
-</details>
-
-<details>
 <summary>Svenska CS-Ligan</summary>
 
 ### Full Schedule
