@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260706T153052Z
-SUMMARY:Lower bracket round 1 match 1: BB vs Tricksters
-UID:cs-go-cct-europe-contenders-6-2026-1575315@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: TrafficPills Esports: 1 | TheBoys: 2\nStream: https://kick.com/cct_cs4
 DTEND:20260705T214205Z
 DTSTART:20260705T183508Z
@@ -25,16 +18,37 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260707T181500Z
-SUMMARY:Upper bracket quarterfinal 2: Al Ahli vs PURE
-UID:cs-go-cct-europe-contenders-6-2026-1575321@tournamentics
+DTSTART:20260712T153000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-cct-europe-contenders-6-2026-1575328@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
+DTSTART:20260711T153000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-cct-europe-contenders-6-2026-1575325@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260707T181500Z
+SUMMARY:Upper bracket quarterfinal 4: TheBoys vs maybe
+UID:cs-go-cct-europe-contenders-6-2026-1575322@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
 DTSTART:20260706T181500Z
-SUMMARY:Upper bracket quarterfinal 1: mellren vs NXT
-UID:cs-go-cct-europe-contenders-6-2026-1575317@tournamentics
+SUMMARY:Upper bracket quarterfinal 3: LPH vs BAKS
+UID:cs-go-cct-europe-contenders-6-2026-1575318@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260706T153052Z
+SUMMARY:Lower bracket round 1 match 1: BB vs Tricksters
+UID:cs-go-cct-europe-contenders-6-2026-1575315@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult:  Gatorian: 0 | BakS eSports: 2\nStream: https://kick.com/cct_cs4
@@ -42,13 +56,6 @@ DTEND:20260705T173334Z
 DTSTART:20260705T155219Z
 SUMMARY:Upper bracket round 1 match 6: GAT vs BAKS
 UID:cs-go-cct-europe-contenders-6-2026-1572135@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260707T153000Z
-SUMMARY:Lower bracket round 1 match 3: banda chuya vs GAT
-UID:cs-go-cct-europe-contenders-6-2026-1575319@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 0 | Al Ahli: 2\nStream: https://kick.com/cct_cs3
@@ -60,23 +67,30 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260707T153000Z
-SUMMARY:Lower bracket round 1 match 4: TrafficPills Esports vs ARCH
-UID:cs-go-cct-europe-contenders-6-2026-1575320@tournamentics
+DTSTART:20260711T181500Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-cct-europe-contenders-6-2026-1575327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260706T153053Z
-SUMMARY:Lower bracket round 1 match 2: JUMBO vs Diamant Esports
-UID:cs-go-cct-europe-contenders-6-2026-1575316@tournamentics
+DTSTART:20260709T181500Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-cct-europe-contenders-6-2026-1575324@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Tricksters: 1 | Next UP: 2\nStream: https://kick.com/cct_cs4
-DTEND:20260704T211830Z
-DTSTART:20260704T184551Z
-SUMMARY:Upper bracket round 1 match 2: Tricksters vs NXT
-UID:cs-go-cct-europe-contenders-6-2026-1572131@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260707T181500Z
+SUMMARY:Upper bracket quarterfinal 2: Al Ahli vs PURE
+UID:cs-go-cct-europe-contenders-6-2026-1575321@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260706T181500Z
+SUMMARY:Upper bracket quarterfinal 1: mellren vs NXT
+UID:cs-go-cct-europe-contenders-6-2026-1575317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: maybe: 2 | Arch: 1\nStream: https://kick.com/cct_cs3
@@ -93,17 +107,45 @@ SUMMARY:Upper bracket round 1 match 5: banda chuya vs LPH
 UID:cs-go-cct-europe-contenders-6-2026-1572134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260707T181500Z
-SUMMARY:Upper bracket quarterfinal 4: TheBoys vs maybe
-UID:cs-go-cct-europe-contenders-6-2026-1575322@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Tricksters: 1 | Next UP: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260704T211830Z
+DTSTART:20260704T184551Z
+SUMMARY:Upper bracket round 1 match 2: Tricksters vs NXT
+UID:cs-go-cct-europe-contenders-6-2026-1572131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260706T181500Z
-SUMMARY:Upper bracket quarterfinal 3: LPH vs BAKS
-UID:cs-go-cct-europe-contenders-6-2026-1575318@tournamentics
+DTSTART:20260712T181500Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-cct-europe-contenders-6-2026-1575326@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260709T181500Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-cct-europe-contenders-6-2026-1575323@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260707T153000Z
+SUMMARY:Lower bracket round 1 match 3: banda chuya vs GAT
+UID:cs-go-cct-europe-contenders-6-2026-1575319@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260707T153000Z
+SUMMARY:Lower bracket round 1 match 4: TrafficPills Esports vs ARCH
+UID:cs-go-cct-europe-contenders-6-2026-1575320@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260706T153053Z
+SUMMARY:Lower bracket round 1 match 2: JUMBO vs Diamant Esports
+UID:cs-go-cct-europe-contenders-6-2026-1575316@tournamentics
 END:VEVENT
 END:VCALENDAR
