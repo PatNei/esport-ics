@@ -494,7 +494,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260706T191500Z
+DTSTART:20260706T200000Z
 SUMMARY:Upper bracket quarterfinal 1: mellren vs NXT
 UID:cs-go-cct-europe-contenders-6-2026-1575317@tournamentics
 END:VEVENT
@@ -891,9 +891,9 @@ SUMMARY:Lower bracket semifinal 1: ICE vs 9INE
 UID:cs-go-draculan-7-2026-1545501@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260706T194500Z
+DTSTART:20260706T194736Z
 SUMMARY:Round of 16 match 3: FDB vs ex-Vexa
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555129@tournamentics
 END:VEVENT
@@ -975,8 +975,8 @@ SUMMARY:Semifinal 1: ATRIX vs SHIM
 UID:cs-go-rainhas-do-clutch-ferjee-2026-1544942@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Basement Bobs: 1 | Tricksters: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260706T194530Z
 DTSTART:20260706T153052Z
 SUMMARY:Lower bracket round 1 match 1: BB vs Tricksters
 UID:cs-go-cct-europe-contenders-6-2026-1575315@tournamentics
