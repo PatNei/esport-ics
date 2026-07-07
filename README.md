@@ -178,27 +178,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contender
 </details>
 
 <details>
-<summary>DACH CS Masters</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/DachCsMasters.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/DachCsMasters.ics
-```
-
----
-
-### Season 5 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Season52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Season52026.ics
-```
-
-</details>
-
-<details>
 <summary>European Pro League</summary>
 
 ### Full Schedule
