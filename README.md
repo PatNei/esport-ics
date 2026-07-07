@@ -262,27 +262,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNational
 </details>
 
 <details>
-<summary>Svenska CS-Ligan</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SvenskaCsLigan/SvenskaCsLigan.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SvenskaCsLigan/SvenskaCsLigan.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SvenskaCsLigan/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SvenskaCsLigan/2026.ics
-```
-
-</details>
-
-<details>
 <summary>TESFED League</summary>
 
 ### Full Schedule
