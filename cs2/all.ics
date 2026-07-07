@@ -1685,7 +1685,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260709T181500Z
-SUMMARY:Upper bracket semifinal 1: mellren vs TBD
+SUMMARY:Upper bracket semifinal 1: mellren vs PURE
 UID:cs-go-cct-europe-contenders-6-2026-1575323@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2077,7 +2077,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260708T220000Z
-SUMMARY:Quarterfinal 4: TBD vs FX
+SUMMARY:Quarterfinal 4: PDAF vs FX
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555158@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2151,8 +2151,8 @@ SUMMARY:Upper bracket quarterfinal 2: SASHI vs 9INE
 UID:cs-go-draculan-7-2026-1545460@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Al Ahli: 1 | PURE: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260707T212705Z
 DTSTART:20260707T184346Z
 SUMMARY:Upper bracket quarterfinal 2: Al Ahli vs PURE
 UID:cs-go-cct-europe-contenders-6-2026-1575321@tournamentics
@@ -2515,8 +2515,8 @@ SUMMARY:Quarterfinal 2: BHE vs UNO
 UID:cs-go-thunderpick-world-championship-south-american-series-1-2026-1549552@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: UNO MILLE: 1 | Patins da Ferrari: 2\nStream: https://kick.com/cct_cs
+DTEND:20260707T213130Z
 DTSTART:20260707T191159Z
 SUMMARY:Round of 16 match 7: UNO vs PDAF
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555133@tournamentics
