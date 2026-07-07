@@ -262,6 +262,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/Close
 </details>
 
 <details>
+<summary>HyperX & Intel Nationals</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNationals/HyperxIntelNationals.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNationals/HyperxIntelNationals.ics
+```
+
+---
+
+### 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNationals/2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNationals/2026.ics
+```
+
+</details>
+
+<details>
 <summary>Svenska CS-Ligan</summary>
 
 ### Full Schedule
