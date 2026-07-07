@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260711T080000Z
-SUMMARY:Decider match: INF vs TBD
+SUMMARY:Decider match: INF vs MISA
 UID:cs-go-united21-52-2026-1568947@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -233,8 +233,8 @@ SUMMARY:Prestige Academy vs vsters
 UID:cs-go-united21-52-2026-1568949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: Entropy: 0 | Misa Esports: 2\nStream: https://kick.com/united21_en
+DTEND:20260707T135744Z
 DTSTART:20260707T121227Z
 SUMMARY:Elimination match: Entropy vs MISA
 UID:cs-go-united21-52-2026-1568946@tournamentics
