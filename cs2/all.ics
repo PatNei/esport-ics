@@ -404,7 +404,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260712T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: EP vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554018@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -859,7 +859,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260712T103000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: Atreides vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554016@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -886,7 +886,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260708T103000Z
+DTSTART:20260710T133000Z
 SUMMARY:Elimination match: LEO vs Prestige Academy
 UID:cs-go-united21-52-2026-1568951@tournamentics
 END:VEVENT
@@ -1381,8 +1381,8 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: Atreides: 2 | eternal premium: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260708T101547Z
 DTSTART:20260708T080118Z
 SUMMARY:Atreides vs EP
 UID:cs-go-european-pro-league-series-8-2026-1554014@tournamentics
@@ -2951,7 +2951,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260709T080000Z
+DTSTART:20260708T103000Z
 SUMMARY:Winners match: VIT.A vs Inner Circle Prospect
 UID:cs-go-united21-52-2026-1568955@tournamentics
 END:VEVENT
