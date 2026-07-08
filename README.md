@@ -262,6 +262,34 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNational
 </details>
 
 <details>
+<summary>RES Showdown</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/ResShowdown.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/ResShowdown.ics
+```
+
+---
+
+### Europe Fall 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/EuropeFall2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/EuropeFall2026.ics
+```
+
+### South America Fall 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/SouthAmericaFall2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/SouthAmericaFall2026.ics
+```
+
+</details>
+
+<details>
 <summary>TESFED League</summary>
 
 ### Full Schedule
