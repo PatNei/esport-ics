@@ -150,27 +150,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/SouthAm
 </details>
 
 <details>
-<summary>Super DraculaN</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SuperDraculan/SuperDraculan.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SuperDraculan/SuperDraculan.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SuperDraculan/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/SuperDraculan/Season12026.ics
-```
-
-</details>
-
-<details>
 <summary>Thunderpick World Championship</summary>
 
 ### Full Schedule

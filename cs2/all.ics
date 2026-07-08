@@ -44,18 +44,18 @@ SUMMARY:Elimination match: JUL vs EP
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553988@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | ALKA GAMING: 1\nStream: No official stream linked
-DTEND:20260623T001641Z
-DTSTART:20260622T202135Z
-SUMMARY:Winners match: ODK vs ALKA
-UID:cs-go-gamers-club-liga-serie-a-june-2026-1543901@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ex-RUBY: 0 | QUAZAR: 2\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260626T160512Z
 DTSTART:20260626T144619Z
 SUMMARY:ex-RUBY vs QUA
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555282@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | ALKA GAMING: 1\nStream: No official stream linked
+DTEND:20260623T001641Z
+DTSTART:20260622T202135Z
+SUMMARY:Winners match: ODK vs ALKA
+UID:cs-go-gamers-club-liga-serie-a-june-2026-1543901@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
@@ -324,13 +324,6 @@ SUMMARY:Decider match: TS.A vs OMG
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555281@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Esport Academy Copenhagen: 0 | Betclic Apogee Esports: 2\nStream: https://kick.com/draculancs
-DTEND:20260625T141756Z
-DTSTART:20260625T115956Z
-SUMMARY:Lower bracket semifinal 1: EAC vs BCA
-UID:cs-go-draculan-7-2026-1545549@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | paiN Academy: 1\nStream: https://www.twitch.tv/thunderpicktv
 DTEND:20260708T184420Z
 DTSTART:20260708T160512Z
@@ -385,13 +378,6 @@ DTEND:20260705T214205Z
 DTSTART:20260705T183508Z
 SUMMARY:Upper bracket round 1 match 7: TrafficPills Esports vs TheBoys
 UID:cs-go-cct-europe-contenders-6-2026-1572136@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Sashi Esport: 1 | Inner Circle Esports: 2\nStream: https://kick.com/draculancs
-DTEND:20260626T001901Z
-DTSTART:20260625T201705Z
-SUMMARY:Lower bracket final: SASHI vs ICE
-UID:cs-go-draculan-7-2026-1545503@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: QUINTESSÊNCIA: 2 | 4M: 0\nStream: No official stream linked
@@ -660,13 +646,6 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-res-showdown-fall-south-america-fall-2026-1577276@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Sashi Esport: 2 | AM Gaming: 1\nStream: https://kick.com/draculancs
-DTEND:20260625T121124Z
-DTSTART:20260625T090540Z
-SUMMARY:Lower bracket semifinal 2: SASHI vs AM
-UID:cs-go-draculan-7-2026-1545502@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 2 | Misa Esports: 0\nStream: https://kick.com/eplcs_en
 DTEND:20260701T132943Z
 DTSTART:20260701T110805Z
@@ -793,13 +772,6 @@ SUMMARY:paiN.A vs ODK
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1534439@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Betclic Apogee Esports: 2 | OG: 1\nStream: https://kick.com/draculancs
-DTEND:20260624T222106Z
-DTSTART:20260624T181815Z
-SUMMARY:Lower bracket quarterfinal 1: BCA vs OG
-UID:cs-go-draculan-7-2026-1545547@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nResult: Eternal Fire Academy: 1 | WRAITH PCIFIC: 2\nStream: https://www.twitch.tv/TESFED
 DTEND:20260612T191931Z
 DTSTART:20260612T172400Z
@@ -840,13 +812,6 @@ DTEND:20260705T200855Z
 DTSTART:20260705T183228Z
 SUMMARY:Upper bracket round 1 match 5: banda chuya vs LPH
 UID:cs-go-cct-europe-contenders-6-2026-1572134@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | 9INE: 1\nStream: https://kick.com/draculancs
-DTEND:20260625T160100Z
-DTSTART:20260625T124125Z
-SUMMARY:Lower bracket semifinal 1: ICE vs 9INE
-UID:cs-go-draculan-7-2026-1545501@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
@@ -996,20 +961,6 @@ SUMMARY:RED.A vs 4M
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1534438@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Infinite: 0 | Esport Academy Copenhagen: 2\nStream: https://kick.com/draculancsb
-DTEND:20260623T105709Z
-DTSTART:20260623T091556Z
-SUMMARY:Upper bracket quarterfinal 3: INF vs EAC
-UID:cs-go-draculan-7-2026-1545465@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: ECHO: 2 | Walczaki: 1\nStream: https://kick.com/draculancs
-DTEND:20260625T175735Z
-DTSTART:20260625T150452Z
-SUMMARY:Upper bracket final: ECHO vs WAL
-UID:cs-go-draculan-7-2026-1545546@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nResult: FUT Turkuaz: 0 | Fire Flux Esports: 2\nStream: https://www.twitch.tv/TESFED
 DTEND:20260612T165219Z
 DTSTART:20260612T150825Z
@@ -1066,13 +1017,6 @@ SUMMARY:Grand final: INF vs ex-MANA
 UID:cs-go-united21-51-2026-1562051@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: AM Gaming: 2 | Eternal Fire: 1\nStream: https://kick.com/draculancsb
-DTEND:20260624T151210Z
-DTSTART:20260624T120456Z
-SUMMARY:Lower bracket quarterfinal 2: AM vs EF
-UID:cs-go-draculan-7-2026-1545500@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
 DURATION:PT2H
 DTSTART:20260710T200000Z
@@ -1092,13 +1036,6 @@ DTEND:20260627T095222Z
 DTSTART:20260627T080610Z
 SUMMARY:IC.A vs SAW
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553995@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: 9INE: 2 | GamerLegion: 0\nStream: https://kick.com/draculancsb
-DTEND:20260624T203701Z
-DTSTART:20260624T181336Z
-SUMMARY:Lower bracket quarterfinal 1: 9INE vs GL
-UID:cs-go-draculan-7-2026-1545499@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | Procyon Gaming: 1\nStream: https://kick.com/cct_cs
@@ -1127,13 +1064,6 @@ DTEND:20260626T130456Z
 DTSTART:20260626T112127Z
 SUMMARY:Just Players vs SHISHKA
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555278@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Sharks: 1 | ECHO: 2\nStream: https://kick.com/draculancs
-DTEND:20260628T164720Z
-DTSTART:20260628T133215Z
-SUMMARY:3rd place decider: SHK vs ECHO
-UID:cs-go-draculan-7-2026-1545557@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
@@ -1248,18 +1178,18 @@ SUMMARY:Round 3: YAW vs RF
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555116@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Honvéd: 2 | OlyBet SB: 1\nStream: https://www.kick.com/eplcs_en
-DTEND:20260628T104023Z
-DTSTART:20260628T081325Z
-SUMMARY:Elimination match: Honvéd vs OBSB
-UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553983@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Avtostopom Po Galaktike: 0 | NEW VISION: 2\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260627T104351Z
 DTSTART:20260627T082522Z
 SUMMARY:Winners match: Avtostopom Po Galaktike vs NEW VISION
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555289@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Honvéd: 2 | OlyBet SB: 1\nStream: https://www.kick.com/eplcs_en
+DTEND:20260628T104023Z
+DTSTART:20260628T081325Z
+SUMMARY:Elimination match: Honvéd vs OBSB
+UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553983@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -1281,20 +1211,6 @@ DTEND:20260701T164236Z
 DTSTART:20260701T153602Z
 SUMMARY:HOOCH vs OverDrive
 UID:cs-go-betboom-streamers-battle-5-2026-1564595@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: ECHO: 2 | Betclic Apogee Esports: 0\nStream: https://kick.com/draculancs
-DTEND:20260623T134835Z
-DTSTART:20260623T120118Z
-SUMMARY:Upper bracket quarterfinal 2: ECHO vs BCA
-UID:cs-go-draculan-7-2026-1545464@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Esport Academy Copenhagen: 0 | Walczaki: 2\nStream: https://kick.com/draculancs
-DTEND:20260624T110417Z
-DTSTART:20260624T090145Z
-SUMMARY:Upper bracket semifinal 2: EAC vs WAL
-UID:cs-go-draculan-7-2026-1545545@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | FULLPOWER: 0\nStream: https://www.twitch.tv/TESFED
@@ -1388,13 +1304,6 @@ SUMMARY:Decider match: DNT vs EJ
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553994@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Acend: 1 | Sharks: 2\nStream: https://kick.com/draculancs
-DTEND:20260625T194238Z
-DTSTART:20260625T163852Z
-SUMMARY:Upper bracket final: ACE vs SHK
-UID:cs-go-draculan-7-2026-1545498@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 1 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
 DTEND:20260630T104534Z
 DTSTART:20260630T081641Z
@@ -1421,13 +1330,6 @@ DTEND:20260626T093441Z
 DTSTART:20260626T080948Z
 SUMMARY:OMG vs TS.A
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555277@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 3 | Acend: 1\nStream: https://kick.com/draculancs
-DTEND:20260628T222707Z
-DTSTART:20260628T173014Z
-SUMMARY:Grand final: ICE vs ACE
-UID:cs-go-draculan-7-2026-1545556@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
@@ -1528,18 +1430,18 @@ SUMMARY:Round 3: GH vs ALKA
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555115@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Subtop De France: 1\nStream: https://www.kick.com/eplcs_en
-DTEND:20260628T130911Z
-DTSTART:20260628T110142Z
-SUMMARY:Winners match: ex-MANA vs Subtop De France
-UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553982@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: NEW VISION: 2 | MONSTROUS: 1\nStream: https://www.twitch.tv/gluck_esports_2
 DTEND:20260626T135558Z
 DTSTART:20260626T112430Z
 SUMMARY:NEW VISION vs MONSTROUS
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555288@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Subtop De France: 1\nStream: https://www.kick.com/eplcs_en
+DTEND:20260628T130911Z
+DTSTART:20260628T110142Z
+SUMMARY:Winners match: ex-MANA vs Subtop De France
+UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553982@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -1561,20 +1463,6 @@ DTEND:20260701T141622Z
 DTSTART:20260701T122427Z
 SUMMARY:StRoGo vs Recrent
 UID:cs-go-betboom-streamers-battle-5-2026-1564594@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: FOKUS: 2 | OG: 1\nStream: https://kick.com/draculancs
-DTEND:20260623T175816Z
-DTSTART:20260623T150432Z
-SUMMARY:Upper bracket quarterfinal 1: FOKUS vs OG
-UID:cs-go-draculan-7-2026-1545463@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: ECHO: 2 | FOKUS: 0\nStream: https://kick.com/draculancsb
-DTEND:20260624T173913Z
-DTSTART:20260624T154044Z
-SUMMARY:Upper bracket semifinal 1: ECHO vs FOKUS
-UID:cs-go-draculan-7-2026-1545544@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 4 2026\nMatch Type: Best Of\nResult: Atreides: 1 | SAW Youngsters: 2\nStream: https://kick.com/cct_cs2
@@ -1689,13 +1577,6 @@ SUMMARY:Elimination match: DNT vs FOR
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553993@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 0 | Sharks: 2\nStream: https://kick.com/draculancs
-DTEND:20260624T174503Z
-DTSTART:20260624T150819Z
-SUMMARY:Upper bracket semifinal 2: ICE vs SHK
-UID:cs-go-draculan-7-2026-1545497@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260721T103000Z
@@ -1722,13 +1603,6 @@ DURATION:PT2H
 DTSTART:20260709T160000Z
 SUMMARY:Winners match: YAW vs TBD
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574385@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Acend: 2 | ECHO: 1\nStream: https://kick.com/draculancs
-DTEND:20260627T215222Z
-DTSTART:20260627T181518Z
-SUMMARY:Semifinal 2: ACE vs ECHO
-UID:cs-go-draculan-7-2026-1545555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -1801,18 +1675,18 @@ SUMMARY:Burger vs SHOKE
 UID:cs-go-betboom-streamers-battle-5-2026-1564606@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: OlyBet SB: 1 | Subtop De France: 2\nStream: https://www.kick.com/eplcs_en
-DTEND:20260625T160857Z
-DTSTART:20260625T134606Z
-SUMMARY:OBSB vs Subtop De France
-UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553981@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ARGOS: 0 | Avtostopom Po Galaktike: 2\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260626T094900Z
 DTSTART:20260626T080951Z
 SUMMARY:ARGOS vs Avtostopom Po Galaktike
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555287@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: OlyBet SB: 1 | Subtop De France: 2\nStream: https://www.kick.com/eplcs_en
+DTEND:20260625T160857Z
+DTSTART:20260625T134606Z
+SUMMARY:OBSB vs Subtop De France
+UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553981@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -1848,13 +1722,6 @@ DTEND:20260620T112138Z
 DTSTART:20260620T080417Z
 SUMMARY:Winners match: MASQ vs LPH
 UID:cs-go-united21-51-2026-1540265@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Sharks: 2 | Eternal Fire: 0\nStream: https://kick.com/draculancsb
-DTEND:20260623T172608Z
-DTSTART:20260623T153805Z
-SUMMARY:Upper bracket quarterfinal 4: SHK vs EF
-UID:cs-go-draculan-7-2026-1545462@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
@@ -1941,13 +1808,6 @@ SUMMARY:Lower bracket round 1 match 2: LPH vs ME
 UID:cs-go-united21-51-2026-1558910@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Sashi Esport: 0 | Acend: 2\nStream: https://kick.com/draculancs
-DTEND:20260624T141757Z
-DTSTART:20260624T121358Z
-SUMMARY:Upper bracket semifinal 1: SASHI vs ACE
-UID:cs-go-draculan-7-2026-1545496@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Endless Journey: 0\nStream: https://kick.com/eplcs_en
 DTEND:20260630T124311Z
 DTSTART:20260630T105514Z
@@ -1976,9 +1836,9 @@ SUMMARY:Elimination match: KSM vs PSN.A
 UID:cs-go-united21-51-2026-1540276@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260708T221500Z
+DTSTART:20260708T223229Z
 SUMMARY:Keyd vs MIBR.A
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574384@tournamentics
 END:VEVENT
@@ -1988,13 +1848,6 @@ DURATION:PT2H
 DTSTART:20260711T080000Z
 SUMMARY:Elimination match: TLR vs PF
 UID:cs-go-european-pro-league-series-8-2026-1554012@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | Sharks: 1\nStream: https://kick.com/draculancs
-DTEND:20260627T171918Z
-DTSTART:20260627T134945Z
-SUMMARY:Semifinal 1: ICE vs SHK
-UID:cs-go-draculan-7-2026-1545554@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: TESFED League - Season 3 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | Eternal Fire Academy: 0\nStream: https://www.twitch.tv/TESFED
@@ -2081,18 +1934,18 @@ SUMMARY:Round 3: paiN.A vs GE
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555113@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Honvéd: 0\nStream: https://www.kick.com/eplcs_en
-DTEND:20260624T100007Z
-DTSTART:20260624T082111Z
-SUMMARY:ex-MANA vs Honvéd
-UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553980@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Donstu Esports: 0 | ex-RUBY: 2\nStream: No official stream linked
 DTEND:20260628T083327Z
 DTSTART:20260628T070821Z
 SUMMARY:Decider match: DNT vs ex-RUBY
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555286@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Honvéd: 0\nStream: https://www.kick.com/eplcs_en
+DTEND:20260624T100007Z
+DTSTART:20260624T082111Z
+SUMMARY:ex-MANA vs Honvéd
+UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553980@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -2114,13 +1967,6 @@ DTEND:20260616T133712Z
 DTSTART:20260616T111859Z
 SUMMARY:CC vs LPH
 UID:cs-go-united21-51-2026-1540264@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | AM Gaming: 0\nStream: https://kick.com/draculancs
-DTEND:20260623T105305Z
-DTSTART:20260623T090336Z
-SUMMARY:Upper bracket quarterfinal 3: ICE vs AM
-UID:cs-go-draculan-7-2026-1545461@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: TheBoys: 2 | maybe: 0\nStream: https://kick.com/cct_cs4
@@ -2219,13 +2065,6 @@ DTEND:20260622T094018Z
 DTSTART:20260622T081318Z
 SUMMARY:Winners match: PRE vs ex-MANA
 UID:cs-go-united21-51-2026-1540275@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Walczaki: 0 | Inner Circle Esports: 2\nStream: https://kick.com/draculancs
-DTEND:20260626T164805Z
-DTSTART:20260626T150659Z
-SUMMARY:Quarterfinal 2: WAL vs ICE
-UID:cs-go-draculan-7-2026-1545553@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Yawara Esports: 2 | METANOIA WOLVES: 0\nStream: https://www.twitch.tv/thunderpicktv
@@ -2389,13 +2228,6 @@ SUMMARY:StRoGo vs OverDrive
 UID:cs-go-betboom-streamers-battle-5-2026-1564591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Sashi Esport: 2 | 9INE: 1\nStream: https://kick.com/draculancsb
-DTEND:20260623T151748Z
-DTSTART:20260623T115834Z
-SUMMARY:Upper bracket quarterfinal 2: SASHI vs 9INE
-UID:cs-go-draculan-7-2026-1545460@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Al Ahli: 1 | PURE: 2\nStream: https://kick.com/cct_cs3
 DTEND:20260707T212705Z
 DTSTART:20260707T184346Z
@@ -2452,18 +2284,18 @@ SUMMARY:Round 4: GH vs RF
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555123@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Donstu Esports: 1\nStream: https://www.kick.com/eplcs_en
-DTEND:20260626T105243Z
-DTSTART:20260626T080331Z
-SUMMARY:Entropy vs DNT
-UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553990@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Wingman: 2 | NEXORA: 1\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260628T222828Z
 DTSTART:20260628T182018Z
 SUMMARY:Decider match: WING vs NEXORA
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555296@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Donstu Esports: 1\nStream: https://www.kick.com/eplcs_en
+DTEND:20260626T105243Z
+DTSTART:20260626T080331Z
+SUMMARY:Entropy vs DNT
+UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553990@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 1 | Guara Esports: 2\nStream: https://kick.com/cct_cs
@@ -2478,13 +2310,6 @@ DTEND:20260618T135639Z
 DTSTART:20260618T110925Z
 SUMMARY:PSN.A vs ex-MANA
 UID:cs-go-united21-51-2026-1540274@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Acend: 2 | Infinite: 0\nStream: https://kick.com/draculancs
-DTEND:20260626T134730Z
-DTSTART:20260626T121007Z
-SUMMARY:Quarterfinal 1: ACE vs INF
-UID:cs-go-draculan-7-2026-1545552@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
@@ -2620,18 +2445,18 @@ SUMMARY:Round 1: LG vs NEM
 UID:cs-go-xse-pro-league-2026-1533029@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | METANOIA WOLVES: 1\nStream: No official stream linked
-DTEND:20260624T003034Z
-DTSTART:20260623T212235Z
-SUMMARY:Elimination match: MIBR.A vs MW
-UID:cs-go-gamers-club-liga-serie-a-june-2026-1543903@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: QUAZAR: 2 | Donstu Esports: 0\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260627T155944Z
 DTSTART:20260627T140331Z
 SUMMARY:Winners match: QUA vs DNT
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555284@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | METANOIA WOLVES: 1\nStream: No official stream linked
+DTEND:20260624T003034Z
+DTSTART:20260623T212235Z
+SUMMARY:Elimination match: MIBR.A vs MW
+UID:cs-go-gamers-club-liga-serie-a-june-2026-1543903@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -2746,20 +2571,6 @@ SUMMARY:Elimination match: UNO vs paiN.A
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574381@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Infinite: 2 | Betclic Apogee Esports: 0\nStream: https://kick.com/draculancs
-DTEND:20260625T202832Z
-DTSTART:20260625T182528Z
-SUMMARY:Lower bracket final: INF vs BCA
-UID:cs-go-draculan-7-2026-1545551@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: GamerLegion: 1 | Acend: 2\nStream: https://kick.com/draculancs
-DTEND:20260623T211939Z
-DTSTART:20260623T182345Z
-SUMMARY:Upper bracket quarterfinal 1: GL vs ACE
-UID:cs-go-draculan-7-2026-1545459@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: MIBR Academy: 1 | Patins da Ferrari: 2\nStream: https://kick.com/cct_cs
 DTEND:20260629T004538Z
 DTSTART:20260628T220438Z
@@ -2865,18 +2676,18 @@ SUMMARY:Decider match: ex-Sashi Academy vs EP
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553989@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: Vexa: 1 | FURIA fe: 0\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260611T000000Z
-SUMMARY:VEXA vs FURIA.F
-UID:cs-go-gamers-club-liga-serie-a-june-2026-1543902@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Donstu Esports: 2 | HOTU Academy: 0\nStream: No official stream linked
 DTEND:20260626T190656Z
 DTSTART:20260626T171623Z
 SUMMARY:DNT vs HOTU.A
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555283@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: Vexa: 1 | FURIA fe: 0\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260611T000000Z
+SUMMARY:VEXA vs FURIA.F
+UID:cs-go-gamers-club-liga-serie-a-june-2026-1543902@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -3031,13 +2842,6 @@ DURATION:PT2H
 DTSTART:20260709T130000Z
 SUMMARY:Winners match: ISG vs FDB
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574380@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Super DraculaN - Season 1 2026\nMatch Type: Best Of\nResult: Infinite: 2 | FOKUS: 0\nStream: https://kick.com/draculancs
-DTEND:20260625T103700Z
-DTSTART:20260625T090324Z
-SUMMARY:Lower bracket semifinal 2: INF vs FOKUS
-UID:cs-go-draculan-7-2026-1545550@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: banda chuya: 2 |  Gatorian: 1\nStream: https://kick.com/cct_cs3
