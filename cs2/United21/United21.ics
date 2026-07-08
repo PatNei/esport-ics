@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260712T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: VIT.A vs TBD
 UID:cs-go-united21-52-2026-1568957@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -331,8 +331,8 @@ SUMMARY:LPH vs PSN.A
 UID:cs-go-united21-52-2026-1568958@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: Vitality Academy: 0 | Inner Circle Prospect: 2\nStream: https://kick.com/united21_en
+DTEND:20260708T122553Z
 DTSTART:20260708T103412Z
 SUMMARY:Winners match: VIT.A vs Inner Circle Prospect
 UID:cs-go-united21-52-2026-1568955@tournamentics
