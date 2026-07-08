@@ -555,8 +555,8 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554029@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Isurus: 2 | UNO MILLE: 1\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260708T153955Z
 DTSTART:20260708T130515Z
 SUMMARY:ISG vs UNO
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574378@tournamentics
@@ -2207,9 +2207,9 @@ SUMMARY:LPH vs PSN.A
 UID:cs-go-united21-52-2026-1568958@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260708T153000Z
+DTSTART:20260708T154631Z
 SUMMARY:Lower Bracket Round  2 Match 4: ARCH vs NXT
 UID:cs-go-cct-europe-contenders-6-2026-1577261@tournamentics
 END:VEVENT
@@ -2487,6 +2487,13 @@ SUMMARY:Upper bracket round 1 match 3: Entropy vs SAW
 UID:cs-go-cct-europe-challengers-series-4-2026-1550144@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260709T153000Z
+SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+UID:cs-go-cct-europe-contenders-6-2026-1578202@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #1 2026\nMatch Type: Best Of\nResult: Fake do Biru: 0 | largadosypelados: 2\nStream: https://www.twitch.tv/thunderpicktv
 DTEND:20260627T205306Z
 DTSTART:20260627T190750Z
@@ -2644,7 +2651,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260709T190000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: UNO vs TBD
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574381@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2830,9 +2837,9 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-xse-pro-league-2026-1551634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
-DTSTART:20260708T153000Z
+DTSTART:20260708T153843Z
 SUMMARY:Lower Bracket Round  2 Match 2: BAKS vs JUMBO
 UID:cs-go-cct-europe-contenders-6-2026-1577259@tournamentics
 END:VEVENT
@@ -2924,7 +2931,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260709T130000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: ISG vs TBD
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574380@tournamentics
 END:VEVENT
 BEGIN:VEVENT
