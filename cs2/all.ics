@@ -135,13 +135,6 @@ SUMMARY:Round 2: B8 vs NEM
 UID:cs-go-xse-pro-league-2026-1551610@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | Entropy: 0\nStream: https://kick.com/united21_en
-DTEND:20260703T093321Z
-DTSTART:20260703T080651Z
-SUMMARY:INF vs Entropy
-UID:cs-go-united21-52-2026-1568943@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: Prestige: 2 | MASQ: 0\nStream: https://kick.com/united21_en
 DTEND:20260629T153914Z
 DTSTART:20260629T134634Z
@@ -149,11 +142,25 @@ SUMMARY:Lower bracket quarterfinal 1: PRE vs MASQ
 UID:cs-go-united21-51-2026-1561886@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | Entropy: 0\nStream: https://kick.com/united21_en
+DTEND:20260703T093321Z
+DTSTART:20260703T080651Z
+SUMMARY:INF vs Entropy
+UID:cs-go-united21-52-2026-1568943@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team Recrent: 1 | Team shoke: 2\nStream: https://www.twitch.tv/betboom_sb_cs
 DTEND:20260703T222947Z
 DTSTART:20260703T191633Z
 SUMMARY:Lower bracket semifinal: Recrent vs SHOKE
 UID:cs-go-betboom-streamers-battle-5-2026-1569490@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260710T073000Z
+SUMMARY:Quarterfinal 1: TYLOO vs  MongolZ.A
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579762@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 2 | Blitzkrieg: 0\nStream: https://kick.com/cct_cs
@@ -348,7 +355,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
 DURATION:PT2H
 DTSTART:20260711T080000Z
-SUMMARY:Semifinal 1: 9z vs TBD
+SUMMARY:Semifinal 1: 9z vs ALL
 UID:cs-go-xse-pro-league-2026-1551632@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1073,8 +1080,8 @@ SUMMARY:Lower bracket semifinal: VENOM vs FF
 UID:cs-go-tesfed-league-3-2026-1527914@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: Alliance: 2 | Team Nemesis: 1\nStream: https://kick.com/xsecs
+DTEND:20260709T150235Z
 DTSTART:20260709T122407Z
 SUMMARY:Quarterfinal 2: ALL vs NEM
 UID:cs-go-xse-pro-league-2026-1551629@tournamentics
@@ -1458,9 +1465,9 @@ SUMMARY:Winners match: PSN.A vs ESB
 UID:cs-go-united21-52-2026-1568960@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260709T150000Z
+DTSTART:20260709T150302Z
 SUMMARY:Semifinal 2: FX vs BHE
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555160@tournamentics
 END:VEVENT
@@ -1491,6 +1498,13 @@ DTEND:20260629T172855Z
 DTSTART:20260629T160743Z
 SUMMARY:3rd place match: BERG vs SINQU Rehti
 UID:cs-go-urban-riga-open-5-2026-1551595@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260712T060000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579768@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
@@ -1715,6 +1729,13 @@ DTEND:20260629T173307Z
 DTSTART:20260629T160544Z
 SUMMARY:Grand final: Leo vs ASTR
 UID:cs-go-urban-riga-open-5-2026-1551594@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260711T053000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579767@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
@@ -1946,6 +1967,13 @@ DTEND:20260629T150757Z
 DTSTART:20260629T133511Z
 SUMMARY:Semifinal 2: Leo vs BERG
 UID:cs-go-urban-riga-open-5-2026-1551593@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260711T020000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579766@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
@@ -2184,6 +2212,13 @@ DTEND:20260629T150800Z
 DTSTART:20260629T133507Z
 SUMMARY:Semifinal 1: ASTR vs SINQU Rehti
 UID:cs-go-urban-riga-open-5-2026-1551592@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260710T123000Z
+SUMMARY:Quarterfinal 4: GZ vs LVG
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team Aunkere: 2 | Team shoke: 0\nStream: https://www.twitch.tv/betboom_sb_cs
@@ -2445,6 +2480,13 @@ SUMMARY:Quarterfinal 2: BERG vs Aimhaus
 UID:cs-go-urban-riga-open-5-2026-1551591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260710T100000Z
+SUMMARY:Quarterfinal 3: 5S vs AE
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579764@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team Burger: 2 | Team OverDrive: 1\nStream: https://www.twitch.tv/betboom_sb_cs
 DTEND:20260702T155907Z
 DTSTART:20260702T131037Z
@@ -2695,6 +2737,13 @@ DTEND:20260629T121738Z
 DTSTART:20260629T101613Z
 SUMMARY:Quarterfinal 1: CLS vs SINQU Rehti
 UID:cs-go-urban-riga-open-5-2026-1551590@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260710T050000Z
+SUMMARY:Quarterfinal 2: KG vs THE
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579763@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: FURIA fe: 0 | HATERS: 2\nStream: No official stream linked

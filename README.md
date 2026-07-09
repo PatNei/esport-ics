@@ -192,6 +192,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStreamersBat
 </details>
 
 <details>
+<summary>BLAST Open</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/BlastOpen.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/BlastOpen.ics
+```
+
+---
+
+### Asian Qualifier Fall 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/AsianQualifierFall2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/AsianQualifierFall2026.ics
+```
+
+</details>
+
+<details>
 <summary>CCT Europe</summary>
 
 ### Full Schedule

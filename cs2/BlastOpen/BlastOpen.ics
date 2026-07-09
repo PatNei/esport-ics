@@ -2,11 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260710T123000Z
+SUMMARY:Quarterfinal 4: GZ vs LVG
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579765@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
 DTSTART:20260709T163000Z
 SUMMARY:Quarterfinal 1: M80 vs WINNERS
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577277@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260710T073000Z
+SUMMARY:Quarterfinal 1: TYLOO vs  MongolZ.A
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579762@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
@@ -23,11 +37,25 @@ SUMMARY:Quarterfinal 3: VOCA vs NT
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577279@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260711T053000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579767@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
 DTSTART:20260709T193000Z
 SUMMARY:Quarterfinal 4: MARS vs REGAIN
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577280@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260710T100000Z
+SUMMARY:Quarterfinal 3: 5S vs AE
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579764@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
@@ -42,6 +70,27 @@ DURATION:PT2H
 DTSTART:20260710T013000Z
 SUMMARY:Quarterfinal 2: LAG vs OT
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577278@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260711T020000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579766@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260710T050000Z
+SUMMARY:Quarterfinal 2: KG vs THE
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579763@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
+DURATION:PT2H
+DTSTART:20260712T060000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-blast-open-asian-qualifier-fall-2026-1579768@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
