@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260712T080000Z
-SUMMARY:Decider match: VIT.A vs TBD
+SUMMARY:Decider match: VIT.A vs ADN
 UID:cs-go-united21-52-2026-1568957@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +79,8 @@ SUMMARY:Winners match: PSN.A vs ESB
 UID:cs-go-united21-52-2026-1568960@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: Alpha Dominion Nation: 2 | PURE: 0\nStream: https://kick.com/united21_en
+DTEND:20260709T120054Z
 DTSTART:20260709T103516Z
 SUMMARY:Elimination match: ADN vs PURE
 UID:cs-go-united21-52-2026-1568956@tournamentics
