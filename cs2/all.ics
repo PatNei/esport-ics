@@ -261,9 +261,9 @@ SUMMARY:ASTR vs SINQU Rehti
 UID:cs-go-urban-riga-open-5-2026-1551589@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: RES Showdown - Europe Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
+DESCRIPTION:🔴 LIVE NOW\nTournament: RES Showdown - Europe Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
 DURATION:PT2H
-DTSTART:20260709T121500Z
+DTSTART:20260709T122245Z
 SUMMARY:Quarterfinal 2: VP vs NIP
 UID:cs-go-res-showdown-fall-europe-fall-2026-1577263@tournamentics
 END:VEVENT
@@ -1073,9 +1073,9 @@ SUMMARY:Lower bracket semifinal: VENOM vs FF
 UID:cs-go-tesfed-league-3-2026-1527914@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
+DESCRIPTION:🔴 LIVE NOW\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
 DURATION:PT2H
-DTSTART:20260709T122000Z
+DTSTART:20260709T122407Z
 SUMMARY:Quarterfinal 2: ALL vs NEM
 UID:cs-go-xse-pro-league-2026-1551629@tournamentics
 END:VEVENT
@@ -2112,7 +2112,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260713T080000Z
-SUMMARY:Elimination match: G1 vs TBD
+SUMMARY:Elimination match: G1 vs RUST
 UID:cs-go-european-pro-league-series-8-2026-1554022@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2371,7 +2371,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260713T103000Z
-SUMMARY:Winners match: BRUTE vs TBD
+SUMMARY:Winners match: BRUTE vs Honvéd
 UID:cs-go-european-pro-league-series-8-2026-1554021@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2592,8 +2592,8 @@ SUMMARY:VEXA vs FURIA.F
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1543902@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: RUSTEC: 0 | Honvéd: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260709T122137Z
 DTSTART:20260709T103525Z
 SUMMARY:RUST vs Honvéd
 UID:cs-go-european-pro-league-series-8-2026-1554020@tournamentics
