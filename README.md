@@ -161,13 +161,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldCha
 
 ---
 
-### South American Series #1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/SouthAmericanSeries12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/SouthAmericanSeries12026.ics
-```
-
 ### South American Series #2 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/SouthAmericanSeries22026.ics)
 
