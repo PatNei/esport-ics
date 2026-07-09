@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
 DURATION:PT2H
 DTSTART:20260710T230000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: SHK vs TBD
 UID:cs-go-res-showdown-fall-south-america-fall-2026-1577275@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -16,8 +16,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-res-showdown-fall-europe-fall-2026-1577268@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs_b
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: Yawara Esports: 1 | Sharks: 2\nStream: https://kick.com/rlgcs_b
+DTEND:20260709T230831Z
 DTSTART:20260709T200701Z
 SUMMARY:Quarterfinal 4: YAW vs SHK
 UID:cs-go-res-showdown-fall-south-america-fall-2026-1577272@tournamentics
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs_b
 DURATION:PT2H
-DTSTART:20260709T231500Z
+DTSTART:20260709T232500Z
 SUMMARY:Quarterfinal 3: BST vs FXW7
 UID:cs-go-res-showdown-fall-south-america-fall-2026-1577271@tournamentics
 END:VEVENT
