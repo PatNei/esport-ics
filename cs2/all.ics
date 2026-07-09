@@ -985,7 +985,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260710T210000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: YAW vs TBD
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574387@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1479,8 +1479,8 @@ SUMMARY:Decider match: ex-MANA vs KSM
 UID:cs-go-united21-51-2026-1540277@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Yawara Esports: 1 | Keyd: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260709T184135Z
 DTSTART:20260709T160844Z
 SUMMARY:Winners match: YAW vs Keyd
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574385@tournamentics
@@ -2459,9 +2459,9 @@ SUMMARY:Quarterfinal 1: M80 vs WINNERS
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577277@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: RES Showdown - Europe Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
+DESCRIPTION:🔴 LIVE NOW\nTournament: RES Showdown - Europe Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
 DURATION:PT2H
-DTSTART:20260709T183000Z
+DTSTART:20260709T183656Z
 SUMMARY:Quarterfinal 4: EAC vs MGC
 UID:cs-go-res-showdown-fall-europe-fall-2026-1577265@tournamentics
 END:VEVENT
