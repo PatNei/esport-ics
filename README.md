@@ -36,27 +36,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/2026.i
 ## C Tier
 
 <details>
-<summary>BetBoom RUSH B!</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomRushB/BetboomRushB.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomRushB/BetboomRushB.ics
-```
-
----
-
-### Summit season 4 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomRushB/SummitSeason42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomRushB/SummitSeason42026.ics
-```
-
-</details>
-
-<details>
 <summary>BLAST Open</summary>
 
 ### Full Schedule
@@ -94,13 +73,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Cct
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series32026.ics
-```
-
-### Series 4 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series42026.ics
 ```
 
 </details>
@@ -150,27 +122,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/EuropeF
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/SouthAmericaFall2026.ics
-```
-
-</details>
-
-<details>
-<summary>Stake Ranked</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics
-```
-
----
-
-### Episode 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode32026.ics
 ```
 
 </details>
@@ -306,27 +257,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/June2026.ics
-```
-
-</details>
-
-<details>
-<summary>HyperX & Intel Nationals</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNationals/HyperxIntelNationals.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNationals/HyperxIntelNationals.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNationals/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNationals/2026.ics
 ```
 
 </details>
