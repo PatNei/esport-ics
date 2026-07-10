@@ -311,27 +311,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 </details>
 
 <details>
-<summary>GLuck Yungstar</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/GluckYungstar.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/GluckYungstar.ics
-```
-
----
-
-### Closed Qualifier: Series #2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/ClosedQualifierSeries22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/ClosedQualifierSeries22026.ics
-```
-
-</details>
-
-<details>
 <summary>HyperX & Intel Nationals</summary>
 
 ### Full Schedule
