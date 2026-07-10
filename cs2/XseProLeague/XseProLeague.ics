@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
 DURATION:PT2H
 DTSTART:20260711T110000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: PRV vs TBD
 UID:cs-go-xse-pro-league-2026-1551633@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -149,8 +149,8 @@ SUMMARY:Quarterfinal 2: ALL vs NEM
 UID:cs-go-xse-pro-league-2026-1551629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: PARIVISION: 2 | BIG: 1\nStream: https://kick.com/xsecs
+DTEND:20260710T113105Z
 DTSTART:20260710T080101Z
 SUMMARY:Quarterfinal 3: PRV vs BIG
 UID:cs-go-xse-pro-league-2026-1551630@tournamentics
