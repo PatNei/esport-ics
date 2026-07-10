@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 1 | MIBR Academy: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260710T014517Z
 DTSTART:20260709T220447Z
 SUMMARY:Elimination match: MW vs MIBR.A
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574386@tournamentics
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260710T210000Z
-SUMMARY:Decider match: YAW vs TBD
+SUMMARY:Decider match: YAW vs MIBR.A
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574387@tournamentics
 END:VEVENT
 BEGIN:VEVENT

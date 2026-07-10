@@ -754,7 +754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
 DURATION:PT2H
 DTSTART:20260710T230000Z
-SUMMARY:Semifinal 2: SHK vs TBD
+SUMMARY:Semifinal 2: SHK vs BST
 UID:cs-go-res-showdown-fall-south-america-fall-2026-1577275@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -985,7 +985,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260710T210000Z
-SUMMARY:Decider match: YAW vs TBD
+SUMMARY:Decider match: YAW vs MIBR.A
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574387@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1234,8 +1234,8 @@ SUMMARY:OMG vs TS.A
 UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555277@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 1 | MIBR Academy: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260710T014517Z
 DTSTART:20260709T220447Z
 SUMMARY:Elimination match: MW vs MIBR.A
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574386@tournamentics
@@ -1647,8 +1647,8 @@ SUMMARY:Quarterfinal 4: MARS vs REGAIN
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs_b
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: BESTIA: 2 | Fluxo W7M: 0\nStream: https://kick.com/rlgcs_b
+DTEND:20260710T014653Z
 DTSTART:20260709T232530Z
 SUMMARY:Quarterfinal 3: BST vs FXW7
 UID:cs-go-res-showdown-fall-south-america-fall-2026-1577271@tournamentics
@@ -2242,9 +2242,9 @@ SUMMARY:Lower bracket round 3 match 2: banda chuya vs ARCH
 UID:cs-go-cct-europe-contenders-6-2026-1578202@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
-DTSTART:20260710T014000Z
+DTSTART:20260710T013816Z
 SUMMARY:Quarterfinal 2: LAG vs OT
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577278@tournamentics
 END:VEVENT
