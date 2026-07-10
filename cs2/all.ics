@@ -656,7 +656,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
 DURATION:PT2H
 DTSTART:20260711T230000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: paiN vs TBD
 UID:cs-go-res-showdown-fall-south-america-fall-2026-1577276@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1052,8 +1052,8 @@ SUMMARY:Grand final: INF vs ex-MANA
 UID:cs-go-united21-51-2026-1562051@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: largadosypelados: 1 | paiN: 2\nStream: https://kick.com/rlgcs
+DTEND:20260710T223716Z
 DTSTART:20260710T201134Z
 SUMMARY:Semifinal 1: LDP vs paiN
 UID:cs-go-res-showdown-fall-south-america-fall-2026-1577274@tournamentics
@@ -1591,9 +1591,9 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580381@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
-DTSTART:20260710T223000Z
+DTSTART:20260710T223624Z
 SUMMARY:Semifinal 1: M80 vs LAG
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577281@tournamentics
 END:VEVENT
