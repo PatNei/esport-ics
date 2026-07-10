@@ -648,7 +648,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nStream: https://kick.com/xsecs
 DURATION:PT2H
-DTSTART:20260710T123000Z
+DTSTART:20260710T124500Z
 SUMMARY:Quarterfinal 4: FaZe vs BB
 UID:cs-go-xse-pro-league-2026-1551631@tournamentics
 END:VEVENT
@@ -1048,7 +1048,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260712T103000Z
-SUMMARY:Decider match: PSN.A vs TBD
+SUMMARY:Decider match: PSN.A vs EAC Rising
 UID:cs-go-united21-52-2026-1568962@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1325,8 +1325,8 @@ SUMMARY:Upper bracket final: LPH vs mellren
 UID:cs-go-cct-europe-contenders-6-2026-1575325@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: LPH Gaming: 0 | EAC Rising: 2\nStream: https://kick.com/united21_en
+DTEND:20260710T121410Z
 DTSTART:20260710T110520Z
 SUMMARY:Elimination match: LPH vs EAC Rising
 UID:cs-go-united21-52-2026-1568961@tournamentics
