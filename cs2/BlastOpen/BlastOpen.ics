@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_cs_ru3
 DURATION:PT2H
 DTSTART:20260710T123000Z
 SUMMARY:Quarterfinal 4: GZ vs LVG
@@ -16,8 +16,8 @@ SUMMARY:Quarterfinal 1: M80 vs WINNERS
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577277@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_cs_ru3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nResult: TYLOO: 2 | The MongolZ Academy: 0\nStream: https://www.twitch.tv/betboom_cs_ru3
+DTEND:20260710T092419Z
 DTSTART:20260710T075943Z
 SUMMARY:Quarterfinal 1: TYLOO vs  MongolZ.A
 UID:cs-go-blast-open-asian-qualifier-fall-2026-1579762@tournamentics
@@ -51,7 +51,7 @@ SUMMARY:Quarterfinal 4: MARS vs REGAIN
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_cs_ru3
 DURATION:PT2H
 DTSTART:20260710T100000Z
 SUMMARY:Quarterfinal 3: 5S vs AE
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.huya.com/blast
 DURATION:PT2H
 DTSTART:20260711T020000Z
-SUMMARY:Semifinal 1: THE vs TBD
+SUMMARY:Semifinal 1: THE vs TYLOO
 UID:cs-go-blast-open-asian-qualifier-fall-2026-1579766@tournamentics
 END:VEVENT
 BEGIN:VEVENT
