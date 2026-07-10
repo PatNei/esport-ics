@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260715T220000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580376@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - Europe Fall 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | GenOne: 0\nStream: https://kick.com/rlgcs
 DTEND:20260709T180723Z
 DTSTART:20260709T163046Z
@@ -37,18 +44,18 @@ SUMMARY:Elimination match: JUL vs EP
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553988@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ex-RUBY: 0 | QUAZAR: 2\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260626T160512Z
-DTSTART:20260626T144619Z
-SUMMARY:ex-RUBY vs QUA
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555282@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | ALKA GAMING: 1\nStream: No official stream linked
 DTEND:20260623T001641Z
 DTSTART:20260622T202135Z
 SUMMARY:Winners match: ODK vs ALKA
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1543901@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ex-RUBY: 0 | QUAZAR: 2\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260626T160512Z
+DTSTART:20260626T144619Z
+SUMMARY:ex-RUBY vs QUA
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555282@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
@@ -114,18 +121,18 @@ SUMMARY:Upper bracket quarterfinal 2: Mai Tai vs Entropy
 UID:cs-go-cct-europe-challengers-series-4-2026-1550153@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260718T190000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580387@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: maybe: 2 | Arch: 1\nStream: https://kick.com/cct_cs3
 DTEND:20260704T205609Z
 DTSTART:20260704T190131Z
 SUMMARY:Upper bracket round 1 match 8: maybe vs ARCH
 UID:cs-go-cct-europe-contenders-6-2026-1572137@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: B8: 0 | Team Nemesis: 1\nStream: https://kick.com/xsecsb
-DTEND:20260702T163943Z
-DTSTART:20260702T154801Z
-SUMMARY:Round 2: B8 vs NEM
-UID:cs-go-xse-pro-league-2026-1551610@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: Prestige: 2 | MASQ: 0\nStream: https://kick.com/united21_en
@@ -142,6 +149,13 @@ SUMMARY:INF vs Entropy
 UID:cs-go-united21-52-2026-1568943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: B8: 0 | Team Nemesis: 1\nStream: https://kick.com/xsecsb
+DTEND:20260702T163943Z
+DTSTART:20260702T154801Z
+SUMMARY:Round 2: B8 vs NEM
+UID:cs-go-xse-pro-league-2026-1551610@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team Recrent: 1 | Team shoke: 2\nStream: https://www.twitch.tv/betboom_sb_cs
 DTEND:20260703T222947Z
 DTSTART:20260703T191633Z
@@ -154,6 +168,13 @@ DURATION:PT2H
 DTSTART:20260710T073000Z
 SUMMARY:Quarterfinal 1: TYLOO vs  MongolZ.A
 UID:cs-go-blast-open-asian-qualifier-fall-2026-1579762@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260725T190000Z
+SUMMARY:Quarterfinal 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580364@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 2 | Blitzkrieg: 0\nStream: https://kick.com/cct_cs
@@ -240,6 +261,13 @@ SUMMARY:Upper bracket quarterfinal 3: LPH vs BAKS
 UID:cs-go-cct-europe-contenders-6-2026-1575318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260721T220000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580398@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260717T090000Z
@@ -259,6 +287,13 @@ DTEND:20260704T130644Z
 DTSTART:20260704T103704Z
 SUMMARY:Round 4: ALL vs 9z
 UID:cs-go-xse-pro-league-2026-1551621@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260715T190000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - Europe Fall 2026\nMatch Type: Best Of\nResult: Virtus.pro: 2 | NIP: 1\nStream: https://kick.com/rlgcs
@@ -352,6 +387,13 @@ SUMMARY:Upper bracket quarterfinal 1: EJ vs MISA
 UID:cs-go-cct-europe-challengers-series-4-2026-1550152@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260718T160000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580386@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: TrafficPills Esports: 1 | TheBoys: 2\nStream: https://kick.com/cct_cs4
 DTEND:20260705T214205Z
 DTSTART:20260705T183508Z
@@ -364,6 +406,13 @@ DTEND:20260622T225437Z
 DTSTART:20260622T211726Z
 SUMMARY:Elimination match: QUIN vs 4M
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1549592@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260725T160000Z
+SUMMARY:Quarterfinal 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580363@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: SAW: 1 | WBT: 2\nStream: https://kick.com/eplcs_en
@@ -457,6 +506,13 @@ SUMMARY:Upper bracket quarterfinal 1: mellren vs NXT
 UID:cs-go-cct-europe-contenders-6-2026-1575317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260721T190000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580397@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260717T060000Z
@@ -490,6 +546,13 @@ DTEND:20260703T145713Z
 DTSTART:20260703T133038Z
 SUMMARY:Lower bracket quarterfinals match 2: SHOKE vs OverDrive
 UID:cs-go-betboom-streamers-battle-5-2026-1569489@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260715T160000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580374@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - Europe Fall 2026\nMatch Type: Best Of\nResult: B8: 2 | Sangrija: 0\nStream: https://kick.com/rlgcs
@@ -590,6 +653,13 @@ SUMMARY:Quarterfinal 4: FaZe vs BB
 UID:cs-go-xse-pro-league-2026-1551631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260718T130000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580385@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult:  Gatorian: 0 | BakS eSports: 2\nStream: https://kick.com/cct_cs4
 DTEND:20260705T173334Z
 DTSTART:20260705T155219Z
@@ -609,6 +679,13 @@ DURATION:PT2H
 DTSTART:20260711T230000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-res-showdown-fall-south-america-fall-2026-1577276@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260725T130000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580362@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 2 | Misa Esports: 0\nStream: https://kick.com/eplcs_en
@@ -688,6 +765,13 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-hyperx-intel-nationals-2026-1576463@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260721T160000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580396@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260711T103000Z
@@ -707,6 +791,13 @@ DTEND:20260703T115911Z
 DTSTART:20260703T102248Z
 SUMMARY:Lower bracket quarterfinals match 1: Burger vs Recrent
 UID:cs-go-betboom-streamers-battle-5-2026-1569488@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260715T130000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580373@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Guara Esports: 2 | Procyon Gaming: 1\nStream: https://kick.com/cct_cs
@@ -765,6 +856,13 @@ SUMMARY:Round 4: PRV vs MIBR
 UID:cs-go-xse-pro-league-2026-1551619@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260717T220000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580384@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: banda chuya: 0 | LPH Gaming: 2\nStream: https://kick.com/cct_cs3
 DTEND:20260705T200855Z
 DTSTART:20260705T183228Z
@@ -784,6 +882,13 @@ DTEND:20260706T220707Z
 DTSTART:20260706T194736Z
 SUMMARY:Round of 16 match 3: FDB vs ex-Vexa
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555129@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260724T220000Z
+SUMMARY:Round of 16 match 8: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580361@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | WBT: 0\nStream: https://kick.com/eplcs_en
@@ -856,6 +961,13 @@ SUMMARY:GZ vs ARC
 UID:cs-go-hyperx-intel-nationals-2026-1576462@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260720T220000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580395@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260710T133000Z
@@ -868,6 +980,13 @@ DTEND:20260702T153955Z
 DTSTART:20260702T141422Z
 SUMMARY:Round 2: 9z vs SIN
 UID:cs-go-xse-pro-league-2026-1551607@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260714T220000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580372@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team zoneR: 1 | Team Burger: 2\nStream: https://www.twitch.tv/betboom_sb_cs
@@ -947,6 +1066,13 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577283@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260717T190000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580383@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: PURE: 2 | Diamant Esports: 0\nStream: https://kick.com/cct_cs4
 DTEND:20260704T170201Z
 DTSTART:20260704T153733Z
@@ -973,6 +1099,13 @@ DTEND:20260706T192628Z
 DTSTART:20260706T163919Z
 SUMMARY:Round of 16 match 2: FX vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555128@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260724T190000Z
+SUMMARY:Round of 16 match 7: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580360@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 2 | SAW: 0\nStream: https://kick.com/eplcs_en
@@ -1059,6 +1192,13 @@ SUMMARY:Upper bracket round 1 match 8: NEW VISION vs JUL
 UID:cs-go-cct-europe-challengers-series-4-2026-1550149@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260720T190000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580394@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260717T050000Z
@@ -1094,6 +1234,13 @@ SUMMARY:Winners match: RED.A vs BST.A
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1549589@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260714T190000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580371@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team OverDrive: 2 | Team Recrent: 0\nStream: https://www.twitch.tv/betboom_sb_cs
 DURATION:PT2H
 DTSTART:20260629T090000Z
@@ -1122,18 +1269,18 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-betboom-rush-b-summit-4-2026-1580353@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Avtostopom Po Galaktike: 0 | NEW VISION: 2\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260627T104351Z
-DTSTART:20260627T082522Z
-SUMMARY:Winners match: Avtostopom Po Galaktike vs NEW VISION
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555289@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Honvéd: 2 | OlyBet SB: 1\nStream: https://www.kick.com/eplcs_en
 DTEND:20260628T104023Z
 DTSTART:20260628T081325Z
 SUMMARY:Elimination match: Honvéd vs OBSB
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553983@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Avtostopom Po Galaktike: 0 | NEW VISION: 2\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260627T104351Z
+DTSTART:20260627T082522Z
+SUMMARY:Winners match: Avtostopom Po Galaktike vs NEW VISION
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555289@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -1204,6 +1351,13 @@ DURATION:PT2H
 DTSTART:20260711T013000Z
 SUMMARY:Semifinal 2: VOCA vs REGAIN
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577282@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260717T160000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580382@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 0 | Al Ahli: 2\nStream: https://kick.com/cct_cs3
@@ -1325,6 +1479,13 @@ SUMMARY:Upper bracket round 1 match 7: LILMIX vs Subtop De France
 UID:cs-go-cct-europe-challengers-series-4-2026-1550148@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260720T160000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580393@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260717T090000Z
@@ -1344,6 +1505,20 @@ DTEND:20260702T113622Z
 DTSTART:20260702T104449Z
 SUMMARY:Round 2: LG vs LVG
 UID:cs-go-xse-pro-league-2026-1551605@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260714T160000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580370@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260724T160000Z
+SUMMARY:Round of 16 match 6: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580359@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team zoneR: 1 | Team Aunkere: 2\nStream: https://www.twitch.tv/betboom_sb_cs
@@ -1367,18 +1542,18 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-betboom-rush-b-summit-4-2026-1580352@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: NEW VISION: 2 | MONSTROUS: 1\nStream: https://www.twitch.tv/gluck_esports_2
-DTEND:20260626T135558Z
-DTSTART:20260626T112430Z
-SUMMARY:NEW VISION vs MONSTROUS
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555288@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Subtop De France: 1\nStream: https://www.kick.com/eplcs_en
 DTEND:20260628T130911Z
 DTSTART:20260628T110142Z
 SUMMARY:Winners match: ex-MANA vs Subtop De France
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553982@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: NEW VISION: 2 | MONSTROUS: 1\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260626T135558Z
+DTSTART:20260626T112430Z
+SUMMARY:NEW VISION vs MONSTROUS
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555288@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -1470,6 +1645,13 @@ DURATION:PT2H
 DTSTART:20260712T060000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-blast-open-asian-qualifier-fall-2026-1579768@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260717T130000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580381@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
@@ -1577,6 +1759,13 @@ SUMMARY:Upper bracket round 1 match 6: Atreides vs DNT
 UID:cs-go-cct-europe-challengers-series-4-2026-1550147@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260719T220000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580392@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 0 | WBT: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260704T125848Z
 DTSTART:20260704T112040Z
@@ -1598,6 +1787,13 @@ SUMMARY:Quarterfinal 2: ODK vs HAT
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1564529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260724T130000Z
+SUMMARY:Round of 16 match 5: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580358@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team Burger: 2 | Team shoke: 0\nStream: https://www.twitch.tv/betboom_sb_cs
 DTEND:20260630T175302Z
 DTSTART:20260630T161427Z
@@ -1612,18 +1808,18 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-betboom-rush-b-summit-4-2026-1580351@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ARGOS: 0 | Avtostopom Po Galaktike: 2\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260626T094900Z
-DTSTART:20260626T080951Z
-SUMMARY:ARGOS vs Avtostopom Po Galaktike
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555287@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: OlyBet SB: 1 | Subtop De France: 2\nStream: https://www.kick.com/eplcs_en
 DTEND:20260625T160857Z
 DTSTART:20260625T134606Z
 SUMMARY:OBSB vs Subtop De France
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553981@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: ARGOS: 0 | Avtostopom Po Galaktike: 2\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260626T094900Z
+DTSTART:20260626T080951Z
+SUMMARY:ARGOS vs Avtostopom Po Galaktike
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555287@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
@@ -1717,11 +1913,25 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-blast-open-asian-qualifier-fall-2026-1579767@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260716T190000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580380@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: Marsborne: 1 | regain: 2\nStream: https://www.twitch.tv/Trottah
 DTEND:20260709T215505Z
 DTSTART:20260709T193713Z
 SUMMARY:Quarterfinal 4: MARS vs REGAIN
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577280@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260714T130000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580369@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: BESTIA: 2 | Fluxo W7M: 0\nStream: https://kick.com/rlgcs_b
@@ -1829,6 +2039,13 @@ SUMMARY:Semifinal 1: IMP vs LDP
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555159@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260719T190000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580391@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ENJOY: 2 | Endless Journey: 1\nStream: https://kick.com/eplcs_en
 DTEND:20260704T105246Z
 DTSTART:20260704T080507Z
@@ -1857,6 +2074,13 @@ SUMMARY:Quarterfinal 1: RED.A vs MIBR.A
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1564528@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260723T220000Z
+SUMMARY:Round of 16 match 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580357@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | Guara Esports: 0\nStream: https://kick.com/cct_cs
 DTEND:20260701T233545Z
 DTSTART:20260701T220404Z
@@ -1871,18 +2095,18 @@ SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-betboom-rush-b-summit-4-2026-1580350@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Donstu Esports: 0 | ex-RUBY: 2\nStream: No official stream linked
-DTEND:20260628T083327Z
-DTSTART:20260628T070821Z
-SUMMARY:Decider match: DNT vs ex-RUBY
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555286@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Honvéd: 0\nStream: https://www.kick.com/eplcs_en
 DTEND:20260624T100007Z
 DTSTART:20260624T082111Z
 SUMMARY:ex-MANA vs Honvéd
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553980@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Donstu Esports: 0 | ex-RUBY: 2\nStream: No official stream linked
+DTEND:20260628T083327Z
+DTSTART:20260628T070821Z
+SUMMARY:Decider match: DNT vs ex-RUBY
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555286@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
@@ -1960,6 +2184,13 @@ DURATION:PT2H
 DTSTART:20260711T020000Z
 SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-blast-open-asian-qualifier-fall-2026-1579766@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260726T210000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580368@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | ShindeN: 1\nStream: https://kick.com/rlgcs
@@ -2053,18 +2284,18 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-hyperx-intel-nationals-2026-1576469@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: MIBR: 0 | 9z: 2\nStream: https://kick.com/xsecs
-DTEND:20260705T085232Z
-DTSTART:20260705T061541Z
-SUMMARY:Round 5: MIBR vs 9z
-UID:cs-go-xse-pro-league-2026-1551625@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: LPH Gaming: 1 | Passion Academy: 2\nStream: https://kick.com/united21_en
 DTEND:20260706T105222Z
 DTSTART:20260706T081107Z
 SUMMARY:LPH vs PSN.A
 UID:cs-go-united21-52-2026-1568958@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: MIBR: 0 | 9z: 2\nStream: https://kick.com/xsecs
+DTEND:20260705T085232Z
+DTSTART:20260705T061541Z
+SUMMARY:Round 5: MIBR vs 9z
+UID:cs-go-xse-pro-league-2026-1551625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Arch: 2 | Next UP: 0\nStream: https://kick.com/cct_cs3
@@ -2081,11 +2312,25 @@ SUMMARY:Quarterfinal 4: PDAF vs FX
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555158@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260719T160000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580390@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: Voca: 2 | NuTorious: 0\nStream: https://www.twitch.tv/Trottah
 DTEND:20260710T001006Z
 DTSTART:20260709T224733Z
 SUMMARY:Quarterfinal 3: VOCA vs NT
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577279@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260716T220000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580379@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: RES Showdown - Europe Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
@@ -2100,6 +2345,13 @@ DTEND:20260627T110519Z
 DTSTART:20260627T080607Z
 SUMMARY:Lower bracket round 1 match 1: ESB vs MASQ
 UID:cs-go-united21-51-2026-1558909@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260723T190000Z
+SUMMARY:Round of 16 match 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580356@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | ODDIK Academy: 0\nStream: No official stream linked
@@ -2200,6 +2452,13 @@ SUMMARY:Quarterfinal 4: GZ vs LVG
 UID:cs-go-blast-open-asian-qualifier-fall-2026-1579765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260726T180000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580367@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team Aunkere: 2 | Team shoke: 0\nStream: https://www.twitch.tv/betboom_sb_cs
 DTEND:20260702T174636Z
 DTSTART:20260702T163704Z
@@ -2221,18 +2480,18 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-betboom-rush-b-summit-4-2026-1580349@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Wingman: 2 | NEXORA: 1\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260628T222828Z
-DTSTART:20260628T182018Z
-SUMMARY:Decider match: WING vs NEXORA
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555296@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 Closed Qualifier 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Donstu Esports: 1\nStream: https://www.kick.com/eplcs_en
 DTEND:20260626T105243Z
 DTSTART:20260626T080331Z
 SUMMARY:Entropy vs DNT
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553990@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Wingman: 2 | NEXORA: 1\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260628T222828Z
+DTSTART:20260628T182018Z
+SUMMARY:Decider match: WING vs NEXORA
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 1 | Guara Esports: 2\nStream: https://kick.com/cct_cs
@@ -2247,6 +2506,13 @@ DTEND:20260618T135639Z
 DTSTART:20260618T110925Z
 SUMMARY:PSN.A vs ex-MANA
 UID:cs-go-united21-51-2026-1540274@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260722T220000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580402@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
@@ -2340,6 +2606,13 @@ SUMMARY:Lower bracket round 3 match 2: banda chuya vs ARCH
 UID:cs-go-cct-europe-contenders-6-2026-1578202@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260716T160000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580378@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | Overtake Sector: 0\nStream: https://www.twitch.tv/circuitxofficial
 DTEND:20260710T031759Z
 DTSTART:20260710T013816Z
@@ -2375,11 +2648,11 @@ SUMMARY:Round 1: LG vs NEM
 UID:cs-go-xse-pro-league-2026-1533029@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: QUAZAR: 2 | Donstu Esports: 0\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260627T155944Z
-DTSTART:20260627T140331Z
-SUMMARY:Winners match: QUA vs DNT
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555284@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260723T160000Z
+SUMMARY:Round of 16 match 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580355@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | METANOIA WOLVES: 1\nStream: No official stream linked
@@ -2387,6 +2660,13 @@ DTEND:20260624T003034Z
 DTSTART:20260623T212235Z
 SUMMARY:Elimination match: MIBR.A vs MW
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1543903@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: QUAZAR: 2 | Donstu Esports: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260627T155944Z
+DTSTART:20260627T140331Z
+SUMMARY:Winners match: QUA vs DNT
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555284@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -2438,6 +2718,13 @@ SUMMARY:Lower bracket round 1 match 4: LILMIX vs NEW VISION
 UID:cs-go-cct-europe-challengers-series-4-2026-1550155@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260719T130000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580389@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260717T000000Z
@@ -2464,6 +2751,13 @@ DURATION:PT2H
 DTSTART:20260710T100000Z
 SUMMARY:Quarterfinal 3: 5S vs AE
 UID:cs-go-blast-open-asian-qualifier-fall-2026-1579764@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260726T150000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580366@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team Burger: 2 | Team OverDrive: 1\nStream: https://www.twitch.tv/betboom_sb_cs
@@ -2557,6 +2851,13 @@ SUMMARY:Lower bracket round 3 match 1: Tricksters vs BAKS
 UID:cs-go-cct-europe-contenders-6-2026-1578201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260716T130000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580377@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: M80: 2 | WINNERS: 0\nStream: https://www.twitch.tv/circuitxofficial
 DTEND:20260709T183306Z
 DTSTART:20260709T165053Z
@@ -2592,6 +2893,13 @@ SUMMARY:Lower bracket final: ex-MANA vs PRE
 UID:cs-go-united21-51-2026-1562022@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260723T130000Z
+SUMMARY:Round of 16 match 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580354@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 1 | ALKA GAMING: 2\nStream: https://www.twitch.tv/gamersclubcs
 DTEND:20260703T220056Z
 DTSTART:20260703T191113Z
@@ -2606,18 +2914,18 @@ SUMMARY:Decider match: ex-Sashi Academy vs EP
 UID:cs-go-european-pro-league-series-8-closed-qualifier-2026-1553989@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Donstu Esports: 2 | HOTU Academy: 0\nStream: No official stream linked
-DTEND:20260626T190656Z
-DTSTART:20260626T171623Z
-SUMMARY:DNT vs HOTU.A
-UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555283@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: Vexa: 1 | FURIA fe: 0\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260611T000000Z
 SUMMARY:VEXA vs FURIA.F
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1543902@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: Donstu Esports: 2 | HOTU Academy: 0\nStream: No official stream linked
+DTEND:20260626T190656Z
+DTSTART:20260626T171623Z
+SUMMARY:DNT vs HOTU.A
+UID:cs-go-gluck-yungstar-closed-qualifier-series-2-2026-1555283@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: RUSTEC: 0 | Honvéd: 2\nStream: https://kick.com/eplcs_en
@@ -2690,6 +2998,13 @@ SUMMARY:Lower bracket round 1 match 3: OBSB vs DNT
 UID:cs-go-cct-europe-challengers-series-4-2026-1550154@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260718T220000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580388@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 0 | TYLOO: 2\nStream: https://www.youtube.com/watch?v=P5iPpweTfKI
 DTEND:20260703T071256Z
 DTSTART:20260703T052312Z
@@ -2697,18 +3012,18 @@ SUMMARY:Round 3: EYE vs TYLOO
 UID:cs-go-xse-pro-league-2026-1551611@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Misa Esports: 0\nStream: https://kick.com/united21_en
-DTEND:20260703T134701Z
-DTSTART:20260703T114903Z
-SUMMARY:ex-MANA vs MISA
-UID:cs-go-united21-52-2026-1568944@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 51 2026\nMatch Type: Best Of\nResult: Alpha Dominion Nation: 1 | Millennium Esports: 2\nStream: https://kick.com/united21_en
 DTEND:20260629T105952Z
 DTSTART:20260629T081109Z
 SUMMARY:Lower bracket quarterfinal 2: ADN vs ME
 UID:cs-go-united21-51-2026-1561887@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Misa Esports: 0\nStream: https://kick.com/united21_en
+DTEND:20260703T134701Z
+DTSTART:20260703T114903Z
+SUMMARY:ex-MANA vs MISA
+UID:cs-go-united21-52-2026-1568944@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team Aunkere: 1 | Team hooch: 2\nStream: https://www.twitch.tv/betboom_sb_cs
@@ -2730,6 +3045,13 @@ DURATION:PT2H
 DTSTART:20260617T220000Z
 SUMMARY:Elimination match: FURIA.F vs HAT
 UID:cs-go-gamers-club-liga-serie-a-june-2026-1550140@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260725T220000Z
+SUMMARY:Quarterfinal 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580365@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: MIBR Academy: 1 | ex-Vexa: 2\nStream: https://kick.com/cct_cs
@@ -2767,6 +3089,13 @@ SUMMARY:Decider match: ADN vs Alpha Gaming
 UID:cs-go-united21-51-2026-1540272@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260722T190000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580400@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Isurus: 2 | Fake do Biru: 0\nStream: https://www.twitch.tv/thunderpicktv
 DTEND:20260709T151642Z
 DTSTART:20260709T130515Z
@@ -2786,6 +3115,13 @@ DURATION:PT2H
 DTSTART:20260719T033000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-hyperx-intel-nationals-2026-1576466@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260722T160000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580399@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: BIG: 2 | NIP: 1\nStream: https://kick.com/xsecs
