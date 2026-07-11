@@ -2021,7 +2021,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260715T103000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: TLR vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554013@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2319,8 +2319,8 @@ SUMMARY:Keyd vs MIBR.A
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574384@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: The Last Resort: 2 | PsychoFace: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260711T105937Z
 DTSTART:20260711T081412Z
 SUMMARY:Elimination match: TLR vs PF
 UID:cs-go-european-pro-league-series-8-2026-1554012@tournamentics
@@ -2501,8 +2501,8 @@ SUMMARY:Round 3: BIG vs MIBR
 UID:cs-go-xse-pro-league-2026-1551614@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 1 | Misa Esports: 2\nStream: https://kick.com/united21_en
+DTEND:20260711T110141Z
 DTSTART:20260711T082740Z
 SUMMARY:Decider match: INF vs MISA
 UID:cs-go-united21-52-2026-1568947@tournamentics
@@ -2608,7 +2608,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260711T113000Z
+DTSTART:20260711T111500Z
 SUMMARY:Winners match: BMB vs ENJOY
 UID:cs-go-european-pro-league-series-8-2026-1554011@tournamentics
 END:VEVENT
