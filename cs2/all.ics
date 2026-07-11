@@ -754,7 +754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260712T153000Z
-SUMMARY:Lower bracket final: mellren vs TBD
+SUMMARY:Lower bracket final: mellren vs Tricksters
 UID:cs-go-cct-europe-contenders-6-2026-1575328@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -996,8 +996,8 @@ SUMMARY:Upper bracket quarterfinal 3: EF.A vs PCIFIC
 UID:cs-go-tesfed-league-3-2026-1527904@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Tricksters: 2 | TheBoys: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260711T213808Z
 DTSTART:20260711T182012Z
 SUMMARY:Lower bracket semifinal: Tricksters vs TheBoys
 UID:cs-go-cct-europe-contenders-6-2026-1575327@tournamentics
@@ -1706,7 +1706,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260712T210000Z
-SUMMARY:Semifinal 2: LDP vs TBD
+SUMMARY:Semifinal 2: LDP vs IMP
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1577290@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2767,8 +2767,8 @@ SUMMARY:Lower Bracket Round 1 Match 2: TBD vs TBD
 UID:cs-go-stake-ranked-episode-3-2026-1578254@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Isurus: 1\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260711T215236Z
 DTSTART:20260711T191357Z
 SUMMARY:Quarterfinal 4: IMP vs ISG
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1577287@tournamentics
