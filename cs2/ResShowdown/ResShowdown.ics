@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: Sharks: 2 | BESTIA: 1\nStream: https://kick.com/rlgcs
+DTEND:20260711T013348Z
 DTSTART:20260710T230628Z
 SUMMARY:Semifinal 2: SHK vs BST
 UID:cs-go-res-showdown-fall-south-america-fall-2026-1577275@tournamentics
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
 DURATION:PT2H
 DTSTART:20260711T230000Z
-SUMMARY:Grand final: paiN vs TBD
+SUMMARY:Grand final: paiN vs SHK
 UID:cs-go-res-showdown-fall-south-america-fall-2026-1577276@tournamentics
 END:VEVENT
 BEGIN:VEVENT

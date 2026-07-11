@@ -656,7 +656,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
 DURATION:PT2H
 DTSTART:20260711T230000Z
-SUMMARY:Grand final: paiN vs TBD
+SUMMARY:Grand final: paiN vs SHK
 UID:cs-go-res-showdown-fall-south-america-fall-2026-1577276@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -842,8 +842,8 @@ SUMMARY:Upper bracket round 1 match 5: banda chuya vs LPH
 UID:cs-go-cct-europe-contenders-6-2026-1572134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/rlgcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: Sharks: 2 | BESTIA: 1\nStream: https://kick.com/rlgcs
+DTEND:20260711T013348Z
 DTSTART:20260710T230628Z
 SUMMARY:Semifinal 2: SHK vs BST
 UID:cs-go-res-showdown-fall-south-america-fall-2026-1577275@tournamentics
@@ -1297,9 +1297,9 @@ SUMMARY:Round 3: BB vs NEM
 UID:cs-go-xse-pro-league-2026-1551617@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
-DTSTART:20260711T020000Z
+DTSTART:20260711T013851Z
 SUMMARY:Semifinal 2: VOCA vs REGAIN
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577282@tournamentics
 END:VEVENT
