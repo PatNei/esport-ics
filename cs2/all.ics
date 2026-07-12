@@ -453,7 +453,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260712T170000Z
-SUMMARY:Elimination match: Entropy vs TBD
+SUMMARY:Elimination match: Entropy vs Atreides
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582124@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -754,7 +754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Mikotohero
 DURATION:PT2H
 DTSTART:20260712T170000Z
-SUMMARY:Winners match: G1 vs TBD
+SUMMARY:Winners match: G1 vs Just Players
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582123@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -989,8 +989,8 @@ SUMMARY:Upper bracket round 1 match 5: banda chuya vs LPH
 UID:cs-go-cct-europe-contenders-6-2026-1572134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Mikotohero
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Atreides: 0 | Just Players: 2\nStream: https://www.twitch.tv/Mikotohero
+DTEND:20260712T160916Z
 DTSTART:20260712T132516Z
 SUMMARY:Atreides vs Just Players
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582122@tournamentics
@@ -2392,7 +2392,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260712T170000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Noir Verse vs MOUZ.N
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2665,7 +2665,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260712T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: SPARTA vs BW
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582128@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2977,8 +2977,8 @@ SUMMARY:Winners match: INF vs ex-MANA
 UID:cs-go-united21-52-2026-1568945@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nagu_fr
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | MOUZ NXT: 1\nStream: https://www.twitch.tv/nagu_fr
+DTEND:20260712T161318Z
 DTSTART:20260712T132817Z
 SUMMARY:BW vs MOUZ.N
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582127@tournamentics
@@ -3278,8 +3278,8 @@ SUMMARY:ex-MANA vs MISA
 UID:cs-go-united21-52-2026-1568944@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: SPARTA: 2 | Noir Verse: 0\nStream: No official stream linked
+DTEND:20260712T161143Z
 DTSTART:20260712T133201Z
 SUMMARY:SPARTA vs Noir Verse
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582126@tournamentics
