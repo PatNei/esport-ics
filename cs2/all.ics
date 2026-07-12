@@ -817,7 +817,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260714T080000Z
-SUMMARY:Decider match: ENCE vs TBD
+SUMMARY:Decider match: ENCE vs SPARTA
 UID:cs-go-european-pro-league-series-8-2026-1554017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1066,8 +1066,8 @@ SUMMARY:IC.A vs BIG.A
 UID:cs-go-nodwin-clutch-series-10-2026-1582141@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: Atreides: 2 | SPARTA: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260712T130238Z
 DTSTART:20260712T103152Z
 SUMMARY:Winners match: Atreides vs SPARTA
 UID:cs-go-european-pro-league-series-8-2026-1554016@tournamentics
@@ -1236,7 +1236,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
 DURATION:PT2H
-DTSTART:20260712T130000Z
+DTSTART:20260712T131000Z
 SUMMARY:G1 vs Entropy
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582121@tournamentics
 END:VEVENT
@@ -2564,9 +2564,9 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580379@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floppyacs
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floppyacs
 DURATION:PT2H
-DTSTART:20260712T130000Z
+DTSTART:20260712T130317Z
 SUMMARY:QUA vs TLR
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582117@tournamentics
 END:VEVENT
@@ -2853,7 +2853,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
 DURATION:PT2H
-DTSTART:20260712T130000Z
+DTSTART:20260712T131000Z
 SUMMARY:FNC vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582116@tournamentics
 END:VEVENT
