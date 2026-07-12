@@ -159,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260713T130000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Just Players vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582125@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -730,13 +730,6 @@ SUMMARY:Quarterfinal 4: FaZe vs BB
 UID:cs-go-xse-pro-league-2026-1551631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: Hunters Rising: 1 | MIBR Academy: 2\nStream: No official stream linked
-DTEND:20260627T001715Z
-DTSTART:20260626T214245Z
-SUMMARY:Decider match: HR vs MIBR.A
-UID:cs-go-gamers-club-liga-serie-a-june-2026-1556223@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult:  Gatorian: 0 | BakS eSports: 2\nStream: https://kick.com/cct_cs4
 DTEND:20260705T173334Z
 DTSTART:20260705T155219Z
@@ -751,18 +744,25 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582188@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Mikotohero
-DURATION:PT2H
-DTSTART:20260712T170214Z
-SUMMARY:Winners match: G1 vs Just Players
-UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582123@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260718T130000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580385@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: GenOne: 2 | Just Players: 0\nStream: https://www.twitch.tv/Mikotohero
+DTEND:20260712T183059Z
+DTSTART:20260712T170214Z
+SUMMARY:Winners match: G1 vs Just Players
+UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582123@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: Hunters Rising: 1 | MIBR Academy: 2\nStream: No official stream linked
+DTEND:20260627T001715Z
+DTSTART:20260626T214245Z
+SUMMARY:Decider match: HR vs MIBR.A
+UID:cs-go-gamers-club-liga-serie-a-june-2026-1556223@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: paiN: 0 | Sharks: 2\nStream: https://kick.com/rlgcs
@@ -1185,9 +1185,9 @@ SUMMARY:Upper bracket quarterfinal 2: FUT.T vs FF
 UID:cs-go-tesfed-league-3-2026-1527903@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260712T181500Z
+DTSTART:20260712T183220Z
 SUMMARY:Grand final: LPH vs mellren
 UID:cs-go-cct-europe-contenders-6-2026-1575326@tournamentics
 END:VEVENT
@@ -1710,6 +1710,13 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580359@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DURATION:PT2H
+DTSTART:20260717T160000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-gluck-yungstar-series-2-2026-1584739@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team zoneR: 1 | Team Aunkere: 2\nStream: https://www.twitch.tv/betboom_sb_cs
 DTEND:20260630T212150Z
 DTSTART:20260630T182726Z
@@ -1983,9 +1990,9 @@ SUMMARY:Round 2: ALL vs NIP
 UID:cs-go-xse-pro-league-2026-1551604@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/spyhiddentv
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/spyhiddentv
 DURATION:PT2H
-DTSTART:20260712T182500Z
+DTSTART:20260712T183222Z
 SUMMARY:Elimination match: MISA vs QUA
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582119@tournamentics
 END:VEVENT
@@ -2009,6 +2016,13 @@ DURATION:PT2H
 DTSTART:20260724T130000Z
 SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580358@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DURATION:PT2H
+DTSTART:20260717T100000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-gluck-yungstar-series-2-2026-1584738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Streamers Battle - Season 5 2026\nMatch Type: Best Of\nResult: Team Burger: 2 | Team shoke: 0\nStream: https://www.twitch.tv/betboom_sb_cs
@@ -2312,6 +2326,13 @@ SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580357@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DURATION:PT2H
+DTSTART:20260717T130000Z
+SUMMARY:Upper bracket quarterfinal 4: ENJOY vs ARGOS
+UID:cs-go-gluck-yungstar-series-2-2026-1584737@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | Guara Esports: 0\nStream: https://kick.com/cct_cs
 DTEND:20260701T233545Z
 DTSTART:20260701T220404Z
@@ -2597,6 +2618,13 @@ DURATION:PT2H
 DTSTART:20260726T080000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582159@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DURATION:PT2H
+DTSTART:20260717T130000Z
+SUMMARY:Upper bracket quarterfinal 3: QUA vs TS.A
+UID:cs-go-gluck-yungstar-series-2-2026-1584736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | ODDIK Academy: 0\nStream: No official stream linked
@@ -2900,6 +2928,13 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582158@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DURATION:PT2H
+DTSTART:20260717T070000Z
+SUMMARY:Upper bracket quarterfinal 2: NEW VISION vs WING
+UID:cs-go-gluck-yungstar-series-2-2026-1584735@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - June 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | METANOIA WOLVES: 1\nStream: No official stream linked
 DTEND:20260624T003034Z
 DTSTART:20260623T212235Z
@@ -3171,6 +3206,13 @@ DURATION:PT2H
 DTSTART:20260725T140000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582157@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DURATION:PT2H
+DTSTART:20260717T070000Z
+SUMMARY:Upper bracket quarterfinal 1: Just Players vs ex-RUBY
+UID:cs-go-gluck-yungstar-series-2-2026-1584734@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
