@@ -453,7 +453,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260712T170000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Entropy vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582124@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -754,7 +754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260712T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: G1 vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582123@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1234,8 +1234,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580383@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: GenOne: 2 | Entropy: 0\nStream: https://www.twitch.tv/iamfusiion
+DTEND:20260712T145244Z
 DTSTART:20260712T131243Z
 SUMMARY:G1 vs Entropy
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582121@tournamentics
