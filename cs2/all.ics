@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260715T080000Z
-SUMMARY:Decider match: Lavked vs Just Players
+SUMMARY:Decider match: Lavked vs JustP
 UID:cs-go-european-pro-league-series-8-2026-1554008@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260713T130000Z
-SUMMARY:Decider match: Just Players vs TBD
+SUMMARY:Decider match: JustP vs Entropy
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582125@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -464,8 +464,8 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582189@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Atreides: 0\nStream: No official stream linked
+DTEND:20260712T184957Z
 DTSTART:20260712T170143Z
 SUMMARY:Elimination match: Entropy vs Atreides
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582124@tournamentics
@@ -3260,7 +3260,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260717T070000Z
-SUMMARY:Upper bracket quarterfinal 1: Just Players vs ex-RUBY
+SUMMARY:Upper bracket quarterfinal 1: JustP vs ex-RUBY
 UID:cs-go-gluck-yungstar-series-2-2026-1584734@tournamentics
 END:VEVENT
 BEGIN:VEVENT
