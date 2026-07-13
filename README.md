@@ -290,6 +290,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contender
 </details>
 
 <details>
+<summary>ESEA</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/Esea.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/Esea.ics
+```
+
+---
+
+### Advanced Europe season 58 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/AdvancedEuropeSeason582026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/AdvancedEuropeSeason582026.ics
+```
+
+</details>
+
+<details>
 <summary>European Pro League</summary>
 
 ### Full Schedule
