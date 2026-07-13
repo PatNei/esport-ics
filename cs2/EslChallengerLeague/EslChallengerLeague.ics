@@ -11,7 +11,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260713T170000Z
+DTSTART:20260713T171500Z
 SUMMARY:Quarterfinal 1: HOTU vs Entropy
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582131@tournamentics
 END:VEVENT
@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260713T170000Z
+DTSTART:20260713T171500Z
 SUMMARY:Quarterfinal 3: G1 vs BRUTE
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582133@tournamentics
 END:VEVENT
@@ -79,8 +79,8 @@ SUMMARY:Elimination match: MOUZ.N vs Noir Verse
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: SPARTA: 2 | MOUZ NXT: 1\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260713T164135Z
 DTSTART:20260713T130112Z
 SUMMARY:Decider match: SPARTA vs MOUZ.N
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582130@tournamentics
