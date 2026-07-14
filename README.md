@@ -78,6 +78,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/NorthAmer
 </details>
 
 <details>
+<summary>CCT Europe</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics
+```
+
+---
+
+### Series #5 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series52026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series52026.ics
+```
+
+</details>
+
+<details>
 <summary>CCT South America</summary>
 
 ### Full Schedule
