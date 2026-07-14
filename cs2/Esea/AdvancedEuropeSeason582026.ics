@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kerpros
-DURATION:PT2H
-DTSTART:20260714T184500Z
-SUMMARY:S-B vs QUA
-UID:cs-go-esea-advanced-europe-58-2026-1586801@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260721T160000Z
@@ -51,13 +44,6 @@ SUMMARY:NEW VISION vs eVO
 UID:cs-go-esea-advanced-europe-58-2026-1586795@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260714T184500Z
-SUMMARY:PHTM.Ac vs BERG
-UID:cs-go-esea-advanced-europe-58-2026-1586805@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Fortress: 0 | Dark Moon: 1\nStream: No official stream linked
 DTEND:20260714T191025Z
 DTSTART:20260714T184316Z
@@ -70,26 +56,5 @@ DTEND:20260714T190036Z
 DTSTART:20260714T180850Z
 SUMMARY:PURE vs A Great Chaos
 UID:cs-go-esea-advanced-europe-58-2026-1586797@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
-DURATION:PT2H
-DTSTART:20260714T184500Z
-SUMMARY:MISA vs Subtop De France
-UID:cs-go-esea-advanced-europe-58-2026-1586807@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/michu
-DURATION:PT2H
-DTSTART:20260714T184500Z
-SUMMARY:CC.FE vs OLDBOYS PL
-UID:cs-go-esea-advanced-europe-58-2026-1586804@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260714T183000Z
-SUMMARY:DRAMA vs RT
-UID:cs-go-esea-advanced-europe-58-2026-1586799@tournamentics
 END:VEVENT
 END:VCALENDAR
