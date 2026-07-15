@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | Keyd: 1\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260715T195712Z
 DTSTART:20260715T161108Z
 SUMMARY:Upper bracket quarterfinal 1: BHE vs Keyd
 UID:cs-go-betboom-rush-b-summit-4-2026-1580340@tournamentics
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260717T160000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: Keyd vs TBD
 UID:cs-go-betboom-rush-b-summit-4-2026-1580348@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260716T160000Z
-SUMMARY:Upper bracket semifinal 1: SHIN vs TBD
+SUMMARY:Upper bracket semifinal 1: SHIN vs BHE
 UID:cs-go-betboom-rush-b-summit-4-2026-1580346@tournamentics
 END:VEVENT
 BEGIN:VEVENT
