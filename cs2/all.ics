@@ -516,7 +516,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260717T080000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: ex-MANA vs TBD
 UID:cs-go-united21-52-2026-1588647@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1283,8 +1283,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: megoshort: 2 | Julie&cie: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260715T094904Z
 DTSTART:20260715T081948Z
 SUMMARY:Decider match: MEGO vs JUL
 UID:cs-go-nodwin-clutch-series-10-2026-1588076@tournamentics
@@ -2879,8 +2879,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587552@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | FaZe Up Next: 0\nStream: https://kick.com/united21_en
+DTEND:20260715T094206Z
 DTSTART:20260715T080544Z
 SUMMARY:Lower bracket round 1 match 1: ex-MANA vs FaZe UN
 UID:cs-go-united21-52-2026-1588029@tournamentics
