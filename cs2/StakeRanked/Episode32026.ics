@@ -12,12 +12,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
 DTSTART:20260716T123000Z
-SUMMARY:Lower Bracket Round 1 Match 1: 3DMAX vs TBD
+SUMMARY:Lower Bracket Round 1 Match 1: 3DMAX vs paiN
 UID:cs-go-stake-ranked-episode-3-2026-1578253@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: paiN: 1 | Phantom: 2\nStream: https://kick.com/starladder
+DTEND:20260715T202408Z
 DTSTART:20260715T174625Z
 SUMMARY:Upper Bracket Quarterfinals 1: paiN vs PHA
 UID:cs-go-stake-ranked-episode-3-2026-1578249@tournamentics
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
 DTSTART:20260716T173000Z
-SUMMARY:Upper Bracket Semifinals 1: HERO vs TBD
+SUMMARY:Upper Bracket Semifinals 1: HERO vs PHA
 UID:cs-go-stake-ranked-episode-3-2026-1578255@tournamentics
 END:VEVENT
 BEGIN:VEVENT
