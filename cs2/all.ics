@@ -247,13 +247,6 @@ SUMMARY:Upper bracket semifinal 1: SHIN vs BHE
 UID:cs-go-betboom-rush-b-summit-4-2026-1580346@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260716T171500Z
-SUMMARY:LK vs RGG
-UID:cs-go-nodwin-clutch-series-10-2026-1582144@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260719T080000Z
@@ -957,7 +950,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260717T170000Z
-SUMMARY:Winners match: Vexar vs TBD
+SUMMARY:Winners match: Vexar vs RGG
 UID:cs-go-nodwin-clutch-series-10-2026-1588642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1096,7 +1089,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260716T171500Z
+DTSTART:20260716T173000Z
 SUMMARY:Elimination match: Honvéd vs Subtop De France
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586961@tournamentics
 END:VEVENT
@@ -1209,7 +1202,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260717T140000Z
-SUMMARY:Elimination match: SAW.Y vs TBD
+SUMMARY:Elimination match: SAW.Y vs LK
 UID:cs-go-nodwin-clutch-series-10-2026-1588641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2907,18 +2900,18 @@ SUMMARY:Lower bracket round 3 match 2: banda chuya vs ARCH
 UID:cs-go-cct-europe-contenders-6-2026-1578202@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260716T160929Z
-SUMMARY:Round 2: GE vs MW
-UID:cs-go-champion-of-champions-tour-series-4-2026-1580378@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | Overtake Sector: 0\nStream: https://www.twitch.tv/circuitxofficial
 DTEND:20260710T031759Z
 DTSTART:20260710T013816Z
 SUMMARY:Quarterfinal 2: LAG vs OT
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577278@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260716T160929Z
+SUMMARY:Round 2: GE vs MW
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580378@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: fnatic: 2 | Misa Esports: 1\nStream: https://www.twitch.tv/vanfantv
