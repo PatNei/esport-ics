@@ -810,7 +810,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
 DTSTART:20260717T150000Z
-SUMMARY:Upper Bracket Final: TBD vs TBD
+SUMMARY:Upper Bracket Final: NIP vs TBD
 UID:cs-go-stake-ranked-episode-3-2026-1578260@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1769,7 +1769,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
 DTSTART:20260717T100000Z
-SUMMARY:Lower Bracket Quarterfinals 1: 3DMAX vs TBD
+SUMMARY:Lower Bracket Quarterfinals 1: 3DMAX vs M8
 UID:cs-go-stake-ranked-episode-3-2026-1578257@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2046,8 +2046,8 @@ SUMMARY:Round of 16 match 1: WW vs JustP
 UID:cs-go-european-pro-league-series-8-2026-1554024@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: NIP: 2 | Gentle Mates: 0\nStream: https://kick.com/starladder
+DTEND:20260716T161035Z
 DTSTART:20260716T143344Z
 SUMMARY:Upper Bracket Semifinals 2: NIP vs M8
 UID:cs-go-stake-ranked-episode-3-2026-1578256@tournamentics
@@ -2370,7 +2370,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260716T173000Z
+DTSTART:20260716T163000Z
 SUMMARY:Upper Bracket Semifinals 1: HERO vs PHA
 UID:cs-go-stake-ranked-episode-3-2026-1578255@tournamentics
 END:VEVENT
@@ -2907,9 +2907,9 @@ SUMMARY:Lower bracket round 3 match 2: banda chuya vs ARCH
 UID:cs-go-cct-europe-contenders-6-2026-1578202@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260716T160000Z
+DTSTART:20260716T160929Z
 SUMMARY:Round 2: GE vs MW
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580378@tournamentics
 END:VEVENT
