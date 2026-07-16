@@ -831,7 +831,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260719T110000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Entropy vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586962@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1374,8 +1374,8 @@ SUMMARY:Grand final: BST vs IMP
 UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1577291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nResult: Entropy: 0 | Inner Circle Academy: 2\nStream: https://kick.com/cct_cs
+DTEND:20260716T123040Z
 DTSTART:20260716T111715Z
 SUMMARY:Winners match: Entropy vs IC.A
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586960@tournamentics
@@ -2060,7 +2060,7 @@ SUMMARY:Round of 16 match 1: WW vs JustP
 UID:cs-go-european-pro-league-series-8-2026-1554024@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260716T150000Z
 SUMMARY:Upper Bracket Semifinals 2: NIP vs M8
@@ -2998,9 +2998,9 @@ SUMMARY:Upper bracket quarterfinal 2: NEW VISION vs WING
 UID:cs-go-gluck-yungstar-series-2-2026-1584735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260716T121500Z
+DTSTART:20260716T122758Z
 SUMMARY:Lower Bracket Round 1 Match 1: paiN vs 3DMAX
 UID:cs-go-stake-ranked-episode-3-2026-1578253@tournamentics
 END:VEVENT
