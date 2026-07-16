@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260718T080000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: EAC Rising vs TBD
 UID:cs-go-united21-52-2026-1588634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:Elimination match: Entropy vs MISA
 UID:cs-go-united21-52-2026-1568946@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: EAC Rising: 2 | Alpha Dominion Nation: 0\nStream: https://kick.com/united21_en
+DTEND:20260716T093124Z
 DTSTART:20260716T081237Z
 SUMMARY:Upper bracket semifinal 1: EAC Rising vs ADN
 UID:cs-go-united21-52-2026-1588027@tournamentics
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260717T103000Z
-SUMMARY:Lower bracket quarterfinal 2: MISA vs TBD
+SUMMARY:Lower bracket quarterfinal 2: MISA vs ADN
 UID:cs-go-united21-52-2026-1588648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
