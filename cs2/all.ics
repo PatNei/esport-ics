@@ -803,7 +803,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
 DTSTART:20260717T150000Z
-SUMMARY:Upper Bracket Final: NIP vs TBD
+SUMMARY:Upper Bracket Final: NIP vs HERO
 UID:cs-go-stake-ranked-episode-3-2026-1578260@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1454,7 +1454,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
 DTSTART:20260717T123000Z
-SUMMARY:Lower Bracket Quarterfinals 2: K27 vs TBD
+SUMMARY:Lower Bracket Quarterfinals 2: K27 vs PHA
 UID:cs-go-stake-ranked-episode-3-2026-1578258@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2319,8 +2319,8 @@ SUMMARY:Decider match: Honvéd vs G1
 UID:cs-go-european-pro-league-series-8-2026-1554023@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: Heroic: 2 | Phantom: 1\nStream: https://kick.com/starladder
+DTEND:20260716T194819Z
 DTSTART:20260716T163101Z
 SUMMARY:Upper Bracket Semifinals 1: HERO vs PHA
 UID:cs-go-stake-ranked-episode-3-2026-1578255@tournamentics
