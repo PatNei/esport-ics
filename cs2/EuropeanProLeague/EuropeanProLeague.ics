@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260720T080000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: JustP vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554032@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:Round of 16 match 4: ARC vs TLR
 UID:cs-go-european-pro-league-series-8-2026-1554027@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: WW Team: 1 | Just Players: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260716T104622Z
 DTSTART:20260716T080341Z
 SUMMARY:Round of 16 match 1: WW vs JustP
 UID:cs-go-european-pro-league-series-8-2026-1554024@tournamentics
