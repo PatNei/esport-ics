@@ -13,6 +13,27 @@ Subscribe to every tournament at once:
 ## A Tier
 
 <details>
+<summary>BLAST Bounty</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastBounty/BlastBounty.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastBounty/BlastBounty.ics
+```
+
+---
+
+### Summer 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastBounty/Summer2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastBounty/Summer2026.ics
+```
+
+</details>
+
+<details>
 <summary>XSE Pro League</summary>
 
 ### Full Schedule
