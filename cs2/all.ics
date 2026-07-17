@@ -250,7 +250,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260718T153000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: HERO vs TBD
 UID:cs-go-stake-ranked-episode-3-2026-1578262@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260718T120000Z
-SUMMARY:Lower Bracket Final : TBD vs TBD
+SUMMARY:Lower Bracket Final : NIP vs TBD
 UID:cs-go-stake-ranked-episode-3-2026-1578261@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -793,8 +793,8 @@ SUMMARY:ex-MANA vs DNT
 UID:cs-go-nodwin-clutch-series-10-2026-1582142@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: NIP: 1 | Heroic: 2\nStream: https://kick.com/starladder
+DTEND:20260717T171038Z
 DTSTART:20260717T141836Z
 SUMMARY:Upper Bracket Final: NIP vs HERO
 UID:cs-go-stake-ranked-episode-3-2026-1578260@tournamentics
@@ -2167,7 +2167,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260717T170000Z
+DTSTART:20260717T171500Z
 SUMMARY:MISA vs OBSB
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586969@tournamentics
 END:VEVENT
