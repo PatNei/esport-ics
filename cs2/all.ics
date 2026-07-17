@@ -775,7 +775,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
 DURATION:PT2H
 DTSTART:20260717T100000Z
-SUMMARY:Lower bracket round 1 match 1: NEW VISION vs TBD
+SUMMARY:Lower bracket round 1 match 1: NEW VISION vs JustP
 UID:cs-go-gluck-yungstar-series-2-2026-1584742@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1731,9 +1731,9 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586970@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260717T100000Z
+DTSTART:20260717T100254Z
 SUMMARY:Lower Bracket Quarterfinals 1: 3DMAX vs M8
 UID:cs-go-stake-ranked-episode-3-2026-1578257@tournamentics
 END:VEVENT
@@ -1979,7 +1979,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260717T100000Z
-SUMMARY:Upper bracket semifinal 1: WING vs TBD
+SUMMARY:Upper bracket semifinal 1: WING vs ex-RUBY
 UID:cs-go-gluck-yungstar-series-2-2026-1584738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3215,8 +3215,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582157@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nResult: Just Players: 1 | ex-RUBY: 2\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260717T100339Z
 DTSTART:20260717T073535Z
 SUMMARY:Upper bracket quarterfinal 1: JustP vs ex-RUBY
 UID:cs-go-gluck-yungstar-series-2-2026-1584734@tournamentics
