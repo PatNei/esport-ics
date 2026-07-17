@@ -1986,7 +1986,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260718T160000Z
-SUMMARY:Lower bracket semifinal: IMP vs TBD
+SUMMARY:Lower bracket semifinal: IMP vs SHIN
 UID:cs-go-betboom-rush-b-summit-4-2026-1580351@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2291,8 +2291,8 @@ SUMMARY:Round 3: paiN.A vs GE
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555113@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Rush: 0 | ShindeN: 2\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260717T203933Z
 DTSTART:20260717T190123Z
 SUMMARY:Lower bracket quarterfinal 2: Rush vs SHIN
 UID:cs-go-betboom-rush-b-summit-4-2026-1580350@tournamentics
@@ -3369,9 +3369,9 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582168@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
+DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
 DURATION:PT2H
-DTSTART:20260717T203000Z
+DTSTART:20260717T203527Z
 SUMMARY:Lower bracket quarterfinal 2: WING vs QUA
 UID:cs-go-gluck-yungstar-series-2-2026-1584745@tournamentics
 END:VEVENT
