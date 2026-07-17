@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260718T110000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: MISA vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1588645@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -261,9 +261,9 @@ SUMMARY:G1 vs BRUTE
 UID:cs-go-european-pro-league-series-8-2026-1554019@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260717T110000Z
+DTSTART:20260717T110425Z
 SUMMARY:BIG.A vs DNT
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586964@tournamentics
 END:VEVENT
@@ -674,8 +674,8 @@ SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586974@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Misa Esports: 1 | G2 Ares: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260717T105831Z
 DTSTART:20260717T080816Z
 SUMMARY:Winners match: MISA vs G2.A
 UID:cs-go-nodwin-clutch-series-10-2026-1588643@tournamentics
