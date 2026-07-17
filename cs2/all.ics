@@ -289,9 +289,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580398@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DESCRIPTION:🔴 LIVE NOW\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260717T100000Z
+DTSTART:20260717T100649Z
 SUMMARY:Decider match: GZ vs ARC
 UID:cs-go-hyperx-intel-nationals-2026-1576465@tournamentics
 END:VEVENT
@@ -450,8 +450,8 @@ SUMMARY:Elimination match: Entropy vs Atreides
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582124@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: LEO: 0 | ex-MANA eSports: 2\nStream: https://kick.com/united21_en
+DTEND:20260717T101040Z
 DTSTART:20260717T081023Z
 SUMMARY:Lower bracket quarterfinal 1: LEO vs ex-MANA
 UID:cs-go-united21-52-2026-1588647@tournamentics
@@ -621,7 +621,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260718T103000Z
-SUMMARY:Lower bracket semifinal: MISA vs TBD
+SUMMARY:Lower bracket semifinal: MISA vs ex-MANA
 UID:cs-go-united21-52-2026-1588635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1430,8 +1430,8 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582151@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | GenOne: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260717T100711Z
 DTSTART:20260717T080533Z
 SUMMARY:Round of 16 match 3: 1WIN vs G1
 UID:cs-go-european-pro-league-series-8-2026-1554026@tournamentics
@@ -1633,9 +1633,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580393@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DESCRIPTION:🔴 LIVE NOW\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
-DTSTART:20260717T100000Z
+DTSTART:20260717T101046Z
 SUMMARY:Decider match: RSTR vs MF
 UID:cs-go-hyperx-intel-nationals-2026-1576460@tournamentics
 END:VEVENT
@@ -1976,7 +1976,7 @@ SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580358@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GLuck_Esports
 DURATION:PT2H
 DTSTART:20260717T100000Z
 SUMMARY:Upper bracket semifinal 1: WING vs ex-RUBY
@@ -2448,7 +2448,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260720T103000Z
-SUMMARY:Quarterfinal 2: ARC vs TBD
+SUMMARY:Quarterfinal 2: ARC vs 1WIN
 UID:cs-go-european-pro-league-series-8-2026-1554034@tournamentics
 END:VEVENT
 BEGIN:VEVENT
