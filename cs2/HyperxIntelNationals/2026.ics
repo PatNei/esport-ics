@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260717T100000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: GZ vs TBD
 UID:cs-go-hyperx-intel-nationals-2026-1576465@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-hyperx-intel-nationals-2026-1576466@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nResult: FlyQuest: 2 | Ground Zero: 0\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260717T092135Z
 DTSTART:20260717T075519Z
 SUMMARY:Winners match: FLY vs GZ
 UID:cs-go-hyperx-intel-nationals-2026-1576463@tournamentics
