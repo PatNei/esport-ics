@@ -72,6 +72,13 @@ SUMMARY:mellren vs PHTM.Ac
 UID:cs-go-esea-advanced-europe-58-2026-1589652@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260717T180000Z
+SUMMARY:FAST LAYNERS vs PENSIONERS
+UID:cs-go-esea-advanced-europe-58-2026-1591790@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Arch: 0 | DNK: 1\nStream: No official stream linked
 DTEND:20260716T192743Z
 DTSTART:20260716T183953Z
@@ -86,17 +93,17 @@ SUMMARY:FOR vs DM
 UID:cs-go-esea-advanced-europe-58-2026-1586802@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: PURE: 1 | A Great Chaos: 0\nStream: https://www.twitch.tv/cspuregg
-DTEND:20260714T190036Z
-DTSTART:20260714T180850Z
-SUMMARY:PURE vs A Great Chaos
-UID:cs-go-esea-advanced-europe-58-2026-1586797@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260724T180000Z
 SUMMARY:PURE vs eVO
 UID:cs-go-esea-advanced-europe-58-2026-1589645@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: PURE: 1 | A Great Chaos: 0\nStream: https://www.twitch.tv/cspuregg
+DTEND:20260714T190036Z
+DTSTART:20260714T180850Z
+SUMMARY:PURE vs A Great Chaos
+UID:cs-go-esea-advanced-europe-58-2026-1586797@tournamentics
 END:VEVENT
 END:VCALENDAR
