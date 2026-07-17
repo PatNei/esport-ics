@@ -488,7 +488,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260717T163000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: QUA vs TBD
 UID:cs-go-gluck-yungstar-series-2-2026-1584743@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1685,7 +1685,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260717T163000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: TS.A vs TBD
 UID:cs-go-gluck-yungstar-series-2-2026-1584739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1822,8 +1822,8 @@ SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582184@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | ALKA GAMING: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260717T160048Z
 DTSTART:20260717T130325Z
 SUMMARY:Round 2: GH vs ALKA
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580381@tournamentics
@@ -2599,8 +2599,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582159@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nResult: QUAZAR: 0 | Spirit Academy: 2\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260717T160431Z
 DTSTART:20260717T142511Z
 SUMMARY:Upper bracket quarterfinal 3: QUA vs TS.A
 UID:cs-go-gluck-yungstar-series-2-2026-1584736@tournamentics
@@ -3063,7 +3063,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
-DTSTART:20260717T160000Z
+DTSTART:20260717T161500Z
 SUMMARY:Lower bracket quarterfinal 1: Keyd vs IMP
 UID:cs-go-betboom-rush-b-summit-4-2026-1580348@tournamentics
 END:VEVENT
