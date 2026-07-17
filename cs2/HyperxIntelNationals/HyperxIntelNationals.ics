@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260717T090000Z
-SUMMARY:Decider match: RSTR vs TBD
+SUMMARY:Decider match: RSTR vs MF
 UID:cs-go-hyperx-intel-nationals-2026-1576460@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-hyperx-intel-nationals-2026-1576471@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nResult: Abyssal: 1 | Mindfreak: 2\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260717T055039Z
 DTSTART:20260717T031321Z
 SUMMARY:Elimination match: Abyssal vs MF
 UID:cs-go-hyperx-intel-nationals-2026-1576459@tournamentics
