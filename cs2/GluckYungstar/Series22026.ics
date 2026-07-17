@@ -4,8 +4,8 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
 DURATION:PT2H
-DTSTART:20260717T200000Z
-SUMMARY:Lower bracket quarterfinal 2: WING vs TBD
+DTSTART:20260717T202000Z
+SUMMARY:Lower bracket quarterfinal 2: WING vs QUA
 UID:cs-go-gluck-yungstar-series-2-2026-1584745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
-DTSTART:20260717T200000Z
+DTSTART:20260717T202000Z
 SUMMARY:Lower bracket quarterfinal 1: JustP vs TBD
 UID:cs-go-gluck-yungstar-series-2-2026-1584744@tournamentics
 END:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-gluck-yungstar-series-2-2026-1584746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nResult: QUAZAR: 2 | ENJOY: 0\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260717T194422Z
 DTSTART:20260717T175930Z
 SUMMARY:Lower bracket round 1 match 2: QUA vs ENJOY
 UID:cs-go-gluck-yungstar-series-2-2026-1584743@tournamentics

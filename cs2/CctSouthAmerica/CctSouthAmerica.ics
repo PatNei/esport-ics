@@ -2,18 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 1 | Guara Esports: 2\nStream: https://kick.com/cct_cs
-DTEND:20260628T213518Z
-DTSTART:20260628T190709Z
-SUMMARY:Round 1: MW vs GE
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555100@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260720T160000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580393@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Isurus: 0\nStream: https://kick.com/cct_cs
-DTEND:20260708T204117Z
-DTSTART:20260708T190211Z
-SUMMARY:Quarterfinal 1: IMP vs ISG
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555148@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260719T160000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580390@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 2 | BORRACHEIROS: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260716T004620Z
+DTSTART:20260715T220532Z
+SUMMARY:Round 1: ALKA vs CHAMA
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580376@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 2 | Red Feet: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260715T162405Z
+DTSTART:20260715T130628Z
+SUMMARY:Round 1: PCY vs RF
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580373@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | BESTIA Academy: 1\nStream: https://kick.com/cct_cs
@@ -23,39 +37,18 @@ SUMMARY:Round of 16 match 6: LDP vs BST.A
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Fluxo: 2 | paiN Academy: 1\nStream: https://kick.com/cct_cs
-DTEND:20260706T192628Z
-DTSTART:20260706T163919Z
-SUMMARY:Round of 16 match 2: FX vs paiN.A
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555128@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: paiN Academy: 0 | ODDIK: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260714T174135Z
+DTSTART:20260714T160220Z
+SUMMARY:Round 1: paiN.A vs ODK
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580370@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Yawara Esports: 2 | Blitzkrieg: 0\nStream: https://kick.com/cct_cs
-DTEND:20260628T172029Z
-DTSTART:20260628T161155Z
-SUMMARY:Round 1: YAW vs BK
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555099@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | Red Feet: 1\nStream: https://kick.com/cct_cs
-DTEND:20260705T222438Z
-DTSTART:20260705T190342Z
-SUMMARY:Round 5: paiN.A vs RF
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555125@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: paiN Academy: 1 | ALKA GAMING: 2\nStream: https://kick.com/cct_cs
-DTEND:20260627T213649Z
-DTSTART:20260627T202123Z
-SUMMARY:Round 1: paiN.A vs ALKA
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555096@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: paiN Academy: 0 | BESTIA Academy: 2\nStream: https://kick.com/cct_cs
-DTEND:20260704T210527Z
-DTSTART:20260704T191805Z
-SUMMARY:Round 4: paiN.A vs BST.A
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555122@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260724T160000Z
+SUMMARY:Round of 16 match 6: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580359@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Guara Esports: 2 | Procyon Gaming: 1\nStream: https://kick.com/cct_cs
@@ -65,109 +58,18 @@ SUMMARY:Round 4: GE vs PCY
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555118@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260723T190000Z
+SUMMARY:Round of 16 match 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580356@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | ALKA GAMING: 1\nStream: https://kick.com/cct_cs
 DTEND:20260702T185854Z
 DTSTART:20260702T160353Z
 SUMMARY:Round 3: GH vs ALKA
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555115@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | MAGICOS: 0\nStream: https://kick.com/cct_cs
-DTEND:20260630T203830Z
-DTSTART:20260630T190414Z
-SUMMARY:Round 2: BST.A vs MAG
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555108@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | Procyon Gaming: 1\nStream: https://kick.com/cct_cs
-DTEND:20260630T011857Z
-DTSTART:20260629T220213Z
-SUMMARY:Round 2: MIBR.A vs PCY
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555105@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 1 | Imperial: 2\nStream: https://kick.com/cct_cs
-DTEND:20260710T001650Z
-DTSTART:20260709T210603Z
-SUMMARY:Grand final: BHE vs IMP
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555161@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | Keyd: 0\nStream: https://kick.com/cct_cs
-DTEND:20260708T181249Z
-DTSTART:20260708T160302Z
-SUMMARY:Quarterfinal 3: BHE vs Keyd
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555157@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | Blitzkrieg: 0\nStream: https://kick.com/cct_cs
-DTEND:20260629T140552Z
-DTSTART:20260629T130621Z
-SUMMARY:Round 2: paiN.A vs BK
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555102@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | MIBR Academy: 1\nStream: https://kick.com/cct_cs
-DTEND:20260708T005345Z
-DTSTART:20260707T220440Z
-SUMMARY:Round of 16 match 8: BHE vs MIBR.A
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555134@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Imperial: 2 | ALKA GAMING: 0\nStream: https://kick.com/cct_cs
-DTEND:20260706T154633Z
-DTSTART:20260706T135626Z
-SUMMARY:Round of 16 match 1: IMP vs ALKA
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555127@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Isurus: 2 | Yawara Esports: 0\nStream: https://kick.com/cct_cs
-DTEND:20260707T143303Z
-DTSTART:20260707T130145Z
-SUMMARY:Round of 16 match 5: ISG vs YAW
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555131@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: MIBR Academy: 1 | Patins da Ferrari: 2\nStream: https://kick.com/cct_cs
-DTEND:20260629T004538Z
-DTSTART:20260628T220438Z
-SUMMARY:Round 1: MIBR.A vs PDAF
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555098@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | Guara Esports: 0\nStream: https://kick.com/cct_cs
-DTEND:20260705T171558Z
-DTSTART:20260705T160317Z
-SUMMARY:Round 5: MIBR.A vs GE
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555124@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | ex-Vexa: 1\nStream: https://kick.com/cct_cs
-DTEND:20260627T183619Z
-DTSTART:20260627T164220Z
-SUMMARY:Round 1: GH vs ex-Vexa
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555095@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: MIBR Academy: 1 | ex-Vexa: 2\nStream: https://kick.com/cct_cs
-DTEND:20260704T190502Z
-DTSTART:20260704T160829Z
-SUMMARY:Round 4: MIBR.A vs ex-Vexa
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555121@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 1 | Red Feet: 2\nStream: https://kick.com/cct_cs
-DTEND:20260630T183933Z
-DTSTART:20260630T160654Z
-SUMMARY:Round 2: ALKA vs RF
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555107@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Imperial: 2 | largadosypelados: 0\nStream: https://kick.com/cct_cs
-DTEND:20260709T195506Z
-DTSTART:20260709T180642Z
-SUMMARY:Semifinal 1: IMP vs LDP
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555159@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Fluxo: 1 | Bounty Hunters Esports: 2\nStream: https://kick.com/cct_cs
@@ -184,11 +86,25 @@ SUMMARY:Quarterfinal 2: LDP vs FDB
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555149@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: UNO MILLE: 1 | Patins da Ferrari: 2\nStream: https://kick.com/cct_cs
-DTEND:20260707T213130Z
-DTSTART:20260707T191159Z
-SUMMARY:Round of 16 match 7: UNO vs PDAF
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555133@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260718T190000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580387@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260717T220000Z
+SUMMARY:Round 2: BST.A vs MAG
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580384@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | ALKA GAMING: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260717T160048Z
+DTSTART:20260717T130325Z
+SUMMARY:Round 2: GH vs ALKA
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580381@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | ex-Vexa: 1\nStream: https://kick.com/cct_cs
@@ -198,11 +114,11 @@ SUMMARY:Round of 16 match 3: FDB vs ex-Vexa
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Keyd: 2 | Game Hunters: 1\nStream: https://kick.com/cct_cs
-DTEND:20260707T005130Z
-DTSTART:20260706T221945Z
-SUMMARY:Round of 16 match 4: Keyd vs GH
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555130@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260726T180000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580367@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 2 | MAGICOS: 0\nStream: https://kick.com/cct_cs
@@ -212,6 +128,20 @@ SUMMARY:Round 5: ALKA vs MAG
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555126@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260725T190000Z
+SUMMARY:Quarterfinal 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580364@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260724T220000Z
+SUMMARY:Round of 16 match 8: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580361@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | Red Feet: 0\nStream: https://kick.com/cct_cs
 DTEND:20260704T234056Z
 DTSTART:20260704T220415Z
@@ -219,32 +149,11 @@ SUMMARY:Round 4: GH vs RF
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555123@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 1 | MAGICOS: 2\nStream: https://kick.com/cct_cs
-DTEND:20260703T224730Z
-DTSTART:20260703T193627Z
-SUMMARY:Round 4: MW vs MAG
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555119@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 2 | Blitzkrieg: 0\nStream: https://kick.com/cct_cs
 DTEND:20260704T000549Z
 DTSTART:20260703T230002Z
 SUMMARY:Round 4: ALKA vs BK
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555120@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Yawara Esports: 2 | Red Feet: 0\nStream: https://kick.com/cct_cs
-DTEND:20260702T203423Z
-DTSTART:20260702T191031Z
-SUMMARY:Round 3: YAW vs RF
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555116@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | Guara Esports: 0\nStream: https://kick.com/cct_cs
-DTEND:20260701T233545Z
-DTSTART:20260701T220404Z
-SUMMARY:Round 3: paiN.A vs GE
-UID:cs-go-champion-of-champions-tour-series-3-2026-1555113@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Patins da Ferrari: 2 | Guara Esports: 0\nStream: https://kick.com/cct_cs
@@ -261,10 +170,402 @@ SUMMARY:Round 2: YAW vs GH
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555106@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 1 | Guara Esports: 2\nStream: https://kick.com/cct_cs
+DTEND:20260628T213518Z
+DTSTART:20260628T190709Z
+SUMMARY:Round 1: MW vs GE
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555100@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260722T220000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580402@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Yawara Esports: 2 | Blitzkrieg: 0\nStream: https://kick.com/cct_cs
+DTEND:20260628T172029Z
+DTSTART:20260628T161155Z
+SUMMARY:Round 1: YAW vs BK
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555099@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: paiN Academy: 1 | ALKA GAMING: 2\nStream: https://kick.com/cct_cs
+DTEND:20260627T213649Z
+DTSTART:20260627T202123Z
+SUMMARY:Round 1: paiN.A vs ALKA
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555096@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260721T220000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580398@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | Keyd: 0\nStream: https://kick.com/cct_cs
+DTEND:20260708T181249Z
+DTSTART:20260708T160302Z
+SUMMARY:Quarterfinal 3: BHE vs Keyd
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555157@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260720T220000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580395@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260719T220000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580392@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Guara Esports: 1 | METANOIA WOLVES: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260716T185025Z
+DTSTART:20260716T160929Z
+SUMMARY:Round 2: GE vs MW
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580378@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | Guara Esports: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260714T232744Z
+DTSTART:20260714T220335Z
+SUMMARY:Round 1: BST.A vs GE
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580375@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | MIBR Academy: 1\nStream: https://kick.com/cct_cs
+DTEND:20260708T005345Z
+DTSTART:20260707T220440Z
+SUMMARY:Round of 16 match 8: BHE vs MIBR.A
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555134@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Isurus: 2 | Yawara Esports: 0\nStream: https://kick.com/cct_cs
+DTEND:20260707T143303Z
+DTSTART:20260707T130145Z
+SUMMARY:Round of 16 match 5: ISG vs YAW
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555131@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260724T130000Z
+SUMMARY:Round of 16 match 5: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580358@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260723T160000Z
+SUMMARY:Round of 16 match 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580355@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260719T130000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580389@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260718T160000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580386@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Isurus: 0\nStream: https://kick.com/cct_cs
+DTEND:20260708T204117Z
+DTSTART:20260708T190211Z
+SUMMARY:Quarterfinal 1: IMP vs ISG
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555148@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260717T190335Z
+SUMMARY:Round 2: ODK vs PCY
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580383@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 0 | Patins da Ferrari: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260714T142711Z
+DTSTART:20260714T130202Z
+SUMMARY:Round 1: MW vs PDAF
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580369@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260726T150000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580366@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Fluxo: 2 | paiN Academy: 1\nStream: https://kick.com/cct_cs
+DTEND:20260706T192628Z
+DTSTART:20260706T163919Z
+SUMMARY:Round of 16 match 2: FX vs paiN.A
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555128@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | Red Feet: 1\nStream: https://kick.com/cct_cs
+DTEND:20260705T222438Z
+DTSTART:20260705T190342Z
+SUMMARY:Round 5: paiN.A vs RF
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555125@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260725T160000Z
+SUMMARY:Quarterfinal 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580363@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: paiN Academy: 0 | BESTIA Academy: 2\nStream: https://kick.com/cct_cs
+DTEND:20260704T210527Z
+DTSTART:20260704T191805Z
+SUMMARY:Round 4: paiN.A vs BST.A
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555122@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260724T190000Z
+SUMMARY:Round of 16 match 7: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580360@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | MAGICOS: 0\nStream: https://kick.com/cct_cs
+DTEND:20260630T203830Z
+DTSTART:20260630T190414Z
+SUMMARY:Round 2: BST.A vs MAG
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555108@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | Procyon Gaming: 1\nStream: https://kick.com/cct_cs
+DTEND:20260630T011857Z
+DTSTART:20260629T220213Z
+SUMMARY:Round 2: MIBR.A vs PCY
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555105@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | Blitzkrieg: 0\nStream: https://kick.com/cct_cs
+DTEND:20260629T140552Z
+DTSTART:20260629T130621Z
+SUMMARY:Round 2: paiN.A vs BK
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555102@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: MIBR Academy: 1 | Patins da Ferrari: 2\nStream: https://kick.com/cct_cs
+DTEND:20260629T004538Z
+DTSTART:20260628T220438Z
+SUMMARY:Round 1: MIBR.A vs PDAF
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555098@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | ex-Vexa: 1\nStream: https://kick.com/cct_cs
+DTEND:20260627T183619Z
+DTSTART:20260627T164220Z
+SUMMARY:Round 1: GH vs ex-Vexa
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555095@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Imperial: 2 | largadosypelados: 0\nStream: https://kick.com/cct_cs
+DTEND:20260709T195506Z
+DTSTART:20260709T180642Z
+SUMMARY:Semifinal 1: IMP vs LDP
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555159@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260721T190000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580397@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260720T190000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580394@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260719T190000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580391@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | Blitzkrieg: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260715T174914Z
+DTSTART:20260715T164221Z
+SUMMARY:Round 1: GH vs BK
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580374@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: UNO MILLE: 1 | Patins da Ferrari: 2\nStream: https://kick.com/cct_cs
+DTEND:20260707T213130Z
+DTSTART:20260707T191159Z
+SUMMARY:Round of 16 match 7: UNO vs PDAF
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555133@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Keyd: 2 | Game Hunters: 1\nStream: https://kick.com/cct_cs
+DTEND:20260707T005130Z
+DTSTART:20260706T221945Z
+SUMMARY:Round of 16 match 4: Keyd vs GH
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555130@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 1 | MAGICOS: 2\nStream: https://kick.com/cct_cs
+DTEND:20260703T224730Z
+DTSTART:20260703T193627Z
+SUMMARY:Round 4: MW vs MAG
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555119@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260723T220000Z
+SUMMARY:Round of 16 match 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580357@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Yawara Esports: 2 | Red Feet: 0\nStream: https://kick.com/cct_cs
+DTEND:20260702T203423Z
+DTSTART:20260702T191031Z
+SUMMARY:Round 3: YAW vs RF
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555116@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260723T130000Z
+SUMMARY:Round of 16 match 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580354@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | Guara Esports: 0\nStream: https://kick.com/cct_cs
+DTEND:20260701T233545Z
+DTSTART:20260701T220404Z
+SUMMARY:Round 3: paiN.A vs GE
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555113@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 1 | Imperial: 2\nStream: https://kick.com/cct_cs
+DTEND:20260710T001650Z
+DTSTART:20260709T210603Z
+SUMMARY:Grand final: BHE vs IMP
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555161@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260718T220000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580388@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260718T130000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580385@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Patins da Ferrari: 2 | Grêmio Esports: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260717T183315Z
+DTSTART:20260717T162624Z
+SUMMARY:Round 2: PDAF vs Grêmio Esports
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580382@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260726T210000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580368@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Imperial: 2 | ALKA GAMING: 0\nStream: https://kick.com/cct_cs
+DTEND:20260706T154633Z
+DTSTART:20260706T135626Z
+SUMMARY:Round of 16 match 1: IMP vs ALKA
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555127@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260725T220000Z
+SUMMARY:Quarterfinal 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580365@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | Guara Esports: 0\nStream: https://kick.com/cct_cs
+DTEND:20260705T171558Z
+DTSTART:20260705T160317Z
+SUMMARY:Round 5: MIBR.A vs GE
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555124@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260725T130000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580362@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: MIBR Academy: 1 | ex-Vexa: 2\nStream: https://kick.com/cct_cs
+DTEND:20260704T190502Z
+DTSTART:20260704T160829Z
+SUMMARY:Round 4: MIBR.A vs ex-Vexa
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555121@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 1 | Red Feet: 2\nStream: https://kick.com/cct_cs
+DTEND:20260630T183933Z
+DTSTART:20260630T160654Z
+SUMMARY:Round 2: ALKA vs RF
+UID:cs-go-champion-of-champions-tour-series-3-2026-1555107@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260722T190000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580400@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260722T160000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580399@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 3 2026\nMatch Type: Best Of\nResult: Patins da Ferrari: 0 | Fluxo: 2\nStream: https://kick.com/cct_cs
 DTEND:20260708T143740Z
 DTSTART:20260708T130450Z
 SUMMARY:Quarterfinal 4: PDAF vs FX
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555158@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260721T160000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580396@tournamentics
 END:VEVENT
 END:VCALENDAR
