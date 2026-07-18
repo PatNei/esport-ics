@@ -1300,7 +1300,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260719T170000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: ex-MANA vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586972@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1598,8 +1598,8 @@ SUMMARY:Round of 16 match 3: 1WIN vs G1
 UID:cs-go-european-pro-league-series-8-2026-1554026@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | OlyBet SB: 1\nStream: https://kick.com/cct_cs
+DTEND:20260718T133953Z
 DTSTART:20260718T112421Z
 SUMMARY:Elimination match: ex-MANA vs OBSB
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586971@tournamentics
@@ -3043,7 +3043,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260718T150000Z
-SUMMARY:Lower bracket final: PF vs TBD
+SUMMARY:Lower bracket final: PF vs QUA
 UID:cs-go-gluck-yungstar-series-2-2026-1584747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3404,8 +3404,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582169@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nResult: QUAZAR: 2 | Just Players: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260718T134125Z
 DTSTART:20260718T120138Z
 SUMMARY:Lower bracket semifinal: QUA vs JustP
 UID:cs-go-gluck-yungstar-series-2-2026-1584746@tournamentics
