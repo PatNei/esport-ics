@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260718T153000Z
-SUMMARY:Grand final: HERO vs TBD
+SUMMARY:Grand final: HERO vs K27
 UID:cs-go-stake-ranked-episode-3-2026-1578262@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Upper Bracket Quarterfinals 4: NIP vs K27
 UID:cs-go-stake-ranked-episode-3-2026-1578252@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: NIP: 1 | K27: 2\nStream: https://kick.com/starladder
+DTEND:20260718T150839Z
 DTSTART:20260718T120015Z
 SUMMARY:Lower Bracket Final : NIP vs K27
 UID:cs-go-stake-ranked-episode-3-2026-1578261@tournamentics

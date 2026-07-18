@@ -292,7 +292,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260718T153000Z
-SUMMARY:Grand final: HERO vs TBD
+SUMMARY:Grand final: HERO vs K27
 UID:cs-go-stake-ranked-episode-3-2026-1578262@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -576,8 +576,8 @@ SUMMARY:Round 2: BST.A vs MAG
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555108@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: NIP: 1 | K27: 2\nStream: https://kick.com/starladder
+DTEND:20260718T150839Z
 DTSTART:20260718T120015Z
 SUMMARY:Lower Bracket Final : NIP vs K27
 UID:cs-go-stake-ranked-episode-3-2026-1578261@tournamentics
@@ -2879,8 +2879,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-blast-bounty-summer-2026-1593366@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/leniniw
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nResult: Ukraine: 1 | Poland: 2\nStream: https://www.twitch.tv/leniniw
+DTEND:20260718T150749Z
 DTSTART:20260718T130018Z
 SUMMARY:Lower bracket round 3 match 1: UKR vs POL
 UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593382@tournamentics
@@ -3446,9 +3446,9 @@ SUMMARY:Elimination match: BBP vs DNT
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586966@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/deichal
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/deichal
 DURATION:PT2H
-DTSTART:20260718T150000Z
+DTSTART:20260718T150610Z
 SUMMARY:Lower bracket round 3 match 1: ESP vs FIN
 UID:cs-go-esports-nations-cup-west-european-qualifier-2026-1593374@tournamentics
 END:VEVENT
@@ -3589,7 +3589,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260719T140000Z
-SUMMARY:Lower bracket round 4 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 4 match 1: POL vs TBD
 UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593380@tournamentics
 END:VEVENT
 BEGIN:VEVENT
