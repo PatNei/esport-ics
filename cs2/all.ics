@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260718T190000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: PCY vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580387@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -382,7 +382,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260719T090000Z
+DTSTART:20260719T080000Z
 SUMMARY:Lower bracket final: EAC Rising vs TBD
 UID:cs-go-united21-52-2026-1588636@tournamentics
 END:VEVENT
@@ -455,13 +455,6 @@ DURATION:PT2H
 DTSTART:20260726T150000Z
 SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-blast-bounty-summer-2026-1592778@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260718T160000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-4-2026-1580386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -772,11 +765,11 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-blast-bounty-summer-2026-1592777@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260718T130000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-4-2026-1580385@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult:  Gatorian: 0 | BakS eSports: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260705T173334Z
+DTSTART:20260705T155219Z
+SUMMARY:Upper bracket round 1 match 6: GAT vs BAKS
+UID:cs-go-cct-europe-contenders-6-2026-1572135@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -784,13 +777,6 @@ DURATION:PT2H
 DTSTART:20260805T080000Z
 SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582188@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult:  Gatorian: 0 | BakS eSports: 2\nStream: https://kick.com/cct_cs4
-DTEND:20260705T173334Z
-DTSTART:20260705T155219Z
-SUMMARY:Upper bracket round 1 match 6: GAT vs BAKS
-UID:cs-go-cct-europe-contenders-6-2026-1572135@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: GenOne: 2 | Just Players: 0\nStream: https://www.twitch.tv/Mikotohero
@@ -1591,18 +1577,18 @@ SUMMARY:Semifinal 2: VOCA vs REGAIN
 UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577282@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Patins da Ferrari: 2 | Grêmio Esports: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260717T183315Z
-DTSTART:20260717T162624Z
-SUMMARY:Round 2: PDAF vs Grêmio Esports
-UID:cs-go-champion-of-champions-tour-series-4-2026-1580382@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260804T110000Z
 SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582185@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Patins da Ferrari: 2 | Grêmio Esports: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260717T183315Z
+DTSTART:20260717T162624Z
+SUMMARY:Round 2: PDAF vs Grêmio Esports
+UID:cs-go-champion-of-champions-tour-series-4-2026-1580382@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 0 | Al Ahli: 2\nStream: https://kick.com/cct_cs3
@@ -1857,9 +1843,9 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587566@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DESCRIPTION:🔴 LIVE NOW\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
 DURATION:PT2H
-DTSTART:20260718T033000Z
+DTSTART:20260718T033416Z
 SUMMARY:Lower bracket semifinal: MF vs GZ
 UID:cs-go-hyperx-intel-nationals-2026-1576471@tournamentics
 END:VEVENT
@@ -2035,7 +2021,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260719T220000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: PDAF vs ODK
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580392@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2336,7 +2322,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260719T190000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: BST.A vs GH
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580391@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2538,7 +2524,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260720T090000Z
+DTSTART:20260720T080000Z
 SUMMARY:Grand final: ESB vs TBD
 UID:cs-go-united21-52-2026-1588640@tournamentics
 END:VEVENT
@@ -2613,9 +2599,9 @@ SUMMARY:Winners match: BMB vs ENJOY
 UID:cs-go-european-pro-league-series-8-2026-1554011@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DESCRIPTION:🔴 LIVE NOW\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
-DTSTART:20260718T033000Z
+DTSTART:20260718T033459Z
 SUMMARY:Upper bracket final: FLY vs TdU
 UID:cs-go-hyperx-intel-nationals-2026-1576469@tournamentics
 END:VEVENT
@@ -2672,7 +2658,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260719T160000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: CHAMA vs MW
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580390@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3127,7 +3113,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260719T130000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Grêmio Esports vs ALKA
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580389@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3470,7 +3456,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260718T220000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: RF vs MAG
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580388@tournamentics
 END:VEVENT
 BEGIN:VEVENT
