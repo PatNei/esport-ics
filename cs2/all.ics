@@ -310,9 +310,9 @@ SUMMARY:BIG.A vs DNT
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260718T120000Z
+DTSTART:20260718T120924Z
 SUMMARY:Lower bracket round 2 match 3: DNK vs PRT
 UID:cs-go-esports-nations-cup-west-european-qualifier-2026-1593372@tournamentics
 END:VEVENT
@@ -2172,8 +2172,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582172@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/leniniw
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nResult: Ukraine: 2 | Estonia: 0\nStream: https://www.twitch.tv/leniniw
+DTEND:20260718T120515Z
 DTSTART:20260718T111033Z
 SUMMARY:Lower bracket round 2 match 1: UKR vs EST
 UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593384@tournamentics
@@ -2882,7 +2882,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260718T140000Z
-SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 1: UKR vs TBD
 UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593382@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3404,9 +3404,9 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582169@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck Yungstar - Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
-DTSTART:20260718T120000Z
+DTSTART:20260718T120138Z
 SUMMARY:Lower bracket semifinal: QUA vs JustP
 UID:cs-go-gluck-yungstar-series-2-2026-1584746@tournamentics
 END:VEVENT
