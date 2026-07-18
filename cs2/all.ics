@@ -3084,8 +3084,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/enc
 DURATION:PT2H
-DTSTART:20260718T150000Z
-SUMMARY:Lower bracket round 3 match 2: DNK vs TBD
+DTSTART:20260718T141500Z
+SUMMARY:Lower bracket round 3 match 2: DNK vs SWE
 UID:cs-go-esports-nations-cup-west-european-qualifier-2026-1593375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3796,15 +3796,15 @@ SUMMARY:Round of 16 match 8: CS vs WBT
 UID:cs-go-european-pro-league-series-8-2026-1554031@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260718T140000Z
+DTSTART:20260718T140743Z
 SUMMARY:Winners match: EJ vs BIG.A
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586965@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nResult: Sweden: 2 | Iceland: 0\nStream: https://www.twitch.tv/esportstudion
+DTEND:20260718T140839Z
 DTSTART:20260718T121535Z
 SUMMARY:Lower bracket round 2 match 4: SWE vs ISL
 UID:cs-go-esports-nations-cup-west-european-qualifier-2026-1593373@tournamentics
