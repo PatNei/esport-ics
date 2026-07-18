@@ -1510,7 +1510,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260719T230000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: FXW7 vs TBD
 UID:cs-go-betboom-rush-b-summit-4-2026-1580353@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1797,7 +1797,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260718T210000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: BHE vs TBD
 UID:cs-go-betboom-rush-b-summit-4-2026-1580352@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2879,8 +2879,8 @@ SUMMARY:Round 4: GH vs RF
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555123@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 0 | Fluxo W7M: 2\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260718T001340Z
 DTSTART:20260717T220112Z
 SUMMARY:Upper bracket final: BHE vs FXW7
 UID:cs-go-betboom-rush-b-summit-4-2026-1580349@tournamentics
@@ -2942,9 +2942,9 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587574@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DESCRIPTION:🔴 LIVE NOW\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
-DTSTART:20260718T000000Z
+DTSTART:20260718T000812Z
 SUMMARY:Upper bracket semifinal 1: TdU vs GZ
 UID:cs-go-hyperx-intel-nationals-2026-1576468@tournamentics
 END:VEVENT
@@ -3264,9 +3264,9 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587573@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
 DURATION:PT2H
-DTSTART:20260718T000000Z
+DTSTART:20260718T000714Z
 SUMMARY:Upper bracket semifinal 2: FLY vs MF
 UID:cs-go-hyperx-intel-nationals-2026-1576467@tournamentics
 END:VEVENT
