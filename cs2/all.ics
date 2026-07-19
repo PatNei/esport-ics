@@ -898,6 +898,13 @@ SUMMARY:Round 2: ALKA vs RF
 UID:cs-go-champion-of-champions-tour-series-3-2026-1555107@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260722T130000Z
+SUMMARY:INF vs NEM
+UID:cs-go-starladder-i-league-starseries-fall-2026-1595602@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Donstu Esports: 1\nStream: https://kick.com/nodwin_cs2
 DTEND:20260713T200008Z
 DTSTART:20260713T172545Z
@@ -1211,6 +1218,13 @@ DURATION:PT2H
 DTSTART:20260723T080000Z
 SUMMARY:3rd Place match: TBD vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554039@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260722T100000Z
+SUMMARY:AUR vs K27
+UID:cs-go-starladder-i-league-starseries-fall-2026-1595601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 1 | BIG Academy: 2\nStream: https://kick.com/nodwin_cs2
@@ -2098,7 +2112,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260721T103000Z
-SUMMARY:Quarterfinal 4: 33 vs TBD
+SUMMARY:Quarterfinal 4: 33 vs CS
 UID:cs-go-european-pro-league-series-8-2026-1554036@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3824,8 +3838,8 @@ SUMMARY:Entropy vs MISA
 UID:cs-go-nodwin-clutch-series-10-2026-1582145@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 2 | WBT: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260719T131413Z
 DTSTART:20260719T112706Z
 SUMMARY:Round of 16 match 8: CS vs WBT
 UID:cs-go-european-pro-league-series-8-2026-1554031@tournamentics

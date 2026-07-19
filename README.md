@@ -241,6 +241,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode
 </details>
 
 <details>
+<summary>StarLadder StarSeries</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/StarladderStarseries.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/StarladderStarseries.ics
+```
+
+---
+
+### Fall 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/Fall2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/Fall2026.ics
+```
+
+</details>
+
+<details>
 <summary>Thunderpick World Championship</summary>
 
 ### Full Schedule
