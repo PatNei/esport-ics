@@ -2,6 +2,41 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260802T180000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596534@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260731T180000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596531@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260801T180000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596527@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260728T210000Z
+SUMMARY:Upper bracket quarterfinal 4: IMP vs BST
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596524@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260728T150000Z
+SUMMARY:Upper bracket quarterfinal 1: MIBR vs FXW7
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596521@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260726T160000Z
@@ -58,11 +93,39 @@ SUMMARY:AST vs FOKUS
 UID:cs-go-starladder-i-league-starseries-fall-2026-1595603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
-DTSTART:20260726T130000Z
-SUMMARY:Semifinal 1: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-fall-2026-1596471@tournamentics
+DTSTART:20260801T210000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596533@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260729T210000Z
+SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596529@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260730T210000Z
+SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596530@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260730T180000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596526@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260729T150000Z
+SUMMARY:Upper bracket quarterfinal 3: SHIN vs GLS
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596523@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -70,6 +133,13 @@ DURATION:PT2H
 DTSTART:20260725T130000Z
 SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-fall-2026-1596467@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260726T130000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-fall-2026-1596471@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
@@ -119,6 +189,34 @@ DURATION:PT2H
 DTSTART:20260722T130000Z
 SUMMARY:INF vs NEM
 UID:cs-go-starladder-i-league-starseries-fall-2026-1595602@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260731T210000Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596532@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260802T210000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596528@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260729T180000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596525@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DURATION:PT2H
+DTSTART:20260728T180000Z
+SUMMARY:Upper bracket quarterfinal 2: TdP vs LDP
+UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596522@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
