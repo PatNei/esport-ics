@@ -220,6 +220,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/SouthAm
 </details>
 
 <details>
+<summary>Stake Pulse</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakePulse/StakePulse.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakePulse/StakePulse.ics
+```
+
+---
+
+### Beat I 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakePulse/BeatI2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakePulse/BeatI2026.ics
+```
+
+</details>
+
+<details>
 <summary>Stake Ranked</summary>
 
 ### Full Schedule
