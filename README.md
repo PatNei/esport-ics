@@ -75,6 +75,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series52026.ics
 ```
 
+### Series #6 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series62026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series62026.ics
+```
+
 </details>
 
 ## C Tier
