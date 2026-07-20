@@ -928,7 +928,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260720T110000Z
+DTSTART:20260720T111500Z
 SUMMARY:BG vs Mai Tai
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586974@tournamentics
 END:VEVENT
@@ -1031,7 +1031,7 @@ SUMMARY:Winners match: G1 vs Just Players
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582123@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260726T170000Z
 SUMMARY:TBD vs TBD
@@ -1416,7 +1416,7 @@ SUMMARY:Atreides vs Just Players
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582122@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260726T140000Z
 SUMMARY:TBD vs TBD
@@ -1780,7 +1780,7 @@ SUMMARY:G1 vs Entropy
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582121@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260726T110000Z
 SUMMARY:TBD vs TBD
@@ -2158,7 +2158,7 @@ SUMMARY:Decider match: TLR vs QUA
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582120@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260726T080000Z
 SUMMARY:TBD vs TBD
@@ -3362,8 +3362,8 @@ SUMMARY:Upper bracket round 2 match 3: POL vs SRB
 UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593394@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: eSuba: 2 | EAC Rising: 1\nStream: https://kick.com/united21_en
+DTEND:20260720T104822Z
 DTSTART:20260720T081706Z
 SUMMARY:Grand final: ESB vs EAC Rising
 UID:cs-go-united21-52-2026-1588640@tournamentics
