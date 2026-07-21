@@ -2,39 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260723T110000Z
-SUMMARY:Elimination match: WAL vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596461@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260802T180000Z
 SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596534@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260722T100000Z
-SUMMARY:Winners match: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596457@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260722T160000Z
-SUMMARY:NTR vs ECHO
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595608@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260722T160000Z
-SUMMARY:Winners match: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596454@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
@@ -51,25 +23,11 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596527@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: magic: 2 | Walczaki: 0\nStream: https://kick.com/starladder
-DTEND:20260721T115341Z
-DTSTART:20260721T101651Z
-SUMMARY:MGC vs WAL
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595605@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260728T210000Z
 SUMMARY:Upper bracket quarterfinal 4: IMP vs BST
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596524@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260722T130000Z
-SUMMARY:INF vs NEM
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
@@ -114,41 +72,6 @@ SUMMARY:Upper bracket quarterfinal 2: LAG vs MARS
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596576@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260725T160000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596469@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260725T130000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596466@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260723T133000Z
-SUMMARY:Winners match: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596463@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260724T160000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596459@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260721T160000Z
-SUMMARY:Winners match: MGC vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596460@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260801T210000Z
@@ -161,20 +84,6 @@ DURATION:PT2H
 DTSTART:20260729T210000Z
 SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596529@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260724T130000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596456@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260722T130000Z
-SUMMARY:NIP vs 100T
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595607@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
@@ -191,25 +100,11 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596526@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260721T131128Z
-SUMMARY:HOTU vs HERO
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595604@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260729T150000Z
 SUMMARY:Upper bracket quarterfinal 3: SHIN vs GLS
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596523@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260722T100000Z
-SUMMARY:AUR vs K27
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
@@ -247,48 +142,6 @@ SUMMARY:Upper bracket quarterfinal 1: NRG vs IOWA
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596575@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260726T160000Z
-SUMMARY:Semifinal 2: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596472@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260725T160000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596468@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260724T130000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596465@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260724T160000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596462@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260723T160000Z
-SUMMARY:Elimination match: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596458@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260723T160000Z
-SUMMARY:Elimination match: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596455@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260731T210000Z
@@ -303,25 +156,11 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596528@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260721T131231Z
-SUMMARY:3DMAX vs M8
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595606@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260729T180000Z
 SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596525@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260721T160000Z
-SUMMARY:AST vs FOKUS
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
@@ -357,26 +196,5 @@ DURATION:PT2H
 DTSTART:20260729T190000Z
 SUMMARY:Upper bracket quarterfinal 3: CCE vs SportsBetExpert
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596577@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260726T130000Z
-SUMMARY:Semifinal 1: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596471@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260725T130000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596467@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
-DTSTART:20260723T133000Z
-SUMMARY:Elimination match: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596464@tournamentics
 END:VEVENT
 END:VCALENDAR
