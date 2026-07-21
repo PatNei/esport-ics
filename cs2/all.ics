@@ -1902,7 +1902,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260722T103000Z
-SUMMARY:Semifinal 2: EF vs TBD
+SUMMARY:Semifinal 2: EF vs CS
 UID:cs-go-european-pro-league-series-8-2026-1554038@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2683,8 +2683,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596628@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: BET-M 33: 0 | CYBERSHOKE Esports: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260721T124236Z
 DTSTART:20260721T105235Z
 SUMMARY:Quarterfinal 4: 33 vs CS
 UID:cs-go-european-pro-league-series-8-2026-1554036@tournamentics
