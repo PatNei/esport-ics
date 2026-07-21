@@ -9,6 +9,13 @@ SUMMARY:Lower bracket round 3 match 2: DNK vs SWE
 UID:cs-go-esports-nations-cup-west-european-qualifier-2026-1593375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nResult: Ukraine: 1 | Romania: 2\nStream: No official stream linked
+DTEND:20260717T175000Z
+DTSTART:20260717T154000Z
+SUMMARY:Upper bracket round 2 match 4: UKR vs ROU
+UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593395@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nResult: Denmark: 2 | Portugal: 0\nStream: No official stream linked
 DTEND:20260718T134515Z
 DTSTART:20260718T120924Z
@@ -21,13 +28,6 @@ DTEND:20260719T140445Z
 DTSTART:20260719T110740Z
 SUMMARY:Upper bracket round 3 match 1: DEU vs FRA
 UID:cs-go-esports-nations-cup-west-european-qualifier-2026-1593368@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nResult: Ukraine: 1 | Romania: 2\nStream: No official stream linked
-DTEND:20260717T175000Z
-DTSTART:20260717T154000Z
-SUMMARY:Upper bracket round 2 match 4: UKR vs ROU
-UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593395@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nResult: Kosovo: 2 | Latvia: 0\nStream: No official stream linked
@@ -44,18 +44,18 @@ SUMMARY:Lower bracket round 2 match 2: POL vs CZE
 UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nResult: Ukraine: 1 | Poland: 2\nStream: https://www.twitch.tv/leniniw
-DTEND:20260718T150749Z
-DTSTART:20260718T130018Z
-SUMMARY:Lower bracket round 3 match 1: UKR vs POL
-UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593382@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nResult: Kosovo: 0 | Lithuania: 2\nStream: https://www.twitch.tv/Trottah
 DTEND:20260719T124255Z
 DTSTART:20260719T111044Z
 SUMMARY:Upper bracket round 3 match 1: KOS vs LTU
 UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593378@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nResult: Ukraine: 1 | Poland: 2\nStream: https://www.twitch.tv/leniniw
+DTEND:20260718T150749Z
+DTSTART:20260718T130018Z
+SUMMARY:Lower bracket round 3 match 1: UKR vs POL
+UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593382@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nResult: Finland: 0 | Belgium: 2\nStream: https://www.twitch.tv/enc
@@ -149,18 +149,18 @@ SUMMARY:Upper bracket round 3 match 2: United Kingdom vs BEL
 UID:cs-go-esports-nations-cup-west-european-qualifier-2026-1593369@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nResult: Finland: 2 | Netherlands: 1\nStream: https://www.twitch.tv/allub
-DTEND:20260718T144901Z
-DTSTART:20260718T121221Z
-SUMMARY:Lower bracket round 2 match 1: FIN vs NLD
-UID:cs-go-esports-nations-cup-west-european-qualifier-2026-1593370@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nResult: Lithuania: 2 | Bulgaria: 0\nStream: No official stream linked
 DTEND:20260717T185000Z
 DTSTART:20260717T173000Z
 SUMMARY:Upper bracket round 2 match 2: LTU vs BGR
 UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593393@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nResult: Finland: 2 | Netherlands: 1\nStream: https://www.twitch.tv/allub
+DTEND:20260718T144901Z
+DTSTART:20260718T121221Z
+SUMMARY:Lower bracket round 2 match 1: FIN vs NLD
+UID:cs-go-esports-nations-cup-west-european-qualifier-2026-1593370@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - East European Qualifier 2026\nMatch Type: Best Of\nResult: Bulgaria: 2 | North Macedonia: 0\nStream: https://www.twitch.tv/niku

@@ -203,13 +203,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/ResShow
 
 ---
 
-### Europe Fall 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/EuropeFall2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/EuropeFall2026.ics
-```
-
 ### South America Fall 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/SouthAmericaFall2026.ics)
 
