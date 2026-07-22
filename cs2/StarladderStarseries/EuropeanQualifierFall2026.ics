@@ -18,14 +18,14 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
-DTSTART:20260722T160000Z
+DTSTART:20260722T161500Z
 SUMMARY:NTR vs ECHO
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595608@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
-DTSTART:20260722T160000Z
+DTSTART:20260722T161500Z
 SUMMARY:Winners match: AUR vs TBD
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596454@tournamentics
 END:VEVENT
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260723T130000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: NIP vs TBD
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596463@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -86,8 +86,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596456@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: NIP: 2 | 100 Thieves: 1\nStream: https://kick.com/starladder1
+DTEND:20260722T160343Z
 DTSTART:20260722T130524Z
 SUMMARY:NIP vs 100T
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595607@tournamentics
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260723T130000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: 100T vs TBD
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596464@tournamentics
 END:VEVENT
 END:VCALENDAR
