@@ -207,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260722T190000Z
+DTSTART:20260722T191000Z
 SUMMARY:Round 5: PCY vs MAG
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580400@tournamentics
 END:VEVENT
@@ -247,8 +247,8 @@ SUMMARY:Round of 16 match 1: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580354@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Grêmio Esports: 1 | paiN Academy: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260722T185209Z
 DTSTART:20260722T160225Z
 SUMMARY:Round 5: Grêmio Esports vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580399@tournamentics
