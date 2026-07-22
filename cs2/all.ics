@@ -100,18 +100,18 @@ SUMMARY:IC.A vs EJ
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586976@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 0 | ???: 1\nStream: No official stream linked
-DTEND:20260721T002059Z
-DTSTART:20260720T230159Z
-SUMMARY:BST.A vs ???
-UID:cs-go-gamers-club-liga-serie-a-july-2026-1593359@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260729T210000Z
 SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596529@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 0 | ???: 1\nStream: No official stream linked
+DTEND:20260721T002059Z
+DTSTART:20260720T230159Z
+SUMMARY:BST.A vs ???
+UID:cs-go-gamers-club-liga-serie-a-july-2026-1593359@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Misa Esports: 0 | Entropy: 2\nStream: https://kick.com/nodwin_cs2
@@ -177,13 +177,6 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587560@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: maybe: 1 | Tricksters: 2\nStream: https://kick.com/cct_cs4
-DTEND:20260708T214150Z
-DTSTART:20260708T183534Z
-SUMMARY:Lower Bracket Round  2 Match 1: maybe vs Tricksters
-UID:cs-go-cct-europe-contenders-6-2026-1577258@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260729T110000Z
@@ -203,13 +196,6 @@ DTEND:20260718T205514Z
 DTSTART:20260718T192448Z
 SUMMARY:Round 3: PCY vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580387@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: maybe: 2 | Arch: 1\nStream: https://kick.com/cct_cs3
-DTEND:20260704T205609Z
-DTSTART:20260704T190131Z
-SUMMARY:Upper bracket round 1 match 8: maybe vs ARCH
-UID:cs-go-cct-europe-contenders-6-2026-1572137@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | Entropy: 0\nStream: https://kick.com/united21_en
@@ -385,13 +371,6 @@ DURATION:PT2H
 DTSTART:20260728T220000Z
 SUMMARY:Upper bracket quarterfinal 2: LAG vs MARS
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596576@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: LPH Gaming: 2 | BakS eSports: 1\nStream: https://kick.com/cct_cs4
-DTEND:20260706T215049Z
-DTSTART:20260706T183241Z
-SUMMARY:Upper bracket quarterfinal 3: LPH vs BAKS
-UID:cs-go-cct-europe-contenders-6-2026-1575318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 | megoshort: 0\nStream: https://kick.com/nodwin_cs2
@@ -597,13 +576,6 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582189@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: TrafficPills Esports: 1 | TheBoys: 2\nStream: https://kick.com/cct_cs4
-DTEND:20260705T214205Z
-DTSTART:20260705T183508Z
-SUMMARY:Upper bracket round 1 match 7: TrafficPills Esports vs TheBoys
-UID:cs-go-cct-europe-contenders-6-2026-1572136@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Atreides: 0\nStream: No official stream linked
 DTEND:20260712T184957Z
 DTSTART:20260712T170143Z
@@ -749,13 +721,6 @@ DURATION:PT2H
 DTSTART:20260728T190000Z
 SUMMARY:Upper bracket quarterfinal 1: NRG vs IOWA
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596575@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: mellren: 2 | Next UP: 1\nStream: https://kick.com/cct_cs3
-DTEND:20260706T233502Z
-DTSTART:20260706T201624Z
-SUMMARY:Upper bracket quarterfinal 1: mellren vs NXT
-UID:cs-go-cct-europe-contenders-6-2026-1575317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Honvéd: 0 | Entropy: 2\nStream: https://kick.com/nodwin_cs2
@@ -954,13 +919,6 @@ SUMMARY:Winners match: WBT vs Just Players
 UID:cs-go-european-pro-league-series-8-2026-1554006@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: mellren: 2 | Tricksters: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260712T175655Z
-DTSTART:20260712T153546Z
-SUMMARY:Lower bracket final: mellren vs Tricksters
-UID:cs-go-cct-europe-contenders-6-2026-1575328@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260805T080000Z
@@ -987,13 +945,6 @@ DURATION:PT2H
 DTSTART:20260726T123000Z
 SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-blast-bounty-summer-2026-1592777@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult:  Gatorian: 0 | BakS eSports: 2\nStream: https://kick.com/cct_cs4
-DTEND:20260705T173334Z
-DTSTART:20260705T155219Z
-SUMMARY:Upper bracket round 1 match 6: GAT vs BAKS
-UID:cs-go-cct-europe-contenders-6-2026-1572135@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -1148,13 +1099,6 @@ DTEND:20260721T180253Z
 DTSTART:20260721T171422Z
 SUMMARY:UUST vs SE
 UID:cs-go-esea-advanced-europe-58-2026-1597623@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 2 | Diamant Esports: 1\nStream: https://kick.com/cct_cs4
-DTEND:20260706T175637Z
-DTSTART:20260706T153053Z
-SUMMARY:Lower bracket round 1 match 2: JUMBO vs Diamant Esports
-UID:cs-go-cct-europe-contenders-6-2026-1575316@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -1332,13 +1276,6 @@ SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596585@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Tricksters: 2 | TheBoys: 1\nStream: https://kick.com/cct_cs3
-DTEND:20260711T213808Z
-DTSTART:20260711T182012Z
-SUMMARY:Lower bracket semifinal: Tricksters vs TheBoys
-UID:cs-go-cct-europe-contenders-6-2026-1575327@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260804T170000Z
@@ -1379,13 +1316,6 @@ DURATION:PT2H
 DTSTART:20260804T170000Z
 SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582187@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: banda chuya: 0 | LPH Gaming: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260705T200855Z
-DTSTART:20260705T183228Z
-SUMMARY:Upper bracket round 1 match 5: banda chuya vs LPH
-UID:cs-go-cct-europe-contenders-6-2026-1572134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Atreides: 0 | Just Players: 2\nStream: https://www.twitch.tv/Mikotohero
@@ -1535,13 +1465,6 @@ SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587557@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Basement Bobs: 1 | Tricksters: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260706T194530Z
-DTSTART:20260706T153052Z
-SUMMARY:Lower bracket round 1 match 1: BB vs Tricksters
-UID:cs-go-cct-europe-contenders-6-2026-1575315@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nResult: Ground Zero: 1 | Arcade Esports: 0\nStream: https://www.twitch.tv/dfragtv_cs2
 DTEND:20260717T072709Z
 DTSTART:20260717T064629Z
@@ -1661,18 +1584,18 @@ SUMMARY:Decider match: ex-MANA vs MISA
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586972@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | K27: 2\nStream: https://kick.com/starladder
-DTEND:20260717T185646Z
-DTSTART:20260717T172415Z
-SUMMARY:Lower Bracket Semifinal : 3DMAX vs K27
-UID:cs-go-stake-ranked-episode-3-2026-1578259@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260729T180000Z
 SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596525@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | K27: 2\nStream: https://kick.com/starladder
+DTEND:20260717T185646Z
+DTSTART:20260717T172415Z
+SUMMARY:Lower Bracket Semifinal : 3DMAX vs K27
+UID:cs-go-stake-ranked-episode-3-2026-1578259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nResult: United Kingdom: 2 | Belgium: 0\nStream: https://www.twitch.tv/hereliesjeff
@@ -1694,13 +1617,6 @@ DURATION:PT2H
 DTSTART:20260731T010000Z
 SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596584@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: LPH Gaming: 0 | mellren: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260712T200750Z
-DTSTART:20260712T183220Z
-SUMMARY:Grand final: LPH vs mellren
-UID:cs-go-cct-europe-contenders-6-2026-1575326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -1743,13 +1659,6 @@ DURATION:PT2H
 DTSTART:20260804T140000Z
 SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582186@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: PURE: 2 | Diamant Esports: 0\nStream: https://kick.com/cct_cs4
-DTEND:20260704T170201Z
-DTSTART:20260704T153733Z
-SUMMARY:Upper bracket round 1 match 4: PURE vs Diamant Esports
-UID:cs-go-cct-europe-contenders-6-2026-1572133@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: GenOne: 2 | Entropy: 0\nStream: https://www.twitch.tv/iamfusiion
@@ -2018,18 +1927,18 @@ SUMMARY:Elimination match: ex-MANA vs OBSB
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586971@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: K27: 2 | Phantom: 0\nStream: https://kick.com/starladder
-DTEND:20260717T133413Z
-DTSTART:20260717T120153Z
-SUMMARY:Lower Bracket Quarterfinals 2: K27 vs PHA
-UID:cs-go-stake-ranked-episode-3-2026-1578258@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260728T210000Z
 SUMMARY:Upper bracket quarterfinal 4: IMP vs BST
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596524@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: K27: 2 | Phantom: 0\nStream: https://kick.com/starladder
+DTEND:20260717T133413Z
+DTSTART:20260717T120153Z
+SUMMARY:Lower Bracket Quarterfinals 2: K27 vs PHA
+UID:cs-go-stake-ranked-episode-3-2026-1578258@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nResult: Germany: 1 | France: 2\nStream: https://www.twitch.tv/enc
@@ -2051,13 +1960,6 @@ DURATION:PT2H
 DTSTART:20260730T010000Z
 SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596583@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: LPH Gaming: 2 | mellren: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260711T174338Z
-DTSTART:20260711T155252Z
-SUMMARY:Upper bracket final: LPH vs mellren
-UID:cs-go-cct-europe-contenders-6-2026-1575325@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -2121,13 +2023,6 @@ DTEND:20260713T154655Z
 DTSTART:20260713T130527Z
 SUMMARY:Decider match: TLR vs QUA
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582120@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 0 | Al Ahli: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260704T171551Z
-DTSTART:20260704T154702Z
-SUMMARY:Upper bracket round 1 match 3: JUMBO vs Al Ahli
-UID:cs-go-cct-europe-contenders-6-2026-1572132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -2445,13 +2340,6 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596582@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: LPH Gaming: 2 | TheBoys: 0\nStream: https://kick.com/cct_cs4
-DTEND:20260709T205347Z
-DTSTART:20260709T183205Z
-SUMMARY:Upper bracket semifinal 2: LPH vs TheBoys
-UID:cs-go-cct-europe-contenders-6-2026-1575324@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260801T140000Z
@@ -2513,13 +2401,6 @@ DURATION:PT2H
 DTSTART:20260804T080000Z
 SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582184@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Tricksters: 1 | Next UP: 2\nStream: https://kick.com/cct_cs4
-DTEND:20260704T211830Z
-DTSTART:20260704T184551Z
-SUMMARY:Upper bracket round 1 match 2: Tricksters vs NXT
-UID:cs-go-cct-europe-contenders-6-2026-1572131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
@@ -2739,13 +2620,6 @@ SUMMARY:Upper bracket round 2 match 2: FRA vs DNK
 UID:cs-go-esports-nations-cup-west-european-qualifier-2026-1593389@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: TheBoys: 2 | banda chuya: 1\nStream: https://kick.com/cct_cs3
-DTEND:20260710T204942Z
-DTSTART:20260710T183357Z
-SUMMARY:Lower Bracket Quarterfinals 2: TheBoys vs banda chuya
-UID:cs-go-cct-europe-contenders-6-2026-1580314@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: WW Team: 1 | Just Players: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260716T104622Z
 DTSTART:20260716T080341Z
@@ -2753,18 +2627,18 @@ SUMMARY:Round of 16 match 1: WW vs JustP
 UID:cs-go-european-pro-league-series-8-2026-1554024@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: NIP: 2 | Gentle Mates: 0\nStream: https://kick.com/starladder
-DTEND:20260716T161035Z
-DTSTART:20260716T143344Z
-SUMMARY:Upper Bracket Semifinals 2: NIP vs M8
-UID:cs-go-stake-ranked-episode-3-2026-1578256@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260728T180000Z
 SUMMARY:Upper bracket quarterfinal 2: TdP vs LDP
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596522@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: NIP: 2 | Gentle Mates: 0\nStream: https://kick.com/starladder
+DTEND:20260716T161035Z
+DTSTART:20260716T143344Z
+SUMMARY:Upper Bracket Semifinals 2: NIP vs M8
+UID:cs-go-stake-ranked-episode-3-2026-1578256@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Honvéd: 1\nStream: https://kick.com/cct_cs
@@ -2807,13 +2681,6 @@ DTEND:20260721T145638Z
 DTSTART:20260721T141832Z
 SUMMARY:HEC vs IC.A
 UID:cs-go-esea-advanced-europe-58-2026-1597619@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: mellren: 2 | PURE: 1\nStream: https://kick.com/cct_cs3
-DTEND:20260709T214023Z
-DTSTART:20260709T183325Z
-SUMMARY:Upper bracket semifinal 1: mellren vs PURE
-UID:cs-go-cct-europe-contenders-6-2026-1575323@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -3117,13 +2984,6 @@ SUMMARY:RED.A vs MW
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1591791@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: PURE: 0 | Tricksters: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260710T172859Z
-DTSTART:20260710T153858Z
-SUMMARY:Lower Bracket Quarterfinals 1: PURE vs Tricksters
-UID:cs-go-cct-europe-contenders-6-2026-1580313@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: Honvéd: 0 | GenOne: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260714T125756Z
 DTSTART:20260714T103818Z
@@ -3131,18 +2991,18 @@ SUMMARY:Decider match: Honvéd vs G1
 UID:cs-go-european-pro-league-series-8-2026-1554023@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: Heroic: 2 | Phantom: 1\nStream: https://kick.com/starladder
-DTEND:20260716T194819Z
-DTSTART:20260716T163101Z
-SUMMARY:Upper Bracket Semifinals 1: HERO vs PHA
-UID:cs-go-stake-ranked-episode-3-2026-1578255@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260728T150000Z
 SUMMARY:Upper bracket quarterfinal 1: MIBR vs FXW7
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596521@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: Heroic: 2 | Phantom: 1\nStream: https://kick.com/starladder
+DTEND:20260716T194819Z
+DTSTART:20260716T163101Z
+SUMMARY:Upper Bracket Semifinals 1: HERO vs PHA
+UID:cs-go-stake-ranked-episode-3-2026-1578255@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nResult: ROUNDS: 0 | Mai Tai: 2\nStream: https://kick.com/cct_cs
@@ -3164,13 +3024,6 @@ DURATION:PT2H
 DTSTART:20260730T220000Z
 SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596580@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: TheBoys: 2 | maybe: 0\nStream: https://kick.com/cct_cs4
-DTEND:20260707T203153Z
-DTSTART:20260707T183515Z
-SUMMARY:Upper bracket quarterfinal 4: TheBoys vs maybe
-UID:cs-go-cct-europe-contenders-6-2026-1575322@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -3376,13 +3229,6 @@ SUMMARY:LPH vs PSN.A
 UID:cs-go-united21-52-2026-1568958@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Arch: 2 | Next UP: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260708T172829Z
-DTSTART:20260708T154631Z
-SUMMARY:Lower Bracket Round  2 Match 4: ARCH vs NXT
-UID:cs-go-cct-europe-contenders-6-2026-1577261@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nResult: ODDIK: 1 | Rush: 0\nStream: No official stream linked
 DTEND:20260714T211448Z
 DTSTART:20260714T202548Z
@@ -3542,13 +3388,6 @@ DURATION:PT2H
 DTSTART:20260801T100000Z
 SUMMARY:BCA vs TLR
 UID:cs-go-stake-pulse-beat-i-2026-1596595@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Al Ahli: 1 | PURE: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260707T212705Z
-DTSTART:20260707T184346Z
-SUMMARY:Upper bracket quarterfinal 2: Al Ahli vs PURE
-UID:cs-go-cct-europe-contenders-6-2026-1575321@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -3782,13 +3621,6 @@ SUMMARY:Decider match: VIT.A vs ADN
 UID:cs-go-united21-52-2026-1568957@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: banda chuya: 2 | Al Ahli: 1\nStream: https://kick.com/cct_cs3
-DTEND:20260708T211201Z
-DTSTART:20260708T182851Z
-SUMMARY:Lower Bracket Round  2 Match 3: banda chuya vs Al Ahli
-UID:cs-go-cct-europe-contenders-6-2026-1577260@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260729T140000Z
@@ -3808,13 +3640,6 @@ DURATION:PT2H
 DTSTART:20260806T080000Z
 SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582192@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: banda chuya: 2 | Arch: 0\nStream: https://kick.com/cct_cs4
-DTEND:20260709T173159Z
-DTSTART:20260709T154139Z
-SUMMARY:Lower bracket round 3 match 2: banda chuya vs ARCH
-UID:cs-go-cct-europe-contenders-6-2026-1578202@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Guara Esports: 1 | METANOIA WOLVES: 2\nStream: https://kick.com/cct_cs3
@@ -3948,13 +3773,6 @@ DTEND:20260714T141759Z
 DTSTART:20260714T110355Z
 SUMMARY:Upper bracket quarterfinal 4: ESB vs MISA
 UID:cs-go-united21-52-2026-1584701@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: TrafficPills Esports: 0 | Arch: 2\nStream: https://kick.com/cct_cs4
-DTEND:20260707T174012Z
-DTSTART:20260707T154312Z
-SUMMARY:Lower bracket round 1 match 4: TrafficPills Esports vs ARCH
-UID:cs-go-cct-europe-contenders-6-2026-1575320@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -4202,13 +4020,6 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582191@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Tricksters: 2 | BakS eSports: 1\nStream: https://kick.com/cct_cs3
-DTEND:20260709T181558Z
-DTSTART:20260709T154502Z
-SUMMARY:Lower bracket round 3 match 1: Tricksters vs BAKS
-UID:cs-go-cct-europe-contenders-6-2026-1578201@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Brute: 2 | Inner Circle Academy: 0\nStream: https://www.twitch.tv/iamfusiion
 DTEND:20260713T145424Z
 DTSTART:20260713T130258Z
@@ -4375,13 +4186,6 @@ DURATION:PT2H
 DTSTART:20260731T140000Z
 SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587561@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: BakS eSports: 2 | JUMBO TEAM: 0\nStream: https://kick.com/cct_cs4
-DTEND:20260708T170701Z
-DTSTART:20260708T153843Z
-SUMMARY:Lower Bracket Round  2 Match 2: BAKS vs JUMBO
-UID:cs-go-cct-europe-contenders-6-2026-1577259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Dark Moon: 1 | Strael-Bora: 0\nStream: No official stream linked
@@ -4557,13 +4361,6 @@ DURATION:PT2H
 DTSTART:20260802T100000Z
 SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587572@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: banda chuya: 2 |  Gatorian: 1\nStream: https://kick.com/cct_cs3
-DTEND:20260707T182741Z
-DTSTART:20260707T154315Z
-SUMMARY:Lower bracket round 1 match 3: banda chuya vs GAT
-UID:cs-go-cct-europe-contenders-6-2026-1575319@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: HyperX & Intel Nationals - 2026\nMatch Type: Best Of\nResult: FlyQuest: 2 | Ground Zero: 0\nStream: https://www.twitch.tv/dfragtv
