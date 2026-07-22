@@ -1663,7 +1663,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
-DTSTART:20260722T161500Z
+DTSTART:20260722T163000Z
 SUMMARY:NTR vs ECHO
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595608@tournamentics
 END:VEVENT
@@ -2126,7 +2126,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260723T160000Z
-SUMMARY:Elimination match: K27 vs TBD
+SUMMARY:Elimination match: K27 vs INF
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596455@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2186,9 +2186,9 @@ SUMMARY:FRT vs XI
 UID:cs-go-esea-advanced-europe-58-2026-1599203@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260722T160000Z
+DTSTART:20260722T161636Z
 SUMMARY:WBT vs OBOYS
 UID:cs-go-esea-advanced-europe-58-2026-1597620@tournamentics
 END:VEVENT
@@ -2475,8 +2475,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
-DTSTART:20260722T161500Z
-SUMMARY:Winners match: AUR vs TBD
+DTSTART:20260722T163000Z
+SUMMARY:Winners match: AUR vs NEM
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596454@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3866,8 +3866,8 @@ SUMMARY:BW vs MOUZ.N
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582127@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Infinite: 1 | Team Nemesis: 2\nStream: https://kick.com/starladder
+DTEND:20260722T161544Z
 DTSTART:20260722T132221Z
 SUMMARY:INF vs NEM
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595602@tournamentics
