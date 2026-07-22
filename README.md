@@ -238,6 +238,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldCha
 
 ---
 
+### European Series #2 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/EuropeanSeries22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/EuropeanSeries22026.ics
+```
+
 ### South American Series #2 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/SouthAmericanSeries22026.ics)
 

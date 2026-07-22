@@ -982,6 +982,13 @@ SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260729T080000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600635@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260801T110000Z
@@ -1094,7 +1101,7 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596517@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/prawnytv
 DURATION:PT2H
 DTSTART:20260722T170000Z
 SUMMARY:HEC vs SNG
@@ -1351,6 +1358,13 @@ DURATION:PT2H
 DTSTART:20260726T140000Z
 SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596746@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260726T140000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -1701,6 +1715,13 @@ DURATION:PT2H
 DTSTART:20260726T110000Z
 SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596745@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260726T080000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600633@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -2060,6 +2081,13 @@ SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596744@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260725T110000Z
+SUMMARY:LC vs IC.A
+UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600632@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260731T110000Z
@@ -2186,8 +2214,8 @@ SUMMARY:FRT vs XI
 UID:cs-go-esea-advanced-europe-58-2026-1599203@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/goyarego
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: WBT: 0 | OldBoys: 1\nStream: https://www.twitch.tv/goyarego
+DTEND:20260722T170434Z
 DTSTART:20260722T161636Z
 SUMMARY:WBT vs OBOYS
 UID:cs-go-esea-advanced-europe-58-2026-1597620@tournamentics
@@ -2431,6 +2459,13 @@ SUMMARY:Upper bracket round 1 match 2: Tricksters vs NXT
 UID:cs-go-cct-europe-contenders-6-2026-1572131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260725T080000Z
+SUMMARY:STA vs FOR
+UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600631@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: Black Phoenix: 2 | Rune Eaters: 1\nStream: https://kick.com/cct_cs
 DTEND:20260722T104643Z
 DTSTART:20260722T080824Z
@@ -2473,9 +2508,9 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
-DTSTART:20260722T170000Z
+DTSTART:20260722T170016Z
 SUMMARY:Winners match: AUR vs NEM
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596454@tournamentics
 END:VEVENT
