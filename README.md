@@ -33,27 +33,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastBounty/Summer2
 
 </details>
 
-<details>
-<summary>XSE Pro League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/XseProLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/XseProLeague.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/2026.ics
-```
-
-</details>
-
 ## B Tier
 
 <details>
