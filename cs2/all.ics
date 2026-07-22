@@ -86,18 +86,18 @@ SUMMARY:FNC vs LILMIX
 UID:cs-go-stake-pulse-beat-i-2026-1596605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 1 | Endless Journey: 2\nStream: https://kick.com/cct_cs
-DTEND:20260720T193644Z
-DTSTART:20260720T170758Z
-SUMMARY:IC.A vs EJ
-UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586976@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: magic: 2 | Gentle Mates: 0\nStream: https://kick.com/starladder1
 DTEND:20260721T190330Z
 DTSTART:20260721T163434Z
 SUMMARY:Winners match: MGC vs M8
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596460@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 1 | Endless Journey: 2\nStream: https://kick.com/cct_cs
+DTEND:20260720T193644Z
+DTSTART:20260720T170758Z
+SUMMARY:IC.A vs EJ
+UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586976@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 0 | ???: 1\nStream: No official stream linked
@@ -1052,13 +1052,6 @@ SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: paiN: 0 | Sharks: 2\nStream: https://kick.com/rlgcs
-DTEND:20260712T005738Z
-DTSTART:20260711T230839Z
-SUMMARY:Grand final: paiN vs SHK
-UID:cs-go-res-showdown-fall-south-america-fall-2026-1577276@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260801T110000Z
@@ -1451,13 +1444,6 @@ SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: Sharks: 2 | BESTIA: 1\nStream: https://kick.com/rlgcs
-DTEND:20260711T013348Z
-DTSTART:20260710T230628Z
-SUMMARY:Semifinal 2: SHK vs BST
-UID:cs-go-res-showdown-fall-south-america-fall-2026-1577275@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260801T080000Z
@@ -1668,18 +1654,18 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596480@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260724T110000Z
-SUMMARY:Round 1: PHA vs G2.A
-UID:cs-go-nodwin-clutch-series-10-2026-1582152@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260725T160000Z
 SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596468@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260724T110000Z
+SUMMARY:Round 1: PHA vs G2.A
+UID:cs-go-nodwin-clutch-series-10-2026-1582152@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: Fortress: 0 | SAW Youngsters: 2\nStream: https://kick.com/cct_cs2
@@ -1827,13 +1813,6 @@ DURATION:PT2H
 DTSTART:20260726T110000Z
 SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596745@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: largadosypelados: 1 | paiN: 2\nStream: https://kick.com/rlgcs
-DTEND:20260710T223716Z
-DTSTART:20260710T201134Z
-SUMMARY:Semifinal 1: LDP vs paiN
-UID:cs-go-res-showdown-fall-south-america-fall-2026-1577274@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -2039,11 +2018,11 @@ SUMMARY:Lower bracket round 2 match 3: BGR vs MKD
 UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 3 | Imperial: 2\nStream: https://www.twitch.tv/btsbrasilfps
-DTEND:20260720T061004Z
-DTSTART:20260719T230231Z
-SUMMARY:Grand final: FXW7 vs IMP
-UID:cs-go-betboom-rush-b-summit-4-2026-1580353@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260725T130000Z
+SUMMARY:Quarterfinal 2: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596467@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -2053,11 +2032,11 @@ SUMMARY:Round 1: CSH.P vs Honvéd
 UID:cs-go-nodwin-clutch-series-10-2026-1582151@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260725T130000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596467@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 3 | Imperial: 2\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260720T061004Z
+DTSTART:20260719T230231Z
+SUMMARY:Grand final: FXW7 vs IMP
+UID:cs-go-betboom-rush-b-summit-4-2026-1580353@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2284,18 +2263,18 @@ SUMMARY:PURE vs A Great Chaos
 UID:cs-go-esea-advanced-europe-58-2026-1586797@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 2 | Rush: 0\nStream: https://www.twitch.tv/btsbrasilfps
-DTEND:20260715T223908Z
-DTSTART:20260715T212520Z
-SUMMARY:Upper bracket quarterfinal 2: FXW7 vs Rush
-UID:cs-go-betboom-rush-b-summit-4-2026-1580341@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260723T160000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596455@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 2 | Rush: 0\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260715T223908Z
+DTSTART:20260715T212520Z
+SUMMARY:Upper bracket quarterfinal 2: FXW7 vs Rush
+UID:cs-go-betboom-rush-b-summit-4-2026-1580341@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 1 | Red Feet: 0\nStream: https://www.twitch.tv/gamese_gg
@@ -2438,11 +2417,11 @@ SUMMARY:Upper bracket semifinal 2: TS.A vs PF
 UID:cs-go-gluck-yungstar-series-2-2026-1584739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 1 | Imperial: 2\nStream: https://www.twitch.tv/btsbrasilfps
-DTEND:20260718T233839Z
-DTSTART:20260718T210009Z
-SUMMARY:Lower bracket final: BHE vs IMP
-UID:cs-go-betboom-rush-b-summit-4-2026-1580352@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260725T130000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596466@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -2452,11 +2431,11 @@ SUMMARY:Round 1: BTF vs JustP
 UID:cs-go-nodwin-clutch-series-10-2026-1582150@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260725T130000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596466@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 1 | Imperial: 2\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260718T233839Z
+DTSTART:20260718T210009Z
+SUMMARY:Lower bracket final: BHE vs IMP
+UID:cs-go-betboom-rush-b-summit-4-2026-1580352@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2627,13 +2606,6 @@ SUMMARY:Upper bracket round 1 match 2: Tricksters vs NXT
 UID:cs-go-cct-europe-contenders-6-2026-1572131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: Yawara Esports: 1 | Sharks: 2\nStream: https://kick.com/rlgcs_b
-DTEND:20260709T230831Z
-DTSTART:20260709T200701Z
-SUMMARY:Quarterfinal 4: YAW vs SHK
-UID:cs-go-res-showdown-fall-south-america-fall-2026-1577272@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: BIG: 1 | Lynn Vision: 0\nStream: https://kick.com/xsecs
 DTEND:20260701T174059Z
 DTSTART:20260701T162814Z
@@ -2683,18 +2655,18 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | Keyd: 1\nStream: https://www.twitch.tv/btsbrasilfps
-DTEND:20260715T195712Z
-DTSTART:20260715T161108Z
-SUMMARY:Upper bracket quarterfinal 1: BHE vs Keyd
-UID:cs-go-betboom-rush-b-summit-4-2026-1580340@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260722T160000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596454@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | Keyd: 1\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260715T195712Z
+DTSTART:20260715T161108Z
+SUMMARY:Upper bracket quarterfinal 1: BHE vs Keyd
+UID:cs-go-betboom-rush-b-summit-4-2026-1580340@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: BIG Academy: 2 | ex-MANA eSports: 0\nStream: https://kick.com/nodwin_cs2
@@ -2830,18 +2802,18 @@ SUMMARY:MEGO vs PG
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596639@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Imperial: 2 | ShindeN: 0\nStream: https://www.twitch.tv/btsbrasilfps
-DTEND:20260718T183025Z
-DTSTART:20260718T160020Z
-SUMMARY:Lower bracket semifinal: IMP vs SHIN
-UID:cs-go-betboom-rush-b-summit-4-2026-1580351@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260724T130000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596465@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Imperial: 2 | ShindeN: 0\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260718T183025Z
+DTSTART:20260718T160020Z
+SUMMARY:Lower bracket semifinal: IMP vs SHIN
+UID:cs-go-betboom-rush-b-summit-4-2026-1580351@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2970,18 +2942,18 @@ SUMMARY:FaZe UN vs LEO
 UID:cs-go-united21-52-2026-1568948@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: magic: 2 | Walczaki: 0\nStream: https://kick.com/starladder
+DTEND:20260721T115341Z
+DTSTART:20260721T101651Z
+SUMMARY:MGC vs WAL
+UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595605@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 52 2026\nMatch Type: Best Of\nResult: Inner Circle Prospect: 1 | Misa Esports: 2\nStream: https://kick.com/united21_en
 DTEND:20260715T143351Z
 DTSTART:20260715T104442Z
 SUMMARY:Lower bracket round 1 match 2: Inner Circle Prospect vs MISA
 UID:cs-go-united21-52-2026-1588030@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260727T170000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-cct-europe-series-5-2026-1587542@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
@@ -2991,18 +2963,18 @@ SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-blast-bounty-summer-2026-1592772@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260727T170000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-cct-europe-series-5-2026-1587542@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Asian Qualifier Fall 2026\nMatch Type: Best Of\nResult: 5star: 0 | Lynn Vision: 2\nStream: https://www.twitch.tv/betboom_cs_ru3
 DTEND:20260711T103608Z
 DTSTART:20260711T091048Z
 SUMMARY:Semifinal 2: 5S vs LVG
 UID:cs-go-blast-open-asian-qualifier-fall-2026-1579767@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: magic: 2 | Walczaki: 0\nStream: https://kick.com/starladder
-DTEND:20260721T115341Z
-DTSTART:20260721T101651Z
-SUMMARY:MGC vs WAL
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: Marsborne: 1 | regain: 2\nStream: https://www.twitch.tv/Trottah
@@ -3031,13 +3003,6 @@ DTEND:20260714T142711Z
 DTSTART:20260714T130202Z
 SUMMARY:Round 1: MW vs PDAF
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580369@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: BESTIA: 2 | Fluxo W7M: 0\nStream: https://kick.com/rlgcs_b
-DTEND:20260710T014653Z
-DTSTART:20260709T232530Z
-SUMMARY:Quarterfinal 3: BST vs FXW7
-UID:cs-go-res-showdown-fall-south-america-fall-2026-1577271@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | Sinners: 0\nStream: https://kick.com/xsecs
@@ -3243,18 +3208,18 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Rush: 0 | ShindeN: 2\nStream: https://www.twitch.tv/btsbrasilfps
-DTEND:20260717T203933Z
-DTSTART:20260717T190123Z
-SUMMARY:Lower bracket quarterfinal 2: Rush vs SHIN
-UID:cs-go-betboom-rush-b-summit-4-2026-1580350@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260723T133000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596464@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Rush: 0 | ShindeN: 2\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260717T203933Z
+DTSTART:20260717T190123Z
+SUMMARY:Lower bracket quarterfinal 2: Rush vs SHIN
+UID:cs-go-betboom-rush-b-summit-4-2026-1580350@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nResult: Germany: 2 | Sweden: 0\nStream: https://www.twitch.tv/enc
@@ -3383,18 +3348,18 @@ SUMMARY:Elimination match: MOUZ.N vs Noir Verse
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260727T140000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-cct-europe-series-5-2026-1587541@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: HOTU: 2 | Heroic: 1\nStream: https://kick.com/starladder1
 DTEND:20260721T160047Z
 DTSTART:20260721T131128Z
 SUMMARY:HOTU vs HERO
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595604@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260727T140000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-cct-europe-series-5-2026-1587541@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
@@ -3444,13 +3409,6 @@ DURATION:PT2H
 DTSTART:20260726T210000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580368@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | ShindeN: 1\nStream: https://kick.com/rlgcs
-DTEND:20260709T164615Z
-DTSTART:20260709T140755Z
-SUMMARY:Quarterfinal 2: LDP vs SHIN
-UID:cs-go-res-showdown-fall-south-america-fall-2026-1577270@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: PARIVISION: 1 | Alliance: 0\nStream: https://kick.com/xsecs
@@ -3925,7 +3883,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260722T220000Z
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: BST.A vs RF
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580402@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4046,13 +4004,6 @@ DTEND:20260712T173921Z
 DTSTART:20260712T132312Z
 SUMMARY:FNC vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582116@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: RES Showdown - South America Fall 2026\nMatch Type: Best Of\nResult: paiN: 2 | METANOIA WOLVES: 0\nStream: https://kick.com/rlgcs_b
-DTEND:20260709T183101Z
-DTSTART:20260709T170433Z
-SUMMARY:Quarterfinal 1: paiN vs MW
-UID:cs-go-res-showdown-fall-south-america-fall-2026-1577269@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - 2026\nMatch Type: Best Of\nResult: Luminosity: 0 | Team Nemesis: 1\nStream: https://kick.com/xsecs
@@ -4800,7 +4751,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260722T190000Z
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: PCY vs MAG
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580400@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4842,7 +4793,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260722T160000Z
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: Grêmio Esports vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580399@tournamentics
 END:VEVENT
 BEGIN:VEVENT
