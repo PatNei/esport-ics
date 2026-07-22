@@ -108,27 +108,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomRushB/Summit
 </details>
 
 <details>
-<summary>BLAST Open</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/BlastOpen.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/BlastOpen.ics
-```
-
----
-
-### North American Qualifier Fall 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/NorthAmericanQualifierFall2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/NorthAmericanQualifierFall2026.ics
-```
-
-</details>
-
-<details>
 <summary>CCT South America</summary>
 
 ### Full Schedule

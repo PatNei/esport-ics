@@ -898,18 +898,18 @@ SUMMARY:Round 1: G1 vs Atreides
 UID:cs-go-nodwin-clutch-series-10-2026-1582154@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260722T110000Z
-SUMMARY:Elimination match: ENJOY vs FOR
-UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596632@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260728T100000Z
 SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-urban-riga-open-6-2026-1596449@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260722T110000Z
+SUMMARY:Elimination match: ENJOY vs FOR
+UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596632@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -1304,18 +1304,18 @@ SUMMARY:Round 1: ex-RUBY vs Vexar
 UID:cs-go-nodwin-clutch-series-10-2026-1582153@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260722T170000Z
-SUMMARY:Winners match: QUA vs SAW.Y
-UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596631@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260728T100000Z
 SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-urban-riga-open-6-2026-1596448@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260722T170000Z
+SUMMARY:Winners match: QUA vs SAW.Y
+UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
@@ -1668,18 +1668,18 @@ SUMMARY:Round 1: PHA vs G2.A
 UID:cs-go-nodwin-clutch-series-10-2026-1582152@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: Fortress: 0 | SAW Youngsters: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260721T184301Z
-DTSTART:20260721T173330Z
-SUMMARY:FOR vs SAW.Y
-UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596630@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260727T173000Z
 SUMMARY:Round 3: BRUTE vs LEO
 UID:cs-go-urban-riga-open-6-2026-1596447@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: Fortress: 0 | SAW Youngsters: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260721T184301Z
+DTSTART:20260721T173330Z
+SUMMARY:FOR vs SAW.Y
+UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596630@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
@@ -1771,13 +1771,6 @@ DURATION:PT2H
 DTSTART:20260722T160000Z
 SUMMARY:NTR vs ECHO
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595608@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: M80: 2 | Voca: 0\nStream: https://www.twitch.tv/circuitxofficial
-DTEND:20260712T011831Z
-DTSTART:20260711T234223Z
-SUMMARY:Grand final: M80 vs VOCA
-UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577283@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | Procyon Gaming: 0\nStream: https://kick.com/cct_cs3
@@ -2151,13 +2144,6 @@ SUMMARY:NIP vs 100T
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595607@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: Voca: 2 | regain: 0\nStream: https://www.twitch.tv/circuitxofficial
-DTEND:20260711T025955Z
-DTSTART:20260711T013851Z
-SUMMARY:Semifinal 2: VOCA vs REGAIN
-UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577282@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260804T110000Z
@@ -2431,18 +2417,18 @@ SUMMARY:Round 1: BTF vs JustP
 UID:cs-go-nodwin-clutch-series-10-2026-1582150@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 1 | Imperial: 2\nStream: https://www.twitch.tv/btsbrasilfps
-DTEND:20260718T233839Z
-DTSTART:20260718T210009Z
-SUMMARY:Lower bracket final: BHE vs IMP
-UID:cs-go-betboom-rush-b-summit-4-2026-1580352@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260727T163000Z
 SUMMARY:Round 2: NAVI.J vs LEO
 UID:cs-go-urban-riga-open-6-2026-1596445@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 4 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 1 | Imperial: 2\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260718T233839Z
+DTSTART:20260718T210009Z
+SUMMARY:Lower bracket final: BHE vs IMP
+UID:cs-go-betboom-rush-b-summit-4-2026-1580352@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Honvéd: 2 | Julie&cie: 0\nStream: https://kick.com/nodwin_cs2
@@ -2590,13 +2576,6 @@ DURATION:PT2H
 DTSTART:20260804T080000Z
 SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582184@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: M80: 2 | LAG Gaming: 0\nStream: https://www.twitch.tv/circuitxofficial
-DTEND:20260711T000339Z
-DTSTART:20260710T223624Z
-SUMMARY:Semifinal 1: M80 vs LAG
-UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577281@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: Tricksters: 1 | Next UP: 2\nStream: https://kick.com/cct_cs4
@@ -2977,13 +2956,6 @@ SUMMARY:Semifinal 2: 5S vs LVG
 UID:cs-go-blast-open-asian-qualifier-fall-2026-1579767@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: Marsborne: 1 | regain: 2\nStream: https://www.twitch.tv/Trottah
-DTEND:20260709T215505Z
-DTSTART:20260709T193713Z
-SUMMARY:Quarterfinal 4: MARS vs REGAIN
-UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577280@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260803T170000Z
@@ -3222,6 +3194,13 @@ SUMMARY:Lower bracket quarterfinal 2: Rush vs SHIN
 UID:cs-go-betboom-rush-b-summit-4-2026-1580350@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260727T153000Z
+SUMMARY:Round 1: MOUZ.N vs LEO
+UID:cs-go-urban-riga-open-6-2026-1596443@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports Nations Cup - West European Qualifier 2026\nMatch Type: Best Of\nResult: Germany: 2 | Sweden: 0\nStream: https://www.twitch.tv/enc
 DTEND:20260717T173000Z
 DTSTART:20260717T155000Z
@@ -3234,13 +3213,6 @@ DTEND:20260720T210751Z
 DTSTART:20260720T202353Z
 SUMMARY:RED.A vs MW
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1591791@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260727T153000Z
-SUMMARY:Round 1: MOUZ.N vs LEO
-UID:cs-go-urban-riga-open-6-2026-1596443@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: PURE: 0 | Tricksters: 2\nStream: https://kick.com/cct_cs3
@@ -3563,13 +3535,6 @@ DURATION:PT2H
 DTSTART:20260806T110000Z
 SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582193@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: Voca: 2 | NuTorious: 0\nStream: https://www.twitch.tv/Trottah
-DTEND:20260710T001006Z
-DTSTART:20260709T224733Z
-SUMMARY:Quarterfinal 3: VOCA vs NT
-UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577279@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: QUAZAR: 0 | The Last Resort: 2\nStream: https://www.twitch.tv/floppyacs
@@ -3992,13 +3957,6 @@ SUMMARY:Round 2: GE vs MW
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580378@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | Overtake Sector: 0\nStream: https://www.twitch.tv/circuitxofficial
-DTEND:20260710T031759Z
-DTSTART:20260710T013816Z
-SUMMARY:Quarterfinal 2: LAG vs OT
-UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577278@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: fnatic: 2 | Misa Esports: 1\nStream: https://www.twitch.tv/vanfantv
 DTEND:20260712T173921Z
 DTSTART:20260712T132312Z
@@ -4396,13 +4354,6 @@ DTEND:20260709T181558Z
 DTSTART:20260709T154502Z
 SUMMARY:Lower bracket round 3 match 1: Tricksters vs BAKS
 UID:cs-go-cct-europe-contenders-6-2026-1578201@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: M80: 2 | WINNERS: 0\nStream: https://www.twitch.tv/circuitxofficial
-DTEND:20260709T183306Z
-DTSTART:20260709T165053Z
-SUMMARY:Quarterfinal 1: M80 vs WINNERS
-UID:cs-go-blast-open-north-american-qualifier-fall-2026-1577277@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Brute: 2 | Inner Circle Academy: 0\nStream: https://www.twitch.tv/iamfusiion
