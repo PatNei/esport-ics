@@ -908,7 +908,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260724T080000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: 1WIN vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554040@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1489,7 +1489,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260723T080000Z
-SUMMARY:3rd Place match: TBD vs TBD
+SUMMARY:3rd Place match: JustP vs TBD
 UID:cs-go-european-pro-league-series-8-2026-1554039@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2195,7 +2195,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260722T111500Z
+DTSTART:20260722T110500Z
 SUMMARY:Round 1: SPARTA vs SAW.Y
 UID:cs-go-cct-europe-series-5-2026-1587521@tournamentics
 END:VEVENT
@@ -2228,8 +2228,8 @@ SUMMARY:ENJOY vs QUA
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: Just Players: 1 | 1WIN: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260722T105501Z
 DTSTART:20260722T080644Z
 SUMMARY:Semifinal 1: JustP vs 1WIN
 UID:cs-go-european-pro-league-series-8-2026-1554037@tournamentics
