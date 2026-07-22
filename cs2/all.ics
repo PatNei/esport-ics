@@ -1068,7 +1068,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260724T150000Z
+DTSTART:20260724T140000Z
 SUMMARY:Round of 32 match 1: TL vs VIT
 UID:cs-go-blast-bounty-summer-2026-1592754@tournamentics
 END:VEVENT
@@ -1236,7 +1236,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260724T100000Z
+DTSTART:20260724T090000Z
 SUMMARY:Round of 32 match 12: MGC vs 3DMAX
 UID:cs-go-blast-bounty-summer-2026-1592765@tournamentics
 END:VEVENT
@@ -2158,11 +2158,11 @@ SUMMARY:Round 2: PDAF vs Grêmio Esports
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580382@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 0 | Al Ahli: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260704T171551Z
-DTSTART:20260704T154702Z
-SUMMARY:Upper bracket round 1 match 3: JUMBO vs Al Ahli
-UID:cs-go-cct-europe-contenders-6-2026-1572132@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260727T223000Z
+SUMMARY:Winners match: ??? vs CHAMA
+UID:cs-go-gamers-club-liga-serie-a-july-2026-1599728@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #1 season 52 2026\nMatch Type: Best Of\nResult: The Last Resort: 1 | QUAZAR: 2\nStream: https://www.twitch.tv/sh1ngekiiii
@@ -2170,6 +2170,13 @@ DTEND:20260713T154655Z
 DTSTART:20260713T130527Z
 SUMMARY:Decider match: TLR vs QUA
 UID:cs-go-esl-challenger-league-europe-cup-1-52-2026-1582120@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #6 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 0 | Al Ahli: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260704T171551Z
+DTSTART:20260704T154702Z
+SUMMARY:Upper bracket round 1 match 3: JUMBO vs Al Ahli
+UID:cs-go-cct-europe-contenders-6-2026-1572132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -2363,7 +2370,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260724T173000Z
+DTSTART:20260724T163000Z
 SUMMARY:Round of 32 match 9: SHK vs FURIA
 UID:cs-go-blast-bounty-summer-2026-1592762@tournamentics
 END:VEVENT
@@ -3182,7 +3189,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
-DTSTART:20260723T133000Z
+DTSTART:20260723T130000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596464@tournamentics
 END:VEVENT
@@ -3616,7 +3623,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
-DTSTART:20260723T133000Z
+DTSTART:20260723T130000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596463@tournamentics
 END:VEVENT
@@ -4176,7 +4183,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260724T123000Z
+DTSTART:20260724T113000Z
 SUMMARY:Round of 32 match 5: HERO vs MGLZ
 UID:cs-go-blast-bounty-summer-2026-1592758@tournamentics
 END:VEVENT
@@ -4435,7 +4442,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
-DTSTART:20260723T110000Z
+DTSTART:20260723T100000Z
 SUMMARY:Elimination match: WAL vs 3DMAX
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596461@tournamentics
 END:VEVENT
