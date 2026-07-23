@@ -2174,7 +2174,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
-DTSTART:20260723T170000Z
+DTSTART:20260723T164500Z
 SUMMARY:Elimination match: K27 vs INF
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596455@tournamentics
 END:VEVENT
@@ -2658,7 +2658,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260724T130000Z
-SUMMARY:Decider match: NTR vs TBD
+SUMMARY:Decider match: NTR vs ECHO
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596465@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3103,9 +3103,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596500@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/michu
 DURATION:PT2H
-DTSTART:20260723T163000Z
+DTSTART:20260723T164500Z
 SUMMARY:OLDBOYS PL vs GE
 UID:cs-go-esea-advanced-europe-58-2026-1589653@tournamentics
 END:VEVENT
@@ -3248,6 +3248,13 @@ DTEND:20260714T193207Z
 DTSTART:20260714T175228Z
 SUMMARY:Winners match: Honvéd vs MEGO
 UID:cs-go-nodwin-clutch-series-10-2026-1586281@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260727T190000Z
+SUMMARY:Winners match: ODK vs paiN.A
+UID:cs-go-gamers-club-liga-serie-a-july-2026-1602200@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Subtop De France: 0 | Donstu Esports: 1\nStream: No official stream linked
@@ -3418,8 +3425,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-stake-pulse-beat-i-2026-1596608@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: NIP: 2 | ECHO: 0\nStream: https://kick.com/starladder
+DTEND:20260723T164117Z
 DTSTART:20260723T135718Z
 SUMMARY:Winners match: NIP vs ECHO
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596463@tournamentics
