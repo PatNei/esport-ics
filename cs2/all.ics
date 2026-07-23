@@ -1027,7 +1027,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260725T130000Z
-SUMMARY:Quarterfinal 1: UNO vs TBD
+SUMMARY:Quarterfinal 1: UNO vs FX
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580362@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3761,8 +3761,8 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-blast-bounty-summer-2026-1593365@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Fluxo: 2 | paiN Academy: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260723T173140Z
 DTSTART:20260723T160726Z
 SUMMARY:Round of 16 match 2: FX vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580355@tournamentics
