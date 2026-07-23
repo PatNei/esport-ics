@@ -229,7 +229,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260724T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: MEGO vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -366,8 +366,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596483@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: megoshort: 1 | Privateer Gaming: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260723T170726Z
 DTSTART:20260723T141025Z
 SUMMARY:MEGO vs PG
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596639@tournamentics
@@ -523,7 +523,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260724T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: PG vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -835,9 +835,9 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596496@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260723T170000Z
+DTSTART:20260723T170410Z
 SUMMARY:Round 2: CSH.P vs BG
 UID:cs-go-cct-europe-series-5-2026-1587527@tournamentics
 END:VEVENT
@@ -893,7 +893,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260723T170000Z
+DTSTART:20260723T173000Z
 SUMMARY:MISA vs RGG
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596640@tournamentics
 END:VEVENT
