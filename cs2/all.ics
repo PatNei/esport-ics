@@ -1857,9 +1857,9 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587533@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260723T130000Z
+DTSTART:20260723T130257Z
 SUMMARY:Round of 32 match 10: SIN vs FUT
 UID:cs-go-blast-bounty-summer-2026-1592763@tournamentics
 END:VEVENT
@@ -2935,9 +2935,9 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
-DTSTART:20260723T130000Z
+DTSTART:20260723T130035Z
 SUMMARY:Elimination match: 100T vs NTR
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596464@tournamentics
 END:VEVENT
@@ -3316,7 +3316,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260724T080000Z
-SUMMARY:Elimination match: Subtop De France vs TBD
+SUMMARY:Elimination match: Subtop De France vs BG
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3336,7 +3336,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260723T131500Z
+DTSTART:20260723T133000Z
 SUMMARY:Winners match: NIP vs ECHO
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596463@tournamentics
 END:VEVENT
@@ -3687,7 +3687,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260724T140000Z
-SUMMARY:Winners match: Entropy vs TBD
+SUMMARY:Winners match: Entropy vs NV
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596636@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4041,15 +4041,15 @@ SUMMARY:Upper bracket quarterfinal 1: JustP vs ex-RUBY
 UID:cs-go-gluck-yungstar-series-2-2026-1584734@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260723T130000Z
+DTSTART:20260723T130324Z
 SUMMARY:Round of 16 match 1: UNO vs GH
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580354@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: NEW VISION: 2 | Benched gods: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260723T130934Z
 DTSTART:20260723T110530Z
 SUMMARY:NV vs BG
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596635@tournamentics
