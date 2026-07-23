@@ -156,13 +156,6 @@ SUMMARY:Mai Tai vs RGG
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586953@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: BESTIA: 2 | MIBR Academy: 0\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260712T000048Z
-DTSTART:20260711T221446Z
-SUMMARY:Quarterfinal 1: BST vs MIBR.A
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1577284@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260805T140000Z
@@ -534,6 +527,13 @@ SUMMARY:B8.A vs GBC
 UID:cs-go-esea-advanced-europe-58-2026-1597636@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20260802T010000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596587@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Lilmix: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260717T125403Z
 DTSTART:20260717T113130Z
@@ -541,25 +541,11 @@ SUMMARY:Elimination match: Entropy vs LILMIX
 UID:cs-go-nodwin-clutch-series-10-2026-1588644@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | paiN Academy: 1\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260708T184420Z
-DTSTART:20260708T160512Z
-SUMMARY:FDB vs paiN.A
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574379@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 3 2026\nMatch Type: Best Of\nResult: 3DMAX: 1 | Heroic: 2\nStream: https://www.twitch.tv/starladder_cs_en
 DTEND:20260715T151448Z
 DTSTART:20260715T120148Z
 SUMMARY:Upper Bracket Quarterfinals 2: 3DMAX vs HERO
 UID:cs-go-stake-ranked-episode-3-2026-1578250@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
-DTSTART:20260802T010000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
-UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596587@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -912,25 +898,18 @@ SUMMARY:ESB vs FRT
 UID:cs-go-esea-advanced-europe-58-2026-1597635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Misa Esports: 1 | G2 Ares: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260717T105831Z
-DTSTART:20260717T080816Z
-SUMMARY:Winners match: MISA vs G2.A
-UID:cs-go-nodwin-clutch-series-10-2026-1588643@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Isurus: 2 | UNO MILLE: 1\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260708T153955Z
-DTSTART:20260708T130515Z
-SUMMARY:ISG vs UNO
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574378@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260801T010000Z
 SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596586@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Misa Esports: 1 | G2 Ares: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260717T105831Z
+DTSTART:20260717T080816Z
+SUMMARY:Winners match: MISA vs G2.A
+UID:cs-go-nodwin-clutch-series-10-2026-1588643@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: WBT: 2 | Just Players: 0\nStream: https://kick.com/eplcs_en
@@ -1794,25 +1773,11 @@ SUMMARY:HAT vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1588571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Yawara Esports: 0 | MIBR Academy: 2\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260710T230152Z
-DTSTART:20260710T210520Z
-SUMMARY:Decider match: YAW vs MIBR.A
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574387@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: SPARTA: 2 | ENCE: 0\nStream: https://kick.com/eplcs_en
 DTEND:20260708T124226Z
 DTSTART:20260708T104358Z
 SUMMARY:SPARTA vs ENCE
 UID:cs-go-european-pro-league-series-8-2026-1554015@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: BESTIA: 0 | Imperial: 2\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260713T015133Z
-DTSTART:20260713T000809Z
-SUMMARY:Grand final: BST vs IMP
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1577291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #5 2026\nMatch Type: Best Of\nResult: Entropy: 0 | Inner Circle Academy: 2\nStream: https://kick.com/cct_cs
@@ -2172,25 +2137,11 @@ SUMMARY:Elimination match: IC.A vs DNT
 UID:cs-go-nodwin-clutch-series-10-2026-1586284@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 1 | MIBR Academy: 2\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260710T014517Z
-DTSTART:20260709T220447Z
-SUMMARY:Elimination match: MW vs MIBR.A
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574386@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: Atreides: 2 | eternal premium: 0\nStream: https://kick.com/eplcs_en
 DTEND:20260708T101547Z
 DTSTART:20260708T080118Z
 SUMMARY:Atreides vs EP
 UID:cs-go-european-pro-league-series-8-2026-1554014@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: largadosypelados: 0 | Imperial: 2\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260712T225318Z
-DTSTART:20260712T210607Z
-SUMMARY:Semifinal 2: LDP vs IMP
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1577290@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -2368,18 +2319,18 @@ SUMMARY:DNT vs TEAM_COPH9K
 UID:cs-go-esea-advanced-europe-58-2026-1597631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
-DURATION:PT2H
-DTSTART:20260801T160000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-stake-pulse-beat-i-2026-1596598@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260803T010000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596582@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
+DURATION:PT2H
+DTSTART:20260801T160000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-stake-pulse-beat-i-2026-1596598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -2513,13 +2464,6 @@ DTEND:20260714T155229Z
 DTSTART:20260714T141125Z
 SUMMARY:Winners match: BIG.A vs ex-MANA
 UID:cs-go-nodwin-clutch-series-10-2026-1586283@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Yawara Esports: 1 | Keyd: 2\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260709T184135Z
-DTSTART:20260709T160844Z
-SUMMARY:Winners match: YAW vs Keyd
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: The Last Resort: 2 | ENJOY: 0\nStream: https://kick.com/eplcs_en
@@ -2697,13 +2641,6 @@ SUMMARY:Entropy vs Honvéd
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586958@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: BESTIA: 2 | Keyd: 0\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260712T202557Z
-DTSTART:20260712T181143Z
-SUMMARY:Semifinal 1: BST vs Keyd
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1577289@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 1 | FAST LAYNERS: 0\nStream: No official stream linked
 DTEND:20260721T193125Z
 DTSTART:20260721T184204Z
@@ -2711,18 +2648,18 @@ SUMMARY:VP.P vs FAST LAYNERS
 UID:cs-go-esea-advanced-europe-58-2026-1597630@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
-DURATION:PT2H
-DTSTART:20260801T130000Z
-SUMMARY:Elimination match: TBD vs TBD
-UID:cs-go-stake-pulse-beat-i-2026-1596597@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260801T220000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596581@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
+DURATION:PT2H
+DTSTART:20260801T130000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-stake-pulse-beat-i-2026-1596597@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Hermine Esports Club: 0 | Inner Circle Academy: 1\nStream: https://www.twitch.tv/hermineesportsclub
@@ -2870,13 +2807,6 @@ DTEND:20260719T160532Z
 DTSTART:20260719T141638Z
 SUMMARY:Lower bracket round 4 match 2: DNK vs BEL
 UID:cs-go-esports-nations-cup-west-european-qualifier-2026-1593377@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Keyd: 2 | MIBR Academy: 0\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260709T004058Z
-DTSTART:20260708T223229Z
-SUMMARY:Keyd vs MIBR.A
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574384@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: The Last Resort: 2 | PsychoFace: 1\nStream: https://kick.com/eplcs_en
@@ -3243,13 +3173,6 @@ SUMMARY:Subtop De France vs DNT
 UID:cs-go-esea-advanced-europe-58-2026-1597640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Yawara Esports: 2 | METANOIA WOLVES: 0\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260708T205107Z
-DTSTART:20260708T190549Z
-SUMMARY:YAW vs MW
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574383@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 2 | ENJOY: 0\nStream: https://kick.com/eplcs_en
 DTEND:20260711T124531Z
 DTSTART:20260711T112135Z
@@ -3439,13 +3362,6 @@ SUMMARY:Lower Bracket Round 1 Match 2: K27 vs WC
 UID:cs-go-stake-ranked-episode-3-2026-1578254@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Isurus: 1\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260711T215236Z
-DTSTART:20260711T191357Z
-SUMMARY:Quarterfinal 4: IMP vs ISG
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1577287@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
 DURATION:PT2H
 DTSTART:20260801T100000Z
@@ -3626,13 +3542,6 @@ DTEND:20260722T232710Z
 DTSTART:20260722T220047Z
 SUMMARY:Round 5: BST.A vs RF
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580402@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | UNO MILLE: 0\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260710T195447Z
-DTSTART:20260710T180533Z
-SUMMARY:Decider match: FDB vs UNO
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574382@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: PsychoFace: 1 | ENJOY: 2\nStream: https://kick.com/eplcs_en
@@ -3824,13 +3733,6 @@ SUMMARY:Winners match: Mai Tai vs SAW.Y
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586955@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | Fake do Biru: 0\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260711T182646Z
-DTSTART:20260711T161944Z
-SUMMARY:Quarterfinal 3: LDP vs FDB
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1577286@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
 DURATION:PT2H
 DTSTART:20260801T100000Z
@@ -4018,13 +3920,6 @@ DTEND:20260718T161140Z
 DTSTART:20260718T150610Z
 SUMMARY:Lower bracket round 3 match 1: ESP vs FIN
 UID:cs-go-esports-nations-cup-west-european-qualifier-2026-1593374@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: UNO MILLE: 2 | paiN Academy: 0\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260709T204216Z
-DTSTART:20260709T190714Z
-SUMMARY:Elimination match: UNO vs paiN.A
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574381@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
@@ -4230,13 +4125,6 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596520@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 1 | Keyd: 2\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260711T154457Z
-DTSTART:20260711T130452Z
-SUMMARY:Quarterfinal 2: BHE vs Keyd
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1577285@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260805T170000Z
@@ -4417,13 +4305,6 @@ DTEND:20260722T213331Z
 DTSTART:20260722T190442Z
 SUMMARY:Round 5: PCY vs MAG
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580400@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - South American Series #2 2026\nMatch Type: Best Of\nResult: Isurus: 2 | Fake do Biru: 0\nStream: https://www.twitch.tv/thunderpicktv
-DTEND:20260709T151642Z
-DTSTART:20260709T130515Z
-SUMMARY:Winners match: ISG vs FDB
-UID:cs-go-thunderpick-world-championship-south-american-series-2-2026-1574380@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
