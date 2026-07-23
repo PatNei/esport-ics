@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Walczaki: 2 | 3DMAX: 1\nStream: https://kick.com/starladder
+DTEND:20260723T134018Z
 DTSTART:20260723T100925Z
 SUMMARY:Elimination match: WAL vs 3DMAX
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596461@tournamentics
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260724T160000Z
-SUMMARY:Decider match: M8 vs TBD
+SUMMARY:Decider match: M8 vs WAL
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596462@tournamentics
 END:VEVENT
 BEGIN:VEVENT
