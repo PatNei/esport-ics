@@ -233,6 +233,13 @@ SUMMARY:Round 2: JustP vs EJ
 UID:cs-go-cct-europe-series-5-2026-1587526@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260728T210000Z
+SUMMARY:Winners match: ALKA vs QUIN
+UID:cs-go-gamers-club-liga-serie-a-july-2026-1601543@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nResult: Team Falcons: 1 | 100 Thieves: 2\nStream: https://www.twitch.tv/BLASTPremier
 DTEND:20260722T202843Z
 DTSTART:20260722T173719Z
@@ -597,9 +604,9 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596494@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260723T110000Z
+DTSTART:20260723T110914Z
 SUMMARY:Round 2: LK vs SAW.Y
 UID:cs-go-cct-europe-series-5-2026-1587525@tournamentics
 END:VEVENT
@@ -3112,7 +3119,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260723T110000Z
+DTSTART:20260723T111500Z
 SUMMARY:Round 1: Lavked vs ex-RUSTEC
 UID:cs-go-nodwin-clutch-series-10-2026-1582148@tournamentics
 END:VEVENT
@@ -4207,6 +4214,13 @@ DURATION:PT2H
 DTSTART:20260723T170000Z
 SUMMARY:Round 2: CSH.P vs BG
 UID:cs-go-cct-europe-series-5-2026-1587527@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260727T200000Z
+SUMMARY:Elimination match: BST.A vs HR
+UID:cs-go-gamers-club-liga-serie-a-july-2026-1601544@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 0 | MOUZ: 2\nStream: https://www.twitch.tv/BLASTPremier
