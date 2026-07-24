@@ -635,7 +635,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260725T160000Z
-SUMMARY:Quarterfinal 2: BST.A vs TBD
+SUMMARY:Quarterfinal 2: BST.A vs ISG
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580363@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3005,8 +3005,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-blast-bounty-summer-2026-1593367@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Isurus: 2 | Patins da Ferrari: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260724T004815Z
 DTSTART:20260723T220109Z
 SUMMARY:Round of 16 match 4: ISG vs PDAF
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580357@tournamentics
