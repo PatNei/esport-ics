@@ -61,12 +61,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260725T160000Z
-SUMMARY:Quarterfinal 2: CHAMA vs TBD
+SUMMARY:Quarterfinal 2: CHAMA vs ODK
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580363@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 1 | ODDIK: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260724T182253Z
 DTSTART:20260724T160221Z
 SUMMARY:Round of 16 match 4: BHE vs ODK
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580359@tournamentics
