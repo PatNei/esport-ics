@@ -1055,7 +1055,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260725T170000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: RGG vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596643@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1444,8 +1444,8 @@ SUMMARY:Grand final: ex-RUBY vs PF
 UID:cs-go-gluck-yungstar-series-2-2026-1584741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: megoshort: 1 | ROUNDS: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260724T131958Z
 DTSTART:20260724T110333Z
 SUMMARY:Elimination match: MEGO vs RGG
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596642@tournamentics
@@ -3866,7 +3866,7 @@ SUMMARY:Upper bracket quarterfinal 2: NEW VISION vs WING
 UID:cs-go-gluck-yungstar-series-2-2026-1584735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_cs_ru4
 DURATION:PT2H
 DTSTART:20260724T140000Z
 SUMMARY:Winners match: Entropy vs NV
