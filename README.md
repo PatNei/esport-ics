@@ -257,6 +257,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQua
 </details>
 
 <details>
+<summary>CIS LAN Championship</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CisLanChampionship/CisLanChampionship.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CisLanChampionship/CisLanChampionship.ics
+```
+
+---
+
+### Season 6 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CisLanChampionship/Season62026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CisLanChampionship/Season62026.ics
+```
+
+</details>
+
+<details>
 <summary>Elisa BreakOut</summary>
 
 ### Full Schedule
