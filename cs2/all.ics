@@ -606,7 +606,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260725T160000Z
+DTSTART:20260725T130000Z
 SUMMARY:Quarterfinal 2: CHAMA vs ODK
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580363@tournamentics
 END:VEVENT
@@ -977,7 +977,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260725T130000Z
+DTSTART:20260725T160000Z
 SUMMARY:Quarterfinal 1: UNO vs LDP
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580362@tournamentics
 END:VEVENT
@@ -2443,13 +2443,6 @@ DURATION:PT2H
 DTSTART:20260726T140000Z
 SUMMARY:Round 2: SPARTA vs Atreides
 UID:cs-go-nodwin-clutch-series-10-2026-1582161@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260725T080000Z
-SUMMARY:Decider match: EP vs Mai Tai
-UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596628@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 8 2026\nMatch Type: Best Of\nResult: BET-M 33: 0 | CYBERSHOKE Esports: 2\nStream: https://kick.com/eplcs_en
