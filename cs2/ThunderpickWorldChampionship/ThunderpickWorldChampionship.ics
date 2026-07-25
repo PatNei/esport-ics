@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260726T170000Z
-SUMMARY:Winners match: LK vs TBD
+SUMMARY:Winners match: LK vs MEGO
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600639@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260726T110000Z
-SUMMARY:Elimination match: NV vs TBD
+SUMMARY:Elimination match: NV vs ex-MANA
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -205,8 +205,8 @@ SUMMARY:ex-RUSTEC vs Entropy
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 0 | megoshort: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260725T184714Z
 DTSTART:20260725T170538Z
 SUMMARY:ex-MANA vs MEGO
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600637@tournamentics
