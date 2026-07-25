@@ -1321,7 +1321,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260726T140000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: STA vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1678,7 +1678,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260726T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: FOR vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600633@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2403,8 +2403,8 @@ SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582184@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: STATE: 2 | Fortress: 0\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260725T093037Z
 DTSTART:20260725T080416Z
 SUMMARY:STA vs FOR
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600631@tournamentics
