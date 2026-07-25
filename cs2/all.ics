@@ -3161,7 +3161,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260725T124500Z
+DTSTART:20260725T125500Z
 SUMMARY:Round of 16 match 2: TL vs G2
 UID:cs-go-blast-bounty-summer-2026-1592771@tournamentics
 END:VEVENT
@@ -3530,8 +3530,8 @@ SUMMARY:AST vs FOKUS
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nResult: DENDELE CS: 1 | FaZe: 2\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260725T124109Z
 DTSTART:20260725T100115Z
 SUMMARY:Round of 16 match 1: DENDELE CS vs FaZe
 UID:cs-go-blast-bounty-summer-2026-1592770@tournamentics
