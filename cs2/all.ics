@@ -464,8 +464,8 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-blast-bounty-summer-2026-1593362@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 | Inner Circle Academy: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260725T113420Z
 DTSTART:20260725T080426Z
 SUMMARY:Round 2: G2.A vs IC.A
 UID:cs-go-nodwin-clutch-series-10-2026-1582155@tournamentics
@@ -1321,7 +1321,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260726T140000Z
-SUMMARY:Winners match: STA vs TBD
+SUMMARY:Winners match: STA vs LC
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1491,6 +1491,13 @@ DURATION:PT2H
 DTSTART:20260729T140000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600645@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
+DURATION:PT2H
+DTSTART:20260727T210000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cis-lan-championship-6-2026-1604883@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -1678,7 +1685,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260726T080000Z
-SUMMARY:Elimination match: FOR vs TBD
+SUMMARY:Elimination match: FOR vs IC.A
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600633@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1834,6 +1841,13 @@ DURATION:PT2H
 DTSTART:20260728T140000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600644@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
+DURATION:PT2H
+DTSTART:20260727T180000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-cis-lan-championship-6-2026-1604882@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -2032,13 +2046,6 @@ SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596744@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
-DTSTART:20260725T113000Z
-SUMMARY:LC vs IC.A
-UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600632@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260731T110000Z
@@ -2198,6 +2205,13 @@ DURATION:PT2H
 DTSTART:20260728T080000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600643@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
+DURATION:PT2H
+DTSTART:20260727T180000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-cis-lan-championship-6-2026-1604881@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nResult: DENDELE CS: 2 | FURIA: 1\nStream: https://www.twitch.tv/BLASTPremier
@@ -2541,6 +2555,13 @@ DURATION:PT2H
 DTSTART:20260727T110000Z
 SUMMARY:UNiTY vs Mai Tai
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600642@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
+DURATION:PT2H
+DTSTART:20260727T150000Z
+SUMMARY:WW vs beznegativa
+UID:cs-go-cis-lan-championship-6-2026-1604880@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: Butterfly: 1 | G2 Ares: 2\nStream: https://kick.com/cct_cs
@@ -3108,6 +3129,13 @@ DURATION:PT2H
 DTSTART:20260802T170000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596499@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
+DURATION:PT2H
+DTSTART:20260727T150000Z
+SUMMARY:VP vs TS
+UID:cs-go-cis-lan-championship-6-2026-1604879@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
