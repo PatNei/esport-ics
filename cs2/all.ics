@@ -278,7 +278,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260726T130000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: HOTU vs TBD
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596471@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -369,7 +369,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260725T181500Z
-SUMMARY:Upper bracket round 1 match 5: AUR.YB vs TBD
+SUMMARY:Upper bracket round 1 match 5: AUR.YB vs GBC
 UID:cs-go-cct-europe-contenders-7-2026-1605165@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -618,9 +618,9 @@ SUMMARY:FOR vs DM
 UID:cs-go-esea-advanced-europe-58-2026-1586802@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260725T130000Z
+DTSTART:20260725T130222Z
 SUMMARY:Quarterfinal 2: CHAMA vs ODK
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580363@tournamentics
 END:VEVENT
@@ -1934,9 +1934,9 @@ SUMMARY:Lower bracket round 2 match 3: BGR vs MKD
 UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260725T130000Z
+DTSTART:20260725T130239Z
 SUMMARY:Quarterfinal 2: AUR vs ECHO
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596467@tournamentics
 END:VEVENT
@@ -2312,8 +2312,8 @@ SUMMARY:Upper bracket semifinal 2: TS.A vs PF
 UID:cs-go-gluck-yungstar-series-2-2026-1584739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: HOTU: 2 | Infinite: 0\nStream: https://kick.com/starladder
+DTEND:20260725T125810Z
 DTSTART:20260725T110012Z
 SUMMARY:Quarterfinal 1: HOTU vs INF
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596466@tournamentics
@@ -3194,9 +3194,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587541@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260725T125500Z
+DTSTART:20260725T125330Z
 SUMMARY:Round of 16 match 2: TL vs G2
 UID:cs-go-blast-bounty-summer-2026-1592771@tournamentics
 END:VEVENT
