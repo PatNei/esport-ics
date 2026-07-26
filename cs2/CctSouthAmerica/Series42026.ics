@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260726T210000Z
-SUMMARY:Grand final: ODK vs TBD
+SUMMARY:Grand final: ODK vs ISG
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580368@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -205,8 +205,8 @@ SUMMARY:Round 5: PCY vs MAG
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580400@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: Fluxo: 1 | Isurus: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260726T202907Z
 DTSTART:20260726T180338Z
 SUMMARY:Semifinal 2: FX vs ISG
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580367@tournamentics
