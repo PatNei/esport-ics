@@ -275,9 +275,9 @@ SUMMARY:Upper bracket round 3 match 2: SRB vs ROU
 UID:cs-go-esports-nations-cup-east-european-qualifier-2026-1593379@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260726T130000Z
+DTSTART:20260726T130546Z
 SUMMARY:Semifinal 1: AUR vs HOTU
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596471@tournamentics
 END:VEVENT
@@ -1724,8 +1724,8 @@ SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582186@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: Misa Esports: 0 | Mai Tai: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260726T125819Z
 DTSTART:20260726T111511Z
 SUMMARY:MISA vs Mai Tai
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596745@tournamentics
@@ -3407,7 +3407,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260729T110000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: ex-MANA vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4377,8 +4377,8 @@ SUMMARY:Upper bracket quarterfinal 2: FaZe UN vs ADN
 UID:cs-go-united21-52-2026-1584699@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: NEW VISION: 0 | ex-MANA eSports: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260726T125903Z
 DTSTART:20260726T111510Z
 SUMMARY:Elimination match: NV vs ex-MANA
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600638@tournamentics
