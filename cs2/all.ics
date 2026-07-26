@@ -431,7 +431,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260726T110000Z
+DTSTART:20260726T111000Z
 SUMMARY:Round 3: BTF vs SAW.Y
 UID:cs-go-cct-europe-series-5-2026-1587537@tournamentics
 END:VEVENT
@@ -978,7 +978,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260729T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: FOR vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1731,8 +1731,8 @@ SUMMARY:MISA vs Mai Tai
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: Fortress: 2 | Inner Circle Academy: 1\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260726T105541Z
 DTSTART:20260726T080812Z
 SUMMARY:Elimination match: FOR vs IC.A
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600633@tournamentics
@@ -2867,7 +2867,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260726T110000Z
+DTSTART:20260726T111000Z
 SUMMARY:Round 2: INOX vs PHA
 UID:cs-go-nodwin-clutch-series-10-2026-1582160@tournamentics
 END:VEVENT
@@ -3453,8 +3453,8 @@ SUMMARY:Round of 16 match 8: IMP vs BST.A
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580356@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: ex-RUBY: 1 | CYBERSHOKE Prospects: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260726T105522Z
 DTSTART:20260726T080440Z
 SUMMARY:Round 2: ex-RUBY vs CSH.P
 UID:cs-go-nodwin-clutch-series-10-2026-1582159@tournamentics
