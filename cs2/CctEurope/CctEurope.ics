@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | G2 Ares: 1\nStream: https://kick.com/cct_cs
+DTEND:20260726T181105Z
 DTSTART:20260726T144550Z
 SUMMARY:Round 3: INOX vs G2.A
 UID:cs-go-cct-europe-series-5-2026-1587538@tournamentics
@@ -641,7 +641,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260726T181500Z
+DTSTART:20260726T183000Z
 SUMMARY:Round 3: EAC vs Atreides
 UID:cs-go-cct-europe-series-5-2026-1587539@tournamentics
 END:VEVENT
@@ -961,7 +961,7 @@ SUMMARY:Decider match: Entropy vs Honvéd
 UID:cs-go-cct-europe-closed-qualifier-series-5-2026-1586962@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
 DTSTART:20260726T181500Z
 SUMMARY:Upper bracket round 1 match 6: TrafficPills Esports vs Y.TigeRES
