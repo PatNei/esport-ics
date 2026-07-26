@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260726T173000Z
+DTSTART:20260726T164500Z
 SUMMARY:Round of 16 match 8: 100T vs TS
 UID:cs-go-blast-bounty-summer-2026-1592779@tournamentics
 END:VEVENT
@@ -978,7 +978,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260729T080000Z
-SUMMARY:Decider match: FOR vs TBD
+SUMMARY:Decider match: FOR vs STA
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1360,8 +1360,8 @@ SUMMARY:QUA vs NV
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: STATE: 0 | Lazer Cats: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260726T164019Z
 DTSTART:20260726T140608Z
 SUMMARY:Winners match: STA vs LC
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600634@tournamentics
@@ -4447,9 +4447,9 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596473@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260726T163000Z
+DTSTART:20260726T163839Z
 SUMMARY:Semifinal 2: MGC vs NIP
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596472@tournamentics
 END:VEVENT
