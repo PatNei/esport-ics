@@ -11,7 +11,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260726T140000Z
+DTSTART:20260726T144000Z
 SUMMARY:Round 3: INOX vs G2.A
 UID:cs-go-cct-europe-series-5-2026-1587538@tournamentics
 END:VEVENT
@@ -2865,8 +2865,8 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596477@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | Phantom: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260726T135604Z
 DTSTART:20260726T111609Z
 SUMMARY:Round 2: INOX vs PHA
 UID:cs-go-nodwin-clutch-series-10-2026-1582160@tournamentics
