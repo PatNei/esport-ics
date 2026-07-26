@@ -54,12 +54,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260729T110000Z
-SUMMARY:Decider match: ex-MANA vs TBD
+SUMMARY:Decider match: ex-MANA vs LK
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: los kogutos: 0 | megoshort: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260726T183720Z
 DTSTART:20260726T170819Z
 SUMMARY:Winners match: LK vs MEGO
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600639@tournamentics

@@ -1481,7 +1481,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
-DTSTART:20260726T181500Z
+DTSTART:20260726T184000Z
 SUMMARY:Upper bracket round 1 match 2: A Great Chaos vs mellren
 UID:cs-go-cct-europe-contenders-7-2026-1605162@tournamentics
 END:VEVENT
@@ -3400,7 +3400,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260729T110000Z
-SUMMARY:Decider match: ex-MANA vs TBD
+SUMMARY:Decider match: ex-MANA vs LK
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3957,8 +3957,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600650@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: los kogutos: 0 | megoshort: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260726T183720Z
 DTSTART:20260726T170819Z
 SUMMARY:Winners match: LK vs MEGO
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600639@tournamentics
@@ -4440,8 +4440,8 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596473@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: magic: 2 | NIP: 0\nStream: https://kick.com/starladder
+DTEND:20260726T184203Z
 DTSTART:20260726T163839Z
 SUMMARY:Semifinal 2: MGC vs NIP
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596472@tournamentics
@@ -4503,9 +4503,9 @@ SUMMARY:Round 5: PCY vs MAG
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580400@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
-DTSTART:20260726T182500Z
+DTSTART:20260726T183326Z
 SUMMARY:Upper bracket round 1 match 6: TrafficPills Esports vs Y.TigeRES
 UID:cs-go-cct-europe-contenders-7-2026-1605166@tournamentics
 END:VEVENT
