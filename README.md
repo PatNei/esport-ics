@@ -108,27 +108,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Ser
 </details>
 
 <details>
-<summary>European Pro League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
-```
-
----
-
-### Series 8 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series82026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series82026.ics
-```
-
-</details>
-
-<details>
 <summary>Stake Pulse</summary>
 
 ### Full Schedule
@@ -205,27 +184,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarserie
 
 </details>
 
-<details>
-<summary>Thunderpick World Championship</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/ThunderpickWorldChampionship.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/ThunderpickWorldChampionship.ics
-```
-
----
-
-### European Series #2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/EuropeanSeries22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/EuropeanSeries22026.ics
-```
-
-</details>
-
 ## D Tier
 
 <details>
@@ -245,62 +203,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries52026.ics
-```
-
-### Closed Qualifier: Series #6 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries62026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries62026.ics
-```
-
-### Contenders #7 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders72026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders72026.ics
-```
-
-</details>
-
-<details>
-<summary>CIS LAN Championship</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CisLanChampionship/CisLanChampionship.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CisLanChampionship/CisLanChampionship.ics
-```
-
----
-
-### Season 6 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CisLanChampionship/Season62026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CisLanChampionship/Season62026.ics
-```
-
-</details>
-
-<details>
-<summary>Elisa BreakOut</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaBreakout/ElisaBreakout.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaBreakout/ElisaBreakout.ics
-```
-
----
-
-### Series #1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaBreakout/Series12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaBreakout/Series12026.ics
 ```
 
 </details>
