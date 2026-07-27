@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260727T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: TF vs TBD
 UID:cs-go-cis-lan-championship-6-2026-1604778@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -156,8 +156,8 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-cis-lan-championship-6-2026-1607768@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nResult: Team flacons: 2 | Team Comanche: 0\nStream: https://www.twitch.tv/kartash0v
+DTEND:20260727T092757Z
 DTSTART:20260727T075853Z
 SUMMARY:Elimination match: TF vs TCMH
 UID:cs-go-cis-lan-championship-6-2026-1604777@tournamentics

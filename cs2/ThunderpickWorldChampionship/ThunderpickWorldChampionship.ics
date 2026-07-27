@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260728T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Entropy vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600643@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260728T140000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: ex-RUSTEC vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600644@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -198,8 +198,8 @@ SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602188@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: ex-RUSTEC: 2 | Entropy: 0\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260727T092308Z
 DTSTART:20260727T080926Z
 SUMMARY:ex-RUSTEC vs Entropy
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600641@tournamentics
