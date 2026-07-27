@@ -2175,7 +2175,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260727T120000Z
-SUMMARY:Decider match: TF vs TBD
+SUMMARY:Decider match: TF vs CS
 UID:cs-go-cis-lan-championship-6-2026-1604778@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2928,8 +2928,8 @@ SUMMARY:Round 1: MW vs PDAF
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580369@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 1 | ARCRED: 2\nStream: https://www.twitch.tv/MPKBK
+DTEND:20260727T101524Z
 DTSTART:20260727T075648Z
 SUMMARY:Winners match: CS vs ARC
 UID:cs-go-cis-lan-championship-6-2026-1604776@tournamentics
