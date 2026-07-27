@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260728T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: MISA vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600649@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -460,7 +460,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260728T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Black Phoenix vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -681,9 +681,9 @@ SUMMARY:Quarterfinal 2: CHAMA vs ODK
 UID:cs-go-champion-of-champions-tour-series-4-2026-1580363@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260727T170000Z
+DTSTART:20260727T170343Z
 SUMMARY:Round 3: JustP vs IC.A
 UID:cs-go-nodwin-clutch-series-10-2026-1582166@tournamentics
 END:VEVENT
@@ -851,7 +851,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260727T170000Z
+DTSTART:20260727T171500Z
 SUMMARY:BBP vs FAL.F
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600647@tournamentics
 END:VEVENT
@@ -1248,8 +1248,8 @@ SUMMARY:Decider match: vsters vs LEO
 UID:cs-go-united21-52-2026-1568952@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: Black Phoenix: 1 | Misa Esports: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260727T165830Z
 DTSTART:20260727T141208Z
 SUMMARY:Black Phoenix vs MISA
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600646@tournamentics
