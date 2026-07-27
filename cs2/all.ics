@@ -2014,7 +2014,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260727T180000Z
-SUMMARY:Elimination match: TS vs TBD
+SUMMARY:Elimination match: TS vs beznegativa
 UID:cs-go-cis-lan-championship-6-2026-1604882@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2399,7 +2399,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260727T180000Z
-SUMMARY:Winners match: VP vs TBD
+SUMMARY:Winners match: VP vs WW
 UID:cs-go-cis-lan-championship-6-2026-1604881@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2767,8 +2767,8 @@ SUMMARY:UNiTY vs Mai Tai
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nResult: WW Team: 2 | beznegativa: 0\nStream: https://www.twitch.tv/kartash0v
+DTEND:20260727T154255Z
 DTSTART:20260727T142729Z
 SUMMARY:WW vs beznegativa
 UID:cs-go-cis-lan-championship-6-2026-1604880@tournamentics
@@ -3705,9 +3705,9 @@ SUMMARY:LAVK vs FIN
 UID:cs-go-cis-lan-championship-6-2026-1604925@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
+DESCRIPTION:🔴 LIVE NOW\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
-DTSTART:20260727T153000Z
+DTSTART:20260727T154417Z
 SUMMARY:Round 1: BRUTE vs NAVI.J
 UID:cs-go-urban-riga-open-6-2026-1596442@tournamentics
 END:VEVENT
@@ -4041,9 +4041,9 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-53-2026-1608570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
-DTSTART:20260727T153000Z
+DTSTART:20260727T153806Z
 SUMMARY:Lower bracket round 1 match 4: VP.P vs TEAM_COPH9K
 UID:cs-go-cct-europe-contenders-7-2026-1607765@tournamentics
 END:VEVENT
