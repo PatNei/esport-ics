@@ -2,6 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260728T153000Z
+SUMMARY:Lower bracket round 1 match 1: sleepers vs A Great Chaos
+UID:cs-go-cct-europe-contenders-7-2026-1607762@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260727T181500Z
+SUMMARY:Upper bracket quarterfinals match 1: AIMC vs mellren
+UID:cs-go-cct-europe-contenders-7-2026-1607758@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: aimclub: 2 | sleepers: 1\nStream: https://kick.com/cct_cs4
 DTEND:20260726T183056Z
 DTSTART:20260726T153636Z
@@ -14,6 +28,20 @@ DTEND:20260726T214844Z
 DTSTART:20260726T183326Z
 SUMMARY:Upper bracket round 1 match 6: TrafficPills Esports vs Y.TigeRES
 UID:cs-go-cct-europe-contenders-7-2026-1605166@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260728T153000Z
+SUMMARY:Lower bracket round 1 match 3: GBC vs TrafficPills Esports
+UID:cs-go-cct-europe-contenders-7-2026-1607764@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260727T181500Z
+SUMMARY:Upper bracket quarterfinals match 4: 163ON vs banda chuya
+UID:cs-go-cct-europe-contenders-7-2026-1607761@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: TEAM_COPH9K: 0 | banda chuya: 2\nStream: https://kick.com/cct_cs5
@@ -30,6 +58,20 @@ SUMMARY:Upper bracket round 1 match 5: AUR.YB vs GBC
 UID:cs-go-cct-europe-contenders-7-2026-1605165@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260727T153000Z
+SUMMARY:Lower bracket round 1 match 2: BAKS vs gribo4ki
+UID:cs-go-cct-europe-contenders-7-2026-1607763@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260728T181500Z
+SUMMARY:Upper bracket quarterfinals match 2: GS vs TS.A
+UID:cs-go-cct-europe-contenders-7-2026-1607759@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: A Great Chaos: 0 | mellren: 2\nStream: https://kick.com/cct_cs4
 DTEND:20260726T202508Z
 DTSTART:20260726T184509Z
@@ -37,11 +79,25 @@ SUMMARY:Upper bracket round 1 match 2: A Great Chaos vs mellren
 UID:cs-go-cct-europe-contenders-7-2026-1605162@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260728T181500Z
+SUMMARY:Upper bracket quarterfinals match 3: AUR.YB vs Y.TigeRES
+UID:cs-go-cct-europe-contenders-7-2026-1607760@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 1 | 163ON: 2\nStream: https://kick.com/cct_cs4
 DTEND:20260725T191210Z
 DTSTART:20260725T154237Z
 SUMMARY:Upper bracket round 1 match 7: VP.P vs 163ON
 UID:cs-go-cct-europe-contenders-7-2026-1605167@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260727T153000Z
+SUMMARY:Lower bracket round 1 match 4: VP.P vs TEAM_COPH9K
+UID:cs-go-cct-europe-contenders-7-2026-1607765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: Spirit Academy: 2 | gribo4ki: 1\nStream: https://kick.com/cct_cs5
