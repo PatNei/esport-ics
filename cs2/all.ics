@@ -1628,7 +1628,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
-DTSTART:20260727T210000Z
+DTSTART:20260727T192500Z
 SUMMARY:Decider match: WW vs beznegativa
 UID:cs-go-cis-lan-championship-6-2026-1604883@tournamentics
 END:VEVENT
@@ -2060,8 +2060,8 @@ SUMMARY:Grand final: FXW7 vs IMP
 UID:cs-go-betboom-rush-b-summit-4-2026-1580353@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nResult: NAVI Junior: 1 | MOUZ NXT: 0\nStream: https://kick.com/urbancontenders
+DTEND:20260727T193011Z
 DTSTART:20260727T185620Z
 SUMMARY:Round 3: NAVI.J vs MOUZ.N
 UID:cs-go-urban-riga-open-6-2026-1596446@tournamentics
@@ -3495,9 +3495,9 @@ SUMMARY:Winners match: Honvéd vs MEGO
 UID:cs-go-nodwin-clutch-series-10-2026-1586281@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260727T190000Z
+DTSTART:20260727T192219Z
 SUMMARY:Winners match: ODK vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1602200@tournamentics
 END:VEVENT
