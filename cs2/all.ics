@@ -58,13 +58,6 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582179@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
-DURATION:PT2H
-DTSTART:20260727T153000Z
-SUMMARY:Lower bracket round 1 match 2: BAKS vs gribo4ki
-UID:cs-go-cct-europe-contenders-7-2026-1607763@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260729T170000Z
@@ -2991,8 +2984,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-53-2026-1608665@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/goyarego
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: uust _esports: 0 | banda chuya: 1\nStream: https://www.twitch.tv/goyarego
+DTEND:20260727T175356Z
 DTSTART:20260727T171243Z
 SUMMARY:UUST vs banda chuya
 UID:cs-go-esea-advanced-europe-58-2026-1607247@tournamentics
@@ -4030,7 +4023,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260728T180000Z
-SUMMARY:Upper bracket quarterfinals match 2: BHE vs LDP
+SUMMARY:Upper bracket quarterfinal 2: BHE vs LDP
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1603924@tournamentics
 END:VEVENT
 BEGIN:VEVENT
