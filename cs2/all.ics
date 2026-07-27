@@ -1629,7 +1629,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260727T210000Z
-SUMMARY:Decider match: beznegativa vs TBD
+SUMMARY:Decider match: beznegativa vs WW
 UID:cs-go-cis-lan-championship-6-2026-1604883@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2382,8 +2382,8 @@ SUMMARY:Elimination match: Entropy vs Mai Tai
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600643@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/strogo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nResult: Virtus.pro: 2 | WW Team: 1\nStream: https://www.twitch.tv/strogo
+DTEND:20260727T190815Z
 DTSTART:20260727T161210Z
 SUMMARY:Winners match: VP vs WW
 UID:cs-go-cis-lan-championship-6-2026-1604881@tournamentics
@@ -2963,8 +2963,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-stake-pulse-beat-i-2026-1607893@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 0 | Entropy: 2\nStream: https://kick.com/cct_cs
+DTEND:20260727T190838Z
 DTSTART:20260727T171041Z
 SUMMARY:Round 4: CSH.P vs Entropy
 UID:cs-go-cct-europe-series-5-2026-1587542@tournamentics
