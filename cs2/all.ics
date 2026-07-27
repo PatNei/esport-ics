@@ -3295,7 +3295,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260727T063000Z
-SUMMARY:CS vs TC
+SUMMARY:CS vs TCMH
 UID:cs-go-cis-lan-championship-6-2026-1604775@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3677,9 +3677,9 @@ SUMMARY:Lower bracket final: PF vs QUA
 UID:cs-go-gluck-yungstar-series-2-2026-1584747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
+DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
 DURATION:PT2H
-DTSTART:20260727T063000Z
+DTSTART:20260727T063204Z
 SUMMARY:ARC vs TF
 UID:cs-go-cis-lan-championship-6-2026-1604774@tournamentics
 END:VEVENT
