@@ -1643,7 +1643,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260727T210000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: beznegativa vs TBD
 UID:cs-go-cis-lan-championship-6-2026-1604883@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2011,8 +2011,8 @@ SUMMARY:Winners match: ex-RUSTEC vs UNiTY
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600644@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nResult: TokyoSavage: 0 | beznegativa: 2\nStream: https://www.twitch.tv/kartash0v
+DTEND:20260727T173332Z
 DTSTART:20260727T160952Z
 SUMMARY:Elimination match: TS vs beznegativa
 UID:cs-go-cis-lan-championship-6-2026-1604882@tournamentics
@@ -4041,8 +4041,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-53-2026-1608570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 2 | TEAM_COPH9K: 0\nStream: https://kick.com/cct_cs4
+DTEND:20260727T173129Z
 DTSTART:20260727T153806Z
 SUMMARY:Lower bracket round 1 match 4: VP.P vs TEAM_COPH9K
 UID:cs-go-cct-europe-contenders-7-2026-1607765@tournamentics
