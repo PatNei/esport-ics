@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260728T120000Z
-SUMMARY:Decider match: K28 vs TBD
+SUMMARY:Decider match: K28 vs LAVK
 UID:cs-go-cis-lan-championship-6-2026-1604928@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-cis-lan-championship-6-2026-1605011@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nResult: Lavked: 0 | Nemiga: 2\nStream: https://www.twitch.tv/MPKBK
+DTEND:20260728T101038Z
 DTSTART:20260728T084241Z
 SUMMARY:Winners match: LAVK vs NEMI
 UID:cs-go-cis-lan-championship-6-2026-1604926@tournamentics
