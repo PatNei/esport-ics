@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
 DTSTART:20260728T160000Z
-SUMMARY:Third Place match: PURE vs TBD
+SUMMARY:Third Place match: PURE vs MOUZ.N
 UID:cs-go-urban-riga-open-6-2026-1596452@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -65,8 +65,8 @@ SUMMARY:Round 2: Noir Verse vs Atputies
 UID:cs-go-urban-riga-open-6-2026-1596438@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nResult: Brute: 2 | MOUZ NXT: 0\nStream: https://kick.com/urbancontenders
+DTEND:20260728T154052Z
 DTSTART:20260728T132650Z
 SUMMARY:Semifinal 2: BRUTE vs MOUZ.N
 UID:cs-go-urban-riga-open-6-2026-1596451@tournamentics
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
 DTSTART:20260728T160000Z
-SUMMARY:Grand final: ASTR vs TBD
+SUMMARY:Grand final: ASTR vs BRUTE
 UID:cs-go-urban-riga-open-6-2026-1596453@tournamentics
 END:VEVENT
 BEGIN:VEVENT
