@@ -324,9 +324,9 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-elisa-breakout-series-1-2026-1602998@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kleverrgg
+DESCRIPTION:🔴 LIVE NOW\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kleverrgg
 DURATION:PT2H
-DTSTART:20260728T132000Z
+DTSTART:20260728T132551Z
 SUMMARY:Semifinal 1: PURE vs ASTR
 UID:cs-go-urban-riga-open-6-2026-1596450@tournamentics
 END:VEVENT
@@ -718,7 +718,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
-DTSTART:20260728T150000Z
+DTSTART:20260728T140000Z
 SUMMARY:33 vs HTX
 UID:cs-go-cis-lan-championship-6-2026-1605009@tournamentics
 END:VEVENT
@@ -1124,7 +1124,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
-DTSTART:20260728T150000Z
+DTSTART:20260728T134000Z
 SUMMARY:TDK vs BAKS
 UID:cs-go-cis-lan-championship-6-2026-1605008@tournamentics
 END:VEVENT
@@ -2193,8 +2193,8 @@ SUMMARY:Elimination match: LPH vs EAC Rising
 UID:cs-go-united21-52-2026-1568961@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: Atreides: 1 | ex-RUSTEC: 2\nStream: https://kick.com/cct_cs
+DTEND:20260728T133525Z
 DTSTART:20260728T110654Z
 SUMMARY:Round 4: Atreides vs ex-RUSTEC
 UID:cs-go-cct-europe-series-5-2026-1587544@tournamentics
@@ -3796,6 +3796,13 @@ SUMMARY:Lower Bracket Round 1 Match 2: K27 vs WC
 UID:cs-go-stake-ranked-episode-3-2026-1578254@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260731T180000Z
+SUMMARY:Decider match: paiN.A vs Rush
+UID:cs-go-gamers-club-liga-serie-a-july-2026-1609952@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
 DURATION:PT2H
 DTSTART:20260801T100000Z
@@ -4846,9 +4853,9 @@ SUMMARY:Semifinal 2: MGC vs NIP
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596472@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
+DESCRIPTION:🔴 LIVE NOW\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
-DTSTART:20260728T132000Z
+DTSTART:20260728T132650Z
 SUMMARY:Semifinal 2: BRUTE vs MOUZ.N
 UID:cs-go-urban-riga-open-6-2026-1596451@tournamentics
 END:VEVENT
