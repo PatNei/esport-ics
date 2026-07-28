@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: Misa Esports: 0 | Falcons Force: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260728T184837Z
 DTSTART:20260728T170917Z
 SUMMARY:Winners match: MISA vs FAL.F
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600649@tournamentics
@@ -177,9 +177,9 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587560@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260728T183000Z
+DTSTART:20260728T184921Z
 SUMMARY:UUST vs NAVI.J
 UID:cs-go-esea-advanced-europe-58-2026-1608771@tournamentics
 END:VEVENT
@@ -613,7 +613,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260728T183000Z
+DTSTART:20260728T185000Z
 SUMMARY:ARCH vs YL
 UID:cs-go-esea-advanced-europe-58-2026-1608770@tournamentics
 END:VEVENT
@@ -1227,9 +1227,9 @@ SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587558@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260728T183000Z
+DTSTART:20260728T184919Z
 SUMMARY:TEAM_COPH9K vs eVO
 UID:cs-go-esea-advanced-europe-58-2026-1608769@tournamentics
 END:VEVENT
@@ -2585,9 +2585,9 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587566@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260728T183000Z
+DTSTART:20260728T184923Z
 SUMMARY:BW vs PHTM.Ac
 UID:cs-go-esea-advanced-europe-58-2026-1608777@tournamentics
 END:VEVENT
@@ -4303,7 +4303,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260729T170000Z
-SUMMARY:Decider match: BBP vs TBD
+SUMMARY:Decider match: BBP vs MISA
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600650@tournamentics
 END:VEVENT
 BEGIN:VEVENT
