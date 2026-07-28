@@ -284,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260728T081000Z
+DTSTART:20260728T082000Z
 SUMMARY:Round 3: 33 vs Honvéd
 UID:cs-go-nodwin-clutch-series-10-2026-1582167@tournamentics
 END:VEVENT
@@ -2903,7 +2903,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
 DURATION:PT2H
 DTSTART:20260728T090000Z
-SUMMARY:Elimination match: FIN vs TBD
+SUMMARY:Elimination match: FIN vs K28
 UID:cs-go-cis-lan-championship-6-2026-1604927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3337,7 +3337,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260728T090000Z
-SUMMARY:Winners match: LAVK vs TBD
+SUMMARY:Winners match: LAVK vs NEMI
 UID:cs-go-cis-lan-championship-6-2026-1604926@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4216,8 +4216,8 @@ SUMMARY:Round 3: Noir Verse vs PURE
 UID:cs-go-urban-riga-open-6-2026-1596441@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | K28: 0\nStream: https://www.twitch.tv/MPKBK
+DTEND:20260728T081357Z
 DTSTART:20260728T061605Z
 SUMMARY:NEMI vs K28
 UID:cs-go-cis-lan-championship-6-2026-1604924@tournamentics
