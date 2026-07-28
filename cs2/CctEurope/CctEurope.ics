@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260729T080000Z
-SUMMARY:Round 2: TBD vs TBD
+SUMMARY:Round 2: LK vs ex-MANA
 UID:cs-go-cct-europe-series-6-2026-1596481@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -100,18 +100,18 @@ SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596508@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260804T170000Z
-SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-cct-europe-series-6-2026-1596505@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260801T140000Z
 SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587566@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260804T170000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-cct-europe-series-6-2026-1596505@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -156,6 +156,13 @@ SUMMARY:Round 4: Black Phoenix vs BG
 UID:cs-go-cct-europe-series-5-2026-1587540@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: QUAZAR: 0 | NEW VISION: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260726T155838Z
+DTSTART:20260726T140807Z
+SUMMARY:QUA vs NV
+UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596746@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260802T140000Z
@@ -168,13 +175,6 @@ DTEND:20260724T125202Z
 DTSTART:20260724T111501Z
 SUMMARY:Round 2: SPARTA vs Atreides
 UID:cs-go-cct-europe-series-5-2026-1587529@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: QUAZAR: 0 | NEW VISION: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260726T155838Z
-DTSTART:20260726T140807Z
-SUMMARY:QUA vs NV
-UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -212,18 +212,18 @@ SUMMARY:Round 1: Black Phoenix vs RE
 UID:cs-go-cct-europe-series-5-2026-1587520@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Rune Eaters: 2 | ex-MANA eSports: 0\nStream: https://kick.com/cct_cs2
-DTEND:20260728T130351Z
-DTSTART:20260728T111150Z
-SUMMARY:Round 1: RE vs ex-MANA
-UID:cs-go-cct-europe-series-6-2026-1596478@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: megoshort: 1 | ROUNDS: 2\nStream: https://kick.com/cct_cs2
 DTEND:20260724T131958Z
 DTSTART:20260724T110333Z
 SUMMARY:Elimination match: MEGO vs RGG
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596642@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Rune Eaters: 2 | ex-MANA eSports: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260728T130351Z
+DTSTART:20260728T111150Z
+SUMMARY:Round 1: RE vs ex-MANA
+UID:cs-go-cct-europe-series-6-2026-1596478@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: ex-RUSTEC: 0 | Inner Circle Academy: 2\nStream: https://kick.com/cct_cs2
@@ -485,6 +485,13 @@ SUMMARY:Round 4: CSH.P vs Entropy
 UID:cs-go-cct-europe-series-5-2026-1587542@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: Misa Esports: 0 | Mai Tai: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260726T125819Z
+DTSTART:20260726T111511Z
+SUMMARY:MISA vs Mai Tai
+UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596745@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260802T110000Z
@@ -497,13 +504,6 @@ DTEND:20260724T103831Z
 DTSTART:20260724T083945Z
 SUMMARY:Round 2: INOX vs ex-RUSTEC
 UID:cs-go-cct-europe-series-5-2026-1587528@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: Misa Esports: 0 | Mai Tai: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260726T125819Z
-DTSTART:20260726T111511Z
-SUMMARY:MISA vs Mai Tai
-UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -541,18 +541,18 @@ SUMMARY:Upper bracket quarterfinals match 2: GS vs TS.A
 UID:cs-go-cct-europe-contenders-7-2026-1607759@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Black Phoenix: 2 | ENJOY: 1\nStream: https://kick.com/cct_cs2
-DTEND:20260728T105435Z
-DTSTART:20260728T081031Z
-SUMMARY:Round 1: Black Phoenix vs ENJOY
-UID:cs-go-cct-europe-series-6-2026-1596477@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: Privateer Gaming: 0 | Misa Esports: 2\nStream: https://kick.com/cct_cs2
 DTEND:20260724T185708Z
 DTSTART:20260724T170907Z
 SUMMARY:Winners match: PG vs MISA
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596641@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Black Phoenix: 2 | ENJOY: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260728T105435Z
+DTSTART:20260728T081031Z
+SUMMARY:Round 1: Black Phoenix vs ENJOY
+UID:cs-go-cct-europe-series-6-2026-1596477@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: SPARTA: 2 | Honvéd: 0\nStream: https://kick.com/cct_cs2
@@ -733,7 +733,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260729T110000Z
-SUMMARY:Round 2: TBD vs TBD
+SUMMARY:Round 2: Atreides vs ENJOY
 UID:cs-go-cct-europe-series-6-2026-1596482@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -863,18 +863,18 @@ SUMMARY:Round 4: RE vs SAW.Y
 UID:cs-go-cct-europe-series-5-2026-1587541@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260802T170000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-cct-europe-series-6-2026-1596499@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: Honvéd: 2 | Privateer Gaming: 0\nStream: https://kick.com/cct_cs2
 DTEND:20260726T191207Z
 DTSTART:20260726T170426Z
 SUMMARY:Honvéd vs PG
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596747@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260802T170000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-cct-europe-series-6-2026-1596499@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: Entropy: 0 | ENJOY: 2\nStream: https://kick.com/cct_cs2
@@ -947,18 +947,18 @@ SUMMARY:Decider match: RGG vs PG
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596643@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Atreides: 1 | Mai Tai: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260727T194207Z
-DTSTART:20260727T171539Z
-SUMMARY:Round 1: Atreides vs Mai Tai
-UID:cs-go-cct-europe-series-6-2026-1596476@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #6 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | ROUNDS: 0\nStream: https://kick.com/cct_cs2
 DTEND:20260723T190359Z
 DTSTART:20260723T172340Z
 SUMMARY:MISA vs RGG
 UID:cs-go-cct-europe-closed-qualifier-series-6-2026-1596640@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Atreides: 1 | Mai Tai: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260727T194207Z
+DTSTART:20260727T171539Z
+SUMMARY:Round 1: Atreides vs Mai Tai
+UID:cs-go-cct-europe-series-6-2026-1596476@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Just Players: 2 | ex-Young Ninjas: 1\nStream: https://kick.com/cct_cs2
@@ -1024,18 +1024,18 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596514@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260806T110000Z
-SUMMARY:Round of 16 match 6: TBD vs TBD
-UID:cs-go-cct-europe-series-6-2026-1596511@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260802T100000Z
 SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587572@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260806T110000Z
+SUMMARY:Round of 16 match 6: TBD vs TBD
+UID:cs-go-cct-europe-series-6-2026-1596511@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs

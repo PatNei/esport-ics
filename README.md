@@ -150,27 +150,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakePulse/BeatI202
 </details>
 
 <details>
-<summary>Stake Ranked</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics
-```
-
----
-
-### Episode 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode32026.ics
-```
-
-</details>
-
-<details>
 <summary>StarLadder StarSeries</summary>
 
 ### Full Schedule
@@ -371,27 +350,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/July2026.ics
-```
-
-</details>
-
-<details>
-<summary>GLuck Yungstar</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/GluckYungstar.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/GluckYungstar.ics
-```
-
----
-
-### Series #2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/Series22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/Series22026.ics
 ```
 
 </details>
