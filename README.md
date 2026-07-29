@@ -355,27 +355,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 </details>
 
 <details>
-<summary>HyperX & Intel Nationals</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNationals/HyperxIntelNationals.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNationals/HyperxIntelNationals.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNationals/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HyperxIntelNationals/2026.ics
-```
-
-</details>
-
-<details>
 <summary>NODWIN Clutch Series</summary>
 
 ### Full Schedule
