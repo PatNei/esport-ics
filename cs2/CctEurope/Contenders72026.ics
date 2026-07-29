@@ -2,46 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: sleepers: 2 | A Great Chaos: 0\nStream: https://kick.com/cct_cs5
-DTEND:20260728T170137Z
-DTSTART:20260728T153505Z
-SUMMARY:Lower bracket round 1 match 1: sleepers vs A Great Chaos
-UID:cs-go-cct-europe-contenders-7-2026-1607762@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: aimclub: 2 | mellren: 1\nStream: https://kick.com/cct_cs4
-DTEND:20260727T210217Z
-DTSTART:20260727T182118Z
-SUMMARY:Upper bracket quarterfinals match 1: AIMC vs mellren
-UID:cs-go-cct-europe-contenders-7-2026-1607758@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: aimclub: 2 | sleepers: 1\nStream: https://kick.com/cct_cs4
-DTEND:20260726T183056Z
-DTSTART:20260726T153636Z
-SUMMARY:Upper bracket round 1 match 1: AIMC vs sleepers
-UID:cs-go-cct-europe-contenders-7-2026-1605161@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: TrafficPills Esports: 1 | Young TigeRES: 2\nStream: https://kick.com/cct_cs5
-DTEND:20260726T214844Z
-DTSTART:20260726T183326Z
-SUMMARY:Upper bracket round 1 match 6: TrafficPills Esports vs Y.TigeRES
-UID:cs-go-cct-europe-contenders-7-2026-1605166@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
-DTSTART:20260729T181500Z
-SUMMARY:Lower Bracket Round 2 Match 3: GS vs TrafficPills Esports
-UID:cs-go-cct-europe-contenders-7-2026-1610748@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: Gothboiclique: 0 | TrafficPills Esports: 2\nStream: https://kick.com/cct_cs4
-DTEND:20260728T170322Z
-DTSTART:20260728T153910Z
-SUMMARY:Lower bracket round 1 match 3: GBC vs TrafficPills Esports
-UID:cs-go-cct-europe-contenders-7-2026-1607764@tournamentics
+DTSTART:20260801T153000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-cct-europe-contenders-7-2026-1611821@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: TEAM_COPH9K: 0 | banda chuya: 2\nStream: https://kick.com/cct_cs5
@@ -86,6 +51,34 @@ SUMMARY:Upper bracket quarterfinals match 3: AUR.YB vs Y.TigeRES
 UID:cs-go-cct-europe-contenders-7-2026-1607760@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260801T181500Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-cct-europe-contenders-7-2026-1611826@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260802T181500Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-cct-europe-contenders-7-2026-1611823@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260730T181500Z
+SUMMARY:Upper bracket semifinal 1: AIMC vs TS.A
+UID:cs-go-cct-europe-contenders-7-2026-1611819@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260730T181500Z
+SUMMARY:Upper bracket semifinal 2: Y.TigeRES vs banda chuya
+UID:cs-go-cct-europe-contenders-7-2026-1611820@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 1 | 163ON: 2\nStream: https://kick.com/cct_cs4
 DTEND:20260725T191210Z
 DTSTART:20260725T154237Z
@@ -112,5 +105,68 @@ DTEND:20260725T182950Z
 DTSTART:20260725T154608Z
 SUMMARY:Upper bracket round 1 match 4: TS.A vs gribo4ki
 UID:cs-go-cct-europe-contenders-7-2026-1605164@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: sleepers: 2 | A Great Chaos: 0\nStream: https://kick.com/cct_cs5
+DTEND:20260728T170137Z
+DTSTART:20260728T153505Z
+SUMMARY:Lower bracket round 1 match 1: sleepers vs A Great Chaos
+UID:cs-go-cct-europe-contenders-7-2026-1607762@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: aimclub: 2 | mellren: 1\nStream: https://kick.com/cct_cs4
+DTEND:20260727T210217Z
+DTSTART:20260727T182118Z
+SUMMARY:Upper bracket quarterfinals match 1: AIMC vs mellren
+UID:cs-go-cct-europe-contenders-7-2026-1607758@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: aimclub: 2 | sleepers: 1\nStream: https://kick.com/cct_cs4
+DTEND:20260726T183056Z
+DTSTART:20260726T153636Z
+SUMMARY:Upper bracket round 1 match 1: AIMC vs sleepers
+UID:cs-go-cct-europe-contenders-7-2026-1605161@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260731T183000Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-cct-europe-contenders-7-2026-1611825@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: TrafficPills Esports: 1 | Young TigeRES: 2\nStream: https://kick.com/cct_cs5
+DTEND:20260726T214844Z
+DTSTART:20260726T183326Z
+SUMMARY:Upper bracket round 1 match 6: TrafficPills Esports vs Y.TigeRES
+UID:cs-go-cct-europe-contenders-7-2026-1605166@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260729T181500Z
+SUMMARY:Lower Bracket Round 2 Match 3: GS vs TrafficPills Esports
+UID:cs-go-cct-europe-contenders-7-2026-1610748@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: Gothboiclique: 0 | TrafficPills Esports: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260728T170322Z
+DTSTART:20260728T153910Z
+SUMMARY:Lower bracket round 1 match 3: GBC vs TrafficPills Esports
+UID:cs-go-cct-europe-contenders-7-2026-1607764@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260802T153000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-cct-europe-contenders-7-2026-1611827@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260731T153000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-cct-europe-contenders-7-2026-1611824@tournamentics
 END:VEVENT
 END:VCALENDAR
