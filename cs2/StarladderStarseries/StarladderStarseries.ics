@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260730T220000Z
-SUMMARY:Upper bracket semifinal 2: VOCA vs TBD
+SUMMARY:Upper bracket semifinal 2: VOCA vs SportsBetExpert
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596580@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260731T010000Z
-SUMMARY:Lower bracket round 1 match 2: REGAIN vs TBD
+SUMMARY:Lower bracket round 1 match 2: REGAIN vs CCE
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596584@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -352,8 +352,8 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596581@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: Chicken Coop Esports: 1 | SportsBetExpert: 2\nStream: https://kick.com/starladder
+DTEND:20260729T212912Z
 DTSTART:20260729T190107Z
 SUMMARY:Upper bracket quarterfinal 3: CCE vs SportsBetExpert
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596577@tournamentics
