@@ -291,7 +291,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
 DURATION:PT2H
-DTSTART:20260729T180000Z
+DTSTART:20260729T181000Z
 SUMMARY:Quarterfinal 3: CS vs VP
 UID:cs-go-cis-lan-championship-6-2026-1607768@tournamentics
 END:VEVENT
@@ -2228,8 +2228,8 @@ SUMMARY:Semifinal 1: JustP vs 1WIN
 UID:cs-go-european-pro-league-series-8-2026-1554037@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/celtip
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: B8 Academy: 1 | Spirit Academy Green: 0\nStream: https://www.twitch.tv/celtip
+DTEND:20260729T180622Z
 DTSTART:20260729T171721Z
 SUMMARY:B8.A vs Spirit Academy Green
 UID:cs-go-esea-advanced-europe-58-2026-1610253@tournamentics
@@ -3453,7 +3453,7 @@ SUMMARY:Winners match: BMB vs ENJOY
 UID:cs-go-european-pro-league-series-8-2026-1554011@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
 DTSTART:20260729T181500Z
 SUMMARY:Lower Bracket Round 2 Match 3: GS vs TrafficPills Esports
