@@ -338,13 +338,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsNationsCup/E
 
 ---
 
-### East European Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsNationsCup/EastEuropeanQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsNationsCup/EastEuropeanQualifier2026.ics
-```
-
 ### West European Qualifier 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsNationsCup/WestEuropeanQualifier2026.ics)
 
