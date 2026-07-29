@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260729T103000Z
+DTSTART:20260729T104000Z
 SUMMARY:SNG vs FF
 UID:cs-go-united21-53-2026-1608567@tournamentics
 END:VEVENT
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260802T103000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: TTBS vs TBD
 UID:cs-go-united21-53-2026-1608569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -205,8 +205,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-53-2026-1608570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Teletubisie: 0 | WRAITH PCIFIC: 2\nStream: https://kick.com/united21_en
+DTEND:20260729T103019Z
 DTSTART:20260729T081345Z
 SUMMARY:TTBS vs PCIFIC
 UID:cs-go-united21-53-2026-1608566@tournamentics
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260802T080000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: PCIFIC vs TBD
 UID:cs-go-united21-53-2026-1608568@tournamentics
 END:VEVENT
 BEGIN:VEVENT
