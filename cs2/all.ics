@@ -1110,7 +1110,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260730T111500Z
+DTSTART:20260730T113000Z
 SUMMARY:Round of 16 match 2: G1 vs ex-RUSTEC
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602182@tournamentics
 END:VEVENT
@@ -1500,8 +1500,8 @@ SUMMARY:Winners match: Atreides vs SPARTA
 UID:cs-go-european-pro-league-series-8-2026-1554016@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | los kogutos: 1\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260730T111949Z
 DTSTART:20260730T080842Z
 SUMMARY:Round of 16 match 7: 1WIN vs LK
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602181@tournamentics
@@ -1671,7 +1671,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260801T170000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: 1WIN vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602192@tournamentics
 END:VEVENT
 BEGIN:VEVENT
