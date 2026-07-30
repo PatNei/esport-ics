@@ -66,27 +66,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series620
 ## C Tier
 
 <details>
-<summary>BetBoom RUSH B!</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomRushB/BetboomRushB.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomRushB/BetboomRushB.ics
-```
-
----
-
-### Summit season 4 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomRushB/SummitSeason42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomRushB/SummitSeason42026.ics
-```
-
-</details>
-
-<details>
 <summary>CCT South America</summary>
 
 ### Full Schedule
