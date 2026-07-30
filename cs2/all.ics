@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260731T123000Z
+DTSTART:20260730T160000Z
 SUMMARY:Quarterfinal 3: 3DMAX vs MOUZ
 UID:cs-go-blast-bounty-summer-2026-1593363@tournamentics
 END:VEVENT
@@ -515,7 +515,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260730T160000Z
+DTSTART:20260731T123000Z
 SUMMARY:Quarterfinal 2: FaZe vs MGLZ
 UID:cs-go-blast-bounty-summer-2026-1593362@tournamentics
 END:VEVENT
@@ -886,7 +886,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260730T130000Z
+DTSTART:20260731T153000Z
 SUMMARY:Quarterfinal 1: paiN vs AST
 UID:cs-go-blast-bounty-summer-2026-1593361@tournamentics
 END:VEVENT
@@ -1384,7 +1384,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260731T220000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: LAG vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596585@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2144,8 +2144,8 @@ SUMMARY:ACE vs 6666
 UID:cs-go-stake-pulse-beat-i-2026-1596599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: Iowa Stormboar: 0 | LAG Gaming: 2\nStream: https://kick.com/starladder1
+DTEND:20260730T022700Z
 DTSTART:20260730T010123Z
 SUMMARY:Lower bracket round 1 match 1: IOWA vs LAG
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596583@tournamentics
@@ -4505,7 +4505,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260731T153000Z
+DTSTART:20260730T130000Z
 SUMMARY:Quarterfinal 4: TL vs TS
 UID:cs-go-blast-bounty-summer-2026-1593364@tournamentics
 END:VEVENT
