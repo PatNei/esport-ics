@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260801T080000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: INOX vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -394,9 +394,9 @@ SUMMARY:Lower bracket round 1 match 4: VP.P vs TEAM_COPH9K
 UID:cs-go-cct-europe-contenders-7-2026-1607765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260730T110000Z
+DTSTART:20260730T110533Z
 SUMMARY:Round 2: RE vs UNiTY
 UID:cs-go-cct-europe-series-6-2026-1596486@tournamentics
 END:VEVENT
@@ -1129,8 +1129,8 @@ SUMMARY:Round of 16 match 6: SASHI vs EAC
 UID:cs-go-cct-europe-series-5-2026-1587558@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: Nordic Partners Gaming : 1 | INOX Division: 2\nStream: https://kick.com/cct_cs
+DTEND:20260730T110852Z
 DTSTART:20260730T080833Z
 SUMMARY:Round of 16 match 2: NPG vs INOX
 UID:cs-go-cct-europe-series-5-2026-1587555@tournamentics
