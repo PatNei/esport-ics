@@ -306,7 +306,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260731T153000Z
-SUMMARY:Lower bracket quarterfinal 1: sleepers vs TBD
+SUMMARY:Lower bracket quarterfinal 1: sleepers vs TS.A
 UID:cs-go-cct-europe-contenders-7-2026-1611824@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -859,7 +859,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260801T180000Z
-SUMMARY:Upper bracket final: MIBR vs TBD
+SUMMARY:Upper bracket final: MIBR vs SHIN
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596527@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1234,8 +1234,8 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602193@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nResult: Imperial: 1 | ShindeN: 2\nStream: https://kick.com/starladder
+DTEND:20260730T212216Z
 DTSTART:20260730T180427Z
 SUMMARY:Upper bracket semifinal 2: IMP vs SHIN
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596526@tournamentics
@@ -1384,7 +1384,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260801T153000Z
-SUMMARY:Upper bracket final: Y.TigeRES vs TBD
+SUMMARY:Upper bracket final: Y.TigeRES vs AIMC
 UID:cs-go-cct-europe-contenders-7-2026-1611821@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2277,8 +2277,8 @@ SUMMARY:Round 2: NAVI.J vs LEO
 UID:cs-go-urban-riga-open-6-2026-1596445@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: aimclub: 2 | Spirit Academy: 1\nStream: https://kick.com/cct_cs4
+DTEND:20260730T212456Z
 DTSTART:20260730T183758Z
 SUMMARY:Upper bracket semifinal 1: AIMC vs TS.A
 UID:cs-go-cct-europe-contenders-7-2026-1611819@tournamentics
@@ -2599,8 +2599,8 @@ SUMMARY:Round 4: ex-RUSTEC vs G2.A
 UID:cs-go-nodwin-clutch-series-10-2026-1582172@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nResult: WW Team: 3 | Virtus.pro: 2\nStream: https://www.twitch.tv/mpkbk
+DTEND:20260730T212902Z
 DTSTART:20260730T163058Z
 SUMMARY:Grand final: WW vs VP
 UID:cs-go-cis-lan-championship-6-2026-1607773@tournamentics
@@ -3589,7 +3589,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260731T180000Z
-SUMMARY:Lower bracket quarterfinal 1: FXW7 vs TBD
+SUMMARY:Lower bracket quarterfinal 1: FXW7 vs IMP
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596531@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3980,7 +3980,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260730T213000Z
+DTSTART:20260730T214500Z
 SUMMARY:Lower bracket round 1 match 2: BST vs GLS
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596530@tournamentics
 END:VEVENT
