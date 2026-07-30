@@ -82,19 +82,19 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260801T010000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: MARS vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596586@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
 DTSTART:20260730T010000Z
 SUMMARY:Lower bracket round 1 match 1: IOWA vs LAG
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596583@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: NRG: 2 | Marsborne: 1\nStream: https://kick.com/starladder
+DTEND:20260730T002231Z
 DTSTART:20260729T220144Z
 SUMMARY:Upper bracket semifinal 1: NRG vs MARS
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596579@tournamentics
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260801T220000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: NRG vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596581@tournamentics
 END:VEVENT
 BEGIN:VEVENT
