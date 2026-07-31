@@ -159,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
 DURATION:PT2H
 DTSTART:20260731T130000Z
-SUMMARY:Elimination match: XCLAN vs TBD
+SUMMARY:Elimination match: XCLAN vs EAC
 UID:cs-go-stake-pulse-beat-i-2026-1596592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -537,7 +537,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
 DURATION:PT2H
 DTSTART:20260731T130000Z
-SUMMARY:Winners match: HOTU vs TBD
+SUMMARY:Winners match: HOTU vs G2.A
 UID:cs-go-stake-pulse-beat-i-2026-1596591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -905,8 +905,8 @@ SUMMARY:Round of 16 match 1: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596506@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nResult: Esport Academy Copenhagen: 0 | G2 Ares: 2\nStream: https://kick.com/stake_esports
+DTEND:20260731T114138Z
 DTSTART:20260731T100740Z
 SUMMARY:EAC vs G2.A
 UID:cs-go-stake-pulse-beat-i-2026-1596590@tournamentics
