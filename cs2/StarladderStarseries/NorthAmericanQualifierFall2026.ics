@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260801T220000Z
-SUMMARY:Upper bracket final: NRG vs TBD
+SUMMARY:Upper bracket final: NRG vs VOCA
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596581@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Upper bracket semifinal 1: NRG vs MARS
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596579@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: Voca: 2 | SportsBetExpert: 1\nStream: https://kick.com/starladder1
+DTEND:20260731T001625Z
 DTSTART:20260730T220153Z
 SUMMARY:Upper bracket semifinal 2: VOCA vs SportsBetExpert
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596580@tournamentics
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260731T220000Z
-SUMMARY:Lower bracket quarterfinal 1: LAG vs TBD
+SUMMARY:Lower bracket quarterfinal 1: LAG vs SportsBetExpert
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596585@tournamentics
 END:VEVENT
 END:VCALENDAR
