@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
 DURATION:PT2H
 DTSTART:20260731T160000Z
-SUMMARY:Decider match: EAC vs TBD
+SUMMARY:Decider match: EAC vs HOTU
 UID:cs-go-stake-pulse-beat-i-2026-1596593@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +170,8 @@ SUMMARY:TL vs Atputies
 UID:cs-go-stake-pulse-beat-i-2026-1596594@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nResult: HOTU: 0 | G2 Ares: 2\nStream: https://kick.com/stake_esports
+DTEND:20260731T144025Z
 DTSTART:20260731T130109Z
 SUMMARY:Winners match: HOTU vs G2.A
 UID:cs-go-stake-pulse-beat-i-2026-1596591@tournamentics
