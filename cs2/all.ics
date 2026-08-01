@@ -303,9 +303,9 @@ SUMMARY:Semifinal 1: AUR vs HOTU
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596471@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Elisa BreakOut - Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/elisaesports
+DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa BreakOut - Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/elisaesports
 DURATION:PT2H
-DTSTART:20260801T170000Z
+DTSTART:20260801T171105Z
 SUMMARY:Grand final: ENCE vs BCG
 UID:cs-go-elisa-breakout-series-1-2026-1602998@tournamentics
 END:VEVENT
@@ -604,7 +604,7 @@ SUMMARY:Winners match: HOTU vs G2.A
 UID:cs-go-stake-pulse-beat-i-2026-1596591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
 DURATION:PT2H
 DTSTART:20260801T170000Z
 SUMMARY:shoke Club vs SNAILKICK Club
@@ -2552,7 +2552,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260801T172500Z
+DTSTART:20260801T173500Z
 SUMMARY:Quarterfinal 2: MEGO vs CS
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602190@tournamentics
 END:VEVENT
@@ -3302,7 +3302,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260802T103000Z
-SUMMARY:Grand final: TS vs TBD
+SUMMARY:Grand final: TS vs MOUZ
 UID:cs-go-blast-bounty-summer-2026-1593367@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3754,8 +3754,8 @@ SUMMARY:Semifinal 1: WW vs TDK
 UID:cs-go-cis-lan-championship-6-2026-1607771@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nResult: Astralis: 1 | MOUZ: 2\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260801T171848Z
 DTSTART:20260801T141613Z
 SUMMARY:Semifinal 2: AST vs MOUZ
 UID:cs-go-blast-bounty-summer-2026-1593366@tournamentics
