@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260801T175000Z
+DTSTART:20260801T180000Z
 SUMMARY:Quarterfinal 2: ex-RUSTEC vs SPARTA
 UID:cs-go-cct-europe-series-5-2026-1587564@tournamentics
 END:VEVENT
@@ -166,12 +166,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260802T130000Z
-SUMMARY:Semifinal 2: Black Phoenix vs TBD
+SUMMARY:Semifinal 2: Black Phoenix vs SASHI
 UID:cs-go-cct-europe-series-5-2026-1587573@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: Sashi Esport: 2 | Just Players: 1\nStream: https://kick.com/cct_cs
+DTEND:20260801T174158Z
 DTSTART:20260801T143709Z
 SUMMARY:Quarterfinal 3: SASHI vs JustP
 UID:cs-go-cct-europe-series-5-2026-1587566@tournamentics
