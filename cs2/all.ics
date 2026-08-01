@@ -151,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jam_mie
 DURATION:PT2H
-DTSTART:20260801T083459Z
+DTSTART:20260801T080059Z
 SUMMARY:TU vs TM
 UID:cs-go-bro-summer-cup-2026-1615302@tournamentics
 END:VEVENT
@@ -571,7 +571,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=Qu616yM1jKc
 DURATION:PT2H
-DTSTART:20260801T083455Z
+DTSTART:20260801T080055Z
 SUMMARY:OMG vs ZWAW
 UID:cs-go-bro-summer-cup-2026-1615301@tournamentics
 END:VEVENT
@@ -3500,6 +3500,13 @@ DTEND:20260731T235103Z
 DTSTART:20260731T213015Z
 SUMMARY:Lower bracket quarterfinal 2: LDP vs BST
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596532@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nResult: DEPO: 2 | RayRay: 0\nStream: No official stream linked
+DTEND:20260801T074500Z
+DTSTART:20260801T060000Z
+SUMMARY:DEPO vs RAY
+UID:cs-go-bro-summer-cup-2026-1615317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 2 | STATE: 0\nStream: https://www.twitch.tv/thunderpicktv
