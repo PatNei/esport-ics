@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260804T080000Z
-SUMMARY:Winners match: INF vs TBD
+SUMMARY:Winners match: INF vs STA
 UID:cs-go-united21-53-2026-1608658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260804T103000Z
-SUMMARY:Elimination match: ENCE.P vs TBD
+SUMMARY:Elimination match: ENCE.P vs Inner Circle Prospect
 UID:cs-go-united21-53-2026-1608659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-53-2026-1608660@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Inner Circle Prospect: 0 | STATE: 2\nStream: https://kick.com/united21_en
+DTEND:20260801T144218Z
 DTSTART:20260801T131133Z
 SUMMARY:Inner Circle Prospect vs STA
 UID:cs-go-united21-53-2026-1608656@tournamentics
