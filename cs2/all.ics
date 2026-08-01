@@ -978,7 +978,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260802T130000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: LC vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2151,8 +2151,8 @@ SUMMARY:ALT vs DNT
 UID:cs-go-bro-summer-cup-2026-1615320@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: Walczaki: 0 | Lazer Cats: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260801T094348Z
 DTSTART:20260801T080354Z
 SUMMARY:Quarterfinal 3: WAL vs LC
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602191@tournamentics
@@ -3859,7 +3859,7 @@ SUMMARY:Decider match: paiN.A vs Rush
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1609952@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_cs2
 DURATION:PT2H
 DTSTART:20260801T100000Z
 SUMMARY:BCA vs TLR
@@ -4321,7 +4321,7 @@ SUMMARY:Winners' match: TBD vs TBD
 UID:cs-go-bro-summer-cup-2026-1615304@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_pulse
 DURATION:PT2H
 DTSTART:20260801T100000Z
 SUMMARY:TL vs Atputies
