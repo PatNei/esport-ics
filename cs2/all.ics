@@ -306,7 +306,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa BreakOut - Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/elisaesports
 DURATION:PT2H
 DTSTART:20260801T170000Z
-SUMMARY:Grand final: ENCE vs TBD
+SUMMARY:Grand final: ENCE vs BCG
 UID:cs-go-elisa-breakout-series-1-2026-1602998@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -716,8 +716,8 @@ SUMMARY:33 vs HTX
 UID:cs-go-cis-lan-championship-6-2026-1605009@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa BreakOut - Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/elisaesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Elisa BreakOut - Series #1 2026\nMatch Type: Best Of\nResult: SINQU: 0 | BC.Game Esports: 2\nStream: https://kick.com/elisaesports
+DTEND:20260801T133558Z
 DTSTART:20260801T120046Z
 SUMMARY:Semifinal 2: SINQU vs BCG
 UID:cs-go-elisa-breakout-series-1-2026-1602997@tournamentics
@@ -3302,7 +3302,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260802T103000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: TS vs TBD
 UID:cs-go-blast-bounty-summer-2026-1593367@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4209,8 +4209,8 @@ SUMMARY:Round 1: EAC vs Entropy
 UID:cs-go-cct-europe-series-5-2026-1587517@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nResult: FaZe: 1 | Spirit: 2\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260801T133030Z
 DTSTART:20260801T103116Z
 SUMMARY:Semifinal 1: FaZe vs TS
 UID:cs-go-blast-bounty-summer-2026-1593365@tournamentics
