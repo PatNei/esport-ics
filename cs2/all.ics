@@ -653,9 +653,9 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615308@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260801T140000Z
+DTSTART:20260801T141123Z
 SUMMARY:Round 3: SPARTA vs RE
 UID:cs-go-cct-europe-series-6-2026-1596494@tournamentics
 END:VEVENT
@@ -2172,9 +2172,9 @@ SUMMARY:GZ vs TW
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615343@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jam_mie
 DURATION:PT2H
-DTSTART:20260801T140000Z
+DTSTART:20260801T143000Z
 SUMMARY:Decider match: TU vs TM
 UID:cs-go-bro-summer-cup-2026-1615309@tournamentics
 END:VEVENT
@@ -3754,9 +3754,9 @@ SUMMARY:Semifinal 1: WW vs TDK
 UID:cs-go-cis-lan-championship-6-2026-1607771@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260801T141000Z
+DTSTART:20260801T141613Z
 SUMMARY:Semifinal 2: AST vs MOUZ
 UID:cs-go-blast-bounty-summer-2026-1593366@tournamentics
 END:VEVENT
@@ -3866,8 +3866,8 @@ SUMMARY:Recrent Club vs Perfecto Club
 UID:cs-go-winline-star-series-3-2026-1614317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: INOX Division: 1 | Sinners: 2\nStream: https://kick.com/cct_cs
+DTEND:20260801T141605Z
 DTSTART:20260801T111849Z
 SUMMARY:Quarterfinal 1: INOX vs SIN
 UID:cs-go-cct-europe-series-5-2026-1587563@tournamentics
@@ -4664,8 +4664,8 @@ SUMMARY:Elimination match: WAL vs 3DMAX
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596461@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nResult: RayRay: 1 | Donstu Esports: 2\nStream: https://www.twitch.tv/theeb1ye
+DTEND:20260801T141401Z
 DTSTART:20260801T120746Z
 SUMMARY:Decider match: RAY vs DNT
 UID:cs-go-bro-summer-cup-2026-1615326@tournamentics
@@ -4975,7 +4975,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260802T100000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: SIN vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587572@tournamentics
 END:VEVENT
 BEGIN:VEVENT

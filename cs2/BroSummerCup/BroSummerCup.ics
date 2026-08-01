@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nResult: RayRay: 1 | Donstu Esports: 2\nStream: https://www.twitch.tv/theeb1ye
+DTEND:20260801T141401Z
 DTSTART:20260801T120746Z
 SUMMARY:Decider match: RAY vs DNT
 UID:cs-go-bro-summer-cup-2026-1615326@tournamentics
@@ -58,9 +58,9 @@ SUMMARY:Elimination match: RAY vs ALT
 UID:cs-go-bro-summer-cup-2026-1615325@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jam_mie
 DURATION:PT2H
-DTSTART:20260801T140000Z
+DTSTART:20260801T143000Z
 SUMMARY:Decider match: TU vs TM
 UID:cs-go-bro-summer-cup-2026-1615309@tournamentics
 END:VEVENT
