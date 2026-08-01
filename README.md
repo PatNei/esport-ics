@@ -87,6 +87,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Ser
 </details>
 
 <details>
+<summary>ESL Challenger League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics
+```
+
+---
+
+### Europe Cup #2 season 52 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup2Season522026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup2Season522026.ics
+```
+
+</details>
+
+<details>
 <summary>European Pro League</summary>
 
 ### Full Schedule
@@ -203,6 +224,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/Betboo
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/Season42026.ics
+```
+
+</details>
+
+<details>
+<summary>BRO SUMMER CUP</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BroSummerCup/BroSummerCup.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BroSummerCup/BroSummerCup.ics
+```
+
+---
+
+### 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BroSummerCup/2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BroSummerCup/2026.ics
 ```
 
 </details>
