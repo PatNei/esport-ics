@@ -12,12 +12,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T170000Z
-SUMMARY:Elimination match: FAV vs TBD
+SUMMARY:Elimination match: FAV vs MOUZ.N
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615322@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tavarescs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | WBT: 2\nStream: https://www.twitch.tv/tavarescs2
+DTEND:20260802T154621Z
 DTSTART:20260802T131452Z
 SUMMARY:MOUZ.N vs WBT
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615318@tournamentics
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T170000Z
-SUMMARY:Winners match: MISA vs TBD
+SUMMARY:Winners match: MISA vs WBT
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615321@tournamentics
 END:VEVENT
 BEGIN:VEVENT
