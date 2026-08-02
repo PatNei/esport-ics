@@ -277,8 +277,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260802T160000Z
-SUMMARY:Grand final: SASHI vs TBD
+DTSTART:20260802T161500Z
+SUMMARY:Grand final: SASHI vs SIN
 UID:cs-go-cct-europe-series-5-2026-1587574@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -947,8 +947,8 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596511@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: Sinners: 2 | SPARTA: 1\nStream: https://kick.com/cct_cs
+DTEND:20260802T160729Z
 DTSTART:20260802T130622Z
 SUMMARY:Semifinal 1: SIN vs SPARTA
 UID:cs-go-cct-europe-series-5-2026-1587572@tournamentics
