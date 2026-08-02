@@ -691,7 +691,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T170000Z
-SUMMARY:Elimination match: Vexar vs TBD
+SUMMARY:Elimination match: Vexar vs IC.A
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615308@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -999,7 +999,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
 DURATION:PT2H
 DTSTART:20260802T160000Z
-SUMMARY:Decider match: 9INE vs TBD
+SUMMARY:Decider match: 9INE vs BRUTE
 UID:cs-go-stake-pulse-beat-i-2026-1596603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1587,7 +1587,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T170000Z
-SUMMARY:Winners match: Leo vs TBD
+SUMMARY:Winners match: Leo vs ex-MANA
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1843,8 +1843,8 @@ SUMMARY:Round 3: BRUTE vs LEO
 UID:cs-go-urban-riga-open-6-2026-1596447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_pulse
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nResult: Acend: 2 | Brute: 1\nStream: https://kick.com/stake_pulse
+DTEND:20260802T153443Z
 DTSTART:20260802T130112Z
 SUMMARY:Winners match: ACE vs BRUTE
 UID:cs-go-stake-pulse-beat-i-2026-1596601@tournamentics
@@ -1990,8 +1990,8 @@ SUMMARY:Elimination match: FOR vs IC.A
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600633@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 1 | ex-MANA eSports: 2\nStream: No official stream linked
+DTEND:20260802T153624Z
 DTSTART:20260802T131217Z
 SUMMARY:IC.A vs ex-MANA
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615305@tournamentics
@@ -2196,7 +2196,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260803T130000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Noir Verse vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615316@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2618,13 +2618,6 @@ DTEND:20260728T094754Z
 DTSTART:20260728T081014Z
 SUMMARY:Elimination match: Entropy vs Mai Tai
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600643@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260802T170000Z
-SUMMARY:Elimination match: DC vs Noir Verse
-UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615315@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nResult: Virtus.pro: 2 | WW Team: 1\nStream: https://www.twitch.tv/strogo
@@ -4258,9 +4251,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-betboom-storm-4-2026-1611513@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
-DTSTART:20260802T153000Z
+DTSTART:20260802T153614Z
 SUMMARY:Lower bracket final: Y.TigeRES vs TS.A
 UID:cs-go-cct-europe-contenders-7-2026-1611827@tournamentics
 END:VEVENT

@@ -26,19 +26,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T170000Z
-SUMMARY:Elimination match: DC vs Noir Verse
-UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615315@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260802T170000Z
-SUMMARY:Elimination match: Vexar vs TBD
+SUMMARY:Elimination match: Vexar vs IC.A
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615308@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 1 | ex-MANA eSports: 2\nStream: No official stream linked
+DTEND:20260802T153624Z
 DTSTART:20260802T131217Z
 SUMMARY:IC.A vs ex-MANA
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615305@tournamentics
@@ -138,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260803T130000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Noir Verse vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615316@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -152,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T170000Z
-SUMMARY:Winners match: Leo vs TBD
+SUMMARY:Winners match: Leo vs ex-MANA
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
