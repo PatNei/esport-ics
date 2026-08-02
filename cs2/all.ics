@@ -1426,7 +1426,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
 DURATION:PT2H
 DTSTART:20260802T130000Z
-SUMMARY:Elimination match: 6666 vs TBD
+SUMMARY:Elimination match: 6666 vs 9INE
 UID:cs-go-stake-pulse-beat-i-2026-1596602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1846,7 +1846,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
 DURATION:PT2H
 DTSTART:20260802T130000Z
-SUMMARY:Winners match: ACE vs TBD
+SUMMARY:Winners match: ACE vs BRUTE
 UID:cs-go-stake-pulse-beat-i-2026-1596601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2263,8 +2263,8 @@ SUMMARY:Round 3: NAVI.J vs MOUZ.N
 UID:cs-go-urban-riga-open-6-2026-1596446@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_pulse
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nResult: 9INE: 0 | Brute: 2\nStream: https://kick.com/stake_pulse
+DTEND:20260802T115753Z
 DTSTART:20260802T100214Z
 SUMMARY:9INE vs BRUTE
 UID:cs-go-stake-pulse-beat-i-2026-1596600@tournamentics
