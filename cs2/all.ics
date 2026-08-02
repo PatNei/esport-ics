@@ -1453,7 +1453,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260802T130000Z
+DTSTART:20260802T140000Z
 SUMMARY:Semifinal 1: G1 vs CS
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602193@tournamentics
 END:VEVENT
@@ -4366,7 +4366,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260802T160000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: SASHI vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587574@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4811,8 +4811,8 @@ SUMMARY:Upper bracket quarterfinal 4: REGAIN vs VOCA
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596578@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: Sashi Esport: 2 | Black Phoenix: 1\nStream: https://kick.com/cct_cs
+DTEND:20260802T122739Z
 DTSTART:20260802T100920Z
 SUMMARY:Semifinal 2: SASHI vs Black Phoenix
 UID:cs-go-cct-europe-series-5-2026-1587573@tournamentics

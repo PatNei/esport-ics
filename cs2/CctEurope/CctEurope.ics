@@ -278,7 +278,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260802T160000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: SASHI vs TBD
 UID:cs-go-cct-europe-series-5-2026-1587574@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -604,8 +604,8 @@ SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596512@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: Sashi Esport: 2 | Black Phoenix: 1\nStream: https://kick.com/cct_cs
+DTEND:20260802T122739Z
 DTSTART:20260802T100920Z
 SUMMARY:Semifinal 2: SASHI vs Black Phoenix
 UID:cs-go-cct-europe-series-5-2026-1587573@tournamentics
