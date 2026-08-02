@@ -215,7 +215,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260802T220000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: NRG vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596588@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260803T003000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: VOCA vs TBD
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596582@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -345,8 +345,8 @@ SUMMARY:Lower bracket round 1 match 2: REGAIN vs CCE
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596584@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - North American Qualifier Fall 2026\nMatch Type: Best Of\nResult: NRG: 1 | Voca: 2\nStream: https://kick.com/starladder
+DTEND:20260802T001330Z
 DTSTART:20260801T215857Z
 SUMMARY:Upper bracket final: NRG vs VOCA
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596581@tournamentics
