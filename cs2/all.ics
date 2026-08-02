@@ -768,7 +768,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260802T181500Z
-SUMMARY:Grand final: AIMC vs TBD
+SUMMARY:Grand final: AIMC vs TS.A
 UID:cs-go-cct-europe-contenders-7-2026-1611823@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2935,9 +2935,9 @@ SUMMARY:Round 2: HAVU vs BCG
 UID:cs-go-elisa-breakout-series-1-2026-1602992@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
+DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
-DTSTART:20260802T180000Z
+DTSTART:20260802T180322Z
 SUMMARY:Lower bracket final: SHIN vs BST
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596534@tournamentics
 END:VEVENT
@@ -3558,9 +3558,9 @@ SUMMARY:Elimination match: 100T vs NTR
 UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596464@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/wyllyx192
+DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260802T180000Z
+DTSTART:20260802T180504Z
 SUMMARY:Decider match: ??? vs BST.A
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1616180@tournamentics
 END:VEVENT
@@ -4244,8 +4244,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-betboom-storm-4-2026-1611513@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #7 2026\nMatch Type: Best Of\nResult: Young TigeRES: 0 | Spirit Academy: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260802T180950Z
 DTSTART:20260802T153614Z
 SUMMARY:Lower bracket final: Y.TigeRES vs TS.A
 UID:cs-go-cct-europe-contenders-7-2026-1611827@tournamentics
