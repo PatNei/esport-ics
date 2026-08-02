@@ -557,7 +557,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
 DURATION:PT2H
-DTSTART:20260802T210000Z
+DTSTART:20260802T203000Z
 SUMMARY:Grand final: MIBR vs TBD
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596528@tournamentics
 END:VEVENT
@@ -2616,7 +2616,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T170000Z
-SUMMARY:Elimination match: DC vs TBD
+SUMMARY:Elimination match: DC vs Noir Verse
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615315@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3057,7 +3057,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T170000Z
-SUMMARY:Winners match: FOR vs TBD
+SUMMARY:Winners match: FOR vs LK
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615314@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3474,8 +3474,8 @@ SUMMARY:ex-RUSTEC vs Entropy
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | Noir Verse: 0\nStream: No official stream linked
+DTEND:20260802T145238Z
 DTSTART:20260802T131740Z
 SUMMARY:LK vs Noir Verse
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615313@tournamentics
