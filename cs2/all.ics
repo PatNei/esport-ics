@@ -565,7 +565,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260802T203000Z
-SUMMARY:Grand final: MIBR vs TBD
+SUMMARY:Grand final: MIBR vs BST
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596528@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2935,8 +2935,8 @@ SUMMARY:Round 2: HAVU vs BCG
 UID:cs-go-elisa-breakout-series-1-2026-1602992@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - South American Qualifier Fall 2026\nMatch Type: Best Of\nResult: ShindeN: 0 | BESTIA: 2\nStream: https://kick.com/starladder1
+DTEND:20260802T200715Z
 DTSTART:20260802T180322Z
 SUMMARY:Lower bracket final: SHIN vs BST
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596534@tournamentics
@@ -4212,7 +4212,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260803T130000Z
-SUMMARY:Decider match: BMB vs TBD
+SUMMARY:Decider match: BMB vs FF
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615300@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4342,8 +4342,8 @@ SUMMARY:Upper bracket semifinal 1: NRG vs MARS
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596579@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: Sashi Esport: 2 | Sinners: 1\nStream: https://kick.com/cct_cs
+DTEND:20260802T200456Z
 DTSTART:20260802T165809Z
 SUMMARY:Grand final: SASHI vs SIN
 UID:cs-go-cct-europe-series-5-2026-1587574@tournamentics
@@ -5182,8 +5182,8 @@ SUMMARY:Entropy vs MISA
 UID:cs-go-nodwin-clutch-series-10-2026-1582145@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | Fire Flux Esports: 1\nStream: https://www.twitch.tv/iamfusiion
+DTEND:20260802T200533Z
 DTSTART:20260802T170836Z
 SUMMARY:Winners match: BW vs FF
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615297@tournamentics
