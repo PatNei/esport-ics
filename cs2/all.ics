@@ -558,7 +558,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260802T160000Z
-SUMMARY:Grand final: LC vs TBD
+SUMMARY:Grand final: LC vs G1
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602195@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1451,8 +1451,8 @@ SUMMARY:PG vs B8.A
 UID:cs-go-esea-advanced-europe-58-2026-1611831@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: GenOne: 2 | CYBERSHOKE Esports: 0\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260802T151940Z
 DTSTART:20260802T134614Z
 SUMMARY:Semifinal 1: G1 vs CS
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602193@tournamentics
