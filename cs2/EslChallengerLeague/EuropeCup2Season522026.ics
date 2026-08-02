@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sv_theunknown
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T130725Z
 SUMMARY:BW vs Mai Tai
@@ -26,15 +26,8 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T170000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: DC vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615315@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260802T130000Z
-SUMMARY:DC vs FOR
-UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615312@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -103,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: FOR vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615314@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -156,9 +149,9 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615316@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260802T130000Z
+DTSTART:20260802T131740Z
 SUMMARY:LK vs Noir Verse
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615313@tournamentics
 END:VEVENT

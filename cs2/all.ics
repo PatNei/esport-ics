@@ -352,7 +352,7 @@ SUMMARY:Round 2: PURE vs ASTR
 UID:cs-go-urban-riga-open-6-2026-1596439@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sv_theunknown
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T130725Z
 SUMMARY:BW vs Mai Tai
@@ -551,7 +551,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260802T160000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: LC vs TBD
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602195@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1017,8 +1017,8 @@ SUMMARY:Winners' match: DEPO vs DNT
 UID:cs-go-bro-summer-cup-2026-1615323@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: ex-1win: 1 | Lazer Cats: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260802T132237Z
 DTSTART:20260802T100516Z
 SUMMARY:Semifinal 2: ex-1win vs LC
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602194@tournamentics
@@ -1453,7 +1453,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260802T140000Z
+DTSTART:20260802T134500Z
 SUMMARY:Semifinal 1: G1 vs CS
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602193@tournamentics
 END:VEVENT
@@ -2623,7 +2623,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T170000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: DC vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615315@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3064,7 +3064,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260802T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: FOR vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615314@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3481,9 +3481,9 @@ SUMMARY:ex-RUSTEC vs Entropy
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260802T130000Z
+DTSTART:20260802T131740Z
 SUMMARY:LK vs Noir Verse
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615313@tournamentics
 END:VEVENT
@@ -3969,13 +3969,6 @@ DTEND:20260729T131803Z
 DTSTART:20260729T111224Z
 SUMMARY:Decider match: ex-MANA vs LK
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600640@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260802T130000Z
-SUMMARY:DC vs FOR
-UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615312@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: EAC Rising: 0 | Eternal Fire Academy: 2\nStream: https://kick.com/united21_en
