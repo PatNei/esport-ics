@@ -2560,7 +2560,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260807T103000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: FaZe UN vs TBD
 UID:cs-go-european-pro-league-regular-6-2026-1616789@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2609,7 +2609,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260806T103000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: EAC Rising vs TBD
 UID:cs-go-united21-53-2026-1608597@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2994,7 +2994,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260807T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: 3DMAX.A vs TBD
 UID:cs-go-european-pro-league-regular-6-2026-1616788@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3418,8 +3418,8 @@ SUMMARY:Elimination match: TLR vs PF
 UID:cs-go-european-pro-league-series-8-2026-1554012@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: FaZe Up Next: 2 | 3DMAX Academy: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260803T132138Z
 DTSTART:20260803T103522Z
 SUMMARY:FaZe UN vs 3DMAX.A
 UID:cs-go-european-pro-league-regular-6-2026-1616787@tournamentics
@@ -3957,8 +3957,8 @@ SUMMARY:ODK vs Rush
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1586950@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: EAC Rising: 2 | Passion Academy: 1\nStream: https://kick.com/united21_en
+DTEND:20260803T131902Z
 DTSTART:20260803T103634Z
 SUMMARY:Elimination match: EAC Rising vs PSN.A
 UID:cs-go-united21-53-2026-1608594@tournamentics
@@ -4139,8 +4139,8 @@ SUMMARY:BCA vs TLR
 UID:cs-go-stake-pulse-beat-i-2026-1596595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/chopperinho
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Recrent Club: 1 | Perfecto Club: 2\nStream: https://www.twitch.tv/chopperinho
+DTEND:20260803T131538Z
 DTSTART:20260803T110612Z
 SUMMARY:Recrent Club vs Perfecto Club
 UID:cs-go-winline-star-series-3-2026-1614317@tournamentics
