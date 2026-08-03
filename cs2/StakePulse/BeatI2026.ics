@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
 DURATION:PT2H
 DTSTART:20260803T160000Z
-SUMMARY:Decider match: JS vs TBD
+SUMMARY:Decider match: JS vs MZP
 UID:cs-go-stake-pulse-beat-i-2026-1596608@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -163,8 +163,8 @@ SUMMARY:Winners match: HOTU vs G2.A
 UID:cs-go-stake-pulse-beat-i-2026-1596591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_pulse
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nResult: fnatic: 2 | Metizport: 1\nStream: https://kick.com/stake_pulse
+DTEND:20260803T151118Z
 DTSTART:20260803T130039Z
 SUMMARY:Winners match: FNC vs MZP
 UID:cs-go-stake-pulse-beat-i-2026-1596606@tournamentics
