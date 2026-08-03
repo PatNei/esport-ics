@@ -1125,7 +1125,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260805T080000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: CSH.P vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582188@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4335,9 +4335,9 @@ SUMMARY:Round of 16 match 4: LAVK vs MEGO
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602187@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/flamboyantttt
+DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/flamboyantttt
 DURATION:PT2H
-DTSTART:20260803T102000Z
+DTSTART:20260803T102140Z
 SUMMARY:MF vs FURY
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615339@tournamentics
 END:VEVENT
@@ -4720,8 +4720,8 @@ SUMMARY:Round of 32 match 5: HERO vs MGLZ
 UID:cs-go-blast-bounty-summer-2026-1592758@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: WW Team: 0 | CYBERSHOKE Prospects: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260803T102246Z
 DTSTART:20260803T081557Z
 SUMMARY:Round of 16 match 1: WW vs CSH.P
 UID:cs-go-nodwin-clutch-series-10-2026-1582180@tournamentics
