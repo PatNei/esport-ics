@@ -656,7 +656,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260805T110000Z
-SUMMARY:Quarterfinal 2: BTF vs TBD
+SUMMARY:Quarterfinal 2: BTF vs ex-RUSTEC
 UID:cs-go-nodwin-clutch-series-10-2026-1582189@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3166,8 +3166,8 @@ SUMMARY:UUST vs banda chuya
 UID:cs-go-esea-advanced-europe-58-2026-1607247@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Walczaki: 0 | ex-RUSTEC: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260803T190804Z
 DTSTART:20260803T172033Z
 SUMMARY:Round of 16 match 4: WAL vs ex-RUSTEC
 UID:cs-go-nodwin-clutch-series-10-2026-1582183@tournamentics
@@ -4666,7 +4666,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
-DTSTART:20260803T183000Z
+DTSTART:20260803T191500Z
 SUMMARY:Quarterfinal 1: QUIN vs BST.A
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1618164@tournamentics
 END:VEVENT
