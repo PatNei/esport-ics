@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260808T103000Z
-SUMMARY:Winners match: PHTM.Ac vs TBD
+SUMMARY:Winners match: PHTM.Ac vs VP.P
 UID:cs-go-european-pro-league-regular-6-2026-1616794@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -572,7 +572,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260808T080000Z
-SUMMARY:Elimination match: PSN.A vs TBD
+SUMMARY:Elimination match: PSN.A vs SINQU Rehti
 UID:cs-go-european-pro-league-regular-6-2026-1616793@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1052,8 +1052,8 @@ SUMMARY:Winners match: MISA vs G2.A
 UID:cs-go-nodwin-clutch-series-10-2026-1588643@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 2 | SINQU Rehti: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260804T114517Z
 DTSTART:20260804T103845Z
 SUMMARY:VP.P vs SINQU Rehti
 UID:cs-go-european-pro-league-regular-6-2026-1616792@tournamentics
@@ -2693,7 +2693,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260807T100000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: FURY vs TBD
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615342@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3551,8 +3551,8 @@ SUMMARY:Upper bracket quarterfinal 1: MIBR vs FXW7
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596521@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=_VGSOjuTCIE
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Rooster: 2 | FURY: 0\nStream: https://www.youtube.com/watch?v=_VGSOjuTCIE
+DTEND:20260804T114217Z
 DTSTART:20260804T101334Z
 SUMMARY:Winners match: RSTR vs FURY
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615340@tournamentics
