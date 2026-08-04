@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
 DURATION:PT2H
 DTSTART:20260805T130000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: TL vs TBD
 UID:cs-go-stake-pulse-beat-i-2026-1607893@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -23,8 +23,8 @@ SUMMARY:Quarterfinal 2: ACE vs BCA
 UID:cs-go-stake-pulse-beat-i-2026-1607889@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nResult: Liquid: 2 | 9INE: 0\nStream: https://kick.com/stake_esports
+DTEND:20260804T152939Z
 DTSTART:20260804T140234Z
 SUMMARY:Quarterfinal 3: TL vs 9INE
 UID:cs-go-stake-pulse-beat-i-2026-1607890@tournamentics
