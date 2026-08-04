@@ -243,7 +243,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260807T080000Z
-SUMMARY:Decider match: STA vs TBD
+SUMMARY:Decider match: STA vs Inner Circle Prospect
 UID:cs-go-united21-53-2026-1608660@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -926,8 +926,8 @@ SUMMARY:NAVI.J vs DNK
 UID:cs-go-esea-advanced-europe-58-2026-1600652@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: ENCE Prospects: 1 | Inner Circle Prospect: 2\nStream: https://kick.com/united21_en
+DTEND:20260804T131312Z
 DTSTART:20260804T103833Z
 SUMMARY:Elimination match: ENCE.P vs Inner Circle Prospect
 UID:cs-go-united21-53-2026-1608659@tournamentics
@@ -2693,7 +2693,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260807T100000Z
-SUMMARY:Decider match: FURY vs TBD
+SUMMARY:Decider match: FURY vs MF
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615342@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3103,8 +3103,8 @@ SUMMARY:ZOTIX vs FAST LAYNERS
 UID:cs-go-esea-advanced-europe-58-2026-1602287@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Finishers: 1 | Mindfreak: 2\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260804T130726Z
 DTSTART:20260804T100926Z
 SUMMARY:Elimination match: Finishers vs MF
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615341@tournamentics
@@ -3838,9 +3838,9 @@ SUMMARY:Quarterfinal 3: Grêmio Esports vs Rush
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1618166@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tavarescs2
 DURATION:PT2H
-DTSTART:20260804T130000Z
+DTSTART:20260804T131419Z
 SUMMARY:Semifinal 2: BMB vs ex-MANA
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615335@tournamentics
 END:VEVENT
@@ -4321,9 +4321,9 @@ SUMMARY:maybe vs JAM
 UID:cs-go-tipsport-cup-open-1-2026-1616709@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/arhavalcom
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/arhavalcom
 DURATION:PT2H
-DTSTART:20260804T130000Z
+DTSTART:20260804T130946Z
 SUMMARY:Semifinal 1: BW vs Leo
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615334@tournamentics
 END:VEVENT
