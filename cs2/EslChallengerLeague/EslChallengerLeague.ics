@@ -33,12 +33,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260804T170000Z
-SUMMARY:Grand final: ex-MANA vs TBD
+SUMMARY:Grand final: ex-MANA vs BW
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615337@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/arhavalcom
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | Leo Team: 1\nStream: https://kick.com/arhavalcom
+DTEND:20260804T155641Z
 DTSTART:20260804T130946Z
 SUMMARY:Semifinal 1: BW vs Leo
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615334@tournamentics
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260804T170000Z
-SUMMARY:3rd place decider: BMB vs TBD
+SUMMARY:3rd place decider: BMB vs Leo
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615336@tournamentics
 END:VEVENT
 BEGIN:VEVENT
