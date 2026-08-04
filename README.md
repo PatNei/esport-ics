@@ -10,81 +10,7 @@ Subscribe to every tournament at once:
 
 ---
 
-## A Tier
-
-<details>
-<summary>BLAST Bounty</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastBounty/BlastBounty.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastBounty/BlastBounty.ics
-```
-
----
-
-### Summer 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastBounty/Summer2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastBounty/Summer2026.ics
-```
-
-</details>
-
-## B Tier
-
-<details>
-<summary>CCT Europe</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics
-```
-
----
-
-### Series #5 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series52026.ics
-```
-
-### Series #6 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series62026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series62026.ics
-```
-
-</details>
-
 ## C Tier
-
-<details>
-<summary>CCT South America</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics
-```
-
----
-
-### Series 4 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series42026.ics
-```
-
-</details>
 
 <details>
 <summary>ESL Challenger League</summary>
@@ -139,20 +65,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarserie
 ```
 
 ---
-
-### European Qualifier Fall 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/EuropeanQualifierFall2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/EuropeanQualifierFall2026.ics
-```
-
-### North American Qualifier Fall 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/NorthAmericanQualifierFall2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/NorthAmericanQualifierFall2026.ics
-```
 
 ### South American Qualifier Fall 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/SouthAmericanQualifierFall2026.ics)
@@ -239,13 +151,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 ```
 
 ---
-
-### Closed Qualifier: Series #6 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries62026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries62026.ics
-```
 
 ### Contenders #7 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders72026.ics)
@@ -383,27 +288,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 </details>
 
 <details>
-<summary>NODWIN Clutch Series</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/NodwinClutchSeries.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/NodwinClutchSeries.ics
-```
-
----
-
-### Season 10 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season102026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season102026.ics
-```
-
-</details>
-
-<details>
 <summary>Tipsport Cup</summary>
 
 ### Full Schedule
@@ -441,27 +325,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/United21.i
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season532026.ics
-```
-
-</details>
-
-<details>
-<summary>Urban Riga</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/UrbanRiga.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/UrbanRiga.ics
-```
-
----
-
-### Open #6 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open62026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open62026.ics
 ```
 
 </details>
