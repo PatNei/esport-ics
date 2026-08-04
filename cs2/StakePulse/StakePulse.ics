@@ -89,12 +89,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_esports
 DURATION:PT2H
 DTSTART:20260805T100000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: JS vs TBD
 UID:cs-go-stake-pulse-beat-i-2026-1607892@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nStream: https://kick.com/stake_pulse
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nResult: G2 Ares: 0 | Johnny Speeds: 2\nStream: https://kick.com/stake_pulse
+DTEND:20260804T092345Z
 DTSTART:20260804T080050Z
 SUMMARY:Quarterfinal 1: G2.A vs JS
 UID:cs-go-stake-pulse-beat-i-2026-1607888@tournamentics
