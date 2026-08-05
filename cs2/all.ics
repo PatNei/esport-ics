@@ -501,7 +501,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260805T163000Z
+DTSTART:20260805T164500Z
 SUMMARY:BERG vs XI
 UID:cs-go-esea-advanced-europe-58-2026-1620635@tournamentics
 END:VEVENT
@@ -1608,7 +1608,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260809T103000Z
-SUMMARY:Winners match: INF vs TBD
+SUMMARY:Winners match: INF vs INOX
 UID:cs-go-european-pro-league-regular-6-2026-1616895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2070,7 +2070,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260809T080000Z
-SUMMARY:Elimination match: Inner Circle Prospect vs TBD
+SUMMARY:Elimination match: Inner Circle Prospect vs ENCE.P
 UID:cs-go-european-pro-league-regular-6-2026-1616894@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3033,8 +3033,8 @@ SUMMARY:Honvéd vs JUL
 UID:cs-go-nodwin-clutch-series-10-2026-1582139@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | ENCE Prospects: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260805T163555Z
 DTSTART:20260805T151341Z
 SUMMARY:INOX vs ENCE.P
 UID:cs-go-european-pro-league-regular-6-2026-1616892@tournamentics
@@ -3075,8 +3075,8 @@ SUMMARY:Decider match: FURY vs MF
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615342@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: PCH3LK1N Club: 0 | shoke Club: 2\nStream: https://www.twitch.tv/kartash0v
+DTEND:20260805T163825Z
 DTSTART:20260805T155243Z
 SUMMARY:PCH3LK1N Club vs shoke Club
 UID:cs-go-winline-star-series-3-2026-1614331@tournamentics
@@ -3565,9 +3565,9 @@ SUMMARY:Elimination match: TM vs ZWAW
 UID:cs-go-bro-summer-cup-2026-1615307@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
+DESCRIPTION:🔴 LIVE NOW\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
 DURATION:PT2H
-DTSTART:20260805T191500Z
+DTSTART:20260805T164246Z
 SUMMARY:Recrent Club vs Morphilina Club
 UID:cs-go-winline-star-series-3-2026-1614330@tournamentics
 END:VEVENT
@@ -4342,9 +4342,9 @@ SUMMARY:B8.A vs STA
 UID:cs-go-european-pro-league-regular-6-2026-1616786@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
 DURATION:PT2H
-DTSTART:20260805T163000Z
+DTSTART:20260805T164407Z
 SUMMARY:Recrent Club vs mokrivskiy Club
 UID:cs-go-winline-star-series-3-2026-1614329@tournamentics
 END:VEVENT

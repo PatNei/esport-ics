@@ -47,12 +47,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260809T103000Z
-SUMMARY:Winners match: INF vs TBD
+SUMMARY:Winners match: INF vs INOX
 UID:cs-go-european-pro-league-regular-6-2026-1616895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | ENCE Prospects: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260805T163555Z
 DTSTART:20260805T151341Z
 SUMMARY:INOX vs ENCE.P
 UID:cs-go-european-pro-league-regular-6-2026-1616892@tournamentics
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260809T080000Z
-SUMMARY:Elimination match: Inner Circle Prospect vs TBD
+SUMMARY:Elimination match: Inner Circle Prospect vs ENCE.P
 UID:cs-go-european-pro-league-regular-6-2026-1616894@tournamentics
 END:VEVENT
 BEGIN:VEVENT
