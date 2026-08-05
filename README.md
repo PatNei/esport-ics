@@ -161,13 +161,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarserie
 
 ---
 
-### European Qualifier Fall 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/EuropeanQualifierFall2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/EuropeanQualifierFall2026.ics
-```
-
 ### North American Qualifier Fall 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/NorthAmericanQualifierFall2026.ics)
 

@@ -107,13 +107,6 @@ SUMMARY:SNG vs FRT
 UID:cs-go-esea-advanced-europe-58-2026-1611834@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: magic: 2 | Gentle Mates: 0\nStream: https://kick.com/starladder1
-DTEND:20260721T190330Z
-DTSTART:20260721T163434Z
-SUMMARY:Winners match: MGC vs M8
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596460@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nResult: RayRay: 2 | Altay Esports: 0\nStream: https://www.youtube.com/watch?v=lVySdqTacvQ
 DTEND:20260801T112143Z
 DTSTART:20260801T094235Z
@@ -345,13 +338,6 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620594@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | HOTU: 1\nStream: https://kick.com/starladder
-DTEND:20260726T162009Z
-DTSTART:20260726T130546Z
-SUMMARY:Semifinal 1: AUR vs HOTU
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596471@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa BreakOut - Series #1 2026\nMatch Type: Best Of\nResult: ENCE: 0 | BC.Game Esports: 2\nStream: https://kick.com/elisaesports
 DTEND:20260801T191549Z
 DTSTART:20260801T171105Z
@@ -506,18 +492,18 @@ SUMMARY:BERG vs XI
 UID:cs-go-esea-advanced-europe-58-2026-1620635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: gothboiclique: 0 | Z17: 1\nStream: No official stream linked
-DTEND:20260716T192754Z
-DTSTART:20260716T184629Z
-SUMMARY:GBC vs Z17
-UID:cs-go-esea-advanced-europe-58-2026-1589649@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nResult: WBT: 1 | Leo Team: 2\nStream: https://www.twitch.tv/ozstrik3rtv
 DTEND:20260803T195755Z
 DTSTART:20260803T170415Z
 SUMMARY:Quarterfinal 2: WBT vs Leo
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615331@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: gothboiclique: 0 | Z17: 1\nStream: No official stream linked
+DTEND:20260716T192754Z
+DTSTART:20260716T184629Z
+SUMMARY:GBC vs Z17
+UID:cs-go-esea-advanced-europe-58-2026-1589649@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: Black Phoenix: 1 | Bebop: 2\nStream: https://www.twitch.tv/thunderpicktv
@@ -863,11 +849,11 @@ SUMMARY:Grand final: AIMC vs TS.A
 UID:cs-go-cct-europe-contenders-7-2026-1611823@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Astralis: 0 | Heroic: 2\nStream: https://kick.com/starladder1
-DTEND:20260724T181803Z
-DTSTART:20260724T162101Z
-SUMMARY:Decider match: AST vs HERO
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596459@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260811T100000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-dfrag-open-series-open-series-6-2026-1615358@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nResult: Noir Verse: 0 | Atputies: 1\nStream: https://www.twitch.tv/kleverrgg
@@ -875,13 +861,6 @@ DTEND:20260727T131639Z
 DTSTART:20260727T122213Z
 SUMMARY:Round 2: Noir Verse vs Atputies
 UID:cs-go-urban-riga-open-6-2026-1596438@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
-DURATION:PT2H
-DTSTART:20260811T100000Z
-SUMMARY:Upper bracket final: TBD vs TBD
-UID:cs-go-dfrag-open-series-open-series-6-2026-1615358@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 0 | Fire Flux Esports: 2\nStream: https://www.twitch.tv/iamfusiion
@@ -1017,18 +996,18 @@ SUMMARY:Diamant Esports vs FAL.F
 UID:cs-go-esea-advanced-europe-58-2026-1620634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Arch: 0 | DNK: 1\nStream: No official stream linked
-DTEND:20260716T192743Z
-DTSTART:20260716T183953Z
-SUMMARY:ARCH vs DNK
-UID:cs-go-esea-advanced-europe-58-2026-1589648@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 52 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | Noir Verse: 0\nStream: https://www.twitch.tv/mgfongabe
 DTEND:20260803T191609Z
 DTSTART:20260803T171620Z
 SUMMARY:Quarterfinal 1: BW vs Noir Verse
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615330@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Arch: 0 | DNK: 1\nStream: No official stream linked
+DTEND:20260716T192743Z
+DTSTART:20260716T183953Z
+SUMMARY:ARCH vs DNK
+UID:cs-go-esea-advanced-europe-58-2026-1589648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: Bebop: 1 | Falcons Force: 2\nStream: https://www.twitch.tv/thunderpicktv
@@ -1360,13 +1339,6 @@ SUMMARY:Semifinal 1: ENCE vs HAVU
 UID:cs-go-elisa-breakout-series-1-2026-1602996@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Heroic: 2 | FOKUS: 0\nStream: https://kick.com/starladder
-DTEND:20260723T184647Z
-DTSTART:20260723T165854Z
-SUMMARY:Elimination match: HERO vs FOKUS
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596458@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Donstu Esports: 1\nStream: https://kick.com/nodwin_cs2
 DTEND:20260713T200008Z
 DTSTART:20260713T172545Z
@@ -1554,13 +1526,6 @@ DTEND:20260729T093531Z
 DTSTART:20260729T080721Z
 SUMMARY:Round 2: LK vs ex-MANA
 UID:cs-go-cct-europe-series-6-2026-1596481@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: NIP: 2 | Heroic: 1\nStream: https://kick.com/starladder
-DTEND:20260725T191641Z
-DTSTART:20260725T160515Z
-SUMMARY:Quarterfinal 4: NIP vs HERO
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596469@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | Vexar: 0\nStream: https://kick.com/nodwin_cs2
@@ -1843,13 +1808,6 @@ SUMMARY:Upper bracket final: Y.TigeRES vs AIMC
 UID:cs-go-cct-europe-contenders-7-2026-1611821@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: HOTU: 2 | Astralis: 0\nStream: https://kick.com/starladder1
-DTEND:20260722T123123Z
-DTSTART:20260722T100830Z
-SUMMARY:Winners match: HOTU vs AST
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596457@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 1 | BIG Academy: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260713T105228Z
 DTSTART:20260713T081344Z
@@ -2025,13 +1983,6 @@ SUMMARY:Round 1: LK vs UNiTY
 UID:cs-go-cct-europe-series-6-2026-1596480@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: magic: 2 | Gentle Mates: 0\nStream: https://kick.com/starladder
-DTEND:20260725T160745Z
-DTSTART:20260725T140255Z
-SUMMARY:Quarterfinal 3: MGC vs M8
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596468@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Phantom: 2 | G2 Ares: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260724T130355Z
 DTSTART:20260724T110351Z
@@ -2200,13 +2151,6 @@ SUMMARY:DM vs Spirit Academy Green
 UID:cs-go-esea-advanced-europe-58-2026-1600661@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 0 | ECHO: 2\nStream: https://kick.com/starladder1
-DTEND:20260722T175439Z
-DTSTART:20260722T163349Z
-SUMMARY:NTR vs ECHO
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595608@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 4 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | Procyon Gaming: 0\nStream: https://kick.com/cct_cs3
 DTEND:20260717T210148Z
 DTSTART:20260717T190335Z
@@ -2331,13 +2275,6 @@ DTEND:20260730T195930Z
 DTSTART:20260730T182309Z
 SUMMARY:Upper bracket semifinal 2: Y.TigeRES vs banda chuya
 UID:cs-go-cct-europe-contenders-7-2026-1611820@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Team Nemesis: 1 | Infinite: 2\nStream: https://kick.com/starladder
-DTEND:20260724T160257Z
-DTSTART:20260724T131221Z
-SUMMARY:Decider match: NEM vs INF
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596456@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
@@ -2508,13 +2445,6 @@ SUMMARY:Round 4: SPARTA vs JustP
 UID:cs-go-nodwin-clutch-series-10-2026-1582174@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | ECHO: 0\nStream: https://kick.com/starladder
-DTEND:20260725T143930Z
-DTSTART:20260725T130239Z
-SUMMARY:Quarterfinal 2: AUR vs ECHO
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596467@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | Honvéd: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260724T094738Z
 DTSTART:20260724T081038Z
@@ -2683,13 +2613,6 @@ SUMMARY:OLDBOYS PL vs MTX
 UID:cs-go-esea-advanced-europe-58-2026-1600660@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: NIP: 2 | 100 Thieves: 1\nStream: https://kick.com/starladder1
-DTEND:20260722T160343Z
-DTSTART:20260722T130524Z
-SUMMARY:NIP vs 100T
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595607@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Sashi Esport: 2 | Phantom: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260804T125619Z
 DTSTART:20260804T110605Z
@@ -2814,13 +2737,6 @@ DTEND:20260714T190036Z
 DTSTART:20260714T180850Z
 SUMMARY:PURE vs A Great Chaos
 UID:cs-go-esea-advanced-europe-58-2026-1586797@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: K27: 0 | Infinite: 2\nStream: https://kick.com/starladder1
-DTEND:20260723T191407Z
-DTSTART:20260723T165006Z
-SUMMARY:Elimination match: K27 vs INF
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596455@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 1 | Red Feet: 0\nStream: https://www.twitch.tv/gamese_gg
@@ -2982,13 +2898,6 @@ DURATION:PT2H
 DTSTART:20260808T090000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620589@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: HOTU: 2 | Infinite: 0\nStream: https://kick.com/starladder
-DTEND:20260725T125810Z
-DTSTART:20260725T110012Z
-SUMMARY:Quarterfinal 1: HOTU vs INF
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596466@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Butterfly: 2 | Just Players: 0\nStream: https://kick.com/nodwin_cs2
@@ -3173,13 +3082,6 @@ SUMMARY:VP vs SNG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: 3DMAX: 1 | Gentle Mates: 2\nStream: https://kick.com/starladder1
-DTEND:20260721T154941Z
-DTSTART:20260721T131231Z
-SUMMARY:3DMAX vs M8
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595606@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nResult: FOKUS: 0 | MOUZ: 2\nStream: https://www.twitch.tv/BLASTPremier
 DTEND:20260725T193140Z
 DTSTART:20260725T173027Z
@@ -3297,13 +3199,6 @@ DTEND:20260802T200715Z
 DTSTART:20260802T180322Z
 SUMMARY:Lower bracket final: SHIN vs BST
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596534@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | Team Nemesis: 1\nStream: https://kick.com/starladder1
-DTEND:20260722T194942Z
-DTSTART:20260722T170016Z
-SUMMARY:Winners match: AUR vs NEM
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596454@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
@@ -3509,13 +3404,6 @@ SUMMARY:YL vs BG
 UID:cs-go-esea-advanced-europe-58-2026-1611839@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 0 | ECHO: 2\nStream: https://kick.com/starladder1
-DTEND:20260724T150446Z
-DTSTART:20260724T130017Z
-SUMMARY:Decider match: NTR vs ECHO
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596465@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nResult: FIN E-SPORT: 0 | K28: 2\nStream: https://www.twitch.tv/kartash0v
 DTEND:20260728T095329Z
 DTSTART:20260728T084055Z
@@ -3654,13 +3542,6 @@ DURATION:PT2H
 DTSTART:20260808T120000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620600@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: magic: 2 | Walczaki: 0\nStream: https://kick.com/starladder
-DTEND:20260721T115341Z
-DTSTART:20260721T101651Z
-SUMMARY:MGC vs WAL
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 0 | Entropy: 2\nStream: https://kick.com/cct_cs
@@ -4013,11 +3894,11 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615363@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: 100 Thieves: 1 | Nuclear TigeRES: 2\nStream: https://kick.com/starladder1
-DTEND:20260723T163313Z
-DTSTART:20260723T130035Z
-SUMMARY:Elimination match: 100T vs NTR
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596464@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nResult: Omega: 2 | DEPO: 0\nStream: https://www.youtube.com/watch?v=-cbKv_0gf_M
+DTEND:20260802T141700Z
+DTSTART:20260802T121430Z
+SUMMARY:Grand final: OMG vs DEPO
+UID:cs-go-bro-summer-cup-2026-1615329@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nResult: ???: 0 | BESTIA Academy: 2\nStream: No official stream linked
@@ -4053,13 +3934,6 @@ DTEND:20260720T210751Z
 DTSTART:20260720T202353Z
 SUMMARY:RED.A vs MW
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1591791@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nResult: Omega: 2 | DEPO: 0\nStream: https://www.youtube.com/watch?v=-cbKv_0gf_M
-DTEND:20260802T141700Z
-DTSTART:20260802T121430Z
-SUMMARY:Grand final: OMG vs DEPO
-UID:cs-go-bro-summer-cup-2026-1615329@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -4158,13 +4032,6 @@ DTEND:20260803T164508Z
 DTSTART:20260803T130730Z
 SUMMARY:Decider match: MOUZ.N vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615324@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: HOTU: 2 | Heroic: 1\nStream: https://kick.com/starladder1
-DTEND:20260721T160047Z
-DTSTART:20260721T131128Z
-SUMMARY:HOTU vs HERO
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595604@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: Rune Eaters: 2 | SAW Youngsters: 0\nStream: https://kick.com/cct_cs
@@ -4552,18 +4419,18 @@ SUMMARY:LPH vs GE
 UID:cs-go-esea-advanced-europe-58-2026-1611837@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: NIP: 2 | ECHO: 0\nStream: https://kick.com/starladder
-DTEND:20260723T164117Z
-DTSTART:20260723T135718Z
-SUMMARY:Winners match: NIP vs ECHO
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596463@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260812T100000Z
 SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615362@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nResult: DEPO: 2 | THE UNIT: 1\nStream: https://www.youtube.com/watch?v=-cbKv_0gf_M
+DTEND:20260802T113508Z
+DTSTART:20260802T085239Z
+SUMMARY:Semifinal 2: DEPO vs TU
+UID:cs-go-bro-summer-cup-2026-1615328@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nResult: Lavked: 2 | FIN E-SPORT: 0\nStream: https://www.twitch.tv/kartash0v
@@ -4585,13 +4452,6 @@ DURATION:PT2H
 DTSTART:20260807T140000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-betboom-storm-4-2026-1611502@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nResult: DEPO: 2 | THE UNIT: 1\nStream: https://www.youtube.com/watch?v=-cbKv_0gf_M
-DTEND:20260802T113508Z
-DTSTART:20260802T085239Z
-SUMMARY:Semifinal 2: DEPO vs TU
-UID:cs-go-bro-summer-cup-2026-1615328@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -4669,13 +4529,6 @@ DTEND:20260730T130610Z
 DTSTART:20260730T103640Z
 SUMMARY:VP.P vs PSN.A
 UID:cs-go-united21-53-2026-1608582@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Astralis: 2 | FOKUS: 1\nStream: https://kick.com/starladder1
-DTEND:20260721T190252Z
-DTSTART:20260721T161826Z
-SUMMARY:AST vs FOKUS
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: Black Phoenix: 2 | Benched gods: 1\nStream: https://kick.com/cct_cs
@@ -5105,13 +4958,6 @@ SUMMARY:Subtop De France vs DNK
 UID:cs-go-esea-advanced-europe-58-2026-1611836@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Gentle Mates: 2 | Walczaki: 0\nStream: https://kick.com/starladder1
-DTEND:20260724T173600Z
-DTSTART:20260724T160044Z
-SUMMARY:Decider match: M8 vs WAL
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596462@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nResult: Omega: 2 | Donstu Esports: 0\nStream: https://www.youtube.com/watch?v=-cbKv_0gf_M
 DTEND:20260802T081734Z
 DTSTART:20260802T065431Z
@@ -5236,13 +5082,6 @@ DTEND:20260726T183720Z
 DTSTART:20260726T170819Z
 SUMMARY:Winners match: LK vs MEGO
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600639@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Infinite: 1 | Team Nemesis: 2\nStream: https://kick.com/starladder
-DTEND:20260722T161544Z
-DTSTART:20260722T132221Z
-SUMMARY:INF vs NEM
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -5609,13 +5448,6 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615360@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Walczaki: 2 | 3DMAX: 1\nStream: https://kick.com/starladder
-DTEND:20260723T134018Z
-DTSTART:20260723T100925Z
-SUMMARY:Elimination match: WAL vs 3DMAX
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596461@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BRO SUMMER CUP - 2026\nMatch Type: Best Of\nResult: RayRay: 1 | Donstu Esports: 2\nStream: https://www.twitch.tv/theeb1ye
 DTEND:20260801T141401Z
 DTSTART:20260801T120746Z
@@ -5784,13 +5616,6 @@ SUMMARY:Elimination match: NV vs ex-MANA
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1600638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | K27: 1\nStream: https://kick.com/starladder
-DTEND:20260722T125736Z
-DTSTART:20260722T100735Z
-SUMMARY:AUR vs K27
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1595601@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: GenOne: 2 | ENJOY: 0\nStream: https://kick.com/cct_cs2
 DTEND:20260731T190647Z
 DTSTART:20260731T171659Z
@@ -5859,13 +5684,6 @@ DTEND:20260727T105558Z
 DTSTART:20260727T081429Z
 SUMMARY:Round 1: JustP vs ex-Young Ninjas
 UID:cs-go-cct-europe-series-6-2026-1596473@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - European Qualifier Fall 2026\nMatch Type: Best Of\nResult: magic: 2 | NIP: 0\nStream: https://kick.com/starladder
-DTEND:20260726T184203Z
-DTSTART:20260726T163839Z
-SUMMARY:Semifinal 2: MGC vs NIP
-UID:cs-go-starladder-i-league-starseries-european-qualifier-fall-2026-1596472@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #6 2026\nMatch Type: Best Of\nResult: Brute: 2 | MOUZ NXT: 0\nStream: https://kick.com/urbancontenders
