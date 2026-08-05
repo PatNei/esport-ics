@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260805T170000Z
+DTSTART:20260805T171311Z
 SUMMARY:FF vs Honvéd
 UID:cs-go-esea-advanced-europe-58-2026-1608763@tournamentics
 END:VEVENT
@@ -226,8 +226,8 @@ SUMMARY:PG vs FAL.F
 UID:cs-go-esea-advanced-europe-58-2026-1620638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Esport BERG: 1 | XI Esport: 0\nStream: No official stream linked
+DTEND:20260805T171319Z
 DTSTART:20260805T164815Z
 SUMMARY:BERG vs XI
 UID:cs-go-esea-advanced-europe-58-2026-1620635@tournamentics
@@ -709,9 +709,9 @@ SUMMARY:TEAM_COPH9K vs eVO
 UID:cs-go-esea-advanced-europe-58-2026-1608769@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/goyarego
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/goyarego
 DURATION:PT2H
-DTSTART:20260805T170000Z
+DTSTART:20260805T171245Z
 SUMMARY:FAL.F vs Spirit Academy Green
 UID:cs-go-esea-advanced-europe-58-2026-1620636@tournamentics
 END:VEVENT
