@@ -1194,7 +1194,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260805T200000Z
+DTSTART:20260805T210000Z
 SUMMARY:Round 2: IMP vs ALKA
 UID:cs-go-betboom-storm-4-2026-1611496@tournamentics
 END:VEVENT
@@ -3530,8 +3530,8 @@ SUMMARY:GamersLab Esports vs maybe
 UID:cs-go-tipsport-cup-open-1-2026-1616711@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: ZOTIX: 1 | Diamant Esports: 0\nStream: No official stream linked
+DTEND:20260805T195818Z
 DTSTART:20260805T184956Z
 SUMMARY:ZOTIX vs Diamant Esports
 UID:cs-go-esea-advanced-europe-58-2026-1620640@tournamentics
