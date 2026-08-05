@@ -3680,7 +3680,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260807T103000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: DE.P vs TBD
 UID:cs-go-united21-53-2026-1608665@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4685,8 +4685,8 @@ SUMMARY:Round 4: Black Phoenix vs BG
 UID:cs-go-cct-europe-series-5-2026-1587540@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Dynamo Eclot Phoenix: 0 | FaZe Up Next: 2\nStream: https://kick.com/united21_en
+DTEND:20260805T093508Z
 DTSTART:20260805T080925Z
 SUMMARY:Winners match: DE.P vs FaZe UN
 UID:cs-go-united21-53-2026-1608663@tournamentics
