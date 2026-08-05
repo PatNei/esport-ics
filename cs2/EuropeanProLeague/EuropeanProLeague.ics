@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | Inner Circle Prospect: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260805T121159Z
 DTSTART:20260805T103535Z
 SUMMARY:INF vs Inner Circle Prospect
 UID:cs-go-european-pro-league-regular-6-2026-1616893@tournamentics
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260809T103000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: INF vs TBD
 UID:cs-go-european-pro-league-regular-6-2026-1616895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260809T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Inner Circle Prospect vs TBD
 UID:cs-go-european-pro-league-regular-6-2026-1616894@tournamentics
 END:VEVENT
 BEGIN:VEVENT
