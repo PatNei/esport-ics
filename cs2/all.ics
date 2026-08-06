@@ -586,7 +586,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260807T100000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Abyssal vs TBD
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615347@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1514,8 +1514,8 @@ SUMMARY:Upper bracket semifinal 2: IMP vs SHIN
 UID:cs-go-starladder-i-league-starseries-south-american-qualifier-fall-2026-1596526@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/onlyjoshintv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Abyssal: 0\nStream: https://www.twitch.tv/onlyjoshintv
+DTEND:20260806T113052Z
 DTSTART:20260806T100420Z
 SUMMARY:Winners match: GZ vs Abyssal
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615345@tournamentics
@@ -2161,7 +2161,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260807T110000Z
-SUMMARY:Quarterfinal 2: G1 vs CS
+SUMMARY:Quarterfinal 2: CS vs G1
 UID:cs-go-cct-europe-series-6-2026-1596515@tournamentics
 END:VEVENT
 BEGIN:VEVENT
