@@ -1734,7 +1734,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260807T140000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: Black Phoenix vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596516@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4022,7 +4022,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260806T110000Z
+DTSTART:20260806T112000Z
 SUMMARY:Round of 16 match 6: 33 vs SPARTA
 UID:cs-go-cct-europe-series-6-2026-1596511@tournamentics
 END:VEVENT
@@ -4475,9 +4475,9 @@ SUMMARY:Upper bracket round 1 match 8: TEAM_COPH9K vs banda chuya
 UID:cs-go-cct-europe-contenders-7-2026-1605168@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/m3wsu
+DESCRIPTION:🔴 LIVE NOW\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
 DURATION:PT2H
-DTSTART:20260806T110000Z
+DTSTART:20260806T110828Z
 SUMMARY:SNAILKICK Club vs WorldEdit Club
 UID:cs-go-winline-star-series-3-2026-1614328@tournamentics
 END:VEVENT
@@ -4524,8 +4524,8 @@ SUMMARY:1WIN vs CIT
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620551@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Lavked: 1 | Black Phoenix: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260806T110907Z
 DTSTART:20260806T081504Z
 SUMMARY:Round of 16 match 5: LAVK vs Black Phoenix
 UID:cs-go-cct-europe-series-6-2026-1596510@tournamentics
@@ -4561,7 +4561,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
 DURATION:PT2H
-DTSTART:20260806T110000Z
+DTSTART:20260806T113500Z
 SUMMARY:maybe vs JAM
 UID:cs-go-tipsport-cup-open-1-2026-1616709@tournamentics
 END:VEVENT
@@ -5028,9 +5028,9 @@ SUMMARY:Quarterfinal 1: QUIN vs BST.A
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1618164@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
+DESCRIPTION:🔴 LIVE NOW\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
-DTSTART:20260806T110000Z
+DTSTART:20260806T110318Z
 SUMMARY:ESB vs NAVI.J
 UID:cs-go-tipsport-cup-open-1-2026-1616708@tournamentics
 END:VEVENT
