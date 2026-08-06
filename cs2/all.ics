@@ -2886,6 +2886,13 @@ SUMMARY:Round 4: G1 vs UNiTY
 UID:cs-go-cct-europe-series-6-2026-1596502@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260807T090000Z
+SUMMARY:Tiebreaker: Lixxx Club vs SNAILKICK Club
+UID:cs-go-winline-star-series-3-2026-1623248@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
 DTSTART:20260809T140000Z
@@ -3525,7 +3532,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260806T140000Z
+DTSTART:20260806T143000Z
 SUMMARY:Round of 16 match 7: WAL vs UNiTY
 UID:cs-go-cct-europe-series-6-2026-1596512@tournamentics
 END:VEVENT
@@ -3596,7 +3603,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260806T150000Z
-SUMMARY:Grand final: NTR vs TBD
+SUMMARY:Grand final: NTR vs BTF
 UID:cs-go-nodwin-clutch-series-10-2026-1582194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4097,8 +4104,8 @@ SUMMARY:BG vs VP.P
 UID:cs-go-esea-advanced-europe-58-2026-1600657@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: 1WIN: 0 | Butterfly: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260806T134222Z
 DTSTART:20260806T125040Z
 SUMMARY:Semifinal 2: 1WIN vs BTF
 UID:cs-go-nodwin-clutch-series-10-2026-1582193@tournamentics
