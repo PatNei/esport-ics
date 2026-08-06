@@ -1789,7 +1789,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260806T120000Z
+DTSTART:20260806T121500Z
 SUMMARY:DRAMA vs WBT
 UID:cs-go-esea-advanced-europe-58-2026-1622134@tournamentics
 END:VEVENT
@@ -4475,8 +4475,8 @@ SUMMARY:Upper bracket round 1 match 8: TEAM_COPH9K vs banda chuya
 UID:cs-go-cct-europe-contenders-7-2026-1605168@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: SNAILKICK Club: 2 | WorldEdit Club: 0\nStream: https://www.twitch.tv/kartash0v
+DTEND:20260806T121304Z
 DTSTART:20260806T110828Z
 SUMMARY:SNAILKICK Club vs WorldEdit Club
 UID:cs-go-winline-star-series-3-2026-1614328@tournamentics
