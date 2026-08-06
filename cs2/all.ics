@@ -2669,11 +2669,11 @@ SUMMARY:Round of 32 match 8: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620613@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260806T110000Z
-SUMMARY:Decider match: EAC Rising vs EF.A
-UID:cs-go-united21-53-2026-1608597@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: Nordic Partners Gaming : 1 | INOX Division: 2\nStream: https://kick.com/cct_cs
+DTEND:20260730T110852Z
+DTSTART:20260730T080833Z
+SUMMARY:Round of 16 match 2: NPG vs INOX
+UID:cs-go-cct-europe-series-5-2026-1587555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
@@ -2681,13 +2681,6 @@ DURATION:PT2H
 DTSTART:20260815T200000Z
 SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-betboom-storm-4-2026-1611481@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: Nordic Partners Gaming : 1 | INOX Division: 2\nStream: https://kick.com/cct_cs
-DTEND:20260730T110852Z
-DTSTART:20260730T080833Z
-SUMMARY:Round of 16 match 2: NPG vs INOX
-UID:cs-go-cct-europe-series-5-2026-1587555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - European Series #2 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Mai Tai: 0\nStream: https://www.twitch.tv/thunderpicktv
@@ -3603,7 +3596,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260806T150000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: NTR vs TBD
 UID:cs-go-nodwin-clutch-series-10-2026-1582194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4608,8 +4601,8 @@ SUMMARY:LFO UK vs DNK
 UID:cs-go-esea-advanced-europe-58-2026-1608762@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Sashi Esport: 1 | Nuclear TigeRES: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260806T105918Z
 DTSTART:20260806T080919Z
 SUMMARY:Semifinal 1: SASHI vs NTR
 UID:cs-go-nodwin-clutch-series-10-2026-1582192@tournamentics
