@@ -87,27 +87,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsWorldCup/Ope
 ## C Tier
 
 <details>
-<summary>CCT South America</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics
-```
-
----
-
-### Series 4 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series42026.ics
-```
-
-</details>
-
-<details>
 <summary>ESL Challenger League</summary>
 
 ### Full Schedule
