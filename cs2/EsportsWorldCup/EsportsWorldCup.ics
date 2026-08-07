@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Elimination match: PC vs TBD
+SUMMARY:Elimination match: PC vs VAEL
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +222,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Elimination match: ZES vs TBD
+SUMMARY:Elimination match: ZES vs SNG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620604@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sneakybeakyttv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Virtus.pro: 2 | Sangal: 0\nStream: https://www.twitch.tv/sneakybeakyttv
+DTEND:20260807T174928Z
 DTSTART:20260807T160442Z
 SUMMARY:VP vs SNG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620601@tournamentics
@@ -278,12 +278,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: VAN vs SHU
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620594@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aidstarcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Acend: 2 | Vandulken: 0\nStream: https://www.twitch.tv/aidstarcs
+DTEND:20260807T174253Z
 DTSTART:20260807T163511Z
 SUMMARY:ACE vs VAN
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620591@tournamentics
@@ -488,7 +488,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Winners match: ECHO vs TBD
+SUMMARY:Winners match: ECHO vs OG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620568@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -607,7 +607,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Winners match: JJH vs TBD
+SUMMARY:Winners match: JJH vs VP
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -670,7 +670,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: ACE vs NRG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620593@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -877,8 +877,8 @@ SUMMARY:TL vs DHA
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620581@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/albi1985
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Vael: 0 | OG: 2\nStream: https://www.twitch.tv/albi1985
+DTEND:20260807T174338Z
 DTSTART:20260807T162421Z
 SUMMARY:VAEL vs OG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620567@tournamentics
@@ -1038,8 +1038,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Spirit HU: 0 | NRG: 2\nStream: https://www.twitch.tv/Trottah
+DTEND:20260807T174309Z
 DTSTART:20260807T163304Z
 SUMMARY:SHU vs NRG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620592@tournamentics
