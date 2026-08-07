@@ -957,7 +957,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260808T100000Z
-SUMMARY:Semifinal 1: Black Phoenix vs TBD
+SUMMARY:Semifinal 1: Black Phoenix vs CS
 UID:cs-go-cct-europe-series-6-2026-1596518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2382,8 +2382,8 @@ SUMMARY:HERO vs REM
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620556@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 2 | GenOne: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260807T183441Z
 DTSTART:20260807T171325Z
 SUMMARY:Quarterfinal 2: CS vs G1
 UID:cs-go-cct-europe-series-6-2026-1596515@tournamentics
@@ -2559,7 +2559,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260808T140000Z
+DTSTART:20260808T150000Z
 SUMMARY:Round 3: PCY vs ODK.A
 UID:cs-go-betboom-storm-4-2026-1611506@tournamentics
 END:VEVENT
@@ -4034,8 +4034,8 @@ SUMMARY:Winners match: LAVK vs NEMI
 UID:cs-go-cis-lan-championship-6-2026-1604926@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nResult: Grêmio Esports: 0 | Keyd: 2\nStream: https://www.twitch.tv/dust2br
+DTEND:20260807T183653Z
 DTSTART:20260807T170927Z
 SUMMARY:Round 3: Grêmio Esports vs Keyd
 UID:cs-go-betboom-storm-4-2026-1611503@tournamentics
