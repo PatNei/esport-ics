@@ -313,7 +313,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T150000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: EAC vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620545@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -576,8 +576,8 @@ SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620628@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/teameac
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: QueenConso: 0 | Esport Academy Copenhagen: 2\nStream: https://kick.com/teameac
+DTEND:20260807T135502Z
 DTSTART:20260807T123644Z
 SUMMARY:Elimination match: QC vs EAC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620544@tournamentics
