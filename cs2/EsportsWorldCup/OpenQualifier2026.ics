@@ -33,12 +33,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: PC vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: ECHO: 2 | Passion Chicha: 0\nStream: No official stream linked
+DTEND:20260807T172718Z
 DTSTART:20260807T161932Z
 SUMMARY:ECHO vs PC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620566@tournamentics
@@ -173,12 +173,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: REV vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620574@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/slaxercast
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 2 | REVENIX: 0\nStream: https://www.twitch.tv/slaxercast
+DTEND:20260807T172626Z
 DTSTART:20260807T161901Z
 SUMMARY:EYE vs REV
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620571@tournamentics
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: ECHO vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620568@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: EYE vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620573@tournamentics
 END:VEVENT
 BEGIN:VEVENT
