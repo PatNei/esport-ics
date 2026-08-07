@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nResult: JAM: 2 | LPH Gaming: 0\nStream: https://www.twitch.tv/playzoneup
+DTEND:20260807T130750Z
 DTSTART:20260807T113040Z
 SUMMARY:Upper bracket quarterfinal 2: JAM vs LPH
 UID:cs-go-tipsport-cup-open-1-2026-1616723@tournamentics
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
 DTSTART:20260808T110000Z
-SUMMARY:Lower bracket round 1 match 1: GamersLab Esports vs TBD
+SUMMARY:Lower bracket round 1 match 1: GamersLab Esports vs LPH
 UID:cs-go-tipsport-cup-open-1-2026-1616720@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
 DTSTART:20260807T170000Z
-SUMMARY:Upper bracket semifinal 1: NXS vs TBD
+SUMMARY:Upper bracket semifinal 1: NXS vs JAM
 UID:cs-go-tipsport-cup-open-1-2026-1616714@tournamentics
 END:VEVENT
 BEGIN:VEVENT
