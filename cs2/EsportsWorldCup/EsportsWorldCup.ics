@@ -201,12 +201,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: NIO vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/slaxercast
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | NIO: 0\nStream: https://www.twitch.tv/slaxercast
+DTEND:20260807T105206Z
 DTSTART:20260807T100409Z
 SUMMARY:ICE vs NIO
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620526@tournamentics
@@ -586,7 +586,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: ICE vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620528@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -716,7 +716,7 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620559@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pelaajatcom
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
 DURATION:PT2H
 DTSTART:20260807T100321Z
 SUMMARY:HERO vs REM
