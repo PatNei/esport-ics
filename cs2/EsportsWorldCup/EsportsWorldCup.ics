@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Winners match: FNC vs TBD
+SUMMARY:Winners match: TBD vs FNC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -145,12 +145,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Elimination match: GPN vs TBD
+SUMMARY:Elimination match: AOG vs GPN
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620549@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/litonn
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Infinite: 2 | Aogiri: 0\nStream: https://www.twitch.tv/litonn
+DTEND:20260807T112855Z
 DTSTART:20260807T101402Z
 SUMMARY:INF vs AOG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620546@tournamentics
@@ -200,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260808T120000Z
+DTSTART:20260807T120000Z
 SUMMARY:Elimination match: NIO vs KRE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620529@tournamentics
 END:VEVENT
@@ -320,12 +320,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: CIT vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620554@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bolt_ru
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | Citron: 0\nStream: https://www.twitch.tv/bolt_ru
+DTEND:20260807T113217Z
 DTSTART:20260807T101111Z
 SUMMARY:1WIN vs CIT
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620551@tournamentics
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Elimination match: DUSTY vs ZTF
+SUMMARY:Elimination match: ZTF vs DUSTY
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -523,7 +523,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Winners match: BCA vs TBD
+SUMMARY:Winners match: INF vs BCA
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620548@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -726,7 +726,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: 1WIN vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620553@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -768,7 +768,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Winners match: FXW7 vs BIG
+SUMMARY:Winners match: BIG vs FXW7
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620533@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1101,7 +1101,7 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620630@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/krl_stream
 DURATION:PT2H
 DTSTART:20260807T120000Z
 SUMMARY:Winners match: HOTU vs G1
