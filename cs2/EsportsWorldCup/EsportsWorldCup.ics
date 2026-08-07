@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/minicasterr
 DURATION:PT2H
 DTSTART:20260807T131500Z
-SUMMARY:Winners match: TBD vs FNC
+SUMMARY:Winners match: 6666 vs FNC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -319,7 +319,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260807T130000Z
+DTSTART:20260807T131000Z
 SUMMARY:Elimination match: CIT vs BMB
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620554@tournamentics
 END:VEVENT
@@ -709,9 +709,9 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tavarescs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tavarescs2
 DURATION:PT2H
-DTSTART:20260807T125000Z
+DTSTART:20260807T125944Z
 SUMMARY:Elimination match: REM vs ABT
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620559@tournamentics
 END:VEVENT
@@ -723,9 +723,9 @@ SUMMARY:HERO vs REM
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620556@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ct0m
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ct0m
 DURATION:PT2H
-DTSTART:20260807T125000Z
+DTSTART:20260807T130125Z
 SUMMARY:Winners match: 1WIN vs BCG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620553@tournamentics
 END:VEVENT
@@ -894,12 +894,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T131500Z
-SUMMARY:Elimination match: FKO vs TBD
+SUMMARY:Elimination match: IS vs FKO
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620564@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/x9nium
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Iberian Soul: 1 | 6666: 2\nStream: https://www.twitch.tv/x9nium
+DTEND:20260807T125800Z
 DTSTART:20260807T101137Z
 SUMMARY:IS vs 6666
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620561@tournamentics
@@ -1066,9 +1066,9 @@ SUMMARY:LONE vs PHA
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620572@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pelaajatcom
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pelaajatcom
 DURATION:PT2H
-DTSTART:20260807T125000Z
+DTSTART:20260807T130328Z
 SUMMARY:Winners match: HERO vs 9INE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620558@tournamentics
 END:VEVENT
