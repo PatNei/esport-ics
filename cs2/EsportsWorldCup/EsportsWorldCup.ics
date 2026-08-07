@@ -4,6 +4,13 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260812T143000Z
+SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
+UID:cs-go-esports-world-cup-2026-1624089@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260815T170000Z
 SUMMARY:Lower bracket semifinal 2: TBD vs TBD
 UID:cs-go-esports-world-cup-2026-1624086@tournamentics
@@ -88,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/litonn
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100000Z
 SUMMARY:INF vs AOG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620546@tournamentics
 END:VEVENT
@@ -137,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/slaxercast
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100000Z
 SUMMARY:ICE vs NIO
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620526@tournamentics
 END:VEVENT
@@ -161,6 +168,13 @@ DURATION:PT2H
 DTSTART:20260807T160000Z
 SUMMARY:VP vs SNG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620601@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260813T170000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-esports-world-cup-2026-1624091@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -214,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tavarescs2
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100000Z
 SUMMARY:ABT vs 9INE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620557@tournamentics
 END:VEVENT
@@ -228,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bolt_ru
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100000Z
 SUMMARY:1WIN vs CIT
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620551@tournamentics
 END:VEVENT
@@ -242,7 +256,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/krl_stream
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100000Z
 SUMMARY:G1 vs LFX
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620537@tournamentics
 END:VEVENT
@@ -270,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/zonixxcs
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100000Z
 SUMMARY:BIG vs ZTF
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620531@tournamentics
 END:VEVENT
@@ -280,6 +294,13 @@ DURATION:PT2H
 DTSTART:20260809T090000Z
 SUMMARY:Round of 32 match 7: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620612@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260812T132000Z
+SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-esports-world-cup-2026-1624088@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -317,6 +338,13 @@ SUMMARY:PRE vs MZP
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620582@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260814T110000Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-esports-world-cup-2026-1624126@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
@@ -331,9 +359,16 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620565@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260814T110000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-esports-world-cup-2026-1624109@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lyonder_cast
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100000Z
 SUMMARY:FKO vs FNC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620562@tournamentics
 END:VEVENT
@@ -366,9 +401,9 @@ SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roman
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roman
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100035Z
 SUMMARY:SAW vs EAC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620542@tournamentics
 END:VEVENT
@@ -420,6 +455,13 @@ DURATION:PT2H
 DTSTART:20260808T120000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620600@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260812T143000Z
+SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
+UID:cs-go-esports-world-cup-2026-1624090@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -494,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pelaajatcom
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100000Z
 SUMMARY:HERO vs REM
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620556@tournamentics
 END:VEVENT
@@ -529,7 +571,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/alrumtv
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100000Z
 SUMMARY:HOTU vs GR
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620536@tournamentics
 END:VEVENT
@@ -567,6 +609,13 @@ DURATION:PT2H
 DTSTART:20260809T090000Z
 SUMMARY:Round of 32 match 6: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620611@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260812T132000Z
+SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-esports-world-cup-2026-1624087@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -620,14 +669,14 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/x9nium
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100000Z
 SUMMARY:IS vs 6666
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620561@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/innocenttt
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/innocenttt
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100001Z
 SUMMARY:GPN vs BCA
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620547@tournamentics
 END:VEVENT
@@ -655,7 +704,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/lorranbs
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100000Z
 SUMMARY:DENDELE CS vs QC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620541@tournamentics
 END:VEVENT
@@ -669,7 +718,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100000Z
 SUMMARY:KRE vs ASTR
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620527@tournamentics
 END:VEVENT
@@ -693,6 +742,13 @@ DURATION:PT2H
 DTSTART:20260807T160000Z
 SUMMARY:ZES vs JJH
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620602@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260813T170000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-esports-world-cup-2026-1624092@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -758,9 +814,9 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/psp1g
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/psp1g
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100116Z
 SUMMARY:BCG vs BMB
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620552@tournamentics
 END:VEVENT
@@ -802,7 +858,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/cosiq
 DURATION:PT2H
-DTSTART:20260807T094500Z
+DTSTART:20260807T100000Z
 SUMMARY:DUSTY vs FXW7
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620532@tournamentics
 END:VEVENT
