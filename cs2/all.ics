@@ -670,7 +670,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T110000Z
-SUMMARY:Lower bracket quarterfinal 1: WorldEdit Club vs Perfecto Club
+SUMMARY:Lower bracket quarterfinal 1: TBD vs Perfecto Club
 UID:cs-go-winline-star-series-3-2026-1614336@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1776,7 +1776,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: ZES vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620604@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2235,9 +2235,9 @@ SUMMARY:Qualification match 1: BIG.A vs Vexar
 UID:cs-go-nodwin-clutch-series-10-2026-1594908@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260807T170000Z
+DTSTART:20260807T171836Z
 SUMMARY:DRAMA vs NV
 UID:cs-go-esea-advanced-europe-58-2026-1623536@tournamentics
 END:VEVENT
@@ -2245,7 +2245,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: JJH vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2382,9 +2382,9 @@ SUMMARY:HERO vs REM
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620556@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260807T171500Z
+DTSTART:20260807T171325Z
 SUMMARY:Quarterfinal 2: CS vs G1
 UID:cs-go-cct-europe-series-6-2026-1596515@tournamentics
 END:VEVENT
@@ -2711,15 +2711,15 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-tipsport-cup-open-1-2026-1616713@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Spirit Academy Green: 1 | MTX: 0\nStream: No official stream linked
+DTEND:20260807T171230Z
 DTSTART:20260807T163740Z
 SUMMARY:Spirit Academy Green vs MTX
 UID:cs-go-esea-advanced-europe-58-2026-1623535@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: zeste: 0 | JiJieHao: 2\nStream: No official stream linked
+DTEND:20260807T172029Z
 DTSTART:20260807T160503Z
 SUMMARY:ZES vs JJH
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620602@tournamentics
@@ -5598,7 +5598,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T200000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs Lixxx Club
+SUMMARY:Lower bracket quarterfinal 2: WorldEdit Club vs Lixxx Club
 UID:cs-go-winline-star-series-3-2026-1614338@tournamentics
 END:VEVENT
 BEGIN:VEVENT

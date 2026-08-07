@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: ZES vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620604@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -369,7 +369,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: JJH vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -625,8 +625,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: zeste: 0 | JiJieHao: 2\nStream: No official stream linked
+DTEND:20260807T172029Z
 DTSTART:20260807T160503Z
 SUMMARY:ZES vs JJH
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620602@tournamentics
