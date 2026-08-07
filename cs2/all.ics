@@ -751,13 +751,6 @@ SUMMARY:Decider match: ALKA vs RF
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1614720@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260807T184000Z
-SUMMARY:BB vs PENSIONERS
-UID:cs-go-esea-advanced-europe-58-2026-1623539@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Arch: 0 | Younglings: 1\nStream: No official stream linked
 DTEND:20260728T192743Z
 DTSTART:20260728T185230Z
@@ -870,18 +863,18 @@ SUMMARY:Winners match: ACE vs NRG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620593@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa BreakOut - Series #1 2026\nMatch Type: Best Of\nResult: SINQU: 0 | BC.Game Esports: 2\nStream: https://kick.com/elisaesports
-DTEND:20260801T133558Z
-DTSTART:20260801T120046Z
-SUMMARY:Semifinal 2: SINQU vs BCG
-UID:cs-go-elisa-breakout-series-1-2026-1602997@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 6 2026\nMatch Type: Best Of\nResult: BET-M 33: 2 | High-Tech Xtreme: 0\nStream: https://www.twitch.tv/kartash0v
 DTEND:20260728T153334Z
 DTSTART:20260728T140413Z
 SUMMARY:33 vs HTX
 UID:cs-go-cis-lan-championship-6-2026-1605009@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Elisa BreakOut - Series #1 2026\nMatch Type: Best Of\nResult: SINQU: 0 | BC.Game Esports: 2\nStream: https://kick.com/elisaesports
+DTEND:20260801T133558Z
+DTSTART:20260801T120046Z
+SUMMARY:Semifinal 2: SINQU vs BCG
+UID:cs-go-elisa-breakout-series-1-2026-1602997@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
@@ -3012,6 +3005,13 @@ SUMMARY:Decider match: FURY vs MF
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615342@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260809T103000Z
+SUMMARY:Quarterfinal 4: FaZe UN vs TTBS
+UID:cs-go-united21-53-2026-1625144@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: PCH3LK1N Club: 0 | shoke Club: 2\nStream: https://www.twitch.tv/kartash0v
 DTEND:20260805T163825Z
 DTSTART:20260805T155243Z
@@ -3493,6 +3493,13 @@ DTEND:20260801T140044Z
 DTSTART:20260801T105052Z
 SUMMARY:Elimination match: TM vs ZWAW
 UID:cs-go-bro-summer-cup-2026-1615307@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260809T080000Z
+SUMMARY:Quarterfinal 3: INF vs EAC Rising
+UID:cs-go-united21-53-2026-1625143@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Recrent Club: 2 | Morphilina Club: 0\nStream: https://www.twitch.tv/kartash0v
@@ -3990,6 +3997,13 @@ DTEND:20260804T114217Z
 DTSTART:20260804T101334Z
 SUMMARY:Winners match: RSTR vs FURY
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615340@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260808T130000Z
+SUMMARY:Quarterfinal 2: VP.P vs STA
+UID:cs-go-united21-53-2026-1625142@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nResult: Liquid: 2 | Betclic Apogee Esports: 1\nStream: https://kick.com/stake_pulse
@@ -4508,6 +4522,13 @@ DTEND:20260731T212233Z
 DTSTART:20260731T182226Z
 SUMMARY:Decider match: paiN.A vs Rush
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1609952@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260808T080000Z
+SUMMARY:Quarterfinal 1: FF vs PHTM.Ac
+UID:cs-go-united21-53-2026-1625141@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Pulse - Beat I 2026\nMatch Type: Best Of\nResult: Betclic Apogee Esports: 2 | The Last Resort: 1\nStream: https://kick.com/stake_cs2
