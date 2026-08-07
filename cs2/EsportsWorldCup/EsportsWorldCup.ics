@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T150000Z
-SUMMARY:Decider match: ABT vs TBD
+SUMMARY:Decider match: ABT vs 9INE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620560@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -688,7 +688,7 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620579@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260807T160000Z
 SUMMARY:100T vs SF
@@ -877,7 +877,7 @@ SUMMARY:TL vs DHA
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620581@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/albi1985
 DURATION:PT2H
 DTSTART:20260807T160000Z
 SUMMARY:VAEL vs OG
@@ -1038,7 +1038,7 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
 DTSTART:20260807T160000Z
 SUMMARY:SHU vs NRG
@@ -1066,8 +1066,8 @@ SUMMARY:LONE vs PHA
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620572@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pelaajatcom
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Heroic: 2 | 9INE: 1\nStream: https://www.twitch.tv/pelaajatcom
+DTEND:20260807T152559Z
 DTSTART:20260807T130328Z
 SUMMARY:Winners match: HERO vs 9INE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620558@tournamentics
