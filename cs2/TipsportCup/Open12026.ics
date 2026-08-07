@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
 DTSTART:20260808T110000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: GamersLab Esports vs TBD
 UID:cs-go-tipsport-cup-open-1-2026-1616720@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Upper bracket quarterfinal 4: BRUTE vs NAVI.J
 UID:cs-go-tipsport-cup-open-1-2026-1616725@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nResult: Nexus: 2 | GamersLab Esports: 0\nStream: https://www.twitch.tv/playzonecz
+DTEND:20260807T124153Z
 DTSTART:20260807T111343Z
 SUMMARY:Upper bracket quarterfinal 1: NXS vs GamersLab Esports
 UID:cs-go-tipsport-cup-open-1-2026-1616722@tournamentics
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
 DTSTART:20260807T170000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: NXS vs TBD
 UID:cs-go-tipsport-cup-open-1-2026-1616714@tournamentics
 END:VEVENT
 BEGIN:VEVENT
