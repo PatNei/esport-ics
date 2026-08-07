@@ -158,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sshambei
 DURATION:PT2H
-DTSTART:20260808T183000Z
+DTSTART:20260811T170000Z
 SUMMARY:OBOYS vs ARCH
 UID:cs-go-esea-advanced-europe-58-2026-1586800@tournamentics
 END:VEVENT
@@ -308,6 +308,13 @@ DTEND:20260804T181831Z
 DTSTART:20260804T173356Z
 SUMMARY:XI vs OLDBOYS PL
 UID:cs-go-esea-advanced-europe-58-2026-1619097@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260808T190000Z
+SUMMARY:BB vs VP.P
+UID:cs-go-esea-advanced-europe-58-2026-1625190@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Younglings: 1 | Banger Gang: 0\nStream: No official stream linked
