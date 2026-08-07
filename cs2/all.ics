@@ -2168,7 +2168,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260812T080000Z
-SUMMARY:Decider match: B8.A vs TBD
+SUMMARY:Decider match: B8.A vs FaZe UN
 UID:cs-go-european-pro-league-regular-6-2026-1616790@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2851,8 +2851,8 @@ SUMMARY:Elimination match: IC.A vs DNT
 UID:cs-go-nodwin-clutch-series-10-2026-1586284@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: FaZe Up Next: 1 | STATE: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260807T132449Z
 DTSTART:20260807T103740Z
 SUMMARY:Winners match: FaZe UN vs STA
 UID:cs-go-european-pro-league-regular-6-2026-1616789@tournamentics
@@ -2886,9 +2886,9 @@ SUMMARY:Diamant Esports vs VP.P
 UID:cs-go-esea-advanced-europe-58-2026-1619105@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
+DESCRIPTION:🔴 LIVE NOW\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
-DTSTART:20260807T131000Z
+DTSTART:20260807T132453Z
 SUMMARY:Upper bracket quarterfinal 3: UNiTY vs ESB
 UID:cs-go-tipsport-cup-open-1-2026-1616724@tournamentics
 END:VEVENT
@@ -4055,9 +4055,9 @@ SUMMARY:RED.A vs MW
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1591791@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/x9nium
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/x9nium
 DURATION:PT2H
-DTSTART:20260807T131500Z
+DTSTART:20260807T132316Z
 SUMMARY:Elimination match: IS vs FKO
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620564@tournamentics
 END:VEVENT
@@ -4587,9 +4587,9 @@ SUMMARY:Round 1: BRUTE vs NAVI.J
 UID:cs-go-urban-riga-open-6-2026-1596442@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/minicasterr
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/minicasterr
 DURATION:PT2H
-DTSTART:20260807T131500Z
+DTSTART:20260807T132200Z
 SUMMARY:Winners match: 6666 vs FNC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620563@tournamentics
 END:VEVENT
@@ -4618,7 +4618,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T150000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: G1 vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620540@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5896,8 +5896,8 @@ SUMMARY:Semifinal 1: SIN vs SPARTA
 UID:cs-go-cct-europe-series-5-2026-1587572@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/krl_stream
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: HOTU: 2 | GenOne: 0\nStream: https://www.twitch.tv/krl_stream
+DTEND:20260807T131817Z
 DTSTART:20260807T115957Z
 SUMMARY:Winners match: HOTU vs G1
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620538@tournamentics
