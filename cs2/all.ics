@@ -117,7 +117,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Winners match: TL vs TBD
+SUMMARY:Winners match: TL vs MZP
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620583@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -618,8 +618,8 @@ SUMMARY:MZP vs JS
 UID:cs-go-stake-pulse-beat-i-2026-1596604@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Metizport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Prestige: 0 | Metizport: 2\nStream: https://www.twitch.tv/Metizport
+DTEND:20260807T180155Z
 DTSTART:20260807T162635Z
 SUMMARY:PRE vs MZP
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620582@tournamentics
@@ -1201,7 +1201,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
 DURATION:PT2H
-DTSTART:20260807T170000Z
+DTSTART:20260807T180000Z
 SUMMARY:Upper bracket semifinal 2: Buster Club vs shoke Club
 UID:cs-go-winline-star-series-3-2026-1614335@tournamentics
 END:VEVENT
@@ -1766,8 +1766,8 @@ SUMMARY:Upper bracket semifinal 2: UNiTY vs NAVI.J
 UID:cs-go-tipsport-cup-open-1-2026-1616715@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: PURE: 1 | ENRAGE: 0\nStream: No official stream linked
+DTEND:20260807T175457Z
 DTSTART:20260807T173150Z
 SUMMARY:PURE vs ENRAGE
 UID:cs-go-esea-advanced-europe-58-2026-1623537@tournamentics
@@ -2994,7 +2994,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: OW vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620589@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3512,7 +3512,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: SASHI vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620588@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3999,8 +3999,8 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-esports-world-cup-2026-1624405@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Orion Wanderers: 0 | Sashi Esport: 2\nStream: https://www.twitch.tv/d0kt0r3n
+DTEND:20260807T175534Z
 DTSTART:20260807T162324Z
 SUMMARY:OW vs SASHI
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620587@tournamentics
@@ -5556,7 +5556,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Elimination match: DHA vs TBD
+SUMMARY:Elimination match: DHA vs PRE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620584@tournamentics
 END:VEVENT
 BEGIN:VEVENT
