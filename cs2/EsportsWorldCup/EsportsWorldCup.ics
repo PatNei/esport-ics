@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: TL vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620583@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Elimination match: REV vs TBD
+SUMMARY:Elimination match: REV vs LONE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620574@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -698,7 +698,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Winners match: EYE vs TBD
+SUMMARY:Winners match: EYE vs PHA
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620573@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -866,12 +866,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: DHA vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620584@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fl0m
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Liquid: 2 | Dhala: 0\nStream: https://www.twitch.tv/fl0m
+DTEND:20260807T173247Z
 DTSTART:20260807T162223Z
 SUMMARY:TL vs DHA
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620581@tournamentics
@@ -1059,8 +1059,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620575@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/officialhyper
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: levelONE: 0 | Phantom: 2\nStream: https://www.twitch.tv/officialhyper
+DTEND:20260807T173922Z
 DTSTART:20260807T161724Z
 SUMMARY:LONE vs PHA
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620572@tournamentics
