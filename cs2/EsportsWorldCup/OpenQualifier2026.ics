@@ -54,12 +54,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T150000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: ABT vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620560@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Aogiri: 1 | Giant Pandas: 2\nStream: No official stream linked
+DTEND:20260807T135738Z
 DTSTART:20260807T120200Z
 SUMMARY:Elimination match: AOG vs GPN
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620549@tournamentics
@@ -107,8 +107,8 @@ SUMMARY:Round of 32 match 16: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620621@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: NIO: 1 | Kreazion: 2\nStream: No official stream linked
+DTEND:20260807T135955Z
 DTSTART:20260807T115801Z
 SUMMARY:Elimination match: NIO vs KRE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620529@tournamentics
@@ -436,8 +436,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tavarescs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: REM: 0 | ABT Esports: 2\nStream: https://www.twitch.tv/tavarescs2
+DTEND:20260807T140655Z
 DTSTART:20260807T125944Z
 SUMMARY:Elimination match: REM vs ABT
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620559@tournamentics
@@ -460,7 +460,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T150000Z
-SUMMARY:Decider match: INF vs TBD
+SUMMARY:Decider match: INF vs GPN
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620550@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -509,7 +509,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T150000Z
-SUMMARY:Decider match: ASTR vs TBD
+SUMMARY:Decider match: ASTR vs KRE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620530@tournamentics
 END:VEVENT
 BEGIN:VEVENT
