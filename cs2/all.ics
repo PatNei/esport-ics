@@ -425,7 +425,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260808T130000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: Black Phoenix vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596519@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1430,8 +1430,8 @@ SUMMARY:Round of 16 match 2: G1 vs ex-RUSTEC
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602182@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Walczaki: 1 | Black Phoenix: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260807T144736Z
 DTSTART:20260807T110826Z
 SUMMARY:Quarterfinal 4: WAL vs Black Phoenix
 UID:cs-go-cct-europe-series-6-2026-1596517@tournamentics
@@ -1762,7 +1762,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
 DTSTART:20260807T170000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: UNiTY vs TBD
 UID:cs-go-tipsport-cup-open-1-2026-1616715@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1908,7 +1908,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260807T145000Z
+DTSTART:20260807T150000Z
 SUMMARY:Quarterfinal 3: ex-RUSTEC vs 33
 UID:cs-go-cct-europe-series-6-2026-1596516@tournamentics
 END:VEVENT
@@ -2886,8 +2886,8 @@ SUMMARY:Diamant Esports vs VP.P
 UID:cs-go-esea-advanced-europe-58-2026-1619105@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | eSuba: 0\nStream: https://www.twitch.tv/playzonecz
+DTEND:20260807T144656Z
 DTSTART:20260807T132453Z
 SUMMARY:Upper bracket quarterfinal 3: UNiTY vs ESB
 UID:cs-go-tipsport-cup-open-1-2026-1616724@tournamentics
@@ -4380,7 +4380,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
 DTSTART:20260808T110000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: ESB vs TBD
 UID:cs-go-tipsport-cup-open-1-2026-1616721@tournamentics
 END:VEVENT
 BEGIN:VEVENT

@@ -208,7 +208,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260808T130000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: Black Phoenix vs TBD
 UID:cs-go-cct-europe-series-6-2026-1596519@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -228,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260807T145000Z
+DTSTART:20260807T150000Z
 SUMMARY:Quarterfinal 3: ex-RUSTEC vs 33
 UID:cs-go-cct-europe-series-6-2026-1596516@tournamentics
 END:VEVENT
@@ -772,8 +772,8 @@ SUMMARY:Lower Bracket Round 2 Match 3: GS vs TrafficPills Esports
 UID:cs-go-cct-europe-contenders-7-2026-1610748@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Walczaki: 1 | Black Phoenix: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260807T144736Z
 DTSTART:20260807T110826Z
 SUMMARY:Quarterfinal 4: WAL vs Black Phoenix
 UID:cs-go-cct-europe-series-6-2026-1596517@tournamentics
