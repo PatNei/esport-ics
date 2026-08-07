@@ -201,7 +201,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Elimination match: NIO vs TBD
+SUMMARY:Elimination match: NIO vs KRE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: DUSTY vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -586,7 +586,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Winners match: ICE vs TBD
+SUMMARY:Winners match: ICE vs ASTR
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620528@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -768,7 +768,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: FXW7 vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620533@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -961,8 +961,8 @@ SUMMARY:Round of 16 match 1: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620622@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Kreazion: 0 | ASTRAL: 2\nStream: No official stream linked
+DTEND:20260807T111214Z
 DTSTART:20260807T101113Z
 SUMMARY:KRE vs ASTR
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620527@tournamentics
@@ -1122,8 +1122,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620535@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/cosiq
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: DUSTY: 0 | Fluxo W7M: 2\nStream: https://kick.com/cosiq
+DTEND:20260807T111301Z
 DTSTART:20260807T101418Z
 SUMMARY:DUSTY vs FXW7
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620532@tournamentics
