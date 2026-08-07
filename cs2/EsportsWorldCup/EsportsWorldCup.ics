@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: GPN vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620549@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -523,7 +523,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: BCA vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620548@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -712,12 +712,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: REM vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620559@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Heroic: 2 | REM: 0\nStream: https://www.twitch.tv/esportstudion
+DTEND:20260807T110202Z
 DTSTART:20260807T100321Z
 SUMMARY:HERO vs REM
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620556@tournamentics
@@ -905,8 +905,8 @@ SUMMARY:IS vs 6666
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620561@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/innocenttt
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Giant Pandas: 0 | Betclic Apogee Esports: 2\nStream: https://kick.com/innocenttt
+DTEND:20260807T110300Z
 DTSTART:20260807T100001Z
 SUMMARY:GPN vs BCA
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620547@tournamentics
@@ -1069,7 +1069,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260807T120000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: HERO vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620558@tournamentics
 END:VEVENT
 BEGIN:VEVENT
