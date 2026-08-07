@@ -455,27 +455,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season5320
 </details>
 
 <details>
-<summary>Urban Riga</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/UrbanRiga.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/UrbanRiga.ics
-```
-
----
-
-### Open #6 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open62026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open62026.ics
-```
-
-</details>
-
-<details>
 <summary>Winline Star Series</summary>
 
 ### Full Schedule
