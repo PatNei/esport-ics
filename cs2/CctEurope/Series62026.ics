@@ -25,8 +25,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260808T162000Z
-SUMMARY:Grand final: BTF vs TBD
+DTSTART:20260808T170000Z
+SUMMARY:Grand final: BTF vs CS
 UID:cs-go-cct-europe-series-6-2026-1596520@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -135,8 +135,8 @@ SUMMARY:Round 3: LK vs NV
 UID:cs-go-cct-europe-series-6-2026-1596493@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Black Phoenix: 1 | CYBERSHOKE Esports: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260808T161109Z
 DTSTART:20260808T132216Z
 SUMMARY:Semifinal 1: Black Phoenix vs CS
 UID:cs-go-cct-europe-series-6-2026-1596518@tournamentics
