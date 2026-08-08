@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Orion Wanderers: 0 | Partizan Esport: 2\nStream: No official stream linked
-DTEND:20260808T105105Z
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/litonn
+DURATION:PT2H
 DTSTART:20260808T090830Z
 SUMMARY:Elimination match: OW vs PAR
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620589@tournamentics
@@ -16,8 +16,8 @@ SUMMARY:FOKUS vs PAR
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620586@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Metizport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Liquid: 2 | Metizport: 0\nStream: https://www.twitch.tv/Metizport
+DTEND:20260808T110313Z
 DTSTART:20260808T090943Z
 SUMMARY:Winners match: TL vs MZP
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620583@tournamentics
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Decider match: PRE vs TBD
+SUMMARY:Decider match: PRE vs MZP
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620585@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -366,8 +366,8 @@ SUMMARY:Round of 32 match 1: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620606@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/krat0ntv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: JiJieHao: 0 | Virtus.pro: 2\nStream: https://www.twitch.tv/krat0ntv
+DTEND:20260808T110005Z
 DTSTART:20260808T090936Z
 SUMMARY:Winners match: JJH vs VP
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620603@tournamentics
@@ -375,7 +375,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260808T120000Z
+DTSTART:20260808T111000Z
 SUMMARY:Decider match: DT vs SIN
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620600@tournamentics
 END:VEVENT
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Decider match: PAR vs TBD
+SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620590@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -607,7 +607,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Decider match: SNG vs TBD
+SUMMARY:Decider match: SNG vs JJH
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
