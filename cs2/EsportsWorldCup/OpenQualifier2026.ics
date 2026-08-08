@@ -376,12 +376,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: DT vs SIN
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Dark Tigre: 2 | MANGANESE: 0\nStream: No official stream linked
+DTEND:20260808T103804Z
 DTSTART:20260808T091452Z
 SUMMARY:Elimination match: DT vs MGN
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620599@tournamentics
@@ -618,8 +618,8 @@ SUMMARY:ZES vs JJH
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/bladeito
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: K27: 2 | Sinners: 0\nStream: https://kick.com/bladeito
+DTEND:20260808T103944Z
 DTSTART:20260808T091450Z
 SUMMARY:Winners match: K27 vs SIN
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620598@tournamentics
