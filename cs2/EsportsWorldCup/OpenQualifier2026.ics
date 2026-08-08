@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Orion Wanderers: 0 | Partizan Esport: 2\nStream: No official stream linked
+DTEND:20260808T105105Z
 DTSTART:20260808T090830Z
 SUMMARY:Elimination match: OW vs PAR
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620589@tournamentics
@@ -30,8 +30,8 @@ SUMMARY:Decider match: EF vs NADE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620580@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Passion Chicha: 0 | Vael: 2\nStream: No official stream linked
+DTEND:20260808T104426Z
 DTSTART:20260808T091400Z
 SUMMARY:Elimination match: PC vs VAEL
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620569@tournamentics
@@ -170,8 +170,8 @@ SUMMARY:NADE vs EF
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620577@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: REVENIX: 0 | levelONE: 2\nStream: No official stream linked
+DTEND:20260808T104551Z
 DTSTART:20260808T091320Z
 SUMMARY:Elimination match: REV vs LONE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620574@tournamentics
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: PAR vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620590@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: VAEL vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -649,7 +649,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: LONE vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620575@tournamentics
 END:VEVENT
 BEGIN:VEVENT
