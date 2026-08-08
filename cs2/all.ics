@@ -408,9 +408,9 @@ SUMMARY:Round of 16 match 5: WAL vs BBP
 UID:cs-go-thunderpick-world-championship-european-series-2-2026-1602184@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260808T100000Z
+DTSTART:20260808T100937Z
 SUMMARY:Semifinal 2: BTF vs 33
 UID:cs-go-cct-europe-series-6-2026-1596519@tournamentics
 END:VEVENT
@@ -4975,7 +4975,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: PRE vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620585@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5455,8 +5455,8 @@ SUMMARY:Winners match: FNC vs MZP
 UID:cs-go-stake-pulse-beat-i-2026-1596606@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/prestigeesportscs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Dhala: 0 | Prestige: 2\nStream: https://www.twitch.tv/prestigeesportscs
+DTEND:20260808T101219Z
 DTSTART:20260808T090632Z
 SUMMARY:Elimination match: DHA vs PRE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620584@tournamentics
