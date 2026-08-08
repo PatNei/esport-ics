@@ -170,9 +170,9 @@ SUMMARY:Lower bracket final: NRG vs SportsBetExpert
 UID:cs-go-starladder-i-league-starseries-north-american-qualifier-fall-2026-1596588@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260808T110500Z
+DTSTART:20260808T110613Z
 SUMMARY:Winners match: PHTM.Ac vs VP.P
 UID:cs-go-european-pro-league-regular-6-2026-1616794@tournamentics
 END:VEVENT
@@ -1264,7 +1264,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260808T120000Z
+DTSTART:20260808T113000Z
 SUMMARY:Decider match: SNG vs JJH
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620605@tournamentics
 END:VEVENT
@@ -2266,7 +2266,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: PAR vs SASHI
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620590@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2921,8 +2921,8 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-esports-world-cup-2026-1624407@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/litonn
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Orion Wanderers: 0 | Partizan Esport: 2\nStream: https://www.twitch.tv/litonn
+DTEND:20260808T110458Z
 DTSTART:20260808T090830Z
 SUMMARY:Elimination match: OW vs PAR
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620589@tournamentics
@@ -3439,8 +3439,8 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-esports-world-cup-2026-1624406@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jester_andrew
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Sashi Esport: 0 | FOKUS: 2\nStream: https://www.twitch.tv/jester_andrew
+DTEND:20260808T111105Z
 DTSTART:20260808T090559Z
 SUMMARY:Winners match: SASHI vs FOKUS
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620588@tournamentics
@@ -3593,7 +3593,7 @@ SUMMARY:ZOTIX vs Diamant Esports
 UID:cs-go-esea-advanced-europe-58-2026-1620640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/grimyrannarrcs
 DURATION:PT2H
 DTSTART:20260808T111000Z
 SUMMARY:Decider match: DT vs SIN
@@ -4813,7 +4813,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
 DURATION:PT2H
-DTSTART:20260808T110000Z
+DTSTART:20260808T113000Z
 SUMMARY:Lower bracket round 1 match 1: GamersLab Esports vs LPH
 UID:cs-go-tipsport-cup-open-1-2026-1616720@tournamentics
 END:VEVENT
@@ -4974,7 +4974,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260808T120000Z
+DTSTART:20260808T113000Z
 SUMMARY:Decider match: PRE vs MZP
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620585@tournamentics
 END:VEVENT
