@@ -726,7 +726,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
 DTSTART:20260808T170000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: NXS vs TBD
 UID:cs-go-tipsport-cup-open-1-2026-1616717@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3985,8 +3985,8 @@ SUMMARY:Winners match: RSTR vs FURY
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615340@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 0 | STATE: 2\nStream: https://kick.com/united21_en
+DTEND:20260808T151021Z
 DTSTART:20260808T131745Z
 SUMMARY:Upper bracket quarterfinal 2: VP.P vs STA
 UID:cs-go-united21-53-2026-1625142@tournamentics
@@ -5539,8 +5539,8 @@ SUMMARY:Round of 16 match 4: CS vs LK
 UID:cs-go-cct-europe-series-6-2026-1596509@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nResult: Nexus: 2 | Brute: 0\nStream: https://www.twitch.tv/playzonecz
+DTEND:20260808T151806Z
 DTSTART:20260808T133059Z
 SUMMARY:Lower bracket quarterfinal 2: NXS vs BRUTE
 UID:cs-go-tipsport-cup-open-1-2026-1616719@tournamentics
