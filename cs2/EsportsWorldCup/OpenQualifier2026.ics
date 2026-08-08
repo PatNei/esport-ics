@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Decider match: EF vs TBD
+SUMMARY:Decider match: EF vs NADE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620580@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -149,8 +149,8 @@ SUMMARY:MGN vs SIN
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620597@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/litonn
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Vandulken: 0 | Spirit HU: 2\nStream: https://www.twitch.tv/litonn
+DTEND:20260808T101709Z
 DTSTART:20260808T090842Z
 SUMMARY:Elimination match: VAN vs SHU
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620594@tournamentics
@@ -628,7 +628,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: SHU vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -639,8 +639,8 @@ SUMMARY:SHU vs NRG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roman
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: 100 Thieves: 2 | NADE: 0\nStream: https://www.twitch.tv/roman
+DTEND:20260808T102342Z
 DTSTART:20260808T091032Z
 SUMMARY:Winners match: 100T vs NADE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620578@tournamentics

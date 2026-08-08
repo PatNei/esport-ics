@@ -172,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260808T103000Z
+DTSTART:20260808T110000Z
 SUMMARY:Winners match: PHTM.Ac vs VP.P
 UID:cs-go-european-pro-league-regular-6-2026-1616794@tournamentics
 END:VEVENT
@@ -359,8 +359,8 @@ SUMMARY:Quarterfinal 3: CS vs VP
 UID:cs-go-cis-lan-championship-6-2026-1607768@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/litonn
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Vandulken: 0 | Spirit HU: 2\nStream: https://www.twitch.tv/litonn
+DTEND:20260808T101709Z
 DTSTART:20260808T090842Z
 SUMMARY:Elimination match: VAN vs SHU
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620594@tournamentics
@@ -1580,7 +1580,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Decider match: EF vs TBD
+SUMMARY:Decider match: EF vs NADE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620580@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2753,8 +2753,8 @@ SUMMARY:Round 2: RGG vs Trainwrecks eSports
 UID:cs-go-elisa-breakout-series-1-2026-1602993@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roman
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: 100 Thieves: 2 | NADE: 0\nStream: https://www.twitch.tv/roman
+DTEND:20260808T102342Z
 DTSTART:20260808T091032Z
 SUMMARY:Winners match: 100T vs NADE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620578@tournamentics
@@ -5689,7 +5689,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260808T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: SHU vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
