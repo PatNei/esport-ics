@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260809T123000Z
-SUMMARY:Round of 16 match 6: HOTU vs TBD
+SUMMARY:Round of 16 match 6: HOTU vs ICE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620627@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/innocenttt
 DURATION:PT2H
 DTSTART:20260809T123000Z
-SUMMARY:Round of 16 match 3: BCA vs TBD
+SUMMARY:Round of 16 match 3: BCA vs SASHI
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620624@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -558,7 +558,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260809T123000Z
-SUMMARY:Round of 16 match 5: TBD vs TBD
+SUMMARY:Round of 16 match 5: PHA vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -758,8 +758,8 @@ SUMMARY:Winners match: BIG vs FXW7
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620533@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/endiezcasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: NRG: 1 | Phantom: 2\nStream: https://www.twitch.tv/endiezcasts
+DTEND:20260809T120730Z
 DTSTART:20260809T091711Z
 SUMMARY:Round of 32 match 9: NRG vs PHA
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620614@tournamentics
@@ -1108,8 +1108,8 @@ SUMMARY:DUSTY vs FXW7
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620532@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/x9nium
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | Iberian Soul: 1\nStream: https://kick.com/x9nium
+DTEND:20260809T120808Z
 DTSTART:20260809T091218Z
 SUMMARY:Round of 32 match 11: ICE vs IS
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620616@tournamentics
@@ -1122,8 +1122,8 @@ SUMMARY:Round of 32 match 8: EF vs BIG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620613@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/neret17
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Virtus.pro: 1 | Sashi Esport: 2\nStream: https://www.twitch.tv/neret17
+DTEND:20260809T121032Z
 DTSTART:20260809T091423Z
 SUMMARY:Round of 32 match 5: VP vs SASHI
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620610@tournamentics
