@@ -72,9 +72,9 @@ SUMMARY:INF vs AOG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620546@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dayneez
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dayneez
 DURATION:PT2H
-DTSTART:20260809T123000Z
+DTSTART:20260809T124208Z
 SUMMARY:Round of 16 match 6: HOTU vs ICE
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620627@tournamentics
 END:VEVENT
@@ -86,9 +86,9 @@ SUMMARY:Winners match: DENDELE CS vs SAW
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620543@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/innocenttt
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/innocenttt
 DURATION:PT2H
-DTSTART:20260809T123000Z
+DTSTART:20260809T123735Z
 SUMMARY:Round of 16 match 3: BCA vs SASHI
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620624@tournamentics
 END:VEVENT
@@ -359,8 +359,8 @@ SUMMARY:Round of 32 match 4: FXW7 vs FNC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620609@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/krat0ntv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: K27: 2 | SAW: 1\nStream: https://www.twitch.tv/krat0ntv
+DTEND:20260809T123653Z
 DTSTART:20260809T092307Z
 SUMMARY:Round of 32 match 1: K27 vs SAW
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620606@tournamentics
@@ -579,7 +579,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260809T124500Z
-SUMMARY:Round of 16 match 1: EYE vs TBD
+SUMMARY:Round of 16 match 1: EYE vs K27
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620622@tournamentics
 END:VEVENT
 BEGIN:VEVENT
