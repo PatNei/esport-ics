@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260809T120000Z
-SUMMARY:Round of 16 match 6: TBD vs TBD
+SUMMARY:Round of 16 match 6: HOTU vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620627@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -305,7 +305,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260809T114500Z
+DTSTART:20260809T115500Z
 SUMMARY:Round of 16 match 8: 100T vs BCG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620629@tournamentics
 END:VEVENT
@@ -333,7 +333,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260809T120000Z
+DTSTART:20260809T114500Z
 SUMMARY:Round of 16 match 2: HERO vs FNC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620623@tournamentics
 END:VEVENT
@@ -471,8 +471,8 @@ SUMMARY:HOTU vs GR
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620536@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/9inegg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 0 | HOTU: 2\nStream: https://www.twitch.tv/9inegg
+DTEND:20260809T113350Z
 DTSTART:20260809T091312Z
 SUMMARY:Round of 32 match 12: 9INE vs HOTU
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620617@tournamentics
