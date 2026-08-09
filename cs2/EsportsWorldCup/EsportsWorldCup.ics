@@ -537,7 +537,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260809T120000Z
-SUMMARY:Round of 16 match 8: 100T vs TBD
+SUMMARY:Round of 16 match 8: 100T vs BCG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -576,8 +576,8 @@ SUMMARY:Round of 16 match 2: HERO vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620623@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/akofocus
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: BC.Game Esports: 2 | OG: 0\nStream: https://kick.com/akofocus
+DTEND:20260809T112055Z
 DTSTART:20260809T090601Z
 SUMMARY:Round of 32 match 15: BCG vs OG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620620@tournamentics
