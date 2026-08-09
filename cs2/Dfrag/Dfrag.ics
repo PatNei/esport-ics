@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Finishers: 1 | Mindfreak: 2\nStream: https://www.twitch.tv/dfragtv
-DTEND:20260804T130726Z
-DTSTART:20260804T100926Z
-SUMMARY:Elimination match: Finishers vs MF
-UID:cs-go-dfrag-open-series-open-series-6-2026-1615341@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260810T100000Z
@@ -30,20 +23,6 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615358@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Time Waves: 1 | Arcade Esports: 2\nStream: https://kick.com/dfragtv
-DTEND:20260806T130336Z
-DTSTART:20260806T100321Z
-SUMMARY:Elimination match: TW vs ARC
-UID:cs-go-dfrag-open-series-open-series-6-2026-1615346@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Time Waves: 0\nStream: https://www.twitch.tv/flamboyantttt
-DTEND:20260805T115616Z
-DTSTART:20260805T100628Z
-SUMMARY:GZ vs TW
-UID:cs-go-dfrag-open-series-open-series-6-2026-1615343@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260810T100000Z
@@ -51,53 +30,11 @@ SUMMARY:Upper bracket semifinal 2: GZ vs MF
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615355@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Mindfreak: 1 | FURY: 2\nStream: https://www.twitch.tv/flamboyantttt
-DTEND:20260803T130057Z
-DTSTART:20260803T102140Z
-SUMMARY:MF vs FURY
-UID:cs-go-dfrag-open-series-open-series-6-2026-1615339@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Rooster: 2 | FURY: 0\nStream: https://www.youtube.com/watch?v=_VGSOjuTCIE
-DTEND:20260804T114217Z
-DTSTART:20260804T101334Z
-SUMMARY:Winners match: RSTR vs FURY
-UID:cs-go-dfrag-open-series-open-series-6-2026-1615340@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Arcade Esports: 1 | Abyssal: 2\nStream: https://www.twitch.tv/dfragtv
-DTEND:20260805T124149Z
-DTSTART:20260805T100337Z
-SUMMARY:ARC vs Abyssal
-UID:cs-go-dfrag-open-series-open-series-6-2026-1615344@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Abyssal: 2 | Arcade Esports: 0\nStream: https://www.twitch.tv/onlyjoshintv
 DTEND:20260807T120906Z
 DTSTART:20260807T101021Z
 SUMMARY:Decider match: Abyssal vs ARC
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615347@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Abyssal: 0\nStream: https://www.twitch.tv/onlyjoshintv
-DTEND:20260806T113052Z
-DTSTART:20260806T100420Z
-SUMMARY:Winners match: GZ vs Abyssal
-UID:cs-go-dfrag-open-series-open-series-6-2026-1615345@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: FURY: 0 | Mindfreak: 2\nStream: https://www.twitch.tv/flamboyantttt
-DTEND:20260807T114604Z
-DTSTART:20260807T101046Z
-SUMMARY:Decider match: FURY vs MF
-UID:cs-go-dfrag-open-series-open-series-6-2026-1615342@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Rooster: 2 | Finishers: 0\nStream: https://www.twitch.tv/dfragtv
-DTEND:20260803T111510Z
-DTSTART:20260803T100922Z
-SUMMARY:RSTR vs Finishers
-UID:cs-go-dfrag-open-series-open-series-6-2026-1615338@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
