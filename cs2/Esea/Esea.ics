@@ -641,13 +641,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260809T184500Z
+DTSTART:20260809T190000Z
 SUMMARY:GoldRashers vs banda chuya
 UID:cs-go-esea-advanced-europe-58-2026-1626684@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kuusamogg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 0 | KUUSAMO.gg: 1\nStream: https://www.twitch.tv/kuusamogg
+DTEND:20260809T185243Z
 DTSTART:20260809T181905Z
 SUMMARY:VP.P vs KSM
 UID:cs-go-esea-advanced-europe-58-2026-1626681@tournamentics
