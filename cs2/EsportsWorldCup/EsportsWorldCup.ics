@@ -536,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260809T120000Z
+DTSTART:20260809T114500Z
 SUMMARY:Round of 16 match 8: 100T vs BCG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620629@tournamentics
 END:VEVENT
@@ -572,7 +572,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260809T120000Z
-SUMMARY:Round of 16 match 2: HERO vs TBD
+SUMMARY:Round of 16 match 2: HERO vs FNC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620623@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -590,8 +590,8 @@ SUMMARY:Winners match: ICE vs ASTR
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620528@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tris_mara
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 0 | fnatic: 2\nStream: https://www.twitch.tv/tris_mara
+DTEND:20260809T112330Z
 DTSTART:20260809T090730Z
 SUMMARY:Round of 32 match 4: FXW7 vs FNC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620609@tournamentics
@@ -922,7 +922,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260809T120000Z
-SUMMARY:Round of 16 match 4: TBD vs TBD
+SUMMARY:Round of 16 match 4: BIG vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1115,8 +1115,8 @@ SUMMARY:Round of 32 match 11: ICE vs IS
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620616@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/zonixxcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Eternal Fire: 0 | BIG: 2\nStream: https://www.twitch.tv/zonixxcs
+DTEND:20260809T113108Z
 DTSTART:20260809T091427Z
 SUMMARY:Round of 32 match 8: EF vs BIG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620613@tournamentics
