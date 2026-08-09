@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260809T120000Z
-SUMMARY:Round of 16 match 3: TBD vs TBD
+SUMMARY:Round of 16 match 3: BCA vs TBD
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620624@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -492,8 +492,8 @@ SUMMARY:Round of 32 match 9: NRG vs PHA
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620614@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/innocenttt
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Prestige: 0 | Betclic Apogee Esports: 2\nStream: https://kick.com/innocenttt
+DTEND:20260809T105306Z
 DTSTART:20260809T091351Z
 SUMMARY:Round of 32 match 6: PRE vs BCA
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620611@tournamentics
