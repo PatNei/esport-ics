@@ -873,7 +873,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260811T100000Z
-SUMMARY:Upper bracket final: Abyssal vs TBD
+SUMMARY:Upper bracket final: Abyssal vs GZ
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615358@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2312,8 +2312,8 @@ SUMMARY:Round 3: BCG vs Trainwrecks eSports
 UID:cs-go-elisa-breakout-series-1-2026-1602994@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Mindfreak: 0\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260810T114359Z
 DTSTART:20260810T100615Z
 SUMMARY:Upper bracket semifinal 2: GZ vs MF
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615355@tournamentics
@@ -5458,7 +5458,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260811T100000Z
-SUMMARY:Lower bracket semifinal: RSTR vs TBD
+SUMMARY:Lower bracket semifinal: RSTR vs MF
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615360@tournamentics
 END:VEVENT
 BEGIN:VEVENT
