@@ -322,27 +322,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dfrag/OpenSeries620
 </details>
 
 <details>
-<summary>Elisa BreakOut</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaBreakout/ElisaBreakout.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaBreakout/ElisaBreakout.ics
-```
-
----
-
-### Series #1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaBreakout/Series12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaBreakout/Series12026.ics
-```
-
-</details>
-
-<details>
 <summary>ESEA</summary>
 
 ### Full Schedule
