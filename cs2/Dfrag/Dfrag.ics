@@ -19,12 +19,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260812T100000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: GZ vs TBD
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615362@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Abyssal: 2 | Ground Zero: 1\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260811T124848Z
 DTSTART:20260811T100459Z
 SUMMARY:Upper bracket final: Abyssal vs GZ
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615358@tournamentics
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260813T100000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: Abyssal vs TBD
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615363@tournamentics
 END:VEVENT
 BEGIN:VEVENT
