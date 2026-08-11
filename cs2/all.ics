@@ -1432,7 +1432,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/untalentedkid785
 DURATION:PT2H
-DTSTART:20260811T160000Z
+DTSTART:20260811T170000Z
 SUMMARY:WAVE vs DNT
 UID:cs-go-esea-advanced-europe-58-2026-1619108@tournamentics
 END:VEVENT
@@ -3129,6 +3129,13 @@ DTEND:20260807T114604Z
 DTSTART:20260807T101046Z
 SUMMARY:Decider match: FURY vs MF
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615342@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260811T183000Z
+SUMMARY:UUST vs eVO
+UID:cs-go-esea-advanced-europe-58-2026-1630200@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: FaZe Up Next: 0 | Teletubisie: 2\nStream: https://kick.com/united21_en
