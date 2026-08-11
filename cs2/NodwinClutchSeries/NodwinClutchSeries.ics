@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260813T080000Z
+SUMMARY:JustP vs MOUZ.N
+UID:cs-go-nodwin-clutch-series-11-2026-1630756@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 1 | BIG Academy: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260713T105228Z
 DTSTART:20260713T081344Z
@@ -329,6 +336,13 @@ DTEND:20260716T102429Z
 DTSTART:20260716T080911Z
 SUMMARY:Entropy vs MISA
 UID:cs-go-nodwin-clutch-series-10-2026-1582145@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260813T170000Z
+SUMMARY:ENCE vs ENJOY
+UID:cs-go-nodwin-clutch-series-11-2026-1630757@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Donstu Esports: 1\nStream: https://kick.com/nodwin_cs2
