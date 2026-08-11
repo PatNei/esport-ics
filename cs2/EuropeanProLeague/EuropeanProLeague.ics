@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260812T133000Z
-SUMMARY:Decider match: INF vs TBD
+SUMMARY:Decider match: INF vs Inner Circle Prospect
 UID:cs-go-european-pro-league-regular-6-2026-1616912@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -93,8 +93,8 @@ SUMMARY:VIT.A vs BW
 UID:cs-go-european-pro-league-regular-6-2026-1616950@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: Inner Circle Prospect: 2 | ENCE Prospects: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260811T143321Z
 DTSTART:20260811T141339Z
 SUMMARY:Elimination match: Inner Circle Prospect vs ENCE.P
 UID:cs-go-european-pro-league-regular-6-2026-1616894@tournamentics
