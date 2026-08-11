@@ -1383,23 +1383,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260811T183000Z
-SUMMARY:BG vs GBC
-UID:cs-go-esea-advanced-europe-58-2026-1630191@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
 DTSTART:20260814T190000Z
 SUMMARY:GoldRashers vs ZOTIX
 UID:cs-go-esea-advanced-europe-58-2026-1628106@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: SPARTA: 2 | G2 Ares: 1\nStream: https://kick.com/cct_cs
-DTEND:20260728T195824Z
-DTSTART:20260728T170916Z
-SUMMARY:Round 4: SPARTA vs G2.A
-UID:cs-go-cct-europe-series-5-2026-1587547@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -1409,11 +1395,11 @@ SUMMARY:G2.A vs LK
 UID:cs-go-nodwin-clutch-series-11-2026-1630931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nResult: 3DMAX: 2 | FUT Esports: 0\nStream: https://www.twitch.tv/BLASTPremier
-DTEND:20260726T140655Z
-DTSTART:20260726T121507Z
-SUMMARY:Round of 16 match 6: 3DMAX vs FUT
-UID:cs-go-blast-bounty-summer-2026-1592777@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #5 2026\nMatch Type: Best Of\nResult: SPARTA: 2 | G2 Ares: 1\nStream: https://kick.com/cct_cs
+DTEND:20260728T195824Z
+DTSTART:20260728T170916Z
+SUMMARY:Round 4: SPARTA vs G2.A
+UID:cs-go-cct-europe-series-5-2026-1587547@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -1421,6 +1407,13 @@ DURATION:PT2H
 DTSTART:20260821T080000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-7-2026-1630690@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Summer 2026\nMatch Type: Best Of\nResult: 3DMAX: 2 | FUT Esports: 0\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260726T140655Z
+DTSTART:20260726T121507Z
+SUMMARY:Round of 16 match 6: 3DMAX vs FUT
+UID:cs-go-blast-bounty-summer-2026-1592777@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -2753,8 +2746,8 @@ SUMMARY:Quarterfinal 4: BST vs ALKA
 UID:cs-go-betboom-storm-4-2026-1611482@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 1 | PENSIONERS: 0\nStream: No official stream linked
+DTEND:20260811T190633Z
 DTSTART:20260811T184113Z
 SUMMARY:FF vs PENSIONERS
 UID:cs-go-esea-advanced-europe-58-2026-1630189@tournamentics
@@ -3481,8 +3474,8 @@ SUMMARY:Decider match: FURY vs MF
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615342@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: uust _esports: 1 | EvolupeGG: 0\nStream: No official stream linked
+DTEND:20260811T190428Z
 DTSTART:20260811T184157Z
 SUMMARY:UUST vs eVO
 UID:cs-go-esea-advanced-europe-58-2026-1630200@tournamentics
