@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260812T080000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs VP.P
+SUMMARY:Lower bracket quarterfinal 1: TTBS vs VP.P
 UID:cs-go-united21-53-2026-1629136@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +194,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260813T080000Z
-SUMMARY:Upper bracket final: STA vs TBD
+SUMMARY:Upper bracket final: STA vs INF
 UID:cs-go-united21-53-2026-1629138@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | Teletubisie: 1\nStream: https://kick.com/united21_en
+DTEND:20260811T133310Z
 DTSTART:20260811T110911Z
 SUMMARY:Upper bracket semifinal 2: INF vs TTBS
 UID:cs-go-united21-53-2026-1626618@tournamentics
