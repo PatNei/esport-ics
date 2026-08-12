@@ -117,7 +117,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260813T103000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: TTBS vs TBD
 UID:cs-go-united21-53-2026-1629139@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -128,8 +128,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-united21-53-2026-1629140@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Teletubisie: 2 | VP.Prodigy: 1\nStream: https://kick.com/united21_en
+DTEND:20260812T101600Z
 DTSTART:20260812T080618Z
 SUMMARY:Lower bracket quarterfinal 1: TTBS vs VP.P
 UID:cs-go-united21-53-2026-1629136@tournamentics

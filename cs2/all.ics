@@ -2998,9 +2998,9 @@ SUMMARY:Elimination match: QC vs EAC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620544@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_Plus_EN2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_Plus_EN2
 DURATION:PT2H
-DTSTART:20260812T101500Z
+DTSTART:20260812T102126Z
 SUMMARY:Upper bracket quarterfinal 3: FUT vs TYLOO
 UID:cs-go-esports-world-cup-2026-1624291@tournamentics
 END:VEVENT
@@ -3974,7 +3974,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260813T103000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: TTBS vs TBD
 UID:cs-go-united21-53-2026-1629139@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5644,8 +5644,8 @@ SUMMARY:Semifinal 1: FaZe vs TS
 UID:cs-go-blast-bounty-summer-2026-1593365@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Teletubisie: 2 | VP.Prodigy: 1\nStream: https://kick.com/united21_en
+DTEND:20260812T101600Z
 DTSTART:20260812T080618Z
 SUMMARY:Lower bracket quarterfinal 1: TTBS vs VP.P
 UID:cs-go-united21-53-2026-1629136@tournamentics
