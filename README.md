@@ -163,27 +163,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarserie
 
 </details>
 
-<details>
-<summary>Thunderpick World Championship</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/ThunderpickWorldChampionship.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/ThunderpickWorldChampionship.ics
-```
-
----
-
-### European Series #2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/EuropeanSeries22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ThunderpickWorldChampionship/EuropeanSeries22026.ics
-```
-
-</details>
-
 ## D Tier
 
 <details>
