@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: BetBoom Team: 0 | FaZe: 1\nStream: https://www.twitch.tv/EWC_plus_en
+DTEND:20260812T155839Z
 DTSTART:20260812T151031Z
 SUMMARY:Upper bracket quarterfinal 3: BB vs FaZe
 UID:cs-go-esports-world-cup-2026-1624089@tournamentics
@@ -81,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
-DTSTART:20260812T163000Z
+DTSTART:20260812T164000Z
 SUMMARY:Upper bracket quarterfinal 1: NAVI vs 3DMAX
 UID:cs-go-esports-world-cup-2026-1624319@tournamentics
 END:VEVENT
@@ -138,13 +138,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260813T170000Z
-SUMMARY:Upper bracket semifinal 2: LGC vs TBD
+SUMMARY:Upper bracket semifinal 2: LGC vs FaZe
 UID:cs-go-esports-world-cup-2026-1624092@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_Plus_EN2
 DURATION:PT2H
-DTSTART:20260812T161500Z
+DTSTART:20260812T162500Z
 SUMMARY:Upper bracket quarterfinal 2: MIBR vs AST
 UID:cs-go-esports-world-cup-2026-1624088@tournamentics
 END:VEVENT
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260814T110000Z
-SUMMARY:Lower bracket quarterfinal 2: NIP vs TBD
+SUMMARY:Lower bracket quarterfinal 2: NIP vs BB
 UID:cs-go-esports-world-cup-2026-1624126@tournamentics
 END:VEVENT
 BEGIN:VEVENT
