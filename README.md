@@ -285,6 +285,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/R
 </details>
 
 <details>
+<summary>Exort Fiesta</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/ExortFiesta.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/ExortFiesta.ics
+```
+
+---
+
+### Closed Qualifier: Series #1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/ClosedQualifierSeries12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/ClosedQualifierSeries12026.ics
+```
+
+</details>
+
+<details>
 <summary>Gamers Club Liga Série A</summary>
 
 ### Full Schedule
