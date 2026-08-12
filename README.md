@@ -33,29 +33,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsWorldCup/202
 
 </details>
 
-## A Tier
-
-<details>
-<summary>BLAST Bounty</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastBounty/BlastBounty.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastBounty/BlastBounty.ics
-```
-
----
-
-### Summer 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastBounty/Summer2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastBounty/Summer2026.ics
-```
-
-</details>
-
 ## B Tier
 
 <details>
