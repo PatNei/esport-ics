@@ -149,9 +149,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-7-2026-1630705@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260812T183000Z
+DTSTART:20260812T184408Z
 SUMMARY:ZOTIX vs ENRAGE
 UID:cs-go-esea-advanced-europe-58-2026-1631192@tournamentics
 END:VEVENT
@@ -665,13 +665,6 @@ DURATION:PT2H
 DTSTART:20260824T170000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-7-2026-1630704@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260812T180000Z
-SUMMARY:GBC vs LPH
-UID:cs-go-esea-advanced-europe-58-2026-1631191@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: Passion Academy: 2 | SINQU Rehti: 1\nStream: https://kick.com/eplcs_en
@@ -2319,11 +2312,11 @@ SUMMARY:Grand final: Grêmio Esports vs QUIN
 UID:cs-go-gamers-club-liga-serie-a-july-2026-1618170@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Just Players: 2 | ENJOY: 0\nStream: https://kick.com/cct_cs2
-DTEND:20260804T162110Z
-DTSTART:20260804T144524Z
-SUMMARY:Round 5: JustP vs ENJOY
-UID:cs-go-cct-europe-series-6-2026-1596504@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260816T234500Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1632583@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 2 | Peak Agency: 0\nStream: https://kick.com/cct_cs3
@@ -2338,6 +2331,13 @@ DTEND:20260807T182448Z
 DTSTART:20260807T163428Z
 SUMMARY:Upper bracket semifinal 1: NXS vs JAM
 UID:cs-go-tipsport-cup-open-1-2026-1616714@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Just Players: 2 | ENJOY: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260804T162110Z
+DTSTART:20260804T144524Z
+SUMMARY:Round 5: JustP vs ENJOY
+UID:cs-go-cct-europe-series-6-2026-1596504@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: BIG Academy: 0 | Vexar: 2\nStream: https://kick.com/nodwin_cs2
@@ -2886,11 +2886,11 @@ SUMMARY:Quarterfinal 4: BTF vs Black Phoenix
 UID:cs-go-cct-europe-series-5-2026-1587567@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nResult: JAM: 2 | UNiTY esports: 0\nStream: https://www.twitch.tv/playzonecz
-DTEND:20260808T172050Z
-DTSTART:20260808T154911Z
-SUMMARY:Upper bracket final: JAM vs UNiTY
-UID:cs-go-tipsport-cup-open-1-2026-1616713@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260815T210000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1632582@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 2 | Patins da Ferrari: 1\nStream: https://kick.com/cct_cs3
@@ -2898,6 +2898,13 @@ DTEND:20260810T000941Z
 DTSTART:20260809T210633Z
 SUMMARY:Upper bracket round 1 match 4: ALKA vs PDAF
 UID:cs-go-champion-of-champions-tour-challengers-2-2026-1627165@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Tipsport Cup - Open #1 2026\nMatch Type: Best Of\nResult: JAM: 2 | UNiTY esports: 0\nStream: https://www.twitch.tv/playzonecz
+DTEND:20260808T172050Z
+DTSTART:20260808T154911Z
+SUMMARY:Upper bracket final: JAM vs UNiTY
+UID:cs-go-tipsport-cup-open-1-2026-1616713@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: ex-RUSTEC: 2 | NEW VISION: 1\nStream: https://kick.com/cct_cs2
@@ -3222,10 +3229,10 @@ SUMMARY:Lower bracket quarterfinal 1: LG vs TS
 UID:cs-go-esports-world-cup-2026-1624083@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ewc_stcarena_en
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260815T140000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: WC vs TBD
 UID:cs-go-esports-world-cup-2026-1624326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3439,9 +3446,9 @@ SUMMARY:Tiebreaker: Lixxx Club vs SNAILKICK Club
 UID:cs-go-winline-star-series-3-2026-1623248@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260812T183000Z
+DTSTART:20260812T184405Z
 SUMMARY:PURE vs DRAMA
 UID:cs-go-esea-advanced-europe-58-2026-1620641@tournamentics
 END:VEVENT
@@ -4279,10 +4286,10 @@ SUMMARY:Round 1: ex-RUSTEC vs JustP
 UID:cs-go-cct-europe-series-5-2026-1587519@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ewc_stcarena_en
+DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260815T110000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: FURIA vs TBD
 UID:cs-go-esports-world-cup-2026-1624324@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5371,8 +5378,8 @@ SUMMARY:Round 1: EAC vs Entropy
 UID:cs-go-cct-europe-series-5-2026-1587517@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_Plus_EN2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Wildcard: 0 | FURIA: 1\nStream: https://www.twitch.tv/EWC_Plus_EN2
+DTEND:20260812T184410Z
 DTSTART:20260812T175539Z
 SUMMARY:Upper bracket quarterfinal 4: WC vs FURIA
 UID:cs-go-esports-world-cup-2026-1624322@tournamentics
