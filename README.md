@@ -84,34 +84,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series520
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series62026.ics
 ```
 
-### Series #7 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series72026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series72026.ics
-```
-
-</details>
-
-<details>
-<summary>Esports World Cup</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsWorldCup/EsportsWorldCup.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsWorldCup/EsportsWorldCup.ics
-```
-
----
-
-### Open Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsWorldCup/OpenQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsWorldCup/OpenQualifier2026.ics
-```
-
 </details>
 
 ## C Tier
@@ -263,39 +235,11 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 
 ---
 
-### Closed Qualifier: Series #7 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries72026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries72026.ics
-```
-
 ### Contenders #7 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders72026.ics)
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders72026.ics
-```
-
-</details>
-
-<details>
-<summary>CCT South America</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics
-```
-
----
-
-### Challengers #2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Challengers22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Challengers22026.ics
 ```
 
 </details>
@@ -401,13 +345,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season102026.ics
-```
-
-### Season 11 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season112026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season112026.ics
 ```
 
 </details>

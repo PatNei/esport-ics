@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260813T080000Z
-SUMMARY:JustP vs MOUZ.N
-UID:cs-go-nodwin-clutch-series-11-2026-1630756@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 1 | BIG Academy: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260713T105228Z
 DTSTART:20260713T081344Z
@@ -184,13 +177,6 @@ SUMMARY:Round 1: 33 vs SPARTA
 UID:cs-go-nodwin-clutch-series-10-2026-1582149@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260813T140000Z
-SUMMARY:Honvéd vs BBP
-UID:cs-go-nodwin-clutch-series-11-2026-1631015@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Butterfly: 2 | Just Players: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260723T183857Z
 DTSTART:20260723T172114Z
@@ -203,20 +189,6 @@ DTEND:20260716T133754Z
 DTSTART:20260716T110650Z
 SUMMARY:G2.A vs LILMIX
 UID:cs-go-nodwin-clutch-series-10-2026-1582146@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260816T170000Z
-SUMMARY:boomerang vs ex-Zero Tenacity
-UID:cs-go-nodwin-clutch-series-11-2026-1630934@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260816T140000Z
-SUMMARY:G2.A vs LK
-UID:cs-go-nodwin-clutch-series-11-2026-1630931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Honvéd: 2 | Julie&cie: 0\nStream: https://kick.com/nodwin_cs2
@@ -352,32 +324,11 @@ SUMMARY:Round 1: Lavked vs ex-RUSTEC
 UID:cs-go-nodwin-clutch-series-10-2026-1582148@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260813T110000Z
-SUMMARY:TLR vs HS
-UID:cs-go-nodwin-clutch-series-11-2026-1631014@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: Entropy: 1 | Misa Esports: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260716T102429Z
 DTSTART:20260716T080911Z
 SUMMARY:Entropy vs MISA
 UID:cs-go-nodwin-clutch-series-10-2026-1582145@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260813T170000Z
-SUMMARY:ENCE vs ENJOY
-UID:cs-go-nodwin-clutch-series-11-2026-1630757@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260816T080000Z
-SUMMARY:NXS vs BW
-UID:cs-go-nodwin-clutch-series-11-2026-1630930@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 10 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Donstu Esports: 1\nStream: https://kick.com/nodwin_cs2
@@ -525,12 +476,5 @@ DTEND:20260723T105234Z
 DTSTART:20260723T080655Z
 SUMMARY:Round 1: INOX vs IC.A
 UID:cs-go-nodwin-clutch-series-10-2026-1582147@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260816T110000Z
-SUMMARY:ex-RUSTEC vs IC.A
-UID:cs-go-nodwin-clutch-series-11-2026-1630932@tournamentics
 END:VEVENT
 END:VCALENDAR
