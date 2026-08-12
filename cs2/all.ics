@@ -1265,7 +1265,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260813T170000Z
-SUMMARY:Winners match: LK vs TBD
+SUMMARY:Winners match: LK vs HAVU
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630621@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1731,8 +1731,8 @@ SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-cct-europe-series-7-2026-1630713@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nResult: Endless Journey: 1 | HAVU: 2\nStream: https://kick.com/cct_cs
+DTEND:20260812T204402Z
 DTSTART:20260812T175541Z
 SUMMARY:EJ vs HAVU
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630620@tournamentics
@@ -2109,7 +2109,7 @@ SUMMARY:JustP vs MOUZ.N
 UID:cs-go-nodwin-clutch-series-11-2026-1630756@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260812T210000Z
 SUMMARY:Lower bracket round 2 match 4: UNO vs GRE
@@ -2189,7 +2189,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260813T110000Z
-SUMMARY:Elimination match: BERG vs TBD
+SUMMARY:Elimination match: BERG vs EJ
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
