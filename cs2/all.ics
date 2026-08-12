@@ -1433,7 +1433,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260813T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: LK vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630621@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1969,8 +1969,8 @@ SUMMARY:EJ vs HAVU
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630620@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: NEXORA: 1 | Glitchtech Esports: 0\nStream: No official stream linked
+DTEND:20260812T172708Z
 DTSTART:20260812T164456Z
 SUMMARY:NEXORA vs GE
 UID:cs-go-esea-advanced-europe-58-2026-1631189@tournamentics
@@ -2490,7 +2490,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260813T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: BERG vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2760,8 +2760,8 @@ SUMMARY:Round 3: PCY vs ODK.A
 UID:cs-go-betboom-storm-4-2026-1611506@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | Esport BERG: 1\nStream: https://kick.com/cct_cs
+DTEND:20260812T172910Z
 DTSTART:20260812T145209Z
 SUMMARY:LK vs BERG
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630619@tournamentics
