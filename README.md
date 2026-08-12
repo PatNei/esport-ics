@@ -231,27 +231,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/Season
 </details>
 
 <details>
-<summary>BRO SUMMER CUP</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BroSummerCup/BroSummerCup.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BroSummerCup/BroSummerCup.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BroSummerCup/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BroSummerCup/2026.ics
-```
-
-</details>
-
-<details>
 <summary>CCT Europe</summary>
 
 ### Full Schedule
