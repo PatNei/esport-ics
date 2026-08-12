@@ -23,13 +23,6 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
-DTSTART:20260816T170000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632608@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260830T180000Z
@@ -93,6 +86,13 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632639@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: train launcher: 1 | Benched gods: 2\nStream: https://kick.com/fiesta_cs
+DURATION:PT2H
+DTSTART:20260812T171000Z
+SUMMARY:train launcher vs BG
+UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632595@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260825T080000Z
@@ -105,13 +105,6 @@ DURATION:PT2H
 DTSTART:20260823T170000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632636@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: train launcher: 1 | Benched gods: 2\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
-DTSTART:20260812T171000Z
-SUMMARY:train launcher vs BG
-UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
@@ -210,6 +203,13 @@ DURATION:PT2H
 DTSTART:20260818T080000Z
 SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632613@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
+DURATION:PT2H
+DTSTART:20260817T170000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632612@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
@@ -452,9 +452,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
-DTSTART:20260817T170000Z
-SUMMARY:TBD vs TBD
-UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632612@tournamentics
+DTSTART:20260816T170000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632608@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
