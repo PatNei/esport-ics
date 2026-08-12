@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260813T140000Z
-SUMMARY:Lower bracket quarterfinal 1: LG vs TBD
+SUMMARY:Lower bracket quarterfinal 1: LG vs TS
 UID:cs-go-esports-world-cup-2026-1624083@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +306,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260813T110000Z
-SUMMARY:Upper bracket semifinal 1: GL vs TBD
+SUMMARY:Upper bracket semifinal 1: GL vs JJH
 UID:cs-go-esports-world-cup-2026-1624081@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Spirit: 0 | JiJieHao: 1\nStream: https://www.twitch.tv/EWC_plus_en
+DTEND:20260812T112331Z
 DTSTART:20260812T103516Z
 SUMMARY:Upper bracket quarterfinal 1: TS vs JJH
 UID:cs-go-esports-world-cup-2026-1624077@tournamentics
