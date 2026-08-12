@@ -411,7 +411,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260813T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: ex-MANA vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630369@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -978,7 +978,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260813T140000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: BW vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630368@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1523,7 +1523,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260812T110000Z
+DTSTART:20260812T111000Z
 SUMMARY:ex-RUSTEC vs SAW.Y
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630367@tournamentics
 END:VEVENT
@@ -2053,8 +2053,8 @@ SUMMARY:ACE vs VAN
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | ex-MANA eSports: 1\nStream: https://kick.com/cct_cs
+DTEND:20260812T105747Z
 DTSTART:20260812T081426Z
 SUMMARY:BW vs ex-MANA
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630366@tournamentics
