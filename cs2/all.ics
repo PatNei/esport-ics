@@ -719,7 +719,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260814T170000Z
-SUMMARY:Lower bracket quarterfinal 1: PRV vs TBD
+SUMMARY:Lower bracket quarterfinal 1: PRV vs 100T
 UID:cs-go-esports-world-cup-2026-1624295@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1755,7 +1755,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260814T140000Z
-SUMMARY:Upper bracket semifinal 1: B8 vs TBD
+SUMMARY:Upper bracket semifinal 1: B8 vs VIT
 UID:cs-go-esports-world-cup-2026-1624293@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4580,8 +4580,8 @@ SUMMARY:Winners match: K27 vs SIN
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Vitality: 1 | 100 Thieves: 0\nStream: https://www.twitch.tv/EWC_plus_en
+DTEND:20260812T190223Z
 DTSTART:20260812T182149Z
 SUMMARY:Upper bracket quarterfinal 1: VIT vs 100T
 UID:cs-go-esports-world-cup-2026-1624231@tournamentics
