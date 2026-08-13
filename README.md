@@ -128,27 +128,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakePulse/BeatI202
 
 </details>
 
-<details>
-<summary>StarLadder StarSeries</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/StarladderStarseries.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/StarladderStarseries.ics
-```
-
----
-
-### North American Qualifier Fall 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/NorthAmericanQualifierFall2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StarladderStarseries/NorthAmericanQualifierFall2026.ics
-```
-
-</details>
-
 ## D Tier
 
 <details>
