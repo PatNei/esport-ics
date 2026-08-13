@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260815T170000Z
-SUMMARY:Lower bracket semifinal 2: JJH vs TBD
+SUMMARY:Lower bracket semifinal 2: JJH vs AUR
 UID:cs-go-esports-world-cup-2026-1624086@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -289,8 +289,8 @@ SUMMARY:Upper bracket quarterfinal 1: FAL vs K27
 UID:cs-go-esports-world-cup-2026-1624087@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | M80: 0\nStream: https://www.twitch.tv/EWC_plus_en
+DTEND:20260813T155728Z
 DTSTART:20260813T135827Z
 SUMMARY:Lower bracket quarterfinal 2: AUR vs M80
 UID:cs-go-esports-world-cup-2026-1624084@tournamentics
