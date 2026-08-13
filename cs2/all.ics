@@ -422,11 +422,11 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632614@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 2 | REVENIX: 0\nStream: https://www.twitch.tv/slaxercast
-DTEND:20260807T172626Z
-DTSTART:20260807T161901Z
-SUMMARY:EYE vs REV
-UID:cs-go-esports-world-cup-open-qualifier-2026-1620571@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260814T234500Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1633574@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -434,6 +434,13 @@ DURATION:PT2H
 DTSTART:20260826T170000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-11-2026-1633260@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 2 | REVENIX: 0\nStream: https://www.twitch.tv/slaxercast
+DTEND:20260807T172626Z
+DTSTART:20260807T161901Z
+SUMMARY:EYE vs REV
+UID:cs-go-esports-world-cup-open-qualifier-2026-1620571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Butterfly: 2 | BET-M 33: 1\nStream: https://kick.com/cct_cs2
@@ -973,6 +980,13 @@ DURATION:PT2H
 DTSTART:20260818T080000Z
 SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632613@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260814T210000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1633573@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Vael: 0 | OG: 2\nStream: https://www.twitch.tv/aidstarcs
@@ -4426,8 +4440,8 @@ SUMMARY:3rd place decider: BMB vs Leo
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615336@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: The Last Resort: 0 | HyperSpirit: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260813T125608Z
 DTSTART:20260813T110648Z
 SUMMARY:TLR vs HS
 UID:cs-go-nodwin-clutch-series-11-2026-1631014@tournamentics
