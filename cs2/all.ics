@@ -2238,7 +2238,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260815T170000Z
-SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+SUMMARY:Lower bracket semifinal 1: TS vs TBD
 UID:cs-go-esports-world-cup-2026-1624085@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3425,8 +3425,8 @@ SUMMARY:Upper bracket quarterfinal 4: paiN.A vs QUIN
 UID:cs-go-champion-of-champions-tour-challengers-2-2026-1628729@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Luminosity: 0 | Spirit: 2\nStream: https://www.twitch.tv/EWC_plus_en
+DTEND:20260813T130950Z
 DTSTART:20260813T110443Z
 SUMMARY:Lower bracket quarterfinal 1: LG vs TS
 UID:cs-go-esports-world-cup-2026-1624083@tournamentics
@@ -3985,9 +3985,9 @@ SUMMARY:Winners match: FOR vs LK
 UID:cs-go-esl-challenger-league-europe-cup-2-52-2026-1615314@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_Plus_EN2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_Plus_EN2
 DURATION:PT2H
-DTSTART:20260813T132000Z
+DTSTART:20260813T131649Z
 SUMMARY:Upper bracket semifinal 2: BIG vs G2
 UID:cs-go-esports-world-cup-2026-1624082@tournamentics
 END:VEVENT
