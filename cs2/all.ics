@@ -4288,7 +4288,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260813T173000Z
+DTSTART:20260813T174500Z
 SUMMARY:ARCH vs FRT
 UID:cs-go-esea-advanced-europe-58-2026-1633149@tournamentics
 END:VEVENT
@@ -5882,8 +5882,8 @@ SUMMARY:Round 3: PHA vs Vexar
 UID:cs-go-nodwin-clutch-series-10-2026-1582169@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: WBT: 1 | EvolupeGG: 0\nStream: No official stream linked
+DTEND:20260813T174102Z
 DTSTART:20260813T171220Z
 SUMMARY:WBT vs eVO
 UID:cs-go-esea-advanced-europe-58-2026-1633146@tournamentics
