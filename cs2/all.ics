@@ -971,7 +971,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260815T130000Z
-SUMMARY:Decider match: MOUZ.N vs TBD
+SUMMARY:Decider match: MOUZ.N vs ex-MANA
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633189@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1293,7 +1293,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260815T170000Z
-SUMMARY:Elimination match: PG vs TBD
+SUMMARY:Elimination match: PG vs PHTM.Ac
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1489,7 +1489,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260815T080000Z
-SUMMARY:Elimination match: MISA vs TBD
+SUMMARY:Elimination match: MISA vs Mai Tai
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630667@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1542,8 +1542,8 @@ SUMMARY:Round 3: G1 vs SPARTA
 UID:cs-go-nodwin-clutch-series-10-2026-1582165@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lzrcats
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: ex-MANA eSports: 2 | Lazer Cats: 1\nStream: https://www.twitch.tv/lzrcats
+DTEND:20260814T194258Z
 DTSTART:20260814T171218Z
 SUMMARY:Elimination match: ex-MANA vs LC
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633188@tournamentics
@@ -1755,7 +1755,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260815T130000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Leo vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1846,7 +1846,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260815T140000Z
-SUMMARY:Winners match: EP vs TBD
+SUMMARY:Winners match: EP vs Revise
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2077,7 +2077,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260815T140000Z
-SUMMARY:Winners match: ENJOY vs TBD
+SUMMARY:Winners match: ENJOY vs UNiTY
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630666@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2368,8 +2368,8 @@ SUMMARY:Lower bracket semifinal 2: TBD vs TBD
 UID:cs-go-esports-world-cup-2026-1624328@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Leo Team: 2 | Benched gods: 1\nStream: No official stream linked
+DTEND:20260814T194228Z
 DTSTART:20260814T171311Z
 SUMMARY:Elimination match: Leo vs BG
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633198@tournamentics
@@ -2452,8 +2452,8 @@ SUMMARY:Elimination match: Inner Circle Prospect vs ENCE.P
 UID:cs-go-european-pro-league-regular-6-2026-1616894@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 1 | Revise: 2\nStream: https://kick.com/fiesta_cs
+DTEND:20260814T194052Z
 DTSTART:20260814T180412Z
 SUMMARY:PHTM.Ac vs Revise
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632600@tournamentics
@@ -2683,8 +2683,8 @@ SUMMARY:FAST LAYNERS vs eVO
 UID:cs-go-esea-advanced-europe-58-2026-1630178@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nResult: Mai Tai: 1 | UNiTY esports: 2\nStream: https://kick.com/cct_cs
+DTEND:20260814T194948Z
 DTSTART:20260814T173405Z
 SUMMARY:Mai Tai vs UNiTY
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630665@tournamentics
