@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260815T110000Z
-SUMMARY:Elimination match: GUESS vs TBD
+SUMMARY:Elimination match: GUESS vs ARCH
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632607@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260815T080000Z
-SUMMARY:Winners match: FF vs TBD
+SUMMARY:Winners match: FF vs NV
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632606@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -156,8 +156,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632608@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: NEW VISION: 2 | Arch: 0\nStream: https://kick.com/fiesta_cs
+DTEND:20260814T130149Z
 DTSTART:20260814T111918Z
 SUMMARY:NV vs ARCH
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632605@tournamentics
