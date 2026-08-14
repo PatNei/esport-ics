@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260816T110000Z
-SUMMARY:Lower bracket semifinal 1: LGC vs TBD
+SUMMARY:Lower bracket semifinal 1: LGC vs MIBR
 UID:cs-go-esports-world-cup-2026-1624147@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -296,8 +296,8 @@ SUMMARY:Lower bracket quarterfinal 2: AUR vs M80
 UID:cs-go-esports-world-cup-2026-1624084@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_Plus_EN2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: K27: 0 | MIBR: 2\nStream: https://www.twitch.tv/EWC_Plus_EN2
+DTEND:20260814T185204Z
 DTSTART:20260814T171612Z
 SUMMARY:Lower bracket quarterfinal 1: K27 vs MIBR
 UID:cs-go-esports-world-cup-2026-1624109@tournamentics
@@ -352,8 +352,8 @@ SUMMARY:Upper bracket semifinal 2: FURIA vs 9z
 UID:cs-go-esports-world-cup-2026-1624324@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: PARIVISION: 2 | 100 Thieves: 0\nStream: https://www.twitch.tv/EWC_plus_en
+DTEND:20260814T185653Z
 DTSTART:20260814T171829Z
 SUMMARY:Lower bracket quarterfinal 1: PRV vs 100T
 UID:cs-go-esports-world-cup-2026-1624295@tournamentics
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260816T140000Z
-SUMMARY:Lower bracket semifinal 1: MOUZ vs TBD
+SUMMARY:Lower bracket semifinal 1: MOUZ vs PRV
 UID:cs-go-esports-world-cup-2026-1624317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
