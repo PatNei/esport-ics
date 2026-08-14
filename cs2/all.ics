@@ -1836,11 +1836,11 @@ SUMMARY:Round of 16 match 1: TBD vs TBD
 UID:cs-go-esports-world-cup-2026-1624397@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Abyssal: 0\nStream: https://www.twitch.tv/onlyjoshintv
-DTEND:20260806T113052Z
-DTSTART:20260806T100420Z
-SUMMARY:Winners match: GZ vs Abyssal
-UID:cs-go-dfrag-open-series-open-series-6-2026-1615345@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260815T080000Z
+SUMMARY:BBP vs Honvéd
+UID:cs-go-nodwin-clutch-series-11-2026-1635625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -1848,6 +1848,13 @@ DURATION:PT2H
 DTSTART:20260824T110000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-7-2026-1630702@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #6 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Abyssal: 0\nStream: https://www.twitch.tv/onlyjoshintv
+DTEND:20260806T113052Z
+DTSTART:20260806T100420Z
+SUMMARY:Winners match: GZ vs Abyssal
+UID:cs-go-dfrag-open-series-open-series-6-2026-1615345@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: Passion Academy: 0 |  Phantom Academy: 2\nStream: https://kick.com/eplcs_en
@@ -3635,6 +3642,13 @@ SUMMARY:Decider match: FURY vs MF
 UID:cs-go-dfrag-open-series-open-series-6-2026-1615342@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260815T103000Z
+SUMMARY:MOUZ.N vs ENCE
+UID:cs-go-nodwin-clutch-series-11-2026-1635622@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: uust _esports: 1 | EvolupeGG: 0\nStream: No official stream linked
 DTEND:20260811T190428Z
 DTSTART:20260811T184157Z
@@ -4879,6 +4893,13 @@ DTEND:20260723T174035Z
 DTSTART:20260723T165819Z
 SUMMARY:OLDBOYS PL vs GE
 UID:cs-go-esea-advanced-europe-58-2026-1589653@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - August 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260817T200000Z
+SUMMARY:ALKA vs ODK.A
+UID:cs-go-gamers-club-liga-serie-a-august-2026-1635621@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Legacy: 0 | FaZe: 2\nStream: https://www.twitch.tv/EWC_Plus_EN2
