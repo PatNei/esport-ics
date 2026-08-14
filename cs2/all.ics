@@ -782,7 +782,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260815T234500Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: QUIN vs TBD
 UID:cs-go-champion-of-champions-tour-challengers-2-2026-1632586@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -996,8 +996,8 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632613@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: pugdesonesto: 0 | QUINTESSÊNCIA: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260814T225748Z
 DTSTART:20260814T210750Z
 SUMMARY:Lower bracket quarterfinal 1: PUG vs QUIN
 UID:cs-go-champion-of-champions-tour-challengers-2-2026-1633573@tournamentics
@@ -2872,9 +2872,9 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-11-2026-1633303@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
+DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260814T230000Z
+DTSTART:20260814T230324Z
 SUMMARY:Quarterfinal 4: BST vs ALKA
 UID:cs-go-betboom-storm-4-2026-1611482@tournamentics
 END:VEVENT
