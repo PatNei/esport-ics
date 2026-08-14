@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260814T170000Z
-SUMMARY:Elimination match: SINQU vs TBD
+SUMMARY:Elimination match: SINQU vs PHTM.Ac
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633193@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633189@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/piaskees
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 2 |  Phantom Academy: 1\nStream: https://www.twitch.tv/piaskees
+DTEND:20260814T162510Z
 DTSTART:20260814T133203Z
 SUMMARY:BMB vs PHTM.Ac
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633190@tournamentics
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260814T170000Z
-SUMMARY:Winners match: LAVK vs TBD
+SUMMARY:Winners match: LAVK vs BMB
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633192@tournamentics
 END:VEVENT
 BEGIN:VEVENT
