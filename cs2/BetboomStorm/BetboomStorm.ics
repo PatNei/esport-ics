@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
 DTSTART:20260815T230000Z
-SUMMARY:Semifinal 2: Keyd vs TBD
+SUMMARY:Semifinal 2: Keyd vs BST
 UID:cs-go-betboom-storm-4-2026-1611480@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -184,8 +184,8 @@ SUMMARY:Round 3: CHAMA vs UNO
 UID:cs-go-betboom-storm-4-2026-1611507@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nResult: BESTIA: 2 | ALKA GAMING: 1\nStream: https://www.twitch.tv/dust2br
+DTEND:20260815T021549Z
 DTSTART:20260814T230324Z
 SUMMARY:Quarterfinal 4: BST vs ALKA
 UID:cs-go-betboom-storm-4-2026-1611482@tournamentics
