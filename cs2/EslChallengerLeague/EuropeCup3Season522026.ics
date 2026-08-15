@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/spyhiddentv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Leo Team: 1 | Misa Esports: 2\nStream: https://kick.com/spyhiddentv
+DTEND:20260815T163833Z
 DTSTART:20260815T132909Z
 SUMMARY:Decider match: Leo vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633199@tournamentics
@@ -16,8 +16,8 @@ SUMMARY:Leo vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sv_theunknown
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | ex-MANA eSports: 2\nStream: https://www.twitch.tv/sv_theunknown
+DTEND:20260815T164112Z
 DTSTART:20260815T135050Z
 SUMMARY:Decider match: MOUZ.N vs ex-MANA
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633189@tournamentics
@@ -44,7 +44,7 @@ SUMMARY:3rd place match: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633212@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260815T170000Z
 SUMMARY:Quarterfinal 4: LAVK vs OG
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260815T170000Z
-SUMMARY:Quarterfinal 1: INOX vs TBD
+SUMMARY:Quarterfinal 1: INOX vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633205@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,7 +170,7 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633210@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
 DURATION:PT2H
 DTSTART:20260815T170000Z
 SUMMARY:Quarterfinal 2: BMB vs BAKS
