@@ -942,7 +942,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/endiezcasts
 DURATION:PT2H
-DTSTART:20260815T133500Z
+DTSTART:20260815T134500Z
 SUMMARY:Decider match: MOUZ.N vs ex-MANA
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633189@tournamentics
 END:VEVENT
@@ -1271,7 +1271,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
-DTSTART:20260815T170000Z
+DTSTART:20260815T140000Z
 SUMMARY:Elimination match: PG vs PHTM.Ac
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632602@tournamentics
 END:VEVENT
@@ -2336,7 +2336,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260816T170000Z
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: MGLZ vs paiN
 UID:cs-go-esports-world-cup-2026-1624328@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3530,8 +3530,8 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-cct-europe-challengers-series-5-2026-1634735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_Plus_EN2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Wildcard: 1 | paiN: 2\nStream: https://www.twitch.tv/EWC_Plus_EN2
+DTEND:20260815T134407Z
 DTSTART:20260815T110109Z
 SUMMARY:Lower bracket quarterfinal 2: WC vs paiN
 UID:cs-go-esports-world-cup-2026-1624326@tournamentics
@@ -4120,7 +4120,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_Plus_EN2
 DURATION:PT2H
-DTSTART:20260815T135500Z
+DTSTART:20260815T141000Z
 SUMMARY:Lower bracket quarterfinal 1: MGC vs 3DMAX
 UID:cs-go-esports-world-cup-2026-1624325@tournamentics
 END:VEVENT
@@ -4666,7 +4666,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
-DTSTART:20260815T135500Z
+DTSTART:20260815T140500Z
 SUMMARY:Upper bracket semifinal 2: FURIA vs 9z
 UID:cs-go-esports-world-cup-2026-1624324@tournamentics
 END:VEVENT
@@ -5245,8 +5245,8 @@ SUMMARY:Round 2: SPARTA vs NV
 UID:cs-go-cct-europe-series-6-2026-1596487@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: TheMongolz: 1 | Natus Vincere: 2\nStream: https://www.twitch.tv/EWC_plus_en
+DTEND:20260815T134145Z
 DTSTART:20260815T110432Z
 SUMMARY:Upper bracket semifinal 1: MGLZ vs NAVI
 UID:cs-go-esports-world-cup-2026-1624323@tournamentics
