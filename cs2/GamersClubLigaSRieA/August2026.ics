@@ -2,18 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - August 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GamersClubCS
-DURATION:PT2H
-DTSTART:20260818T190000Z
-SUMMARY:GRE vs Low Cortisol
-UID:cs-go-gamers-club-liga-serie-a-august-2026-1634767@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - August 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260817T200000Z
-SUMMARY:Rush vs MW
-UID:cs-go-gamers-club-liga-serie-a-august-2026-1635568@tournamentics
+DTSTART:20260817T190000Z
+SUMMARY:RED.A vs paiN.A
+UID:cs-go-gamers-club-liga-serie-a-august-2026-1636200@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - August 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -28,5 +21,26 @@ DURATION:PT2H
 DTSTART:20260817T200000Z
 SUMMARY:ALKA vs ODK.A
 UID:cs-go-gamers-club-liga-serie-a-august-2026-1635621@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - August 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GamersClubCS
+DURATION:PT2H
+DTSTART:20260818T190000Z
+SUMMARY:GRE vs Low Cortisol
+UID:cs-go-gamers-club-liga-serie-a-august-2026-1634767@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - August 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260817T210000Z
+SUMMARY:QUIN vs HR
+UID:cs-go-gamers-club-liga-serie-a-august-2026-1636199@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - August 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260817T200000Z
+SUMMARY:Rush vs MW
+UID:cs-go-gamers-club-liga-serie-a-august-2026-1635568@tournamentics
 END:VEVENT
 END:VCALENDAR
