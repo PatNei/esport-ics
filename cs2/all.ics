@@ -373,7 +373,7 @@ SUMMARY:GE vs BW
 UID:cs-go-esea-advanced-europe-58-2026-1586803@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260815T110000Z
 SUMMARY:Upper bracket round 1 match 8: ex-MANA vs MISA
@@ -887,7 +887,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260816T140000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: MISA vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630668@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1465,8 +1465,8 @@ SUMMARY:Quarterfinal 1: NTR vs CSH.P
 UID:cs-go-nodwin-clutch-series-10-2026-1582188@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | Mai Tai: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260815T104602Z
 DTSTART:20260815T081049Z
 SUMMARY:Elimination match: MISA vs Mai Tai
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630667@tournamentics
@@ -1843,8 +1843,8 @@ SUMMARY:Round of 16 match 1: TBD vs TBD
 UID:cs-go-esports-world-cup-2026-1624397@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Bebop: 1 | Honvéd: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260815T104608Z
 DTSTART:20260815T080940Z
 SUMMARY:BBP vs Honvéd
 UID:cs-go-nodwin-clutch-series-11-2026-1635625@tournamentics
@@ -3169,7 +3169,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260817T080000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: PHTM.Ac vs TBD
 UID:cs-go-european-pro-league-regular-6-2026-1633567@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4872,13 +4872,6 @@ DURATION:PT2H
 DTSTART:20260816T230000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-betboom-storm-4-2026-1611479@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260815T084500Z
-SUMMARY:Lower bracket round 1 match 1: BW vs PHTM.Ac
-UID:cs-go-european-pro-league-regular-6-2026-1633564@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #6 2026\nMatch Type: Best Of\nResult: Just Players: 0 | los kogutos: 2\nStream: https://kick.com/cct_cs2
