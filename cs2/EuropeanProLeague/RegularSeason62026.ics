@@ -215,12 +215,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260817T103000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: VP.P vs TBD
 UID:cs-go-european-pro-league-regular-6-2026-1633568@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 2 | FaZe Up Next: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260815T132204Z
 DTSTART:20260815T120011Z
 SUMMARY:Lower bracket round 1 match 2: VP.P vs FaZe UN
 UID:cs-go-european-pro-league-regular-6-2026-1633565@tournamentics
