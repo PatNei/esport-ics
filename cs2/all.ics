@@ -1465,9 +1465,9 @@ SUMMARY:Quarterfinal 1: NTR vs CSH.P
 UID:cs-go-nodwin-clutch-series-10-2026-1582188@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260815T080000Z
+DTSTART:20260815T081049Z
 SUMMARY:Elimination match: MISA vs Mai Tai
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630667@tournamentics
 END:VEVENT
@@ -1843,9 +1843,9 @@ SUMMARY:Round of 16 match 1: TBD vs TBD
 UID:cs-go-esports-world-cup-2026-1624397@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260815T080000Z
+DTSTART:20260815T080940Z
 SUMMARY:BBP vs Honvéd
 UID:cs-go-nodwin-clutch-series-11-2026-1635625@tournamentics
 END:VEVENT
@@ -2697,9 +2697,9 @@ SUMMARY:LC vs MOUZ.N
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633186@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260815T080000Z
+DTSTART:20260815T081433Z
 SUMMARY:Grand final: STA vs TTBS
 UID:cs-go-united21-53-2026-1629141@tournamentics
 END:VEVENT
@@ -3495,13 +3495,6 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-11-2026-1633302@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260815T200000Z
-SUMMARY:Semifinal 1: IMP vs GLS
-UID:cs-go-betboom-storm-4-2026-1611481@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260820T110000Z
@@ -4041,11 +4034,11 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-11-2026-1633301@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260815T170000Z
-SUMMARY:Semifinal 2: Keyd vs BST
-UID:cs-go-betboom-storm-4-2026-1611480@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nResult: BORRACHEIROS: 1 | Hunters Rising: 0\nStream: https://www.twitch.tv/xjokerbr
+DTEND:20260721T181522Z
+DTSTART:20260721T172303Z
+SUMMARY:CHAMA vs HR
+UID:cs-go-gamers-club-liga-serie-a-july-2026-1586952@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: GoldRashers: 0 | eSuba: 1\nStream: No official stream linked
@@ -4067,13 +4060,6 @@ DTEND:20260811T194118Z
 DTSTART:20260811T184250Z
 SUMMARY:Subtop De France vs FRT
 UID:cs-go-esea-advanced-europe-58-2026-1630187@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - July 2026\nMatch Type: Best Of\nResult: BORRACHEIROS: 1 | Hunters Rising: 0\nStream: https://www.twitch.tv/xjokerbr
-DTEND:20260721T181522Z
-DTSTART:20260721T172303Z
-SUMMARY:CHAMA vs HR
-UID:cs-go-gamers-club-liga-serie-a-july-2026-1586952@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -4797,18 +4783,18 @@ SUMMARY:Winners match: TL vs BCA
 UID:cs-go-stake-pulse-beat-i-2026-1596596@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
+DURATION:PT2H
+DTSTART:20260815T200000Z
+SUMMARY:Semifinal 1: IMP vs BST
+UID:cs-go-betboom-storm-4-2026-1636202@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: train launcher: 1 | Benched gods: 2\nStream: https://kick.com/fiesta_cs
 DTEND:20260812T200000Z
 DTSTART:20260812T171000Z
 SUMMARY:train launcher vs BG
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632595@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: DENDELE CS: 2 | QueenConso: 0\nStream: https://kick.com/lorranbs
-DTEND:20260807T111914Z
-DTSTART:20260807T101632Z
-SUMMARY:DENDELE CS vs QC
-UID:cs-go-esports-world-cup-open-qualifier-2026-1620541@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -4818,11 +4804,11 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-11-2026-1633230@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Perfecto Club: 0 | Morphilina Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260803T154523Z
-DTSTART:20260803T135326Z
-SUMMARY:Perfecto Club vs Morphilina Club
-UID:cs-go-winline-star-series-3-2026-1614318@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: DENDELE CS: 2 | QueenConso: 0\nStream: https://kick.com/lorranbs
+DTEND:20260807T111914Z
+DTSTART:20260807T101632Z
+SUMMARY:DENDELE CS vs QC
+UID:cs-go-esports-world-cup-open-qualifier-2026-1620541@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Younglings: 1 | ZOTIX: 0\nStream: No official stream linked
@@ -4837,6 +4823,13 @@ DTEND:20260809T150719Z
 DTSTART:20260809T130412Z
 SUMMARY:Round of 16 match 1: EYE vs K27
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620622@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Perfecto Club: 0 | Morphilina Club: 2\nStream: https://www.twitch.tv/kartash0v
+DTEND:20260803T154523Z
+DTSTART:20260803T135326Z
+SUMMARY:Perfecto Club vs Morphilina Club
+UID:cs-go-winline-star-series-3-2026-1614318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -4883,7 +4876,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260815T080000Z
+DTSTART:20260815T081500Z
 SUMMARY:Lower bracket round 1 match 1: BW vs PHTM.Ac
 UID:cs-go-european-pro-league-regular-6-2026-1633564@tournamentics
 END:VEVENT
@@ -5397,6 +5390,13 @@ DTEND:20260812T094500Z
 DTSTART:20260812T080000Z
 SUMMARY:DNT vs FORZE.R
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632594@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
+DURATION:PT2H
+DTSTART:20260815T170000Z
+SUMMARY:Semifinal 2: Keyd vs GLS
+UID:cs-go-betboom-storm-4-2026-1636201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: GenOne: 2 | Galactik rebels: 0\nStream: https://www.twitch.tv/jtmythic
