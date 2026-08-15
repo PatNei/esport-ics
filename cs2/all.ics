@@ -1692,7 +1692,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260817T110000Z
-SUMMARY:Lower bracket round 1 match 1: Atreides vs TBD
+SUMMARY:Lower bracket round 1 match 1: Atreides vs ex-Sashi Academy
 UID:cs-go-cct-europe-challengers-series-5-2026-1634738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2952,7 +2952,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260816T170000Z
-SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+SUMMARY:Lower bracket semifinal 1: MGC vs TBD
 UID:cs-go-esports-world-cup-2026-1624327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3845,8 +3845,8 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632654@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nResult: ex-Sashi Academy: 0 | SAW Youngsters: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260815T160540Z
 DTSTART:20260815T135546Z
 SUMMARY:Upper bracket round 1 match 2: ex-Sashi Academy vs SAW.Y
 UID:cs-go-cct-europe-challengers-series-5-2026-1634723@tournamentics
@@ -4111,8 +4111,8 @@ SUMMARY:EAC vs BG
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633195@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_Plus_EN2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: magic: 2 | 3DMAX: 0\nStream: https://www.twitch.tv/EWC_Plus_EN2
+DTEND:20260815T160348Z
 DTSTART:20260815T142946Z
 SUMMARY:Lower bracket quarterfinal 1: MGC vs 3DMAX
 UID:cs-go-esports-world-cup-2026-1624325@tournamentics
@@ -6204,8 +6204,8 @@ SUMMARY:ESB vs NAVI.J
 UID:cs-go-tipsport-cup-open-1-2026-1616708@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 1 | OG: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260815T160212Z
 DTSTART:20260815T130721Z
 SUMMARY:Decider match: FF vs OG
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633204@tournamentics
@@ -6284,7 +6284,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260817T134500Z
-SUMMARY:Upper bracket quarterfinal 1: LPH vs TBD
+SUMMARY:Upper bracket quarterfinal 1: LPH vs SAW.Y
 UID:cs-go-cct-europe-challengers-series-5-2026-1634730@tournamentics
 END:VEVENT
 BEGIN:VEVENT
