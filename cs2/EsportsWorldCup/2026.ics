@@ -327,7 +327,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260816T170000Z
-SUMMARY:Lower bracket semifinal 1: MGC vs TBD
+SUMMARY:Lower bracket semifinal 1: MGC vs 9z
 UID:cs-go-esports-world-cup-2026-1624327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -345,8 +345,8 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-esports-world-cup-2026-1624408@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: FURIA: 2 | 9z: 1\nStream: https://www.twitch.tv/EWC_plus_en
+DTEND:20260815T172634Z
 DTSTART:20260815T142742Z
 SUMMARY:Upper bracket semifinal 2: FURIA vs 9z
 UID:cs-go-esports-world-cup-2026-1624324@tournamentics
