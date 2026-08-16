@@ -81,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_Plus_EN2
 DURATION:PT2H
-DTSTART:20260816T172000Z
+DTSTART:20260816T175000Z
 SUMMARY:Lower bracket semifinal 1: LGC vs MIBR
 UID:cs-go-esports-world-cup-2026-1624147@tournamentics
 END:VEVENT
@@ -646,9 +646,9 @@ SUMMARY:PRE vs MZP
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620582@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
-DTSTART:20260816T170000Z
+DTSTART:20260816T171852Z
 SUMMARY:Decider match: PHTM.Ac vs EP
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632603@tournamentics
 END:VEVENT
@@ -5917,8 +5917,8 @@ SUMMARY:K27 vs DT
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620596@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: Aritmije: 0 | Nordic Valor: 2\nStream: https://kick.com/cct_cs6
+DTEND:20260816T171941Z
 DTSTART:20260816T154733Z
 SUMMARY:Upper bracket round 1 match 2: Aritmije vs NV
 UID:cs-go-cct-europe-contenders-8-2026-1635614@tournamentics
