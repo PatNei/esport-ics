@@ -296,13 +296,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/August2026.ics
 ```
 
-### July 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/July2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/July2026.ics
-```
-
 </details>
 
 <details>
@@ -316,13 +309,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 ```
 
 ---
-
-### Season 10 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season102026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season102026.ics
-```
 
 ### Season 11 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season112026.ics)
