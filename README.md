@@ -33,6 +33,29 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsWorldCup/202
 
 </details>
 
+## A Tier
+
+<details>
+<summary>BLAST Open</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/BlastOpen.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/BlastOpen.ics
+```
+
+---
+
+### Porto Fall 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/PortoFall2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/PortoFall2026.ics
+```
+
+</details>
+
 ## B Tier
 
 <details>
