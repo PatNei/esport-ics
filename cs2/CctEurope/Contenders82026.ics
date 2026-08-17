@@ -2,46 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: ZOTIX: 0 | Aritmije: 2\nStream: https://kick.com/cct_cs5
-DTEND:20260817T170317Z
-DTSTART:20260817T153746Z
-SUMMARY:Lower bracket round 1 match 1: ZOTIX vs Aritmije
-UID:cs-go-cct-europe-contenders-8-2026-1639149@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: ZOTIX: 0 | Insiders Esport: 2\nStream: https://kick.com/cct_cs5
-DTEND:20260815T203438Z
-DTSTART:20260815T183509Z
-SUMMARY:Upper bracket round 1 match 1: ZOTIX vs Insiders Esport
-UID:cs-go-cct-europe-contenders-8-2026-1635613@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
-DTSTART:20260817T153530Z
-SUMMARY:Lower bracket round 1 match 2: BANGARANGA vs PRZ
-UID:cs-go-cct-europe-contenders-8-2026-1639150@tournamentics
+DTSTART:20260822T181500Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-cct-europe-contenders-8-2026-1640176@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
-DTSTART:20260817T181500Z
-SUMMARY:Upper bracket quarterfinal 2: maybe vs Spirit Academy Green
-UID:cs-go-cct-europe-contenders-8-2026-1639146@tournamentics
+DTSTART:20260820T153000Z
+SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+UID:cs-go-cct-europe-contenders-8-2026-1640173@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: 300FPS: 2 | Teletubisie: 0\nStream: https://kick.com/cct_cs6
-DTEND:20260817T102134Z
-DTSTART:20260817T102123Z
-SUMMARY:Upper bracket round 1 match 6: 300FPS vs TTBS
-UID:cs-go-cct-europe-contenders-8-2026-1635618@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260819T153000Z
+SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
+UID:cs-go-cct-europe-contenders-8-2026-1640169@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: BANGARANGA: 1 | maybe: 2\nStream: https://kick.com/cct_cs5
-DTEND:20260816T180732Z
-DTSTART:20260816T153439Z
-SUMMARY:Upper bracket round 1 match 3: BANGARANGA vs maybe
-UID:cs-go-cct-europe-contenders-8-2026-1635615@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260819T181500Z
+SUMMARY:Lower bracket round 2 match 3: TBD vs TrafficPills Esports
+UID:cs-go-cct-europe-contenders-8-2026-1640170@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260822T153000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-cct-europe-contenders-8-2026-1640166@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
@@ -79,6 +72,34 @@ SUMMARY:Upper bracket round 1 match 2: Aritmije vs NV
 UID:cs-go-cct-europe-contenders-8-2026-1635614@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260821T181500Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-cct-europe-contenders-8-2026-1640175@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260820T153000Z
+SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
+UID:cs-go-cct-europe-contenders-8-2026-1640172@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260819T153000Z
+SUMMARY:Lower bracket round 2 match 1: TBD vs Aritmije
+UID:cs-go-cct-europe-contenders-8-2026-1640168@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260820T181500Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-cct-europe-contenders-8-2026-1640165@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: TrafficPills Esports: 2 | Teletubisie: 0\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
 DTSTART:20260818T153000Z
@@ -91,5 +112,75 @@ DURATION:PT2H
 DTSTART:20260818T181500Z
 SUMMARY:Upper bracket quarterfinal 3: FORZE.R vs 300FPS
 UID:cs-go-cct-europe-contenders-8-2026-1639147@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: ZOTIX: 0 | Insiders Esport: 2\nStream: https://kick.com/cct_cs5
+DTEND:20260815T203438Z
+DTSTART:20260815T183509Z
+SUMMARY:Upper bracket round 1 match 1: ZOTIX vs Insiders Esport
+UID:cs-go-cct-europe-contenders-8-2026-1635613@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260821T153000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-cct-europe-contenders-8-2026-1640174@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260819T181500Z
+SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
+UID:cs-go-cct-europe-contenders-8-2026-1640171@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260823T181500Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-cct-europe-contenders-8-2026-1640167@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260820T181500Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-cct-europe-contenders-8-2026-1640164@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: ZOTIX: 0 | Aritmije: 2\nStream: https://kick.com/cct_cs5
+DTEND:20260817T170317Z
+DTSTART:20260817T153746Z
+SUMMARY:Lower bracket round 1 match 1: ZOTIX vs Aritmije
+UID:cs-go-cct-europe-contenders-8-2026-1639149@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DURATION:PT2H
+DTSTART:20260817T153530Z
+SUMMARY:Lower bracket round 1 match 2: BANGARANGA vs PRZ
+UID:cs-go-cct-europe-contenders-8-2026-1639150@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260817T181500Z
+SUMMARY:Upper bracket quarterfinal 2: maybe vs Spirit Academy Green
+UID:cs-go-cct-europe-contenders-8-2026-1639146@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: 300FPS: 2 | Teletubisie: 0\nStream: https://kick.com/cct_cs6
+DTEND:20260817T102134Z
+DTSTART:20260817T102123Z
+SUMMARY:Upper bracket round 1 match 6: 300FPS vs TTBS
+UID:cs-go-cct-europe-contenders-8-2026-1635618@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: BANGARANGA: 1 | maybe: 2\nStream: https://kick.com/cct_cs5
+DTEND:20260816T180732Z
+DTSTART:20260816T153439Z
+SUMMARY:Upper bracket round 1 match 3: BANGARANGA vs maybe
+UID:cs-go-cct-europe-contenders-8-2026-1635615@tournamentics
 END:VEVENT
 END:VCALENDAR
