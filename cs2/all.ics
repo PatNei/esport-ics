@@ -327,7 +327,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
 DTSTART:20260820T181500Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: maybe vs TBD
 UID:cs-go-cct-europe-contenders-8-2026-1640164@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -366,8 +366,8 @@ SUMMARY:Round 3: Black Phoenix vs JustP
 UID:cs-go-cct-europe-series-6-2026-1596495@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: maybe: 2 | Spirit Academy Green: 1\nStream: https://kick.com/cct_cs6
+DTEND:20260817T204000Z
 DTSTART:20260817T182308Z
 SUMMARY:Upper bracket quarterfinal 2: maybe vs Spirit Academy Green
 UID:cs-go-cct-europe-contenders-8-2026-1639146@tournamentics
@@ -3484,7 +3484,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
 DTSTART:20260819T181500Z
-SUMMARY:Lower bracket round 2 match 3: TBD vs TrafficPills Esports
+SUMMARY:Lower bracket round 2 match 3: Spirit Academy Green vs TrafficPills Esports
 UID:cs-go-cct-europe-contenders-8-2026-1640170@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5861,6 +5861,13 @@ SUMMARY:Decider match: RGG vs Vexar
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632593@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260818T110000Z
+SUMMARY:Decider match: ex-ZT vs ex-RUSTEC
+UID:cs-go-nodwin-clutch-series-11-2026-1640217@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Morphilina Club: 1 | mokrivskiy Club: 2\nStream: https://www.twitch.tv/kartash0v
 DTEND:20260802T211650Z
 DTSTART:20260802T190600Z
@@ -6419,6 +6426,13 @@ DTEND:20260802T210349Z
 DTSTART:20260802T192919Z
 SUMMARY:Lixxx Club vs SNAILKICK Club
 UID:cs-go-winline-star-series-3-2026-1614315@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260818T080000Z
+SUMMARY:Decider match: PERM vs G2.A
+UID:cs-go-nodwin-clutch-series-11-2026-1640216@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - Open Qualifier 2026\nMatch Type: Best Of\nResult: Kreazion: 0 | ASTRAL: 2\nStream: No official stream linked
