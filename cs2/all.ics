@@ -275,8 +275,8 @@ SUMMARY:UUST vs NAVI.J
 UID:cs-go-esea-advanced-europe-58-2026-1608771@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | Dark Moon: 1\nStream: No official stream linked
+DTEND:20260817T175036Z
 DTSTART:20260817T170946Z
 SUMMARY:SNG vs DM
 UID:cs-go-esea-advanced-europe-58-2026-1638623@tournamentics
@@ -2228,9 +2228,9 @@ SUMMARY:MISA vs KSM
 UID:cs-go-esea-advanced-europe-58-2026-1638631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260817T174500Z
+DTSTART:20260817T175623Z
 SUMMARY:ENJOY vs HAVU
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630677@tournamentics
 END:VEVENT
@@ -5994,6 +5994,13 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-7-2026-1630682@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DURATION:PT2H
+DTSTART:20260823T153000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-cct-europe-contenders-8-2026-1640177@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: FAST LAYNERS: 1 | DNK: 0\nStream: No official stream linked
 DTEND:20260811T191651Z
 DTSTART:20260811T184104Z
@@ -6008,13 +6015,6 @@ SUMMARY:eVO vs DNK
 UID:cs-go-esea-advanced-europe-58-2026-1619099@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: BOJONG: 1 | TEAM_COPH9K: 0\nStream: No official stream linked
-DTEND:20260723T181744Z
-DTSTART:20260723T171641Z
-SUMMARY:BJNG vs TEAM_COPH9K
-UID:cs-go-esea-advanced-europe-58-2026-1600655@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nResult: Honvéd: 1 | Noir Verse: 2\nStream: https://kick.com/cct_cs
 DTEND:20260814T131609Z
 DTSTART:20260814T113814Z
@@ -6027,6 +6027,13 @@ DTEND:20260810T222558Z
 DTSTART:20260810T210526Z
 SUMMARY:Lower bracket round 1 match 2: ODK.A vs TDC
 UID:cs-go-champion-of-champions-tour-challengers-2-2026-1628724@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: BOJONG: 1 | TEAM_COPH9K: 0\nStream: No official stream linked
+DTEND:20260723T181744Z
+DTSTART:20260723T171641Z
+SUMMARY:BJNG vs TEAM_COPH9K
+UID:cs-go-esea-advanced-europe-58-2026-1600655@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
