@@ -2195,7 +2195,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260817T170000Z
+DTSTART:20260817T174500Z
 SUMMARY:ENJOY vs HAVU
 UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630677@tournamentics
 END:VEVENT
@@ -3337,7 +3337,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260820T134500Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: mellren vs TBD
 UID:cs-go-cct-europe-challengers-series-5-2026-1634735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4937,8 +4937,8 @@ SUMMARY:Upper bracket quarterfinal 4: BIG vs AUR
 UID:cs-go-esports-world-cup-2026-1624080@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nResult: Noir Verse: 0 | mellren: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260817T170001Z
 DTSTART:20260817T153109Z
 SUMMARY:Upper bracket quarterfinal 3: Noir Verse vs mellren
 UID:cs-go-cct-europe-challengers-series-5-2026-1634732@tournamentics
@@ -5164,7 +5164,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260819T110000Z
-SUMMARY:Lower bracket round 2 match 2: ENCE vs TBD
+SUMMARY:Lower bracket round 2 match 2: ENCE vs Noir Verse
 UID:cs-go-cct-europe-challengers-series-5-2026-1634743@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5210,8 +5210,8 @@ SUMMARY:YL vs FF
 UID:cs-go-esea-advanced-europe-58-2026-1586806@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: ZOTIX: 0 | Aritmije: 2\nStream: https://kick.com/cct_cs5
+DTEND:20260817T170317Z
 DTSTART:20260817T153746Z
 SUMMARY:Lower bracket round 1 match 1: ZOTIX vs Aritmije
 UID:cs-go-cct-europe-contenders-8-2026-1639149@tournamentics
@@ -5651,9 +5651,9 @@ SUMMARY:Round of 32 match 4: FXW7 vs FNC
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620609@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260817T170000Z
+DTSTART:20260817T170515Z
 SUMMARY:Diamant Esports vs FOR
 UID:cs-go-esea-advanced-europe-58-2026-1638625@tournamentics
 END:VEVENT
