@@ -537,7 +537,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260819T080000Z
-SUMMARY:Lower bracket final: VIT.A vs TBD
+SUMMARY:Lower bracket final: VIT.A vs Inner Circle Prospect
 UID:cs-go-european-pro-league-regular-6-2026-1633571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -548,9 +548,9 @@ SUMMARY:maybe vs ESB
 UID:cs-go-tipsport-cup-open-1-2026-1616706@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/ESLCS
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sv_theunknown
 DURATION:PT2H
-DTSTART:20260818T130000Z
+DTSTART:20260818T130529Z
 SUMMARY:OMG vs FF
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639285@tournamentics
 END:VEVENT
@@ -674,9 +674,9 @@ SUMMARY:Round of 16 match 4: GL vs MOUZ
 UID:cs-go-esports-world-cup-2026-1624400@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
 DURATION:PT2H
-DTSTART:20260818T130000Z
+DTSTART:20260818T130955Z
 SUMMARY:SPARTA vs MOUZ.N
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639320@tournamentics
 END:VEVENT
@@ -1556,9 +1556,9 @@ SUMMARY:SHU vs NRG
 UID:cs-go-esports-world-cup-open-qualifier-2026-1620592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
 DURATION:PT2H
-DTSTART:20260818T130000Z
+DTSTART:20260818T130345Z
 SUMMARY:MZP vs DNT
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639319@tournamentics
 END:VEVENT
@@ -2011,8 +2011,8 @@ SUMMARY:Round 5: UNiTY vs ex-Young Ninjas
 UID:cs-go-cct-europe-series-6-2026-1596505@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: Inner Circle Prospect: 0 | INOX Division: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260818T130601Z
 DTSTART:20260818T111125Z
 SUMMARY:Upper bracket final: Inner Circle Prospect vs INOX
 UID:cs-go-european-pro-league-regular-6-2026-1633569@tournamentics
@@ -3845,16 +3845,16 @@ SUMMARY:Grand final: JAM vs UNiTY
 UID:cs-go-tipsport-cup-open-1-2026-1616712@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/ESLCS
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/teameac
 DURATION:PT2H
-DTSTART:20260818T130000Z
+DTSTART:20260818T130547Z
 SUMMARY:EAC vs FOR
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639372@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sh1ngekiiii
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sh1ngekiiii
 DURATION:PT2H
-DTSTART:20260818T130000Z
+DTSTART:20260818T130343Z
 SUMMARY:TLR vs S-B
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639291@tournamentics
 END:VEVENT
@@ -6816,7 +6816,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260820T080000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: INOX vs TBD
 UID:cs-go-european-pro-league-regular-6-2026-1633572@tournamentics
 END:VEVENT
 BEGIN:VEVENT

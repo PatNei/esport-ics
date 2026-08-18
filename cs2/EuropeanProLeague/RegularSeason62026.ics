@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260819T080000Z
-SUMMARY:Lower bracket final: VIT.A vs TBD
+SUMMARY:Lower bracket final: VIT.A vs Inner Circle Prospect
 UID:cs-go-european-pro-league-regular-6-2026-1633571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:VIT.A vs BW
 UID:cs-go-european-pro-league-regular-6-2026-1616950@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: Inner Circle Prospect: 0 | INOX Division: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260818T130601Z
 DTSTART:20260818T111125Z
 SUMMARY:Upper bracket final: Inner Circle Prospect vs INOX
 UID:cs-go-european-pro-league-regular-6-2026-1633569@tournamentics
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260820T080000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: INOX vs TBD
 UID:cs-go-european-pro-league-regular-6-2026-1633572@tournamentics
 END:VEVENT
 BEGIN:VEVENT
