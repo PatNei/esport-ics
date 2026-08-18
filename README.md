@@ -33,6 +33,29 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsWorldCup/202
 
 </details>
 
+## A Tier
+
+<details>
+<summary>BLAST Open</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/BlastOpen.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/BlastOpen.ics
+```
+
+---
+
+### Porto Fall 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/PortoFall2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/PortoFall2026.ics
+```
+
+</details>
+
 ## B Tier
 
 <details>
@@ -103,6 +126,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup3Season522026.ics
+```
+
+### Europe Cup #4 season 52 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup4Season522026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup4Season522026.ics
 ```
 
 </details>
@@ -357,6 +387,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/United21.i
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season532026.ics
+```
+
+### Season 54 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season542026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season542026.ics
 ```
 
 </details>

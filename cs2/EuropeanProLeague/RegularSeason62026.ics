@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260819T080000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: VIT.A vs TBD
 UID:cs-go-european-pro-league-regular-6-2026-1633571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -121,8 +121,8 @@ SUMMARY:Upper bracket final: Inner Circle Prospect vs INOX
 UID:cs-go-european-pro-league-regular-6-2026-1633569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: Vitality Academy: 2 | STATE: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260818T104959Z
 DTSTART:20260818T080918Z
 SUMMARY:Lower bracket semifinal: VIT.A vs STA
 UID:cs-go-european-pro-league-regular-6-2026-1633570@tournamentics
