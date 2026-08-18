@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260818T173000Z
+DTSTART:20260818T172000Z
 SUMMARY:Round 1: LVKD vs HAVU
 UID:cs-go-cct-europe-series-7-2026-1630681@tournamentics
 END:VEVENT
@@ -163,8 +163,8 @@ SUMMARY:Round 1: G2.A vs ex-ZT
 UID:cs-go-cct-europe-series-7-2026-1630683@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nResult: Leo Team: 1 | ex-RUSTEC: 2\nStream: https://kick.com/cct_cs
+DTEND:20260818T165013Z
 DTSTART:20260818T140728Z
 SUMMARY:Round 1: Leo vs ex-RUSTEC
 UID:cs-go-cct-europe-series-7-2026-1630680@tournamentics

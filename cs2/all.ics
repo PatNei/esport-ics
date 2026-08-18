@@ -11,7 +11,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260818T173000Z
+DTSTART:20260818T172000Z
 SUMMARY:Round 1: LVKD vs HAVU
 UID:cs-go-cct-europe-series-7-2026-1630681@tournamentics
 END:VEVENT
@@ -590,8 +590,8 @@ SUMMARY:FF vs BG
 UID:cs-go-esea-advanced-europe-58-2026-1630181@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nResult: Leo Team: 1 | ex-RUSTEC: 2\nStream: https://kick.com/cct_cs
+DTEND:20260818T165013Z
 DTSTART:20260818T140728Z
 SUMMARY:Round 1: Leo vs ex-RUSTEC
 UID:cs-go-cct-europe-series-7-2026-1630680@tournamentics
@@ -4377,8 +4377,8 @@ SUMMARY:Lower bracket round 1 match 2: VP.P vs FaZe UN
 UID:cs-go-european-pro-league-regular-6-2026-1633565@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dayykacsgo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: B8 Academy: 0 | Inner Circle Academy: 1\nStream: https://www.twitch.tv/dayykacsgo
+DTEND:20260818T165237Z
 DTSTART:20260818T161650Z
 SUMMARY:B8.A vs IC.A
 UID:cs-go-esea-advanced-europe-58-2026-1640345@tournamentics
