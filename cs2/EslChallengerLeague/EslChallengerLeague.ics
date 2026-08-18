@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260819T130000Z
-SUMMARY:Decider match: PERM vs TBD
+SUMMARY:Decider match: PERM vs EAC
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639376@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -128,8 +128,8 @@ SUMMARY:OMG vs FF
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639285@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | Strael-Bora: 0\nStream: No official stream linked
+DTEND:20260818T185741Z
 DTSTART:20260818T172430Z
 SUMMARY:Elimination match: MISA vs S-B
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639307@tournamentics
@@ -338,8 +338,8 @@ SUMMARY:Quarterfinal 2: BMB vs BAKS
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/teameac
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Esport Academy Copenhagen: 0 | OG: 2\nStream: https://kick.com/teameac
+DTEND:20260818T185321Z
 DTSTART:20260818T170511Z
 SUMMARY:Winners match: EAC vs OG
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639374@tournamentics
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/ESLCS
 DURATION:PT2H
 DTSTART:20260819T130000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: MISA vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
