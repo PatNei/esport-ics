@@ -68,12 +68,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260819T130000Z
-SUMMARY:Decider match: PERM vs EAC
+SUMMARY:Decider match: EAC vs PERM
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639376@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Metizport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Metizport: 2 | SPARTA: 1\nStream: https://www.twitch.tv/Metizport
+DTEND:20260818T201307Z
 DTSTART:20260818T170249Z
 SUMMARY:Winners match: MZP vs SPARTA
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639321@tournamentics
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260819T130000Z
-SUMMARY:Decider match: MOUZ.N vs TBD
+SUMMARY:Decider match: SPARTA vs MOUZ.N
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639323@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -254,8 +254,8 @@ SUMMARY:EAC vs FOR
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639372@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/arhavalcom
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 1 | WRAITH PCIFIC: 2\nStream: https://kick.com/arhavalcom
+DTEND:20260818T201425Z
 DTSTART:20260818T170542Z
 SUMMARY:Winners match: FF vs PCIFIC
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639287@tournamentics
@@ -334,14 +334,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/ESLCS
 DURATION:PT2H
 DTSTART:20260819T130000Z
-SUMMARY:Decider match: MISA vs TLR
+SUMMARY:Decider match: TLR vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/ESLCS
 DURATION:PT2H
 DTSTART:20260819T130000Z
-SUMMARY:Decider match: Entropy vs TBD
+SUMMARY:Decider match: FF vs Entropy
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639289@tournamentics
 END:VEVENT
 BEGIN:VEVENT
