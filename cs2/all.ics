@@ -3106,7 +3106,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260820T110000Z
-SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 2: SAW.Y vs Honvéd
 UID:cs-go-cct-europe-challengers-series-5-2026-1634747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4244,8 +4244,8 @@ SUMMARY:Upper bracket semifinal 1: PUG vs ALKA
 UID:cs-go-champion-of-champions-tour-challengers-2-2026-1631685@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nResult: SAW Youngsters: 2 | ex-MANA eSports: 1\nStream: https://kick.com/cct_cs4
+DTEND:20260819T133936Z
 DTSTART:20260819T110505Z
 SUMMARY:Lower bracket round 2 match 4: SAW.Y vs ex-MANA
 UID:cs-go-cct-europe-challengers-series-5-2026-1634745@tournamentics
@@ -4769,13 +4769,6 @@ SUMMARY:Upper bracket semifinal 2: LGC vs FaZe
 UID:cs-go-esports-world-cup-2026-1624092@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260819T134500Z
-SUMMARY:Lower bracket round 2 match 3: Mai Tai vs Honvéd
-UID:cs-go-cct-europe-challengers-series-5-2026-1634744@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Falcons Force: 1 | LFO UKRAINE: 0\nStream: No official stream linked
 DTEND:20260811T164716Z
 DTSTART:20260811T161000Z
@@ -5296,7 +5289,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
-DTSTART:20260819T134500Z
+DTSTART:20260819T135500Z
 SUMMARY:Lower bracket round 2 match 2: Noir Verse vs ENCE
 UID:cs-go-cct-europe-challengers-series-5-2026-1634743@tournamentics
 END:VEVENT
