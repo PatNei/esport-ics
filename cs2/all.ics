@@ -1188,7 +1188,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260823T103000Z
-SUMMARY:Elimination match: VIT.A vs TBD
+SUMMARY:Elimination match: VIT.A vs PSN.A
 UID:cs-go-united21-54-2026-1640084@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1706,7 +1706,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260823T080000Z
-SUMMARY:Winners match: SNG vs TBD
+SUMMARY:Winners match: SNG vs EACE
 UID:cs-go-united21-54-2026-1640083@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2326,8 +2326,8 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-esports-world-cup-2026-1624409@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nResult: EAC Extra: 2 | Passion Academy: 0\nStream: https://kick.com/united21_en
+DTEND:20260819T120412Z
 DTSTART:20260819T103803Z
 SUMMARY:EACE vs PSN.A
 UID:cs-go-united21-54-2026-1640082@tournamentics
