@@ -79,27 +79,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series720
 
 </details>
 
-<details>
-<summary>Esports World Cup</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsWorldCup/EsportsWorldCup.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsWorldCup/EsportsWorldCup.ics
-```
-
----
-
-### Open Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsWorldCup/OpenQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsportsWorldCup/OpenQualifier2026.ics
-```
-
-</details>
-
 ## C Tier
 
 <details>
