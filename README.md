@@ -322,27 +322,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 </details>
 
 <details>
-<summary>Tipsport Cup</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TipsportCup/TipsportCup.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TipsportCup/TipsportCup.ics
-```
-
----
-
-### Open #1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TipsportCup/Open12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TipsportCup/Open12026.ics
-```
-
-</details>
-
-<details>
 <summary>United21</summary>
 
 ### Full Schedule
