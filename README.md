@@ -370,27 +370,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season5420
 
 </details>
 
-<details>
-<summary>Winline Star Series</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/WinlineStarSeries/WinlineStarSeries.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/WinlineStarSeries/WinlineStarSeries.ics
-```
-
----
-
-### Season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/WinlineStarSeries/Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/WinlineStarSeries/Season32026.ics
-```
-
-</details>
-
 ## License
 
 ### Calendar Data (.ics files)

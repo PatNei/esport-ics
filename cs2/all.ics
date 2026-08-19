@@ -233,13 +233,6 @@ SUMMARY:Winners match: RGG vs Raccoons
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: mokrivskiy Club: 1 | Perfecto Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260801T225325Z
-DTSTART:20260801T195112Z
-SUMMARY:mokrivskiy Club vs Perfecto Club
-UID:cs-go-winline-star-series-3-2026-1614314@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Younglings: 0 | ENRAGE: 1\nStream: https://www.twitch.tv/sovushkka
 DTEND:20260811T191520Z
 DTSTART:20260811T184037Z
@@ -406,13 +399,6 @@ DTEND:20260722T190227Z
 DTSTART:20260722T181022Z
 SUMMARY:mellren vs PG
 UID:cs-go-esea-advanced-europe-58-2026-1599208@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Buster Club: 2 | Morphilina Club: 1\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260802T184105Z
-DTSTART:20260802T164050Z
-SUMMARY:Buster Club vs Morphilina Club
-UID:cs-go-winline-star-series-3-2026-1614325@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Subtop De France: 1 | A Great Chaos: 0\nStream: No official stream linked
@@ -653,13 +639,6 @@ SUMMARY:Elimination match: PSN.A vs SINQU Rehti
 UID:cs-go-european-pro-league-regular-6-2026-1616793@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: shoke Club: 1 | Perfecto Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260808T153412Z
-DTSTART:20260808T123946Z
-SUMMARY:Lower bracket quarterfinal 1: shoke Club vs Perfecto Club
-UID:cs-go-winline-star-series-3-2026-1614336@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: B8 Academy: 1 | gothboiclique: 0\nStream: No official stream linked
 DTEND:20260721T191903Z
 DTSTART:20260721T184335Z
@@ -721,13 +700,6 @@ DTEND:20260812T115000Z
 DTSTART:20260812T110000Z
 SUMMARY:RGG vs Subtop De France
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632590@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: shoke Club: 2 | SNAILKICK Club: 0\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260801T194231Z
-DTSTART:20260801T180809Z
-SUMMARY:shoke Club vs SNAILKICK Club
-UID:cs-go-winline-star-series-3-2026-1614313@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Esport BERG: 1 | Fortress: 0\nStream: No official stream linked
@@ -912,17 +884,10 @@ SUMMARY:BG vs JUMBO
 UID:cs-go-esea-advanced-europe-58-2026-1619109@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: shoke Club: 1 | WorldEdit Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260804T194728Z
-DTSTART:20260804T173118Z
-SUMMARY:shoke Club vs WorldEdit Club
-UID:cs-go-winline-star-series-3-2026-1614324@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/ESLCS
 DURATION:PT2H
 DTSTART:20260820T130000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: MZP vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639469@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1059,18 +1024,18 @@ SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640207@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
-DTSTART:20260827T110000Z
-SUMMARY:Round of 16 match 2: TBD vs TBD
-UID:cs-go-exort-fiesta-1-2026-1632647@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260820T170000Z
 SUMMARY:ESB vs ENRAGE
 UID:cs-go-esea-advanced-europe-58-2026-1633154@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
+DURATION:PT2H
+DTSTART:20260827T110000Z
+SUMMARY:Round of 16 match 2: TBD vs TBD
+UID:cs-go-exort-fiesta-1-2026-1632647@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
@@ -1176,13 +1141,6 @@ DTEND:20260804T114517Z
 DTSTART:20260804T103845Z
 SUMMARY:VP.P vs SINQU Rehti
 UID:cs-go-european-pro-league-regular-6-2026-1616792@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Buster Club: 2 | shoke Club: 0\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260807T183125Z
-DTSTART:20260807T180232Z
-SUMMARY:Upper bracket semifinal 2: Buster Club vs shoke Club
-UID:cs-go-winline-star-series-3-2026-1614335@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: eSuba: 0 | Fraternity: 1\nStream: No official stream linked
@@ -1395,13 +1353,6 @@ SUMMARY:HEC vs SNG
 UID:cs-go-esea-advanced-europe-58-2026-1599206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Buster Club: 2 | Recrent Club: 0\nStream: https://www.twitch.tv/buster
-DTEND:20260804T175501Z
-DTSTART:20260804T163932Z
-SUMMARY:Buster Club vs Recrent Club
-UID:cs-go-winline-star-series-3-2026-1614323@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: uust _esports: 0 | SNITKO Esports: 1\nStream: No official stream linked
 DTEND:20260721T180253Z
 DTSTART:20260721T171422Z
@@ -1500,18 +1451,18 @@ SUMMARY:Winners match: INF vs STA
 UID:cs-go-united21-53-2026-1608658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Leo Team: 1 | Misa Esports: 2\nStream: https://kick.com/spyhiddentv
-DTEND:20260815T163833Z
-DTSTART:20260815T132909Z
-SUMMARY:Decider match: Leo vs MISA
-UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633199@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260829T090000Z
 SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640206@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Leo Team: 1 | Misa Esports: 2\nStream: https://kick.com/spyhiddentv
+DTEND:20260815T163833Z
+DTSTART:20260815T132909Z
+SUMMARY:Decider match: Leo vs MISA
+UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: PENSIONERS: 0 | WBT: 1\nStream: No official stream linked
@@ -1652,13 +1603,6 @@ DTEND:20260804T093838Z
 DTSTART:20260804T080623Z
 SUMMARY:PSN.A vs PHTM.Ac
 UID:cs-go-european-pro-league-regular-6-2026-1616791@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: mokrivskiy Club: 2 | WorldEdit Club: 0\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260807T160316Z
-DTSTART:20260807T142752Z
-SUMMARY:Upper bracket semifinal 1: mokrivskiy Club vs WorldEdit Club
-UID:cs-go-winline-star-series-3-2026-1614334@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - August 2026\nMatch Type: Best Of\nResult: Rush: 1 | METANOIA WOLVES: 0\nStream: https://www.twitch.tv/metanoiagg
@@ -1941,13 +1885,6 @@ SUMMARY:OBOYS vs NAVI.J
 UID:cs-go-esea-advanced-europe-58-2026-1599205@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: PCH3LK1N Club: 1 | WorldEdit Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260804T165352Z
-DTSTART:20260804T141321Z
-SUMMARY:PCH3LK1N Club vs WorldEdit Club
-UID:cs-go-winline-star-series-3-2026-1614322@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: mellren: 0 | Spirit Academy Green: 1\nStream: https://www.twitch.tv/vebka1221
 DTEND:20260721T174718Z
 DTSTART:20260721T170947Z
@@ -2046,6 +1983,13 @@ SUMMARY:INF vs ENCE.P
 UID:cs-go-united21-53-2026-1608657@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
+DURATION:PT2H
+DTSTART:20260831T163000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-blast-open-porto-fall-2026-1640205@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Leo Team: 2 | Benched gods: 1\nStream: No official stream linked
 DTEND:20260814T194228Z
 DTSTART:20260814T171311Z
@@ -2058,13 +2002,6 @@ DTEND:20260816T124254Z
 DTSTART:20260816T110138Z
 SUMMARY:Lower bracket semifinal 2: MGLZ vs paiN
 UID:cs-go-esports-world-cup-2026-1624328@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
-DTSTART:20260831T163000Z
-SUMMARY:Upper bracket final: TBD vs TBD
-UID:cs-go-blast-open-porto-fall-2026-1640205@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: uust _esports: 1 | Glitchtech Esports: 0\nStream: No official stream linked
@@ -2177,13 +2114,6 @@ DTEND:20260812T094051Z
 DTSTART:20260812T080904Z
 SUMMARY:Decider match: FaZe UN vs B8.A
 UID:cs-go-european-pro-league-regular-6-2026-1616790@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Buster Club: 2 | Perfecto Club: 1\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260806T162958Z
-DTSTART:20260806T141051Z
-SUMMARY:Buster Club vs Perfecto Club
-UID:cs-go-winline-star-series-3-2026-1614333@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: eternal premium: 2 | Privateer Gaming: 0\nStream: https://kick.com/fiesta_cs
@@ -2459,13 +2389,6 @@ SUMMARY:banda chuya vs LPH
 UID:cs-go-esea-advanced-europe-58-2026-1599204@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: PCH3LK1N Club: 1 | SNAILKICK Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260804T134922Z
-DTSTART:20260804T111153Z
-SUMMARY:PCH3LK1N Club vs SNAILKICK Club
-UID:cs-go-winline-star-series-3-2026-1614321@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Banger Gang: 1 | ZOTIX: 0\nStream: https://www.twitch.tv/misterhenrybatt
 DTEND:20260721T173448Z
 DTSTART:20260721T164207Z
@@ -2473,8 +2396,8 @@ SUMMARY:BG vs ZOTIX
 UID:cs-go-esea-advanced-europe-58-2026-1597621@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/metizport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Metizport: 2 | Fire Flux Esports: 0\nStream: https://www.twitch.tv/metizport
+DTEND:20260819T182752Z
 DTSTART:20260819T165955Z
 SUMMARY:Quarterfinal 3: MZP vs FF
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639466@tournamentics
@@ -2578,18 +2501,18 @@ SUMMARY:Inner Circle Prospect vs STA
 UID:cs-go-united21-53-2026-1608656@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
+DURATION:PT2H
+DTSTART:20260829T163000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-blast-open-porto-fall-2026-1640204@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Misa Esports: 1 | Esport Academy Copenhagen: 2\nStream: https://kick.com/teameac
 DTEND:20260814T200738Z
 DTSTART:20260814T172009Z
 SUMMARY:Winners match: MISA vs EAC
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633197@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: 9z: 1 | magic: 2\nStream: https://www.twitch.tv/EWC_Plus_EN2
-DTEND:20260816T170530Z
-DTSTART:20260816T132836Z
-SUMMARY:Lower bracket semifinal 1: 9z vs MGC
-UID:cs-go-esports-world-cup-2026-1624327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
@@ -2613,11 +2536,11 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632644@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
-DTSTART:20260829T163000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
-UID:cs-go-blast-open-porto-fall-2026-1640204@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: 9z: 1 | magic: 2\nStream: https://www.twitch.tv/EWC_Plus_EN2
+DTEND:20260816T170530Z
+DTSTART:20260816T132836Z
+SUMMARY:Lower bracket semifinal 1: 9z vs MGC
+UID:cs-go-esports-world-cup-2026-1624327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 0 | KUUSAMO.gg: 1\nStream: https://www.twitch.tv/kuusamogg
@@ -2823,18 +2746,18 @@ SUMMARY:A Great Chaos vs BG
 UID:cs-go-esea-advanced-europe-58-2026-1630177@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nResult: ENJOY: 2 | Misa Esports: 0\nStream: https://kick.com/cct_cs
-DTEND:20260814T100943Z
-DTSTART:20260814T081600Z
-SUMMARY:ENJOY vs MISA
-UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630664@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260906T130000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640215@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #7 2026\nMatch Type: Best Of\nResult: ENJOY: 2 | Misa Esports: 0\nStream: https://kick.com/cct_cs
+DTEND:20260814T100943Z
+DTSTART:20260814T081600Z
+SUMMARY:ENJOY vs MISA
+UID:cs-go-cct-europe-closed-qualifier-series-7-2026-1630664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
@@ -2851,7 +2774,7 @@ SUMMARY:Upper bracket round 1 match 3: ENCE vs WBT
 UID:cs-go-cct-europe-challengers-series-5-2026-1634724@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kuusamogg
 DURATION:PT2H
 DTSTART:20260819T183000Z
 SUMMARY:KSM vs NEXORA
@@ -3012,13 +2935,6 @@ SUMMARY:Semifinal 1: BMB vs INOX
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633209@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Lixxx Club: 1 | WorldEdit Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260803T214523Z
-DTSTART:20260803T192844Z
-SUMMARY:Lixxx Club vs WorldEdit Club
-UID:cs-go-winline-star-series-3-2026-1614320@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: WBT: 0 | OldBoys: 1\nStream: https://www.twitch.tv/goyarego
 DTEND:20260722T170434Z
 DTSTART:20260722T161636Z
@@ -3089,18 +3005,18 @@ SUMMARY:Lower bracket quarterfinal 2: WC vs paiN
 UID:cs-go-esports-world-cup-2026-1624326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Leo Team: 1 | Misa Esports: 2\nStream: https://www.twitch.tv/floppyacs
-DTEND:20260814T160142Z
-DTSTART:20260814T130541Z
-SUMMARY:Leo vs MISA
-UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633196@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260829T113000Z
 SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640203@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Leo Team: 1 | Misa Esports: 2\nStream: https://www.twitch.tv/floppyacs
+DTEND:20260814T160142Z
+DTSTART:20260814T130541Z
+SUMMARY:Leo vs MISA
+UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
@@ -3199,13 +3115,6 @@ DTEND:20260809T114201Z
 DTSTART:20260809T103855Z
 SUMMARY:Upper bracket quarterfinal 4: FaZe UN vs TTBS
 UID:cs-go-united21-53-2026-1625144@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: PCH3LK1N Club: 0 | shoke Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260805T163825Z
-DTSTART:20260805T155243Z
-SUMMARY:PCH3LK1N Club vs shoke Club
-UID:cs-go-winline-star-series-3-2026-1614331@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Donstu Esports: 1 | TEAM_COPH9K: 0\nStream: No official stream linked
@@ -3311,13 +3220,6 @@ DTEND:20260817T193102Z
 DTSTART:20260817T184848Z
 SUMMARY:SDF vs BG
 UID:cs-go-esea-advanced-europe-58-2026-1638629@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Lixxx Club: 2 | SNAILKICK Club: 0\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260807T120140Z
-DTSTART:20260807T104710Z
-SUMMARY:Tiebreaker: Lixxx Club vs SNAILKICK Club
-UID:cs-go-winline-star-series-3-2026-1623248@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: PURE: 0 | Drama eSports: 1\nStream: No official stream linked
@@ -3437,13 +3339,6 @@ DURATION:PT2H
 DTSTART:20260826T170000Z
 SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-cct-europe-series-7-2026-1630710@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Buster Club: 3 | mokrivskiy Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260809T211010Z
-DTSTART:20260809T170908Z
-SUMMARY:Grand final: Buster Club vs mokrivskiy Club
-UID:cs-go-winline-star-series-3-2026-1614342@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | Permitta Esports: 0\nStream: https://kick.com/nodwin_cs2
@@ -3586,6 +3481,13 @@ SUMMARY:Lower bracket semifinal 2: AST vs NIP
 UID:cs-go-esports-world-cup-2026-1624163@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
+DURATION:PT2H
+DTSTART:20260827T163000Z
+SUMMARY:Upper bracket quarterfinal 4: FAL vs LVG
+UID:cs-go-blast-open-porto-fall-2026-1640202@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Esport Academy Copenhagen: 2 | Benched gods: 0\nStream: No official stream linked
 DTEND:20260814T154345Z
 DTSTART:20260814T134931Z
@@ -3598,13 +3500,6 @@ DTEND:20260815T160348Z
 DTSTART:20260815T142946Z
 SUMMARY:Lower bracket quarterfinal 1: MGC vs 3DMAX
 UID:cs-go-esports-world-cup-2026-1624325@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
-DTSTART:20260827T163000Z
-SUMMARY:Upper bracket quarterfinal 4: FAL vs LVG
-UID:cs-go-blast-open-porto-fall-2026-1640202@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
@@ -3677,13 +3572,6 @@ SUMMARY:Upper bracket quarterfinal 3: INF vs EACE
 UID:cs-go-united21-53-2026-1625143@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Recrent Club: 2 | Morphilina Club: 0\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260805T214532Z
-DTSTART:20260805T201017Z
-SUMMARY:Recrent Club vs Morphilina Club
-UID:cs-go-winline-star-series-3-2026-1614330@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 1 | FAST LAYNERS: 0\nStream: No official stream linked
 DTEND:20260721T193125Z
 DTSTART:20260721T184204Z
@@ -3696,13 +3584,6 @@ DTEND:20260813T093738Z
 DTSTART:20260813T080817Z
 SUMMARY:Winners match: FORZE.R vs BG
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632596@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Buster Club: 0 | mokrivskiy Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260803T175321Z
-DTSTART:20260803T164138Z
-SUMMARY:Buster Club vs mokrivskiy Club
-UID:cs-go-winline-star-series-3-2026-1614319@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Hermine Esports Club: 0 | Inner Circle Academy: 1\nStream: https://www.twitch.tv/hermineesportsclub
@@ -3831,6 +3712,13 @@ SUMMARY:Elimination match: JustP vs ENCE
 UID:cs-go-nodwin-clutch-series-11-2026-1634183@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
+DURATION:PT2H
+DTSTART:20260905T130000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-blast-open-porto-fall-2026-1640213@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Dynamo Eclot Phoenix: 0 |  Phantom Academy: 2\nStream: https://kick.com/united21_en
 DTEND:20260807T115754Z
 DTSTART:20260807T103651Z
@@ -3843,13 +3731,6 @@ DTEND:20260727T175356Z
 DTSTART:20260727T171243Z
 SUMMARY:UUST vs banda chuya
 UID:cs-go-esea-advanced-europe-58-2026-1607247@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
-DTSTART:20260905T130000Z
-SUMMARY:Semifinal 1: TBD vs TBD
-UID:cs-go-blast-open-porto-fall-2026-1640213@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
@@ -3934,13 +3815,6 @@ DURATION:PT2H
 DTSTART:20260826T140000Z
 SUMMARY:Upper bracket quarterfinal 3: NAVI vs M80
 UID:cs-go-blast-open-porto-fall-2026-1640189@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: mokrivskiy Club: 2 | Perfecto Club: 1\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260809T163250Z
-DTSTART:20260809T141137Z
-SUMMARY:Lower bracket final: mokrivskiy Club vs Perfecto Club
-UID:cs-go-winline-star-series-3-2026-1614341@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Nexus: 0 | G2 Ares: 2\nStream: https://kick.com/nodwin_cs2
@@ -4062,6 +3936,13 @@ SUMMARY:Lower bracket round 1 match 2: BANGARANGA vs PRZ
 UID:cs-go-cct-europe-contenders-8-2026-1639150@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
+DURATION:PT2H
+DTSTART:20260827T140000Z
+SUMMARY:Upper bracket quarterfinal 3: LGC vs FUT
+UID:cs-go-blast-open-porto-fall-2026-1640201@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: SINQU: 0 | BASEMENT BOYS: 2\nStream: https://www.twitch.tv/sinquesports
 DTEND:20260815T141327Z
 DTSTART:20260815T130638Z
@@ -4074,13 +3955,6 @@ DTEND:20260815T172634Z
 DTSTART:20260815T142742Z
 SUMMARY:Upper bracket semifinal 2: FURIA vs 9z
 UID:cs-go-esports-world-cup-2026-1624324@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
-DTSTART:20260827T140000Z
-SUMMARY:Upper bracket quarterfinal 3: LGC vs FUT
-UID:cs-go-blast-open-porto-fall-2026-1640201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
@@ -4188,13 +4062,6 @@ SUMMARY:YL vs ZOTIX
 UID:cs-go-esea-advanced-europe-58-2026-1622141@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Perfecto Club: 0 | Morphilina Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260803T154523Z
-DTSTART:20260803T135326Z
-SUMMARY:Perfecto Club vs Morphilina Club
-UID:cs-go-winline-star-series-3-2026-1614318@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260821T080000Z
@@ -4293,18 +4160,18 @@ SUMMARY:Winners' match: MOUZ.N vs ENJOY
 UID:cs-go-nodwin-clutch-series-11-2026-1634182@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 2 | Vitality Academy: 0\nStream: https://kick.com/united21_en
-DTEND:20260805T120832Z
-DTSTART:20260805T103719Z
-SUMMARY:Elimination match: PHTM.Ac vs VIT.A
-UID:cs-go-united21-53-2026-1608664@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260904T170000Z
 SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640212@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 2 | Vitality Academy: 0\nStream: https://kick.com/united21_en
+DTEND:20260805T120832Z
+DTSTART:20260805T103719Z
+SUMMARY:Elimination match: PHTM.Ac vs VIT.A
+UID:cs-go-united21-53-2026-1608664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
@@ -4384,13 +4251,6 @@ SUMMARY:Upper bracket quarterfinal 2: TS vs DENDELE CS
 UID:cs-go-blast-open-porto-fall-2026-1640188@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Perfecto Club: 2 | Lixxx Club: 0\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260808T184701Z
-DTSTART:20260808T172934Z
-SUMMARY:Lower bracket semifinal: Perfecto Club vs Lixxx Club
-UID:cs-go-winline-star-series-3-2026-1614340@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Subtop De France: 0 | Donstu Esports: 1\nStream: No official stream linked
 DTEND:20260721T202112Z
 DTSTART:20260721T194045Z
@@ -4410,13 +4270,6 @@ DTEND:20260817T124720Z
 DTSTART:20260817T110727Z
 SUMMARY:Winners match: IC.A vs ex-ZT
 UID:cs-go-nodwin-clutch-series-11-2026-1638605@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Recrent Club: 1 | mokrivskiy Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260805T193114Z
-DTSTART:20260805T164407Z
-SUMMARY:Recrent Club vs mokrivskiy Club
-UID:cs-go-winline-star-series-3-2026-1614329@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: NEXORA: 0 | Banger Gang: 1\nStream: No official stream linked
@@ -4545,18 +4398,18 @@ SUMMARY:EAC Rising vs EF.A
 UID:cs-go-united21-53-2026-1608571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: TheMongolz: 1 | Natus Vincere: 2\nStream: https://www.twitch.tv/EWC_plus_en
-DTEND:20260815T134145Z
-DTSTART:20260815T110432Z
-SUMMARY:Upper bracket semifinal 1: MGLZ vs NAVI
-UID:cs-go-esports-world-cup-2026-1624323@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260827T113000Z
 SUMMARY:Upper bracket quarterfinal 2: MOUZ vs 9z
 UID:cs-go-blast-open-porto-fall-2026-1640200@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: TheMongolz: 1 | Natus Vincere: 2\nStream: https://www.twitch.tv/EWC_plus_en
+DTEND:20260815T134145Z
+DTSTART:20260815T110432Z
+SUMMARY:Upper bracket semifinal 1: MGLZ vs NAVI
+UID:cs-go-esports-world-cup-2026-1624323@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
@@ -4655,13 +4508,6 @@ DTEND:20260819T101518Z
 DTSTART:20260819T081223Z
 SUMMARY:Qualification match 1: IC.A vs MOUZ.N
 UID:cs-go-nodwin-clutch-series-11-2026-1640218@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Recrent Club: 1 | Perfecto Club: 2\nStream: https://www.twitch.tv/chopperinho
-DTEND:20260803T131538Z
-DTSTART:20260803T110612Z
-SUMMARY:Recrent Club vs Perfecto Club
-UID:cs-go-winline-star-series-3-2026-1614317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Fortress: 1 | MTX: 0\nStream: No official stream linked
@@ -4872,13 +4718,6 @@ DTEND:20260818T191622Z
 DTSTART:20260818T184110Z
 SUMMARY:KSM vs WAVE
 UID:cs-go-esea-advanced-europe-58-2026-1640377@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: SNAILKICK Club: 2 | WorldEdit Club: 0\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260806T121304Z
-DTSTART:20260806T110828Z
-SUMMARY:SNAILKICK Club vs WorldEdit Club
-UID:cs-go-winline-star-series-3-2026-1614328@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: ZOTIX: 1 | PENSIONERS: 0\nStream: No official stream linked
@@ -5105,13 +4944,6 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-7-2026-1630707@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: mokrivskiy Club: 1 | Buster Club: 2\nStream: https://www.twitch.tv/buster
-DTEND:20260808T171658Z
-DTSTART:20260808T145014Z
-SUMMARY:Upper bracket final: mokrivskiy Club vs Buster Club
-UID:cs-go-winline-star-series-3-2026-1614339@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 1 | OLDBOYS PL: 0\nStream: https://www.twitch.tv/officialhyper
 DTEND:20260721T192318Z
 DTSTART:20260721T184400Z
@@ -5131,13 +4963,6 @@ DTEND:20260818T124412Z
 DTSTART:20260818T110804Z
 SUMMARY:Decider match: ex-ZT vs ex-RUSTEC
 UID:cs-go-nodwin-clutch-series-11-2026-1640217@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Morphilina Club: 1 | mokrivskiy Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260802T211650Z
-DTSTART:20260802T190600Z
-SUMMARY:Morphilina Club vs mokrivskiy Club
-UID:cs-go-winline-star-series-3-2026-1614316@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 1 | Glitchtech Esports: 0\nStream: No official stream linked
@@ -5210,18 +5035,18 @@ SUMMARY:Winners match: HS vs BBP
 UID:cs-go-nodwin-clutch-series-11-2026-1634180@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: FaZe Up Next: 2 | Vitality Academy: 0\nStream: https://kick.com/united21_en
-DTEND:20260801T120250Z
-DTSTART:20260801T104124Z
-SUMMARY:FaZe UN vs VIT.A
-UID:cs-go-united21-53-2026-1608662@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260831T140000Z
 SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640210@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: FaZe Up Next: 2 | Vitality Academy: 0\nStream: https://kick.com/united21_en
+DTEND:20260801T120250Z
+DTSTART:20260801T104124Z
+SUMMARY:FaZe UN vs VIT.A
+UID:cs-go-united21-53-2026-1608662@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: Younglings: 2 | IMHOWeRGOAT: 1\nStream: https://kick.com/cct_cs5
@@ -5320,13 +5145,6 @@ DTEND:20260818T191604Z
 DTSTART:20260818T184504Z
 SUMMARY:NEXORA vs NV
 UID:cs-go-esea-advanced-europe-58-2026-1640376@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Lixxx Club: 0 | shoke Club: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260805T151541Z
-DTSTART:20260805T140416Z
-SUMMARY:Lixxx Club vs shoke Club
-UID:cs-go-winline-star-series-3-2026-1614327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -5560,13 +5378,6 @@ SUMMARY:Decider match: VP.P vs PSN.A
 UID:cs-go-european-pro-league-regular-6-2026-1616795@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: WorldEdit Club: 0 | Lixxx Club: 2\nStream: https://www.twitch.tv/worldedit
-DTEND:20260807T200043Z
-DTSTART:20260807T172644Z
-SUMMARY:Lower bracket quarterfinal 2: WorldEdit Club vs Lixxx Club
-UID:cs-go-winline-star-series-3-2026-1614338@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 1 | Strael-Bora: 0\nStream: No official stream linked
 DTEND:20260721T200603Z
 DTSTART:20260721T185208Z
@@ -5600,13 +5411,6 @@ DTEND:20260813T191034Z
 DTSTART:20260813T171805Z
 SUMMARY:Elimination match: Subtop De France vs Vexar
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632592@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Lixxx Club: 2 | SNAILKICK Club: 0\nStream: https://www.twitch.tv/degst3r
-DTEND:20260802T210349Z
-DTSTART:20260802T192919Z
-SUMMARY:Lixxx Club vs SNAILKICK Club
-UID:cs-go-winline-star-series-3-2026-1614315@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Permitta Esports: 2 | G2 Ares: 0\nStream: https://kick.com/nodwin_cs2
@@ -5747,13 +5551,6 @@ DTEND:20260818T190956Z
 DTSTART:20260818T184329Z
 SUMMARY:OLDBOYS PL vs PG
 UID:cs-go-esea-advanced-europe-58-2026-1640375@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 3 2026\nMatch Type: Best Of\nResult: Lixxx Club: 2 | PCH3LK1N Club: 0\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260805T122418Z
-DTSTART:20260805T111316Z
-SUMMARY:Lixxx Club vs PCH3LK1N Club
-UID:cs-go-winline-star-series-3-2026-1614326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
