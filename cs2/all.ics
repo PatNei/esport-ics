@@ -2069,7 +2069,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floppyacs
 DURATION:PT2H
-DTSTART:20260819T130000Z
+DTSTART:20260819T140000Z
 SUMMARY:Decider match: TLR vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639318@tournamentics
 END:VEVENT
@@ -4867,8 +4867,8 @@ SUMMARY:Round 4: MW vs MEIA NOITE
 UID:cs-go-betboom-storm-4-2026-1611514@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: Black Phoenix: 0 | Raccoons: 2\nStream: https://kick.com/fiesta_cs
+DTEND:20260819T130615Z
 DTSTART:20260819T113646Z
 SUMMARY:Round 1: Black Phoenix vs RAC
 UID:cs-go-exort-fiesta-1-2026-1632618@tournamentics
