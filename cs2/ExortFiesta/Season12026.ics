@@ -228,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
-DTSTART:20260819T110000Z
+DTSTART:20260819T111500Z
 SUMMARY:Round 1: Black Phoenix vs RAC
 UID:cs-go-exort-fiesta-1-2026-1632618@tournamentics
 END:VEVENT
@@ -324,8 +324,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632621@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | Endless Journey: 1\nStream: https://kick.com/fiesta_cs
+DTEND:20260819T105920Z
 DTSTART:20260819T081733Z
 SUMMARY:Round 1: BW vs EJ
 UID:cs-go-exort-fiesta-1-2026-1632617@tournamentics
