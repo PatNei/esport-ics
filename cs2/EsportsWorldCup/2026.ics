@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260821T140000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: FAL vs TBD
 UID:cs-go-esports-world-cup-2026-1624407@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -380,8 +380,8 @@ SUMMARY:Lower bracket semifinal 1: MOUZ vs PRV
 UID:cs-go-esports-world-cup-2026-1624317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ewc_stcarena_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Team Falcons: 2 | TheMongolz: 0\nStream: https://www.twitch.tv/ewc_stcarena_en
+DTEND:20260820T123821Z
 DTSTART:20260820T110749Z
 SUMMARY:Round of 16 match 6: FAL vs MGLZ
 UID:cs-go-esports-world-cup-2026-1624402@tournamentics
