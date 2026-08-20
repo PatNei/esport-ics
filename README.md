@@ -364,6 +364,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 </details>
 
 <details>
+<summary>UKIC</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Ukic/Ukic.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Ukic/Ukic.ics
+```
+
+---
+
+### Masters Division season 11 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Ukic/MastersDivisionSeason112026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Ukic/MastersDivisionSeason112026.ics
+```
+
+</details>
+
+<details>
 <summary>United21</summary>
 
 ### Full Schedule
