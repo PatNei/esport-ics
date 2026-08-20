@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/ESLCS
 DURATION:PT2H
 DTSTART:20260820T170000Z
-SUMMARY:3rd place match: SPARTA vs TBD
+SUMMARY:3rd place match: SPARTA vs Color
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639471@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -163,8 +163,8 @@ SUMMARY:Quarterfinal 2: BMB vs BAKS
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/flubytv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Metizport: 2 | Color: 1\nStream: https://www.twitch.tv/flubytv
+DTEND:20260820T164157Z
 DTSTART:20260820T130452Z
 SUMMARY:Semifinal 2: MZP vs Color
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639469@tournamentics
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/ESLCS
 DURATION:PT2H
 DTSTART:20260820T170000Z
-SUMMARY:Grand final: OG vs TBD
+SUMMARY:Grand final: OG vs MZP
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639470@tournamentics
 END:VEVENT
 BEGIN:VEVENT
