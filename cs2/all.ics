@@ -2112,7 +2112,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260822T140000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: FURIA vs TBD
 UID:cs-go-esports-world-cup-2026-1624409@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3166,7 +3166,7 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-54-2026-1640080@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/goyarego
 DURATION:PT2H
 DTSTART:20260820T184352Z
 SUMMARY:NEXORA vs B8.A
@@ -4132,8 +4132,8 @@ SUMMARY:Upper bracket semifinal 2: FURIA vs 9z
 UID:cs-go-esports-world-cup-2026-1624324@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ewc_stcarena_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: G2: 1 | FURIA: 2\nStream: https://www.twitch.tv/ewc_stcarena_en
+DTEND:20260820T185038Z
 DTSTART:20260820T162403Z
 SUMMARY:Quarterfinal 1: G2 vs FURIA
 UID:cs-go-esports-world-cup-2026-1624405@tournamentics
