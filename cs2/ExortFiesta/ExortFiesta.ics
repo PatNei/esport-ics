@@ -319,7 +319,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
-DTSTART:20260820T111500Z
+DTSTART:20260820T114000Z
 SUMMARY:Round 2: BG vs ex-ZT
 UID:cs-go-exort-fiesta-1-2026-1632622@tournamentics
 END:VEVENT
@@ -478,8 +478,8 @@ SUMMARY:NV vs ARCH
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | Raccoons: 1\nStream: https://kick.com/fiesta_cs
+DTEND:20260820T112732Z
 DTSTART:20260820T081051Z
 SUMMARY:Round 2: BW vs RAC
 UID:cs-go-exort-fiesta-1-2026-1632621@tournamentics
