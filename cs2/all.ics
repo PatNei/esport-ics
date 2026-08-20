@@ -221,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/ESLCS
 DURATION:PT2H
-DTSTART:20260820T170000Z
+DTSTART:20260820T171000Z
 SUMMARY:Grand final: OG vs MZP
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639470@tournamentics
 END:VEVENT
@@ -1776,7 +1776,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260821T134500Z
-SUMMARY:Lower bracket quarterfinal 2: Honvéd vs TBD
+SUMMARY:Lower bracket quarterfinal 2: Honvéd vs BW
 UID:cs-go-cct-europe-challengers-series-5-2026-1634749@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2588,7 +2588,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260822T110000Z
-SUMMARY:Upper bracket final: WBT vs TBD
+SUMMARY:Upper bracket final: WBT vs mellren
 UID:cs-go-cct-europe-challengers-series-5-2026-1634736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3103,8 +3103,8 @@ SUMMARY:Lower bracket quarterfinal 1: LG vs TS
 UID:cs-go-esports-world-cup-2026-1624083@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nResult: mellren: 2 | Bushido Wildcats: 1\nStream: https://kick.com/cct_cs4
+DTEND:20260820T164840Z
 DTSTART:20260820T135353Z
 SUMMARY:Upper bracket semifinal 2: mellren vs BW
 UID:cs-go-cct-europe-challengers-series-5-2026-1634735@tournamentics
@@ -5660,7 +5660,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/ESLCS
 DURATION:PT2H
-DTSTART:20260820T170000Z
+DTSTART:20260820T171000Z
 SUMMARY:3rd place match: SPARTA vs Color
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639471@tournamentics
 END:VEVENT
