@@ -516,7 +516,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
 DTSTART:20260821T181500Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: TrafficPills Esports vs TBD
 UID:cs-go-cct-europe-contenders-8-2026-1640175@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1073,8 +1073,8 @@ SUMMARY:Upper bracket round 1 match 4: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643632@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/untalentedkid785
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: eSuba: 1 | ENRAGE: 0\nStream: https://www.twitch.tv/untalentedkid785
+DTEND:20260820T175926Z
 DTSTART:20260820T172025Z
 SUMMARY:ESB vs ENRAGE
 UID:cs-go-esea-advanced-europe-58-2026-1633154@tournamentics
@@ -1507,8 +1507,8 @@ SUMMARY:Lower bracket semifinal 2: JJH vs AUR
 UID:cs-go-esports-world-cup-2026-1624086@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: TrafficPills Esports: 2 | EmberKoca: 0\nStream: https://kick.com/cct_cs6
+DTEND:20260820T180041Z
 DTSTART:20260820T153655Z
 SUMMARY:Lower bracket round 3 match 2: TrafficPills Esports vs EmberKoca
 UID:cs-go-cct-europe-contenders-8-2026-1640173@tournamentics
@@ -2930,7 +2930,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260820T180000Z
+DTSTART:20260820T181500Z
 SUMMARY:WBT vs MORROW
 UID:cs-go-esea-advanced-europe-58-2026-1643113@tournamentics
 END:VEVENT
@@ -5616,9 +5616,9 @@ SUMMARY:Lower bracket semifinal 2: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640197@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit2
+DESCRIPTION:🔴 LIVE NOW\nTournament: UKIC - Masters Division season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit2
 DURATION:PT2H
-DTSTART:20260820T180000Z
+DTSTART:20260820T180324Z
 SUMMARY:Lower bracket semifinal: Ryvex vs CLS
 UID:cs-go-ukic-masters-division-11-2026-1644110@tournamentics
 END:VEVENT
@@ -5742,7 +5742,7 @@ SUMMARY:Upper bracket quarterfinal 2: LG vs GL
 UID:cs-go-esports-world-cup-2026-1624078@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
 DTSTART:20260820T181500Z
 SUMMARY:Upper bracket semifinal 2: FORZE.R vs YL
