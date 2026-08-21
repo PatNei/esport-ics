@@ -541,9 +541,9 @@ SUMMARY:Round 1: Leo vs ex-RUSTEC
 UID:cs-go-cct-europe-series-7-2026-1630680@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
-DTSTART:20260821T153000Z
+DTSTART:20260821T154313Z
 SUMMARY:Lower bracket quarterfinal 2: TrafficPills Esports vs YL
 UID:cs-go-cct-europe-contenders-8-2026-1640175@tournamentics
 END:VEVENT
@@ -1412,7 +1412,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260822T170000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: LGC vs TBD
 UID:cs-go-esports-world-cup-2026-1624410@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3341,8 +3341,8 @@ SUMMARY:Leo vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ewc_stcarena_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Legacy: 2 | Team Falcons: 0\nStream: https://www.twitch.tv/ewc_stcarena_en
+DTEND:20260821T154249Z
 DTSTART:20260821T135323Z
 SUMMARY:Quarterfinal 3: LGC vs FAL
 UID:cs-go-esports-world-cup-2026-1624407@tournamentics
