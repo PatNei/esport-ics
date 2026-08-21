@@ -194,7 +194,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260822T140000Z
-SUMMARY:Semifinal 1: FURIA vs TBD
+SUMMARY:Semifinal 1: FURIA vs FUT
 UID:cs-go-esports-world-cup-2026-1624409@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -212,8 +212,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-esports-world-cup-2026-1624410@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ewc_stcarena_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | MOUZ: 0\nStream: https://www.twitch.tv/ewc_stcarena_en
+DTEND:20260821T130023Z
 DTSTART:20260821T110758Z
 SUMMARY:Quarterfinal 2: FUT vs MOUZ
 UID:cs-go-esports-world-cup-2026-1624406@tournamentics
