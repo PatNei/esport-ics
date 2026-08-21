@@ -208,7 +208,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260822T170000Z
-SUMMARY:Semifinal 2: LGC vs TBD
+SUMMARY:Semifinal 2: LGC vs TS
 UID:cs-go-esports-world-cup-2026-1624410@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -338,8 +338,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-esports-world-cup-2026-1624412@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ewc_stcarena_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Vitality: 1 | Spirit: 2\nStream: https://www.twitch.tv/ewc_stcarena_en
+DTEND:20260821T195455Z
 DTSTART:20260821T163708Z
 SUMMARY:Quarterfinal 4: VIT vs TS
 UID:cs-go-esports-world-cup-2026-1624408@tournamentics
