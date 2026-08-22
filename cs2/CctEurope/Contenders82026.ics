@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: IMHOWeRGOAT: 1 | Younglings: 2\nStream: https://kick.com/cct_cs5
+DTEND:20260822T203247Z
 DTSTART:20260822T182535Z
 SUMMARY:Lower bracket semifinal: IMHOWeRGOAT vs YL
 UID:cs-go-cct-europe-contenders-8-2026-1640176@tournamentics
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
 DTSTART:20260823T153000Z
-SUMMARY:Lower bracket final: FORZE.R vs TBD
+SUMMARY:Lower bracket final: FORZE.R vs YL
 UID:cs-go-cct-europe-contenders-8-2026-1640177@tournamentics
 END:VEVENT
 BEGIN:VEVENT
