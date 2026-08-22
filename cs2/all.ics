@@ -1481,7 +1481,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
 DURATION:PT2H
-DTSTART:20260822T030000Z
+DTSTART:20260822T031500Z
 SUMMARY:THE vs RA
 UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645129@tournamentics
 END:VEVENT
@@ -1701,6 +1701,13 @@ DURATION:PT2H
 DTSTART:20260830T160000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-cct-europe-series-7-2026-1630725@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260822T183000Z
+SUMMARY:YL vs NEXORA
+UID:cs-go-esea-advanced-europe-58-2026-1646561@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 4 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 2 | paiN Academy: 0\nStream: https://www.twitch.tv/dust2br
