@@ -1699,7 +1699,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - August 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260824T220000Z
-SUMMARY:de: ??? vs CHAMA
+SUMMARY:Decider match: ??? vs CHAMA
 UID:cs-go-gamers-club-liga-serie-a-august-2026-1647517@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4041,8 +4041,8 @@ SUMMARY:FAL.F vs IC.A
 UID:cs-go-esea-advanced-europe-58-2026-1630198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nResult: Black Phoenix: 1 | UNiTY esports: 2\nStream: https://kick.com/cct_cs
+DTEND:20260822T200855Z
 DTSTART:20260822T173624Z
 SUMMARY:Round 3: Black Phoenix vs UNiTY
 UID:cs-go-cct-europe-series-7-2026-1630697@tournamentics
