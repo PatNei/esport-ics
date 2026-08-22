@@ -173,7 +173,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
 DURATION:PT2H
 DTSTART:20260823T030000Z
-SUMMARY:Elimination match: THE vs TBD
+SUMMARY:Elimination match: THE vs CW
 UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -674,8 +674,8 @@ SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640195@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 0 | Vitalem Aerem: 2\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260822T075439Z
 DTSTART:20260822T062011Z
 SUMMARY:CW vs VA
 UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645130@tournamentics
@@ -735,6 +735,13 @@ DTEND:20260806T011011Z
 DTSTART:20260805T232531Z
 SUMMARY:Round 2: BST vs Grêmio Esports
 UID:cs-go-betboom-storm-4-2026-1611497@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/monsternotebook
+DURATION:PT2H
+DTSTART:20260826T150000Z
+SUMMARY:Quarterfinal 1: PCIFIC vs BBB
+UID:cs-go-monsters-reloaded-2026-1646569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 6 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | VP.Prodigy: 0\nStream: https://kick.com/eplcs_en
@@ -4673,7 +4680,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260822T080000Z
+DTSTART:20260822T081000Z
 SUMMARY:Winners match: RT vs INF
 UID:cs-go-united21-54-2026-1640078@tournamentics
 END:VEVENT
@@ -4928,13 +4935,6 @@ DTEND:20260812T122033Z
 DTSTART:20260812T104222Z
 SUMMARY:Lower bracket quarterfinal 2: FaZe UN vs FF
 UID:cs-go-united21-53-2026-1629137@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
-DTSTART:20260822T080000Z
-SUMMARY:Round 3: BBP vs Noir Verse
-UID:cs-go-exort-fiesta-1-2026-1632629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Dark Moon: 0 | banda chuya: 1\nStream: No official stream linked
@@ -5278,6 +5278,13 @@ DURATION:PT2H
 DTSTART:20260831T220000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645107@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/monsternotebook
+DURATION:PT2H
+DTSTART:20260826T150000Z
+SUMMARY:Quarterfinal 4: CE vs RFE
+UID:cs-go-monsters-reloaded-2026-1646572@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -5763,6 +5770,13 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645106@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/monsternotebook
+DURATION:PT2H
+DTSTART:20260826T150000Z
+SUMMARY:Quarterfinal 3: GBC vs PHX
+UID:cs-go-monsters-reloaded-2026-1646571@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260823T110000Z
@@ -5990,7 +6004,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
 DURATION:PT2H
 DTSTART:20260823T060000Z
-SUMMARY:Winners match: RA vs TBD
+SUMMARY:Winners match: RA vs VA
 UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6237,6 +6251,13 @@ DURATION:PT2H
 DTSTART:20260831T160000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645105@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/monsternotebook
+DURATION:PT2H
+DTSTART:20260826T150000Z
+SUMMARY:Quarterfinal 2: MISA vs EF.A
+UID:cs-go-monsters-reloaded-2026-1646570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
