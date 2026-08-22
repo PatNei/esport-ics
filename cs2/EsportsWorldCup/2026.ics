@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260823T080000Z
-SUMMARY:Third place match: TBD vs TBD
+SUMMARY:Third place match: FURIA vs TBD
 UID:cs-go-esports-world-cup-2026-1624411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -191,8 +191,8 @@ SUMMARY:Lower bracket semifinal 2: MGLZ vs paiN
 UID:cs-go-esports-world-cup-2026-1624328@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: FURIA: 1 | FUT Esports: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260822T171019Z
 DTSTART:20260822T140931Z
 SUMMARY:Semifinal 1: FURIA vs FUT
 UID:cs-go-esports-world-cup-2026-1624409@tournamentics
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260823T113000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: FUT vs TBD
 UID:cs-go-esports-world-cup-2026-1624412@tournamentics
 END:VEVENT
 BEGIN:VEVENT

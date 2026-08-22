@@ -355,7 +355,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260823T113000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: FUT vs TBD
 UID:cs-go-esports-world-cup-2026-1624412@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -859,7 +859,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260823T080000Z
-SUMMARY:Third place match: TBD vs TBD
+SUMMARY:Third place match: FURIA vs TBD
 UID:cs-go-esports-world-cup-2026-1624411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2270,8 +2270,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632645@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: FURIA: 1 | FUT Esports: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260822T171019Z
 DTSTART:20260822T140931Z
 SUMMARY:Semifinal 1: FURIA vs FUT
 UID:cs-go-esports-world-cup-2026-1624409@tournamentics
@@ -3138,9 +3138,9 @@ SUMMARY:Round 5: paiN.A vs Keyd
 UID:cs-go-betboom-storm-4-2026-1611517@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
-DTSTART:20260822T170000Z
+DTSTART:20260822T170850Z
 SUMMARY:Round 3: BG vs BW
 UID:cs-go-exort-fiesta-1-2026-1632632@tournamentics
 END:VEVENT
@@ -4538,8 +4538,8 @@ SUMMARY:NV vs MISA
 UID:cs-go-esea-advanced-europe-58-2026-1630197@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nResult: Leo Team: 2 | HAVU: 1\nStream: https://kick.com/cct_cs
+DTEND:20260822T171230Z
 DTSTART:20260822T140543Z
 SUMMARY:Round 3: Leo vs HAVU
 UID:cs-go-cct-europe-series-7-2026-1630696@tournamentics
