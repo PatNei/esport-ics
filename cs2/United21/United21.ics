@@ -2,39 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Dynamo Eclot Phoenix: 0 |  Phantom Academy: 2\nStream: https://kick.com/united21_en
-DTEND:20260807T115754Z
-DTSTART:20260807T103651Z
-SUMMARY:Decider match: DE.P vs PHTM.Ac
-UID:cs-go-united21-53-2026-1608665@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: FaZe Up Next: 2 | Vitality Academy: 0\nStream: https://kick.com/united21_en
-DTEND:20260801T120250Z
-DTSTART:20260801T104124Z
-SUMMARY:FaZe UN vs VIT.A
-UID:cs-go-united21-53-2026-1608662@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | STATE: 0\nStream: https://kick.com/united21_en
-DTEND:20260804T100210Z
-DTSTART:20260804T081042Z
-SUMMARY:Winners match: INF vs STA
-UID:cs-go-united21-53-2026-1608658@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260824T103000Z
 SUMMARY:Elimination match: ENCE.P vs TTBS
 UID:cs-go-united21-54-2026-1640089@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: EAC Rising: 0 | Eternal Fire Academy: 2\nStream: https://kick.com/united21_en
-DTEND:20260730T095350Z
-DTSTART:20260730T081817Z
-SUMMARY:EAC Rising vs EF.A
-UID:cs-go-united21-53-2026-1608571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
@@ -49,20 +21,6 @@ DTEND:20260820T092016Z
 DTSTART:20260820T080854Z
 SUMMARY:ALL vs ENCE.P
 UID:cs-go-united21-54-2026-1640086@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | Fire Flux Esports: 2\nStream: https://kick.com/united21_en
-DTEND:20260729T130142Z
-DTSTART:20260729T110341Z
-SUMMARY:SNG vs FF
-UID:cs-go-united21-53-2026-1608567@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 0 | STATE: 2\nStream: https://kick.com/united21_en
-DTEND:20260808T151021Z
-DTSTART:20260808T131745Z
-SUMMARY:Upper bracket quarterfinal 2: VP.P vs STA
-UID:cs-go-united21-53-2026-1625142@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
@@ -93,53 +51,11 @@ SUMMARY:Inner Circle Prospect vs INF
 UID:cs-go-united21-54-2026-1640076@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: STATE: 1 | Teletubisie: 2\nStream: https://kick.com/united21_en
-DTEND:20260815T110409Z
-DTSTART:20260815T081433Z
-SUMMARY:Grand final: STA vs TTBS
-UID:cs-go-united21-53-2026-1629141@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: FaZe Up Next: 2 | Fire Flux Esports: 0\nStream: https://kick.com/united21_en
-DTEND:20260812T122033Z
-DTSTART:20260812T104222Z
-SUMMARY:Lower bracket quarterfinal 2: FaZe UN vs FF
-UID:cs-go-united21-53-2026-1629137@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nResult: LPH Gaming: 1 | B8 Academy: 2\nStream: https://kick.com/united21_en
 DTEND:20260821T110415Z
 DTSTART:20260821T080832Z
 SUMMARY:Winners match: LPH vs B8.A
 UID:cs-go-united21-54-2026-1640073@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 0 | STATE: 2\nStream: https://kick.com/united21_en
-DTEND:20260811T094644Z
-DTSTART:20260811T081203Z
-SUMMARY:Upper bracket semifinal 1: FF vs STA
-UID:cs-go-united21-53-2026-1626617@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Eternal Fire Academy: 0 | VP.Prodigy: 2\nStream: https://kick.com/united21_en
-DTEND:20260803T154024Z
-DTSTART:20260803T145814Z
-SUMMARY:Winners match: EF.A vs VP.P
-UID:cs-go-united21-53-2026-1608593@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 2 | Vitality Academy: 0\nStream: https://kick.com/united21_en
-DTEND:20260805T120832Z
-DTSTART:20260805T103719Z
-SUMMARY:Elimination match: PHTM.Ac vs VIT.A
-UID:cs-go-united21-53-2026-1608664@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | ENCE Prospects: 0\nStream: https://kick.com/united21_en
-DTEND:20260731T123347Z
-DTSTART:20260731T105306Z
-SUMMARY:INF vs ENCE.P
-UID:cs-go-united21-53-2026-1608657@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
@@ -149,39 +65,11 @@ SUMMARY:Winners match: ALL vs PHTM.Ac
 UID:cs-go-united21-54-2026-1640088@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: WRAITH PCIFIC: 1 | Teletubisie: 2\nStream: https://kick.com/united21_en
-DTEND:20260806T104718Z
-DTSTART:20260806T081246Z
-SUMMARY:Decider match: PCIFIC vs TTBS
-UID:cs-go-united21-53-2026-1608570@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: FaZe Up Next: 0 | Teletubisie: 2\nStream: https://kick.com/united21_en
-DTEND:20260809T114201Z
-DTSTART:20260809T103855Z
-SUMMARY:Upper bracket quarterfinal 4: FaZe UN vs TTBS
-UID:cs-go-united21-53-2026-1625144@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260826T080000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-54-2026-1640085@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Teletubisie: 0 | WRAITH PCIFIC: 2\nStream: https://kick.com/united21_en
-DTEND:20260729T103019Z
-DTSTART:20260729T081345Z
-SUMMARY:TTBS vs PCIFIC
-UID:cs-go-united21-53-2026-1608566@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 |  Phantom Academy: 1\nStream: https://kick.com/united21_en
-DTEND:20260808T104831Z
-DTSTART:20260808T081309Z
-SUMMARY:Upper bracket quarterfinal 1: FF vs PHTM.Ac
-UID:cs-go-united21-53-2026-1625141@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nResult: EAC Extra: 2 | Passion Academy: 0\nStream: https://kick.com/united21_en
@@ -198,25 +86,11 @@ SUMMARY:Winners match: RT vs INF
 UID:cs-go-united21-54-2026-1640078@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Teletubisie: 2 | FaZe Up Next: 1\nStream: https://kick.com/united21_en
-DTEND:20260813T125829Z
-DTSTART:20260813T103710Z
-SUMMARY:Lower bracket semifinal: TTBS vs FaZe UN
-UID:cs-go-united21-53-2026-1629139@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260825T080000Z
 SUMMARY:Decider match: LPH vs QUB
 UID:cs-go-united21-54-2026-1640075@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 0 | Teletubisie: 2\nStream: https://kick.com/united21_en
-DTEND:20260814T094542Z
-DTSTART:20260814T080853Z
-SUMMARY:Lower bracket final: INF vs TTBS
-UID:cs-go-united21-53-2026-1629140@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nResult: B8 Academy: 2 | Eternal Fire Academy: 1\nStream: https://kick.com/united21_en
@@ -226,74 +100,11 @@ SUMMARY:B8.A vs EF.A
 UID:cs-go-united21-54-2026-1640072@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Teletubisie: 2 | VP.Prodigy: 1\nStream: https://kick.com/united21_en
-DTEND:20260812T101600Z
-DTSTART:20260812T080618Z
-SUMMARY:Lower bracket quarterfinal 1: TTBS vs VP.P
-UID:cs-go-united21-53-2026-1629136@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: EAC Extra: 1 | FaZe Up Next: 2\nStream: https://kick.com/united21_en
-DTEND:20260810T131015Z
-DTSTART:20260810T103546Z
-SUMMARY:Lower bracket round 1 match 2: EACE vs FaZe UN
-UID:cs-go-united21-53-2026-1626616@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 2 | Passion Academy: 1\nStream: https://kick.com/united21_en
-DTEND:20260730T130610Z
-DTSTART:20260730T103640Z
-SUMMARY:VP.P vs PSN.A
-UID:cs-go-united21-53-2026-1608582@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Dynamo Eclot Phoenix: 0 | FaZe Up Next: 2\nStream: https://kick.com/united21_en
-DTEND:20260805T093508Z
-DTSTART:20260805T080925Z
-SUMMARY:Winners match: DE.P vs FaZe UN
-UID:cs-go-united21-53-2026-1608663@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: ENCE Prospects: 1 | Inner Circle Prospect: 2\nStream: https://kick.com/united21_en
-DTEND:20260804T131312Z
-DTSTART:20260804T103833Z
-SUMMARY:Elimination match: ENCE.P vs Inner Circle Prospect
-UID:cs-go-united21-53-2026-1608659@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: STATE: 2 | Inner Circle Prospect: 0\nStream: https://kick.com/united21_en
-DTEND:20260807T101432Z
-DTSTART:20260807T082113Z
-SUMMARY:Decider match: STA vs Inner Circle Prospect
-UID:cs-go-united21-53-2026-1608660@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Inner Circle Prospect: 0 | STATE: 2\nStream: https://kick.com/united21_en
-DTEND:20260801T144218Z
-DTSTART:20260801T131133Z
-SUMMARY:Inner Circle Prospect vs STA
-UID:cs-go-united21-53-2026-1608656@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: WRAITH PCIFIC: 1 | Fire Flux Esports: 2\nStream: https://kick.com/united21_en
-DTEND:20260802T111944Z
-DTSTART:20260802T080924Z
-SUMMARY:Winners match: PCIFIC vs FF
-UID:cs-go-united21-53-2026-1608568@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nResult: Teletubisie: 1 |  Phantom Academy: 2\nStream: https://kick.com/united21_en
 DTEND:20260820T125334Z
 DTSTART:20260820T103435Z
 SUMMARY:TTBS vs PHTM.Ac
 UID:cs-go-united21-54-2026-1640087@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | EAC Extra: 0\nStream: https://kick.com/united21_en
-DTEND:20260809T101138Z
-DTSTART:20260809T082140Z
-SUMMARY:Upper bracket quarterfinal 3: INF vs EACE
-UID:cs-go-united21-53-2026-1625143@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
@@ -310,13 +121,6 @@ SUMMARY:FaZe UN vs RT
 UID:cs-go-united21-54-2026-1640077@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: STATE: 2 | INFURITY Gaming: 0\nStream: https://kick.com/united21_en
-DTEND:20260813T095210Z
-DTSTART:20260813T081104Z
-SUMMARY:Upper bracket final: STA vs INF
-UID:cs-go-united21-53-2026-1629138@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nResult: QUB: 2 | Eternal Fire Academy: 0\nStream: https://kick.com/united21_en
 DTEND:20260821T131512Z
 DTSTART:20260821T112152Z
@@ -329,19 +133,5 @@ DTEND:20260817T094500Z
 DTSTART:20260817T080000Z
 SUMMARY:QUB vs LPH
 UID:cs-go-united21-54-2026-1640071@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | Teletubisie: 1\nStream: https://kick.com/united21_en
-DTEND:20260811T133310Z
-DTSTART:20260811T110911Z
-SUMMARY:Upper bracket semifinal 2: INF vs TTBS
-UID:cs-go-united21-53-2026-1626618@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: EAC Rising: 2 | Passion Academy: 1\nStream: https://kick.com/united21_en
-DTEND:20260803T131902Z
-DTSTART:20260803T103634Z
-SUMMARY:Elimination match: EAC Rising vs PSN.A
-UID:cs-go-united21-53-2026-1608594@tournamentics
 END:VEVENT
 END:VCALENDAR
