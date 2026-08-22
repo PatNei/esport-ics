@@ -355,7 +355,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260823T113000Z
-SUMMARY:Grand final: FUT vs TBD
+SUMMARY:Grand final: FUT vs TS
 UID:cs-go-esports-world-cup-2026-1624412@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -859,7 +859,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/EWC_plus_en
 DURATION:PT2H
 DTSTART:20260823T080000Z
-SUMMARY:Third place match: FURIA vs TBD
+SUMMARY:Third place match: FURIA vs LGC
 UID:cs-go-esports-world-cup-2026-1624411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1416,8 +1416,8 @@ SUMMARY:TTBS vs PCIFIC
 UID:cs-go-united21-53-2026-1608566@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ewc_stcarena_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Legacy: 0 | Spirit: 2\nStream: https://www.twitch.tv/ewc_stcarena_en
+DTEND:20260822T195540Z
 DTSTART:20260822T180321Z
 SUMMARY:Semifinal 2: LGC vs TS
 UID:cs-go-esports-world-cup-2026-1624410@tournamentics
