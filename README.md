@@ -231,27 +231,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Cha
 </details>
 
 <details>
-<summary>Dfrag</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dfrag/Dfrag.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dfrag/Dfrag.ics
-```
-
----
-
-### Open Series #6 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dfrag/OpenSeries62026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dfrag/OpenSeries62026.ics
-```
-
-</details>
-
-<details>
 <summary>ESEA</summary>
 
 ### Full Schedule
