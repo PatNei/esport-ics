@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260824T100000Z
+SUMMARY:Quarterfinal 1: THE vs Not A Squad Esports
+UID:cs-go-iem-beijing-asian-open-qualifier-2026-1649015@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T120000Z
@@ -56,6 +63,13 @@ DURATION:PT2H
 DTSTART:20260904T150000Z
 SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643656@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260824T100000Z
+SUMMARY:Quarterfinal 3: 5S vs KG
+UID:cs-go-iem-beijing-asian-open-qualifier-2026-1649017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -142,6 +156,13 @@ SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643655@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260824T100000Z
+SUMMARY:Quarterfinal 2: NEXVOID vs CW
+UID:cs-go-iem-beijing-asian-open-qualifier-2026-1649016@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T150000Z
@@ -196,6 +217,13 @@ DURATION:PT2H
 DTSTART:20260904T180000Z
 SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643657@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260824T100000Z
+SUMMARY:Quarterfinal 4: MSTAR vs RA
+UID:cs-go-iem-beijing-asian-open-qualifier-2026-1649018@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
