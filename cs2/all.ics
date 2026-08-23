@@ -1243,7 +1243,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260823T103000Z
+DTSTART:20260823T111500Z
 SUMMARY:Elimination match: VIT.A vs PSN.A
 UID:cs-go-united21-54-2026-1640084@tournamentics
 END:VEVENT
@@ -3705,8 +3705,8 @@ SUMMARY:BW vs PHTM.Ac
 UID:cs-go-esea-advanced-europe-58-2026-1608777@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 | HyperSpirit: 1\nStream: https://kick.com/cct_cs
+DTEND:20260823T104036Z
 DTSTART:20260823T080546Z
 SUMMARY:Round 3: G2.A vs HS
 UID:cs-go-cct-europe-series-7-2026-1630698@tournamentics
