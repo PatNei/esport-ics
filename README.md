@@ -343,6 +343,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 </details>
 
 <details>
+<summary>Logitech G Play Connect</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LogitechGPlayConnect/LogitechGPlayConnect.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LogitechGPlayConnect/LogitechGPlayConnect.ics
+```
+
+---
+
+### Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LogitechGPlayConnect/ClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LogitechGPlayConnect/ClosedQualifier2026.ics
+```
+
+</details>
+
+<details>
 <summary>Monsters Reloaded</summary>
 
 ### Full Schedule
