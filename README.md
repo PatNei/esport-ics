@@ -340,6 +340,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Iem.ics
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/BeijingAsianOpenQualifier2026.ics
 ```
 
+### Beijing: Global Open Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/BeijingGlobalOpenQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/BeijingGlobalOpenQualifier2026.ics
+```
+
 </details>
 
 <details>
