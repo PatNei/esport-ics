@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Rare Atom: 2 | Vitalem Aerem: 1\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260823T090335Z
 DTSTART:20260823T062704Z
 SUMMARY:Winners match: RA vs VA
 UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645132@tournamentics
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
 DURATION:PT2H
 DTSTART:20260824T060000Z
-SUMMARY:Decider match: THE vs TBD
+SUMMARY:Decider match: THE vs VA
 UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645133@tournamentics
 END:VEVENT
 BEGIN:VEVENT
