@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | FORZE Reload: 0\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260822T174911Z
-DTSTART:20260822T153410Z
-SUMMARY:Round 1: NEMI vs FORZE.R
-UID:cs-go-moscow-cyber-games-european-qualifier-2026-1643102@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | Color: 0\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260822T110102Z
-DTSTART:20260822T090329Z
-SUMMARY:Round 1: NEM vs Color
-UID:cs-go-moscow-cyber-games-european-qualifier-2026-1643100@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
 DURATION:PT2H
 DTSTART:20260823T062704Z
@@ -30,13 +16,6 @@ SUMMARY:Round 1: ex-RUBY vs Black Phoenix
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1643107@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
-DURATION:PT2H
-DTSTART:20260823T120000Z
-SUMMARY:Winners match: 5S vs AE
-UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645137@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260823T090000Z
@@ -44,18 +23,39 @@ SUMMARY:Round 1: WAL vs X-CITY
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1643104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: 5star: 2 | Kaleido Gaming: 1\nStream: https://www.twitch.tv/gluck_esports_2
-DTEND:20260822T111507Z
-DTSTART:20260822T090559Z
-SUMMARY:5S vs KG
-UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645134@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | BET-M 33: 1\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260822T151643Z
 DTSTART:20260822T120256Z
 SUMMARY:Round 1: 1WIN vs 33
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1643101@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DURATION:PT2H
+DTSTART:20260824T180000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648075@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DURATION:PT2H
+DTSTART:20260824T090000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648072@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
+DURATION:PT2H
+DTSTART:20260823T120000Z
+SUMMARY:Winners match: 5S vs AE
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645137@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: 5star: 2 | Kaleido Gaming: 1\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260822T111507Z
+DTSTART:20260822T090559Z
+SUMMARY:5S vs KG
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 2 | Chinggis Warriors: 1\nStream: https://www.twitch.tv/gluck_esports_2
@@ -72,18 +72,32 @@ SUMMARY:Round 1: HOTU vs CSH.P
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1643106@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
-DURATION:PT2H
-DTSTART:20260823T090000Z
-SUMMARY:Elimination match: KG vs NEXVOID
-UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645136@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | SPARTA: 2\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260822T212113Z
 DTSTART:20260822T180246Z
 SUMMARY:Round 1: NTR vs SPARTA
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1643103@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | Color: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260822T110102Z
+DTSTART:20260822T090329Z
+SUMMARY:Round 1: NEM vs Color
+UID:cs-go-moscow-cyber-games-european-qualifier-2026-1643100@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DURATION:PT2H
+DTSTART:20260824T150000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648074@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
+DURATION:PT2H
+DTSTART:20260823T090000Z
+SUMMARY:Elimination match: KG vs NEXVOID
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645136@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
@@ -107,18 +121,32 @@ SUMMARY:CW vs VA
 UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645130@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
-DURATION:PT2H
-DTSTART:20260824T090000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645138@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260823T120000Z
 SUMMARY:Round 1: K27 vs RE
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1643105@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | FORZE Reload: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260822T174911Z
+DTSTART:20260822T153410Z
+SUMMARY:Round 1: NEMI vs FORZE.R
+UID:cs-go-moscow-cyber-games-european-qualifier-2026-1643102@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DURATION:PT2H
+DTSTART:20260824T120000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648073@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
+DURATION:PT2H
+DTSTART:20260824T090000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645138@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 0 | Alter Ego: 2\nStream: https://www.twitch.tv/gluck_esports_2
