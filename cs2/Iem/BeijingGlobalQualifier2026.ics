@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
-DURATION:PT2H
-DTSTART:20260824T100000Z
-SUMMARY:Quarterfinal 1: THE vs NAS
-UID:cs-go-iem-beijing-asian-open-qualifier-2026-1649015@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T120000Z
@@ -21,27 +14,6 @@ DURATION:PT2H
 DTSTART:20260902T180000Z
 SUMMARY:Lower bracket round 1 match 4: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643647@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T171500Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
-UID:cs-go-iem-beijing-global-open-qualifier-2026-1649029@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T171500Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
-UID:cs-go-iem-beijing-global-open-qualifier-2026-1649030@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T160000Z
-SUMMARY:Round of 16 match 8: Insiders Esport vs EAC
-UID:cs-go-iem-beijing-global-open-qualifier-2026-1649026@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -58,20 +30,6 @@ SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T160000Z
-SUMMARY:Round of 16 match 5: ECHO vs CS
-UID:cs-go-iem-beijing-global-open-qualifier-2026-1649023@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T160000Z
-SUMMARY:Round of 16 match 1: 100T vs INOX
-UID:cs-go-iem-beijing-global-open-qualifier-2026-1649019@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260902T150000Z
@@ -86,13 +44,6 @@ SUMMARY:Upper bracket round 1 match 6: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T160000Z
-SUMMARY:Round of 16 match 2: EF vs ex-RUBY
-UID:cs-go-iem-beijing-global-open-qualifier-2026-1649020@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260902T090000Z
@@ -105,13 +56,6 @@ DURATION:PT2H
 DTSTART:20260904T150000Z
 SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643656@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T100000Z
-SUMMARY:Quarterfinal 3: 5S vs KG
-UID:cs-go-iem-beijing-asian-open-qualifier-2026-1649017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -142,13 +86,6 @@ SUMMARY:Lower bracket round 1 match 3: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643646@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T171500Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
-UID:cs-go-iem-beijing-global-open-qualifier-2026-1649028@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260904T150000Z
@@ -163,25 +100,11 @@ SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643639@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T160000Z
-SUMMARY:Round of 16 match 7: BAKS vs Color
-UID:cs-go-iem-beijing-global-open-qualifier-2026-1649025@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260902T180000Z
 SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643640@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T160000Z
-SUMMARY:Round of 16 match 4: QUA vs NEMI
-UID:cs-go-iem-beijing-global-open-qualifier-2026-1649022@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -219,13 +142,6 @@ SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643655@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
-DURATION:PT2H
-DTSTART:20260824T100000Z
-SUMMARY:Quarterfinal 2: NEXVOID vs CW
-UID:cs-go-iem-beijing-asian-open-qualifier-2026-1649016@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T150000Z
@@ -247,13 +163,6 @@ SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643645@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T171500Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
-UID:cs-go-iem-beijing-global-open-qualifier-2026-1649027@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T150000Z
@@ -268,25 +177,11 @@ SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T160000Z
-SUMMARY:Round of 16 match 6: NTR vs TS.A
-UID:cs-go-iem-beijing-global-open-qualifier-2026-1649024@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260902T120000Z
 SUMMARY:Upper bracket round 1 match 7: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643635@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T160000Z
-SUMMARY:Round of 16 match 3: ACE vs PHA
-UID:cs-go-iem-beijing-global-open-qualifier-2026-1649021@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -301,13 +196,6 @@ DURATION:PT2H
 DTSTART:20260904T180000Z
 SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643657@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T100000Z
-SUMMARY:Quarterfinal 4: MSTAR vs RA
-UID:cs-go-iem-beijing-asian-open-qualifier-2026-1649018@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
