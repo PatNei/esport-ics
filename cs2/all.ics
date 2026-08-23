@@ -4037,7 +4037,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260825T170000Z
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: REV vs BBP
 UID:cs-go-exort-fiesta-1-2026-1632642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5094,7 +5094,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260825T140000Z
-SUMMARY:Round 4: TBD vs TBD
+SUMMARY:Round 4: Mai Tai vs RAC
 UID:cs-go-exort-fiesta-1-2026-1632640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5318,7 +5318,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
 DTSTART:20260823T181500Z
-SUMMARY:Grand final: maybe vs TBD
+SUMMARY:Grand final: maybe vs FORZE.R
 UID:cs-go-cct-europe-contenders-8-2026-1640167@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6057,8 +6057,8 @@ SUMMARY:Round 1: G1 vs UNiTY
 UID:cs-go-cct-europe-series-7-2026-1630682@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #8 2026\nMatch Type: Best Of\nResult: FORZE Reload: 2 | Younglings: 0\nStream: https://kick.com/cct_cs5
+DTEND:20260823T173645Z
 DTSTART:20260823T154157Z
 SUMMARY:Lower bracket final: FORZE.R vs YL
 UID:cs-go-cct-europe-contenders-8-2026-1640177@tournamentics
