@@ -5735,9 +5735,9 @@ SUMMARY:Lower bracket round 1 match 1: ZOTIX vs Aritmije
 UID:cs-go-cct-europe-contenders-8-2026-1639149@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roundsgg
 DURATION:PT2H
-DTSTART:20260824T153000Z
+DTSTART:20260824T154302Z
 SUMMARY:LPH vs RGG
 UID:cs-go-esea-advanced-europe-58-2026-1649033@tournamentics
 END:VEVENT
@@ -6288,13 +6288,6 @@ SUMMARY:Upper bracket quarterfinal 4: YL vs IMHOWeRGOAT
 UID:cs-go-cct-europe-contenders-8-2026-1639148@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260824T150000Z
-SUMMARY:BW vs ex-Sangal ALTERS
-UID:cs-go-esea-advanced-europe-58-2026-1649032@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260825T160000Z
@@ -6841,8 +6834,8 @@ SUMMARY:Round 1: CHAMA vs Damajuana
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645081@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: Falcons Force: 0 | Endless Journey: 2\nStream: https://kick.com/fiesta_cs
+DTEND:20260824T154709Z
 DTSTART:20260824T141414Z
 SUMMARY:Round 4: FAL.F vs EJ
 UID:cs-go-exort-fiesta-1-2026-1632638@tournamentics
