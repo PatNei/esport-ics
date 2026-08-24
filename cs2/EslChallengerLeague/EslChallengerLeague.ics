@@ -72,18 +72,18 @@ SUMMARY:Quarterfinal 4: EAC vs Color
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639467@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Lavked: 2 | OG: 0\nStream: https://www.twitch.tv/eslcs
-DTEND:20260815T191625Z
-DTSTART:20260815T171927Z
-SUMMARY:Quarterfinal 4: LAVK vs OG
-UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633208@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Lavked: 2 | INOX Division: 1\nStream: https://www.twitch.tv/karmaflexxx
 DTEND:20260816T221102Z
 DTSTART:20260816T182518Z
 SUMMARY:3rd place match: LVKD vs INOX
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633212@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Lavked: 2 | OG: 0\nStream: https://www.twitch.tv/eslcs
+DTEND:20260815T191625Z
+DTSTART:20260815T171927Z
+SUMMARY:Quarterfinal 4: LAVK vs OG
+UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: WRAITH PCIFIC: 0 | SPARTA: 2\nStream: https://www.twitch.tv/flubytv
@@ -107,6 +107,13 @@ SUMMARY:Quarterfinal 1: INOX vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633205@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260825T130000Z
+SUMMARY:Upper bracket round 1 match 4: LEGAM vs RA
+UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650449@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: OG: 2 | Permitta Esports: 1\nStream: https://www.twitch.tv/endiezcasts
 DTEND:20260818T162944Z
 DTSTART:20260818T131317Z
@@ -114,11 +121,18 @@ SUMMARY:OG vs PERM
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639373@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Metizport: 2 | SPARTA: 1\nStream: https://www.twitch.tv/Metizport
-DTEND:20260818T201307Z
-DTSTART:20260818T170249Z
-SUMMARY:Winners match: MZP vs SPARTA
-UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639321@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260825T130000Z
+SUMMARY:Upper bracket round 1 match 5: NEXVOID vs NSN
+UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650450@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260825T130000Z
+SUMMARY:Upper bracket round 1 match 1: THE vs NAS
+UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650446@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: OG: 0 | BakS eSports: 2\nStream: https://www.twitch.tv/mgfongabe
@@ -128,25 +142,18 @@ SUMMARY:Winners match: OG vs BAKS
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633202@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Color: 2 | The Last Resort: 0\nStream: https://www.twitch.tv/sh1ngekiiii
-DTEND:20260818T190117Z
-DTSTART:20260818T170200Z
-SUMMARY:Winners match: Color vs TLR
-UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639292@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Omega: 1 | Entropy: 2\nStream: https://www.twitch.tv/sv_theunknown
-DTEND:20260818T195041Z
-DTSTART:20260818T170724Z
-SUMMARY:Elimination match: OMG vs Entropy
-UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639288@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260831T090000Z
 SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650139@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Metizport: 2 | SPARTA: 1\nStream: https://www.twitch.tv/Metizport
+DTEND:20260818T201307Z
+DTSTART:20260818T170249Z
+SUMMARY:Winners match: MZP vs SPARTA
+UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639321@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | Strael-Bora: 0\nStream: No official stream linked
@@ -226,6 +233,13 @@ SUMMARY:Semifinal 2: MZP vs Color
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639469@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Color: 2 | The Last Resort: 0\nStream: https://www.twitch.tv/sh1ngekiiii
+DTEND:20260818T190117Z
+DTSTART:20260818T170200Z
+SUMMARY:Winners match: Color vs TLR
+UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639292@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | ex-MANA eSports: 0\nStream: https://www.twitch.tv/theeb1ye
 DTEND:20260814T143906Z
 DTSTART:20260814T131805Z
@@ -289,18 +303,18 @@ SUMMARY:SPARTA vs MOUZ.N
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639320@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260825T130000Z
+SUMMARY:Upper bracket round 1 match 2: KG vs JS
+UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650448@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Esport Academy Copenhagen: 2 | Fortress: 0\nStream: https://kick.com/teameac
 DTEND:20260818T142328Z
 DTSTART:20260818T130547Z
 SUMMARY:EAC vs FOR
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639372@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Metizport: 2 | Donstu Esports: 0\nStream: https://www.twitch.tv/theeb1ye
-DTEND:20260818T150432Z
-DTSTART:20260818T130345Z
-SUMMARY:MZP vs DNT
-UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639319@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: BakS eSports: 2 | Fire Flux Esports: 1\nStream: https://www.twitch.tv/kartash0v
@@ -310,6 +324,13 @@ SUMMARY:BAKS vs FF
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Metizport: 2 | Donstu Esports: 0\nStream: https://www.twitch.tv/theeb1ye
+DTEND:20260818T150432Z
+DTSTART:20260818T130345Z
+SUMMARY:MZP vs DNT
+UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639319@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: The Last Resort: 2 | Strael-Bora: 0\nStream: https://www.twitch.tv/sh1ngekiiii
 DTEND:20260818T154051Z
 DTSTART:20260818T130343Z
@@ -317,18 +338,18 @@ SUMMARY:TLR vs S-B
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 1 | WRAITH PCIFIC: 2\nStream: https://kick.com/arhavalcom
-DTEND:20260818T201425Z
-DTSTART:20260818T170542Z
-SUMMARY:Winners match: FF vs PCIFIC
-UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639287@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T090000Z
 SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650138@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 1 | WRAITH PCIFIC: 2\nStream: https://kick.com/arhavalcom
+DTEND:20260818T201425Z
+DTSTART:20260818T170542Z
+SUMMARY:Winners match: FF vs PCIFIC
+UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639287@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -371,6 +392,13 @@ DTEND:20260815T141327Z
 DTSTART:20260815T130638Z
 SUMMARY:Decider match: SINQU vs BMB
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633194@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Omega: 1 | Entropy: 2\nStream: https://www.twitch.tv/sv_theunknown
+DTEND:20260818T195041Z
+DTSTART:20260818T170724Z
+SUMMARY:Elimination match: OMG vs Entropy
+UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639288@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Lavked: 2 | SINQU: 1\nStream: https://www.twitch.tv/titaanitv
@@ -441,6 +469,13 @@ DTEND:20260814T190154Z
 DTSTART:20260814T172653Z
 SUMMARY:Elimination match: PG vs FF
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633203@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260825T130000Z
+SUMMARY:Upper bracket round 1 match 2: VA vs Banzai
+UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 52 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 | Entropy: 1\nStream: https://www.twitch.tv/flubytv
