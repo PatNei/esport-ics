@@ -2,6 +2,41 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | QUINTESSÊNCIA: 0\nStream: https://kick.com/cct_cs4
+DTEND:20260811T014221Z
+DTSTART:20260810T235021Z
+SUMMARY:Upper bracket quarterfinal 4: paiN.A vs QUIN
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1628729@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: pugdesonesto: 0 | ALKA GAMING: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260814T023954Z
+DTSTART:20260814T002650Z
+SUMMARY:Upper bracket semifinal 1: PUG vs ALKA
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1631685@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 2 | MEIA NOITE: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260815T032033Z
+DTSTART:20260814T235140Z
+SUMMARY:Lower bracket quarterfinal 2: MW vs MEIA NOITE
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1633574@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: UNO MILLE: 0 | pugdesonesto: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260811T013104Z
+DTSTART:20260810T235030Z
+SUMMARY:Upper bracket quarterfinal 1: UNO vs PUG
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1628730@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: cobblemon: 0 | Grêmio Esports: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260811T224417Z
+DTSTART:20260811T210444Z
+SUMMARY:Lower bracket round 1 match 4: CBL vs GRE
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1628726@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260906T180000Z
@@ -9,11 +44,11 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645127@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260829T160000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-5-2026-1645098@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: Back to Back : 2 | Damajuana: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260810T222229Z
+DTSTART:20260810T210751Z
+SUMMARY:Lower bracket round 1 match 1: Back to Back  vs Damajuana
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1628723@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
@@ -21,6 +56,13 @@ DURATION:PT2H
 DTSTART:20260905T190000Z
 SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645124@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260829T160000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-5-2026-1645098@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
@@ -100,11 +142,74 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: Grêmio Esports: 1 | MEIA NOITE: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260814T002900Z
+DTSTART:20260813T211219Z
+SUMMARY:Lower bracket round 3 match 2: GRE vs MEIA NOITE
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1632585@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | cobblemon: 0\nStream: https://kick.com/cct_cs4
+DTEND:20260810T011528Z
+DTSTART:20260809T235014Z
+SUMMARY:Upper bracket round 1 match 7: paiN.A vs CBL
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1627168@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260830T130000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645101@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: paiN Academy: 0 | ALKA GAMING: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260815T224355Z
+DTSTART:20260815T210603Z
+SUMMARY:Upper bracket final: paiN.A vs ALKA
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1632582@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 2 | Patins da Ferrari: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260810T000941Z
+DTSTART:20260809T210633Z
+SUMMARY:Upper bracket round 1 match 4: ALKA vs PDAF
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1627165@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: UNO MILLE: 2 | Back to Back : 0\nStream: https://kick.com/cct_cs3
+DTEND:20260808T230000Z
+DTSTART:20260808T210000Z
+SUMMARY:Upper bracket round 1 match 1: UNO vs Back to Back 
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1627162@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: QUINTESSÊNCIA: 2 | Back to Back : 1\nStream: https://kick.com/cct_cs3
+DTEND:20260813T000551Z
+DTSTART:20260812T212404Z
+SUMMARY:Lower bracket round 2 match 1: QUIN vs Back to Back 
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1631687@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 2 | Red Feet: 0\nStream: https://kick.com/cct_cs4
+DTEND:20260812T013923Z
+DTSTART:20260811T235459Z
+SUMMARY:Upper bracket quarterfinal 3: MW vs RF
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1628728@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: pugdesonesto: 0 | QUINTESSÊNCIA: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260814T225748Z
+DTSTART:20260814T210750Z
+SUMMARY:Lower bracket quarterfinal 1: PUG vs QUIN
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1633573@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: Peak Agency: 0 | Rush: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260811T224858Z
+DTSTART:20260811T212227Z
+SUMMARY:Lower bracket round 1 match 3: Peak Agency vs Rush
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1628725@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
@@ -144,16 +249,16 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260903T190000Z
-SUMMARY:Round of 16 round 3: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-5-2026-1645116@tournamentics
+DTSTART:20260904T190000Z
+SUMMARY:Round of 16 match 7: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-5-2026-1645120@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260904T190000Z
-SUMMARY:Round of 16 match 7: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-5-2026-1645120@tournamentics
+DTSTART:20260903T190000Z
+SUMMARY:Round of 16 round 3: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-5-2026-1645116@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
@@ -212,6 +317,13 @@ SUMMARY:Round 1: CHAMA vs Damajuana
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645081@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: paiN Academy: 1 | QUINTESSÊNCIA: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260816T234058Z
+DTSTART:20260816T210616Z
+SUMMARY:Lower bracket final: paiN.A vs QUIN
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1632587@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260830T190000Z
@@ -219,11 +331,53 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: Red Feet: 1 | QUINTESSÊNCIA: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260814T001741Z
+DTSTART:20260813T211731Z
+SUMMARY:Lower bracket round 3 match 1: RF vs QUIN
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1632584@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: Red Feet: 2 | Rush: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260808T215500Z
+DTSTART:20260808T210000Z
+SUMMARY:Upper bracket round 1 match 6: RF vs RUSH vs Rush
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1627167@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260829T220000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645100@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: MEIA NOITE: 2 | ODDIK Academy: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260809T025500Z
+DTSTART:20260808T234500Z
+SUMMARY:Upper bracket round 1 match 3: MEIA NOITE vs ODK.A
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1627164@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 0 | paiN Academy: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260814T021856Z
+DTSTART:20260814T004035Z
+SUMMARY:Upper bracket semifinal 2: MW vs paiN.A
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1631686@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: MEIA NOITE: 2 | Rush: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260813T031620Z
+DTSTART:20260813T001804Z
+SUMMARY:Lower bracket round 2 match 3: MEIA NOITE vs Rush
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1631690@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: MEIA NOITE: 0 | ALKA GAMING: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260812T013722Z
+DTSTART:20260811T235457Z
+SUMMARY:Upper bracket quarterfinal 2: MEIA NOITE vs ALKA
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1628727@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
@@ -238,6 +392,13 @@ DURATION:PT2H
 DTSTART:20260829T190000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645099@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: ODDIK Academy: 0 | TROPA DO CAPS: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260810T222558Z
+DTSTART:20260810T210526Z
+SUMMARY:Lower bracket round 1 match 2: ODK.A vs TDC
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1628724@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
@@ -331,10 +492,45 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645105@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: QUINTESSÊNCIA: 2 | METANOIA WOLVES: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260816T012607Z
+DTSTART:20260815T234810Z
+SUMMARY:Lower bracket semifinal: QUIN vs MW
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1632586@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: Grêmio Esports: 0 | QUINTESSÊNCIA: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260810T014023Z
+DTSTART:20260810T001917Z
+SUMMARY:Upper bracket round 1 match 8: GRE vs QUIN
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1627169@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260830T160000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645102@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 2 | QUINTESSÊNCIA: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260817T025621Z
+DTSTART:20260817T001636Z
+SUMMARY:Grand final: ALKA vs QUIN
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1632583@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 2 | Peak Agency: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260809T005000Z
+DTSTART:20260808T234500Z
+SUMMARY:Upper bracket round 1 match 5: MW vs Peak Agency
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1627166@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #2 2026\nMatch Type: Best Of\nResult: Damajuana: 0 | pugdesonesto: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260809T221151Z
+DTSTART:20260809T213533Z
+SUMMARY:Upper bracket round 1 match 2: Damajuana vs PUG
+UID:cs-go-champion-of-champions-tour-challengers-2-2026-1627163@tournamentics
 END:VEVENT
 END:VCALENDAR
