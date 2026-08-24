@@ -401,8 +401,8 @@ SUMMARY:Upper bracket quarterfinal 2: maybe vs Spirit Academy Green
 UID:cs-go-cct-europe-contenders-8-2026-1639146@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: Lavked: 2 | Vexar: 1\nStream: https://kick.com/fiesta_cs
+DTEND:20260824T134332Z
 DTSTART:20260824T111653Z
 SUMMARY:Round 4: LVKD vs VEX
 UID:cs-go-exort-fiesta-1-2026-1632637@tournamentics
@@ -5747,6 +5747,13 @@ DTEND:20260805T184134Z
 DTSTART:20260805T180902Z
 SUMMARY:PG vs FAL.F
 UID:cs-go-esea-advanced-europe-58-2026-1620638@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260831T090000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650139@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 53 2026\nMatch Type: Best Of\nResult: Eternal Fire Academy: 0 | VP.Prodigy: 2\nStream: https://kick.com/united21_en
