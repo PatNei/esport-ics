@@ -26,13 +26,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260824T171500Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: NTR vs CS
 UID:cs-go-iem-beijing-global-open-qualifier-2026-1649029@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
 DURATION:PT2H
-DTSTART:20260824T171500Z
+DTSTART:20260824T170806Z
 SUMMARY:Quarterfinal 4: Color vs EAC
 UID:cs-go-iem-beijing-global-open-qualifier-2026-1649030@tournamentics
 END:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: ECHO: 0 | CYBERSHOKE Esports: 1\nStream: https://kick.com/dutchboycasts
+DTEND:20260824T170931Z
 DTSTART:20260824T162810Z
 SUMMARY:Round of 16 match 5: ECHO vs CS
 UID:cs-go-iem-beijing-global-open-qualifier-2026-1649023@tournamentics
@@ -86,8 +86,8 @@ SUMMARY:Upper bracket round 1 match 6: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ynotcs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Eternal Fire: 1 | ex-RUBY: 0\nStream: https://www.twitch.tv/ynotcs2
+DTEND:20260824T170910Z
 DTSTART:20260824T161830Z
 SUMMARY:Round of 16 match 2: EF vs ex-RUBY
 UID:cs-go-iem-beijing-global-open-qualifier-2026-1649020@tournamentics
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260824T171500Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: NEMI vs TBD
 UID:cs-go-iem-beijing-global-open-qualifier-2026-1649028@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: QUAZAR: 0 | Nemiga: 1\nStream: https://www.twitch.tv/theeb1ye
+DTEND:20260824T170834Z
 DTSTART:20260824T161732Z
 SUMMARY:Round of 16 match 4: QUA vs NEMI
 UID:cs-go-iem-beijing-global-open-qualifier-2026-1649022@tournamentics
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/trottah
 DURATION:PT2H
 DTSTART:20260824T171500Z
-SUMMARY:Quarterfinal 1: 100T vs TBD
+SUMMARY:Quarterfinal 1: 100T vs EF
 UID:cs-go-iem-beijing-global-open-qualifier-2026-1649027@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -268,8 +268,8 @@ SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fyflo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | Spirit Academy: 0\nStream: https://www.twitch.tv/fyflo
+DTEND:20260824T170525Z
 DTSTART:20260824T161631Z
 SUMMARY:Round of 16 match 6: NTR vs TS.A
 UID:cs-go-iem-beijing-global-open-qualifier-2026-1649024@tournamentics
