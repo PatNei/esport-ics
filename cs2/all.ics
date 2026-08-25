@@ -4272,8 +4272,8 @@ SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640203@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pako_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Honvéd: 1 | banda chuya: 0\nStream: https://www.twitch.tv/pako_cs
+DTEND:20260825T202327Z
 DTSTART:20260825T193822Z
 SUMMARY:Honvéd vs banda chuya
 UID:cs-go-esea-advanced-europe-58-2026-1652156@tournamentics
@@ -4606,13 +4606,6 @@ DTEND:20260824T165529Z
 DTSTART:20260824T161512Z
 SUMMARY:LFO UK vs Honvéd
 UID:cs-go-esea-advanced-europe-58-2026-1649036@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260826T160000Z
-SUMMARY:Round 1: ex-GUARA vs BK
-UID:cs-go-champion-of-champions-tour-series-5-2026-1645086@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 5 2026\nMatch Type: Best Of\nResult: ex-Sashi Academy: 0 | SAW Youngsters: 2\nStream: https://kick.com/cct_cs2
@@ -5877,7 +5870,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260825T220000Z
+DTSTART:20260826T160000Z
 SUMMARY:Round 1: ALKA vs PUG
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645084@tournamentics
 END:VEVENT
