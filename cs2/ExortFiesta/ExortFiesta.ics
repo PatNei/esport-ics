@@ -16,13 +16,6 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 | GUESS: 0\nStream: https://kick.com/fiesta_cs
-DTEND:20260816T161439Z
-DTSTART:20260816T141246Z
-SUMMARY:Decider match: FF vs GUESS
-UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632608@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260830T180000Z
@@ -86,18 +79,18 @@ SUMMARY:Round 4: BW vs Honvéd
 UID:cs-go-exort-fiesta-1-2026-1632639@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
-DTSTART:20260825T140000Z
-SUMMARY:Round 4: Mai Tai vs RAC
-UID:cs-go-exort-fiesta-1-2026-1632640@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: train launcher: 1 | Benched gods: 2\nStream: https://kick.com/fiesta_cs
 DTEND:20260812T200000Z
 DTSTART:20260812T171000Z
 SUMMARY:train launcher vs BG
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632595@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
+DURATION:PT2H
+DTSTART:20260825T140000Z
+SUMMARY:Round 4: Mai Tai vs RAC
+UID:cs-go-exort-fiesta-1-2026-1632640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: Subtop De France: 1 | Vexar: 2\nStream: https://kick.com/fiesta_cs
@@ -189,6 +182,13 @@ DTEND:20260818T111748Z
 DTSTART:20260818T081645Z
 SUMMARY:Round 1: ENCE vs Mai Tai
 UID:cs-go-exort-fiesta-1-2026-1632613@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: Revise: 2 | FORZE Reload: 1\nStream: https://kick.com/fiesta_cs
+DTEND:20260817T200421Z
+DTSTART:20260817T171527Z
+SUMMARY:REV vs FORZE.R
+UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632612@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
@@ -436,11 +436,11 @@ SUMMARY:Round 2: Black Phoenix vs BBP
 UID:cs-go-exort-fiesta-1-2026-1632627@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: Revise: 2 | FORZE Reload: 1\nStream: https://kick.com/fiesta_cs
-DTEND:20260817T200421Z
-DTSTART:20260817T171527Z
-SUMMARY:REV vs FORZE.R
-UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632612@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 | GUESS: 0\nStream: https://kick.com/fiesta_cs
+DTEND:20260816T161439Z
+DTSTART:20260816T141246Z
+SUMMARY:Decider match: FF vs GUESS
+UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632608@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: Falcons Force: 2 | Honvéd: 1\nStream: https://kick.com/fiesta_cs
