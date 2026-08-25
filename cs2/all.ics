@@ -1593,7 +1593,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260825T183000Z
+DTSTART:20260826T190000Z
 SUMMARY:GoldRashers vs eVO
 UID:cs-go-esea-advanced-europe-58-2026-1650635@tournamentics
 END:VEVENT
@@ -2042,7 +2042,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260826T130000Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 4: CW vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650457@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4314,11 +4314,11 @@ SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640203@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Leo Team: 1 | Misa Esports: 2\nStream: https://www.twitch.tv/floppyacs
-DTEND:20260814T160142Z
-DTSTART:20260814T130541Z
-SUMMARY:Leo vs MISA
-UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633196@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260825T193000Z
+SUMMARY:Honvéd vs banda chuya
+UID:cs-go-esea-advanced-europe-58-2026-1652156@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Legacy: 2 | Team Falcons: 0\nStream: https://www.twitch.tv/ewc_stcarena_en
@@ -4335,11 +4335,11 @@ SUMMARY:MTX vs DNK
 UID:cs-go-esea-advanced-europe-58-2026-1633150@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
-DTSTART:20260826T110000Z
-SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-exort-fiesta-1-2026-1632643@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 season 52 2026\nMatch Type: Best Of\nResult: Leo Team: 1 | Misa Esports: 2\nStream: https://www.twitch.tv/floppyacs
+DTEND:20260814T160142Z
+DTSTART:20260814T130541Z
+SUMMARY:Leo vs MISA
+UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nResult: ReThink: 0 | FaZe Up Next: 2\nStream: https://kick.com/united21_en
@@ -4347,6 +4347,13 @@ DTEND:20260825T120757Z
 DTSTART:20260825T105320Z
 SUMMARY:Decider match: RT vs FaZe UN
 UID:cs-go-united21-54-2026-1640080@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
+DURATION:PT2H
+DTSTART:20260826T110000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-exort-fiesta-1-2026-1632643@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: NEXORA: 0 | B8 Academy: 1\nStream: https://www.twitch.tv/goyarego
@@ -4464,7 +4471,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260826T130000Z
-SUMMARY:Lower bracket round 1 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 4: HH vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650465@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5504,8 +5511,8 @@ SUMMARY:OG vs EF
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648312@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mgfongabe
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 2 | Haunted House: 1\nStream: https://www.twitch.tv/mgfongabe
+DTEND:20260825T152814Z
 DTSTART:20260825T131545Z
 SUMMARY:Upper bracket round 1 match 7: CW vs HH
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650452@tournamentics
