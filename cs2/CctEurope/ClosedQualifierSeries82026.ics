@@ -4,9 +4,9 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260827T080000Z
-SUMMARY:ex-ZT vs WBT
-UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651274@tournamentics
+DTSTART:20260830T170000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651403@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -53,9 +53,23 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
+DTSTART:20260831T170000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651405@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
 DTSTART:20260830T080000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651288@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260829T170000Z
+SUMMARY:Honvéd vs Noir Verse
+UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651402@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -88,6 +102,20 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
+DTSTART:20260830T110000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651404@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260829T140000Z
+SUMMARY:Atreides vs SAW.Y
+UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651401@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
 DTSTART:20260829T080000Z
 SUMMARY:ex-RUSTEC vs Entropy
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651284@tournamentics
@@ -105,5 +133,12 @@ DURATION:PT2H
 DTSTART:20260828T080000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651277@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260827T080000Z
+SUMMARY:ex-ZT vs WBT
+UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651274@tournamentics
 END:VEVENT
 END:VCALENDAR
