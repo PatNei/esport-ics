@@ -82,6 +82,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series720
 ## C Tier
 
 <details>
+<summary>CCT Europe</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics
+```
+
+---
+
+### Series #8 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series82026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series82026.ics
+```
+
+</details>
+
+<details>
 <summary>CCT South America</summary>
 
 ### Full Schedule
