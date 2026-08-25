@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260826T130000Z
-SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 3: NEXVOID vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650456@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -65,15 +65,15 @@ SUMMARY:Upper bracket round 1 match 8: XDM vs 5S
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650453@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: LEGAM: 0 | Rare Atom: 2\nStream: No official stream linked
+DTEND:20260825T143136Z
 DTSTART:20260825T130922Z
 SUMMARY:Upper bracket round 1 match 4: LEGAM vs RA
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650449@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: NEXVOID: 2 | The KnockoutX: 0\nStream: No official stream linked
+DTEND:20260825T142335Z
 DTSTART:20260825T132021Z
 SUMMARY:Upper bracket round 1 match 5: NEXVOID vs The KnockoutX
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650450@tournamentics
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260826T130000Z
-SUMMARY:Lower bracket round 1 match 3: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 3: The KnockoutX vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650464@tournamentics
 END:VEVENT
 BEGIN:VEVENT
