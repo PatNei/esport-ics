@@ -18,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260826T183000Z
+DTSTART:20260828T183000Z
 SUMMARY:MISA vs WAVE
 UID:cs-go-esea-advanced-europe-58-2026-1652179@tournamentics
 END:VEVENT
@@ -51,8 +51,8 @@ SUMMARY:banda chuya vs FRT
 UID:cs-go-esea-advanced-europe-58-2026-1600654@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Fraternity: 1 | KUUSAMO.gg: 0\nStream: No official stream linked
+DTEND:20260826T180247Z
 DTSTART:20260826T171145Z
 SUMMARY:FRT vs KSM
 UID:cs-go-esea-advanced-europe-58-2026-1652173@tournamentics
@@ -1325,8 +1325,8 @@ SUMMARY:BJNG vs TEAM_COPH9K
 UID:cs-go-esea-advanced-europe-58-2026-1600655@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Drama eSports: 1 | Falcons Force: 0\nStream: No official stream linked
+DTEND:20260826T180750Z
 DTSTART:20260826T171002Z
 SUMMARY:DRAMA vs FAL.F
 UID:cs-go-esea-advanced-europe-58-2026-1652174@tournamentics
@@ -1432,7 +1432,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260826T190000Z
+DTSTART:20260827T170000Z
 SUMMARY:GoldRashers vs eVO
 UID:cs-go-esea-advanced-europe-58-2026-1650635@tournamentics
 END:VEVENT
