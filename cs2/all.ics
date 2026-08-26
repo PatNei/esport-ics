@@ -754,7 +754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T210000Z
-SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 3: BHE vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650498@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1801,8 +1801,8 @@ SUMMARY:Lower bracket round 1 match 2: VIL vs DTN
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650523@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 0 | Galorys: 2\nStream: No official stream linked
+DTEND:20260826T230607Z
 DTSTART:20260826T211340Z
 SUMMARY:Upper bracket quarterfinal 2: BHE vs GLS
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650485@tournamentics
@@ -4282,7 +4282,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - August 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GamersClubCS
 DURATION:PT2H
 DTSTART:20260827T210000Z
-SUMMARY:Semifinal 2: BST.A vs TBD
+SUMMARY:Semifinal 2: BST.A vs RED.A
 UID:cs-go-gamers-club-liga-serie-a-august-2026-1651148@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6162,8 +6162,8 @@ SUMMARY:Round 5: G2.A vs BW
 UID:cs-go-cct-europe-series-7-2026-1630708@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - August 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GamersClubCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - August 2026\nMatch Type: Best Of\nResult: QUINTESSÊNCIA: 0 | RED Canids Academy: 2\nStream: https://www.twitch.tv/GamersClubCS
+DTEND:20260826T230740Z
 DTSTART:20260826T214209Z
 SUMMARY:Quarterfinal 3: QUIN vs RED.A
 UID:cs-go-gamers-club-liga-serie-a-august-2026-1651145@tournamentics
@@ -7621,7 +7621,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260828T210000Z
-SUMMARY:Upper bracket semifinal 1: FXW7 vs TBD
+SUMMARY:Upper bracket semifinal 1: FXW7 vs GLS
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650488@tournamentics
 END:VEVENT
 BEGIN:VEVENT
