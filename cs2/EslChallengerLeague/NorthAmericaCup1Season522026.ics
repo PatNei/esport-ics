@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T010000Z
-SUMMARY:Lower bracket round 1 match 3: SHIM vs ELU
+SUMMARY:Lower bracket round 1 match 3: ELU vs SHIM
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650524@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -40,14 +40,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T010000Z
-SUMMARY:Upper bracket quarterfinal 4: CCE vs TBD
+SUMMARY:Upper bracket quarterfinal 4: EMP vs CCE
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650517@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T010000Z
-SUMMARY:Upper bracket quarterfinal 1: VOCA vs TBD
+SUMMARY:Upper bracket quarterfinal 1: VOCA vs FV
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650514@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Upper bracket round 1 match 6: SHIM vs IOWA
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650511@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sv_theunknown
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: FarmVille: 2 | Club 333: 1\nStream: https://www.twitch.tv/sv_theunknown
+DTEND:20260826T040752Z
 DTSTART:20260826T012959Z
 SUMMARY:Upper bracket round 1 match 2: FV vs C333
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650507@tournamentics
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T010000Z
-SUMMARY:Lower bracket round 1 match 2: DTN vs TBD
+SUMMARY:Lower bracket round 1 match 2: VIL vs DTN
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650523@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T010000Z
-SUMMARY:Upper bracket quarterfinal 3: IOWA vs MARS
+SUMMARY:Upper bracket quarterfinal 3: MARS vs IOWA
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650516@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -166,14 +166,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T010000Z
-SUMMARY:Lower bracket round 1 match 4: Incognito vs TBD
+SUMMARY:Lower bracket round 1 match 4: ZOMB vs Incognito
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650525@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T010000Z
-SUMMARY:Lower bracket round 1 match 1: New Legends vs TBD
+SUMMARY:Lower bracket round 1 match 1: New Legends vs C333
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650522@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -187,19 +187,19 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T010000Z
-SUMMARY:Upper bracket quarterfinal 2: NT vs TBD
+SUMMARY:Upper bracket quarterfinal 2: OT vs NT
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650515@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/teamempiretv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Zomblers: 1 | EMPIRE: 2\nStream: https://www.twitch.tv/teamempiretv
+DTEND:20260826T034752Z
 DTSTART:20260826T011201Z
 SUMMARY:Upper bracket round 1 match 7: ZOMB vs EMP
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650512@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/endiezcasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Villainous: 1 | Overtake Sector: 2\nStream: https://www.twitch.tv/endiezcasts
+DTEND:20260826T035414Z
 DTSTART:20260826T013001Z
 SUMMARY:Upper bracket round 1 match 3: VIL vs OT
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650508@tournamentics
