@@ -292,7 +292,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260828T130000Z
-SUMMARY:Upper bracket semifinal 2: CW vs TBD
+SUMMARY:Upper bracket semifinal 2: CW vs NEXVOID
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650459@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -317,8 +317,8 @@ SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650502@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/mominpk
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: NEXVOID: 2 | Alter Ego: 1\nStream: https://kick.com/mominpk
+DTEND:20260826T152635Z
 DTSTART:20260826T130656Z
 SUMMARY:Upper bracket quarterfinal 3: NEXVOID vs AE
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650456@tournamentics
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T130000Z
-SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 2: AE vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650467@tournamentics
 END:VEVENT
 BEGIN:VEVENT
