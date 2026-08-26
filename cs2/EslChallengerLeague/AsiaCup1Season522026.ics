@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T130000Z
-SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 1: XDM vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650466@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260828T130000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: CW vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650459@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -191,8 +191,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650461@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mgfongabe
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 2 | TEAM XDM: 0\nStream: https://www.twitch.tv/mgfongabe
+DTEND:20260826T143904Z
 DTSTART:20260826T130538Z
 SUMMARY:Upper bracket quarterfinal 4: CW vs XDM
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650457@tournamentics
