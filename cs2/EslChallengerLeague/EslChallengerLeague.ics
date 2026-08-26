@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260826T210000Z
-SUMMARY:Lower bracket round 1 match 2: MEIA NOITE vs TBD
+SUMMARY:Lower bracket round 1 match 2: MEIA NOITE vs CHAMA
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650493@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -100,8 +100,8 @@ SUMMARY:Upper bracket round 1 match 6: SHIM vs IOWA
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650511@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: BORRACHEIROS: 1 | Galorys: 2\nStream: No official stream linked
+DTEND:20260826T001827Z
 DTSTART:20260825T212402Z
 SUMMARY:Upper bracket round 1 match 4: CHAMA vs GLS
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650479@tournamentics
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260826T210000Z
-SUMMARY:Upper bracket quarterfinal 4: IMP vs ODK
+SUMMARY:Upper bracket quarterfinal 4: ODK vs IMP
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650487@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -432,7 +432,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260826T210000Z
-SUMMARY:Lower bracket round 1 match 4: paiN.A vs ISG
+SUMMARY:Lower bracket round 1 match 4: ISG vs paiN.A
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650495@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -572,7 +572,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260826T210000Z
-SUMMARY:Upper bracket quarterfinal 3: ex-MIBR Academy vs SHIN
+SUMMARY:Upper bracket quarterfinal 3: SHIN vs ex-MIBR Academy
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650486@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -754,7 +754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260826T210000Z
-SUMMARY:Lower bracket round 1 match 3: TdP vs ALKA
+SUMMARY:Lower bracket round 1 match 3: ALKA vs TdP
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650494@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -950,7 +950,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260826T210000Z
-SUMMARY:Upper bracket quarterfinal 2: BHE vs TBD
+SUMMARY:Upper bracket quarterfinal 2: BHE vs GLS
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650485@tournamentics
 END:VEVENT
 BEGIN:VEVENT
