@@ -138,12 +138,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T130000Z
-SUMMARY:Lower bracket round 2 match 3: JS vs TBD
+SUMMARY:Lower bracket round 2 match 3: JS vs The KnockoutX
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650468@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Haunted House: 0 | 5star: 2\nStream: No official stream linked
+DTEND:20260826T144529Z
 DTSTART:20260826T132311Z
 SUMMARY:Lower bracket round 1 match 4: HH vs 5S
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650465@tournamentics
@@ -506,8 +506,8 @@ SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650467@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: The KnockoutX: 2 | QuantumX: 0\nStream: No official stream linked
+DTEND:20260826T145400Z
 DTSTART:20260826T130738Z
 SUMMARY:Lower bracket round 1 match 3: The KnockoutX vs QuantumX
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650464@tournamentics
@@ -817,7 +817,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T130000Z
-SUMMARY:Lower bracket round 2 match 4: VA vs TBD
+SUMMARY:Lower bracket round 2 match 4: VA vs 5S
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650469@tournamentics
 END:VEVENT
 BEGIN:VEVENT
