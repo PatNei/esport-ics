@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T010000Z
-SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 1: VOCA vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650514@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -135,8 +135,8 @@ SUMMARY:Upper bracket round 1 match 5: MARS vs ELU
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650510@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bonamant
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Voca: 2 | Surge: 0\nStream: https://www.twitch.tv/bonamant
+DTEND:20260826T022757Z
 DTSTART:20260826T010759Z
 SUMMARY:Upper bracket round 1 match 1: VOCA vs Surge
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650506@tournamentics
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T010000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: Surge vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650522@tournamentics
 END:VEVENT
 BEGIN:VEVENT
