@@ -12,13 +12,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
 DURATION:PT2H
 DTSTART:20260919T150000Z
-SUMMARY:Grand final: TLR vs TBD
+SUMMARY:Grand final: TLR vs Ryvex
 UID:cs-go-ukic-masters-division-11-2026-1651259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
-DURATION:PT2H
-DTSTART:20260827T180000Z
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 11 2026\nMatch Type: Best Of\nResult: Ryvex: 2 | Privateer Gaming: 1\nStream: https://www.twitch.tv/UKICircuit
+DTEND:20260825T210000Z
+DTSTART:20260825T180000Z
 SUMMARY:Lower bracket final: Ryvex vs PG
 UID:cs-go-ukic-masters-division-11-2026-1644122@tournamentics
 END:VEVENT

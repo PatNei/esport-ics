@@ -2469,7 +2469,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/monsternotebook
 DURATION:PT2H
 DTSTART:20260827T150000Z
-SUMMARY:Grand final: PCIFIC vs TBD
+SUMMARY:Grand final: PCIFIC vs GBC
 UID:cs-go-monsters-reloaded-2026-1651258@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3173,8 +3173,8 @@ SUMMARY:Lower bracket quarterfinal 2: STA vs VP.P
 UID:cs-go-european-pro-league-regular-6-2026-1633568@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nResult: gothboiclique: 2 | Chaos Enforcers: 0\nStream: No official stream linked
+DTEND:20260826T191049Z
 DTSTART:20260826T175710Z
 SUMMARY:Semifinal 2: GBC vs CE
 UID:cs-go-monsters-reloaded-2026-1651257@tournamentics
@@ -3948,13 +3948,6 @@ DURATION:PT2H
 DTSTART:20260831T010000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650520@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260826T190000Z
-SUMMARY:Round 1: BST.A vs Zetta Games
-UID:cs-go-champion-of-champions-tour-series-5-2026-1645087@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -7198,9 +7191,9 @@ SUMMARY:Round 4: BW vs Honvéd
 UID:cs-go-exort-fiesta-1-2026-1632639@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
-DURATION:PT2H
-DTSTART:20260827T180000Z
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 11 2026\nMatch Type: Best Of\nResult: Ryvex: 2 | Privateer Gaming: 1\nStream: https://www.twitch.tv/UKICircuit
+DTEND:20260825T210000Z
+DTSTART:20260825T180000Z
 SUMMARY:Lower bracket final: Ryvex vs PG
 UID:cs-go-ukic-masters-division-11-2026-1644122@tournamentics
 END:VEVENT
@@ -8013,7 +8006,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
 DURATION:PT2H
 DTSTART:20260919T150000Z
-SUMMARY:Grand final: TLR vs TBD
+SUMMARY:Grand final: TLR vs Ryvex
 UID:cs-go-ukic-masters-division-11-2026-1651259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
