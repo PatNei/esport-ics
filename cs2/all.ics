@@ -3176,7 +3176,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/monsternotebook
 DURATION:PT2H
 DTSTART:20260826T180000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: CE vs TBD
 UID:cs-go-monsters-reloaded-2026-1651257@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3852,9 +3852,9 @@ SUMMARY:Winners match: Color vs TLR
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639292@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/spyhiddentv
 DURATION:PT2H
-DTSTART:20260826T164500Z
+DTSTART:20260826T165216Z
 SUMMARY:Semifinal 1: MISA vs PCIFIC
 UID:cs-go-monsters-reloaded-2026-1651256@tournamentics
 END:VEVENT
@@ -6680,8 +6680,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645107@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nResult: Chaos Enforcers: 2 | Royal Foxes Esports: 0\nStream: No official stream linked
+DTEND:20260826T165227Z
 DTSTART:20260826T151446Z
 SUMMARY:Quarterfinal 4: CE vs RFE
 UID:cs-go-monsters-reloaded-2026-1646572@tournamentics
