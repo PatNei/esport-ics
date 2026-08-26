@@ -1472,9 +1472,9 @@ SUMMARY:NAVI.J vs DNK
 UID:cs-go-esea-advanced-europe-58-2026-1600652@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/untalentedkid785
 DURATION:PT2H
-DTSTART:20260826T140000Z
+DTSTART:20260826T141242Z
 SUMMARY:BERG vs ex-Sangal ALTERS
 UID:cs-go-esea-advanced-europe-58-2026-1652171@tournamentics
 END:VEVENT
@@ -1593,7 +1593,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260826T140000Z
+DTSTART:20260826T142000Z
 SUMMARY:Round 3: G1 vs NPG
 UID:cs-go-nodwin-clutch-series-11-2026-1633259@tournamentics
 END:VEVENT
@@ -2389,8 +2389,8 @@ SUMMARY:NV vs DNT
 UID:cs-go-esea-advanced-europe-58-2026-1622146@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | BET-M 33: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260826T140520Z
 DTSTART:20260826T121031Z
 SUMMARY:Round 3: NTR vs 33
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648081@tournamentics
@@ -3633,13 +3633,6 @@ DTEND:20260814T200738Z
 DTSTART:20260814T172009Z
 SUMMARY:Winners match: MISA vs EAC
 UID:cs-go-esl-challenger-league-europe-cup-3-52-2006-1633197@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
-DTSTART:20260826T140000Z
-SUMMARY:Round 5: Mai Tai vs REV
-UID:cs-go-exort-fiesta-1-2026-1632644@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 0 | KUUSAMO.gg: 1\nStream: https://www.twitch.tv/kuusamogg
@@ -5688,7 +5681,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260826T140000Z
+DTSTART:20260826T142000Z
 SUMMARY:Round 5: Black Phoenix vs HS
 UID:cs-go-cct-europe-series-7-2026-1630709@tournamentics
 END:VEVENT
