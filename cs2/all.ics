@@ -1593,7 +1593,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260826T142000Z
+DTSTART:20260826T143500Z
 SUMMARY:Round 3: G1 vs NPG
 UID:cs-go-nodwin-clutch-series-11-2026-1633259@tournamentics
 END:VEVENT
@@ -2284,8 +2284,8 @@ SUMMARY:PG vs B8.A
 UID:cs-go-esea-advanced-europe-58-2026-1611831@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 1 | HyperSpirit: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260826T142144Z
 DTSTART:20260826T113735Z
 SUMMARY:Round 3: ex-ZT vs HS
 UID:cs-go-nodwin-clutch-series-11-2026-1633258@tournamentics
@@ -5679,9 +5679,9 @@ SUMMARY:Round 3: Grêmio Esports vs Keyd
 UID:cs-go-betboom-storm-4-2026-1611503@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260826T142000Z
+DTSTART:20260826T142327Z
 SUMMARY:Round 5: Black Phoenix vs HS
 UID:cs-go-cct-europe-series-7-2026-1630709@tournamentics
 END:VEVENT
