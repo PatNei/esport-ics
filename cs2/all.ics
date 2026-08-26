@@ -1601,7 +1601,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260828T090000Z
-SUMMARY:Lower bracket quarterfinal 1: AUR vs TBD
+SUMMARY:Lower bracket quarterfinal 1: AUR vs DENDELE CS
 UID:cs-go-blast-open-porto-fall-2026-1640194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3722,7 +3722,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260828T113000Z
-SUMMARY:Upper bracket semifinal 1: G2 vs TBD
+SUMMARY:Upper bracket semifinal 1: G2 vs TS
 UID:cs-go-blast-open-porto-fall-2026-1640191@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5408,7 +5408,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
-DTSTART:20260826T140000Z
+DTSTART:20260826T142500Z
 SUMMARY:Upper bracket quarterfinal 3: NAVI vs M80
 UID:cs-go-blast-open-porto-fall-2026-1640189@tournamentics
 END:VEVENT
@@ -6036,8 +6036,8 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648099@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: Spirit: 2 | DENDELE CS: 0\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260826T134657Z
 DTSTART:20260826T115831Z
 SUMMARY:Upper bracket quarterfinal 2: TS vs DENDELE CS
 UID:cs-go-blast-open-porto-fall-2026-1640188@tournamentics
