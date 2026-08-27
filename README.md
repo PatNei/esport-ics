@@ -207,13 +207,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ChallengersSeriesSeason52026.ics
 ```
 
-### Closed Qualifier: Series #7 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries72026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries72026.ics
-```
-
 ### Closed Qualifier: Series #8 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries82026.ics)
 
@@ -311,13 +304,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/ExortFi
 ```
 
 ---
-
-### Closed Qualifier: Series #1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/ClosedQualifierSeries12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/ClosedQualifierSeries12026.ics
-```
 
 ### Season 1 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/Season12026.ics)
