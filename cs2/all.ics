@@ -767,7 +767,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
-DTSTART:20260827T140000Z
+DTSTART:20260827T150000Z
 SUMMARY:Round of 16 match 5: FOKUS vs ex-ZT
 UID:cs-go-exort-fiesta-1-2026-1632648@tournamentics
 END:VEVENT
@@ -1244,7 +1244,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
 DTSTART:20260829T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: LVKD vs TBD
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648237@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1909,7 +1909,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
 DTSTART:20260827T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: BMB vs TBD
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648236@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3271,8 +3271,8 @@ SUMMARY:banda chuya vs LPH
 UID:cs-go-esea-advanced-europe-58-2026-1599204@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 2 | Lavked: 1\nStream: https://www.twitch.tv/connect_en
+DTEND:20260827T134621Z
 DTSTART:20260827T111626Z
 SUMMARY:BMB vs LVKD
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648234@tournamentics
