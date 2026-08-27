@@ -168,27 +168,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/BeijingGlobalQu
 ## D Tier
 
 <details>
-<summary>BetBoom Storm</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/BetboomStorm.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/BetboomStorm.ics
-```
-
----
-
-### Season 4 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/Season42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/Season42026.ics
-```
-
-</details>
-
-<details>
 <summary>CCT Europe</summary>
 
 ### Full Schedule
