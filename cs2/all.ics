@@ -565,7 +565,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260828T130000Z
-SUMMARY:Lower bracket round 3 match 1: AE vs TBD
+SUMMARY:Lower bracket round 3 match 1: AE vs NAS
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650470@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3572,8 +3572,8 @@ SUMMARY:Decider match: FORZE.R vs DNT
 UID:cs-go-exort-fiesta-closed-qualifier-series-1-2026-1632598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/reservewolf
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: TEAM XDM: 1 | Not A Squad Esports: 2\nStream: https://www.twitch.tv/reservewolf
+DTEND:20260827T155300Z
 DTSTART:20260827T131517Z
 SUMMARY:Lower bracket round 2 match 1: XDM vs NAS
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650466@tournamentics
@@ -3701,7 +3701,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260828T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: MISA vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651282@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4345,7 +4345,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260828T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: PERM vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651281@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5196,13 +5196,6 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650504@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260827T160000Z
-SUMMARY:PG vs Honvéd
-UID:cs-go-esea-advanced-europe-58-2026-1654118@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
 DTSTART:20260830T110000Z
@@ -5847,8 +5840,8 @@ SUMMARY:PG vs BERG
 UID:cs-go-esea-advanced-europe-58-2026-1652176@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nResult: Permitta Esports: 2 | Misa Esports: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260827T155006Z
 DTSTART:20260827T141153Z
 SUMMARY:PERM vs MISA
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651279@tournamentics
@@ -6274,8 +6267,8 @@ SUMMARY:Round 1: BW vs EJ
 UID:cs-go-exort-fiesta-1-2026-1632617@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/milqka
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Leo Team: 0 | Butterfly: 2\nStream: https://www.twitch.tv/milqka
+DTEND:20260827T155122Z
 DTSTART:20260827T140903Z
 SUMMARY:Round 4: Leo vs BTF
 UID:cs-go-nodwin-clutch-series-11-2026-1633263@tournamentics
@@ -6321,13 +6314,6 @@ DURATION:PT2H
 DTSTART:20260910T170000Z
 SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-cct-europe-series-8-2026-1651682@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260827T183000Z
-SUMMARY:Honvéd vs NV
-UID:cs-go-esea-advanced-europe-58-2026-1654139@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 | Wave Esports: 1\nStream: No official stream linked
@@ -6673,9 +6659,9 @@ SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645118@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DESCRIPTION:🔴 LIVE NOW\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
-DTSTART:20260827T154500Z
+DTSTART:20260827T155119Z
 SUMMARY:Round 3: Color vs X-CITY
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648086@tournamentics
 END:VEVENT
