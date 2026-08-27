@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260828T140000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: ex-ZT vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651276@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1402,8 +1402,8 @@ SUMMARY:BERG vs ex-Sangal ALTERS
 UID:cs-go-esea-advanced-europe-58-2026-1652171@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/wbtgg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 2 | WBT: 0\nStream: https://www.twitch.tv/wbtgg
+DTEND:20260827T101201Z
 DTSTART:20260827T082106Z
 SUMMARY:ex-ZT vs WBT
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651274@tournamentics
@@ -7117,7 +7117,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260828T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: WBT vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651277@tournamentics
 END:VEVENT
 BEGIN:VEVENT
