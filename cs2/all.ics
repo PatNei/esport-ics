@@ -86,11 +86,11 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632660@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260827T220000Z
-SUMMARY:Round 2: paiN.A vs ex-GUARA
-UID:cs-go-champion-of-champions-tour-series-5-2026-1645092@tournamentics
+DTSTART:20260902T120000Z
+SUMMARY:Upper bracket round 1 match 6: TBD vs TBD
+UID:cs-go-iem-beijing-global-qualifier-2026-1643634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
@@ -98,13 +98,6 @@ DURATION:PT2H
 DTSTART:20260827T170000Z
 SUMMARY:Round of 16 match 6: STA vs ENCE
 UID:cs-go-exort-fiesta-1-2026-1632649@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260902T120000Z
-SUMMARY:Upper bracket round 1 match 6: TBD vs TBD
-UID:cs-go-iem-beijing-global-qualifier-2026-1643634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
@@ -744,18 +737,18 @@ SUMMARY:LPH vs PG
 UID:cs-go-esea-advanced-europe-58-2026-1649041@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260827T190000Z
-SUMMARY:Round 2: PUG vs Zetta Games
-UID:cs-go-champion-of-champions-tour-series-5-2026-1645091@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260902T120000Z
 SUMMARY:Upper bracket round 1 match 5: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643633@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
+DURATION:PT2H
+DTSTART:20260831T090000Z
+SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+UID:cs-go-blast-open-porto-fall-2026-1640208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Benched gods: 1 | LPH Gaming: 0\nStream: No official stream linked
@@ -770,13 +763,6 @@ DURATION:PT2H
 DTSTART:20260827T140000Z
 SUMMARY:Round of 16 match 5: FOKUS vs ex-ZT
 UID:cs-go-exort-fiesta-1-2026-1632648@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
-DTSTART:20260831T090000Z
-SUMMARY:Lower bracket semifinal 1: TBD vs TBD
-UID:cs-go-blast-open-porto-fall-2026-1640208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nResult: ex-Sangal ALTERS: 2 | Passion Academy: 0\nStream: https://kick.com/united21_en
@@ -4702,7 +4688,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260829T010000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: CCE vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650519@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5875,8 +5861,8 @@ SUMMARY:Elimination match: ENCE.P vs TTBS
 UID:cs-go-united21-54-2026-1640089@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/teamempiretv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: EMPIRE: 0 | Chicken Coop Esports: 2\nStream: https://www.twitch.tv/teamempiretv
+DTEND:20260827T022957Z
 DTSTART:20260827T010426Z
 SUMMARY:Upper bracket quarterfinal 4: EMP vs CCE
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650517@tournamentics
@@ -7348,7 +7334,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260828T010000Z
-SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 1: EMP vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650526@tournamentics
 END:VEVENT
 BEGIN:VEVENT
