@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260829T140000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: ex-ZT vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632656@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
-DTSTART:20260827T180000Z
+DTSTART:20260827T182000Z
 SUMMARY:Round of 16 match 6: STA vs ENCE
 UID:cs-go-exort-fiesta-1-2026-1632649@tournamentics
 END:VEVENT
@@ -135,8 +135,8 @@ SUMMARY:Round of 16 match 8: INOX vs LVKD
 UID:cs-go-exort-fiesta-1-2026-1632652@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: FOKUS: 0 | ex-Zero Tenacity: 2\nStream: https://kick.com/fiesta_cs
+DTEND:20260827T175003Z
 DTSTART:20260827T152935Z
 SUMMARY:Round of 16 match 5: FOKUS vs ex-ZT
 UID:cs-go-exort-fiesta-1-2026-1632648@tournamentics
