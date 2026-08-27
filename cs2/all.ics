@@ -95,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
-DTSTART:20260827T170000Z
+DTSTART:20260827T180000Z
 SUMMARY:Round of 16 match 6: STA vs ENCE
 UID:cs-go-exort-fiesta-1-2026-1632649@tournamentics
 END:VEVENT
@@ -1843,13 +1843,6 @@ SUMMARY:Round of 16 match 6: NTR vs TS.A
 UID:cs-go-iem-beijing-global-open-qualifier-2026-1649024@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260827T154500Z
-SUMMARY:ENRAGE vs ex-Sangal ALTERS
-UID:cs-go-esea-advanced-europe-58-2026-1650623@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260828T103000Z
@@ -1857,18 +1850,18 @@ SUMMARY:Upper bracket quarterfinal 4: PHTM.Ac vs QUB
 UID:cs-go-united21-54-2026-1653642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
-DTSTART:20260829T150000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648093@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260905T220000Z
 SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645125@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DURATION:PT2H
+DTSTART:20260829T150000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648093@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -4743,7 +4736,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
-DTSTART:20260827T170000Z
+DTSTART:20260827T171000Z
 SUMMARY:Upper bracket quarterfinal 4: FAL vs LVG
 UID:cs-go-blast-open-porto-fall-2026-1640202@tournamentics
 END:VEVENT
