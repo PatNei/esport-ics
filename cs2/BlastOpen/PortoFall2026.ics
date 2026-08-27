@@ -54,19 +54,19 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260829T090000Z
-SUMMARY:Lower bracket quarterfinal 1: VIT vs TBD
+SUMMARY:Lower bracket quarterfinal 1: VIT vs 9z
 UID:cs-go-blast-open-porto-fall-2026-1640206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260829T113000Z
-SUMMARY:Upper bracket semifinal 1: ICE vs TBD
+SUMMARY:Upper bracket semifinal 1: ICE vs MOUZ
 UID:cs-go-blast-open-porto-fall-2026-1640203@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: MOUZ: 2 | 9z: 0\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260827T135333Z
 DTSTART:20260827T120345Z
 SUMMARY:Upper bracket quarterfinal 2: MOUZ vs 9z
 UID:cs-go-blast-open-porto-fall-2026-1640200@tournamentics
@@ -200,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
-DTSTART:20260827T140000Z
+DTSTART:20260827T143000Z
 SUMMARY:Upper bracket quarterfinal 3: LGC vs FUT
 UID:cs-go-blast-open-porto-fall-2026-1640201@tournamentics
 END:VEVENT
