@@ -56,6 +56,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/PortoFall
 
 </details>
 
+<details>
+<summary>FISSURE PLAYGROUND</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FissurePlayground/FissurePlayground.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FissurePlayground/FissurePlayground.ics
+```
+
+---
+
+### Season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FissurePlayground/Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FissurePlayground/Season32026.ics
+```
+
+</details>
+
 ## B Tier
 
 <details>
