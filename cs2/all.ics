@@ -530,7 +530,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
 DTSTART:20260829T140000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: BMB vs TBD
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648238@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1766,8 +1766,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-8-2026-1651585@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: GoldRashers: 0 | Banger Gang: 1\nStream: No official stream linked
+DTEND:20260827T202034Z
 DTSTART:20260827T194142Z
 SUMMARY:GoldRashers vs BG
 UID:cs-go-esea-advanced-europe-58-2026-1640372@tournamentics
@@ -1787,8 +1787,8 @@ SUMMARY:HEC vs SNG
 UID:cs-go-esea-advanced-europe-58-2026-1599206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 1 | QUAZAR: 2\nStream: https://www.twitch.tv/connect_en
+DTEND:20260827T201937Z
 DTSTART:20260827T170836Z
 SUMMARY:Winners match: BMB vs QUA
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648236@tournamentics
