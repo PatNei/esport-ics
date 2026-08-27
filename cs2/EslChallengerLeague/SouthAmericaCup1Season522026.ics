@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Keyd: 1 | Isurus: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260827T234025Z
 DTSTART:20260827T210456Z
 SUMMARY:Lower bracket round 2 match 4: Keyd vs ISG
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650499@tournamentics
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260828T210000Z
-SUMMARY:Lower bracket round 3 match 2: TdP vs TBD
+SUMMARY:Lower bracket round 3 match 2: TdP vs ISG
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650501@tournamentics
 END:VEVENT
 BEGIN:VEVENT
