@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260829T080000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: B8.A vs TBD
 UID:cs-go-united21-54-2026-1654199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-united21-54-2026-1654205@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nResult: B8 Academy: 1 | Teletubisie: 2\nStream: https://kick.com/united21_en
+DTEND:20260827T104634Z
 DTSTART:20260827T080837Z
 SUMMARY:Upper bracket quarterfinal 1: B8.A vs TTBS
 UID:cs-go-united21-54-2026-1653639@tournamentics
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260830T080000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: TTBS vs TBD
 UID:cs-go-united21-54-2026-1654201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
