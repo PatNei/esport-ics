@@ -5,14 +5,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T210000Z
-SUMMARY:Lower bracket round 2 match 4: Keyd vs TBD
+SUMMARY:Lower bracket round 2 match 4: Keyd vs ISG
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650499@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T210000Z
-SUMMARY:Lower bracket round 2 match 1: YAW vs TBD
+SUMMARY:Lower bracket round 2 match 1: YAW vs ODK
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650496@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260828T210000Z
-SUMMARY:Upper bracket semifinal 2: SHIN vs TBD
+SUMMARY:Upper bracket semifinal 2: SHIN vs IMP
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650489@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -89,12 +89,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260827T210000Z
-SUMMARY:Lower bracket round 2 match 3: BHE vs TBD
+SUMMARY:Lower bracket round 2 match 3: BHE vs TdP
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650498@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/tr3jou
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Isurus: 2 | paiN Academy: 1\nStream: https://kick.com/tr3jou
+DTEND:20260826T235249Z
 DTSTART:20260826T210538Z
 SUMMARY:Lower bracket round 1 match 4: ISG vs paiN.A
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650495@tournamentics
@@ -156,8 +156,8 @@ SUMMARY:Lower bracket round 2 match 2: ex-MIBR Academy vs MEIA NOITE
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650497@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 1 | Turma do Pagode: 2\nStream: No official stream linked
+DTEND:20260826T235246Z
 DTSTART:20260826T211649Z
 SUMMARY:Lower bracket round 1 match 3: ALKA vs TdP
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650494@tournamentics
@@ -170,8 +170,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650491@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cmarty
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: ODDIK: 1 | Imperial: 2\nStream: https://www.twitch.tv/cmarty
+DTEND:20260827T000005Z
 DTSTART:20260826T210908Z
 SUMMARY:Upper bracket quarterfinal 4: ODK vs IMP
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650487@tournamentics
