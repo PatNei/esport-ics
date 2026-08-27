@@ -1349,7 +1349,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260829T140000Z
-SUMMARY:Lower bracket quarterfinal 2: FUT vs TBD
+SUMMARY:Lower bracket quarterfinal 2: FUT vs LVG
 UID:cs-go-blast-open-porto-fall-2026-1640207@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3225,7 +3225,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260829T163000Z
-SUMMARY:Upper bracket semifinal 2: LGC vs TBD
+SUMMARY:Upper bracket semifinal 2: LGC vs FAL
 UID:cs-go-blast-open-porto-fall-2026-1640204@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4468,8 +4468,8 @@ SUMMARY:Lower bracket quarterfinal 1: MGC vs 3DMAX
 UID:cs-go-esports-world-cup-2026-1624325@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: Team Falcons: 2 | Lynn Vision: 1\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260827T200522Z
 DTSTART:20260827T171521Z
 SUMMARY:Upper bracket quarterfinal 4: FAL vs LVG
 UID:cs-go-blast-open-porto-fall-2026-1640202@tournamentics
