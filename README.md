@@ -315,6 +315,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/Season1
 </details>
 
 <details>
+<summary>FRAG Midwest</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FragMidwest/FragMidwest.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FragMidwest/FragMidwest.ics
+```
+
+---
+
+### St. Louis 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FragMidwest/StLouis2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FragMidwest/StLouis2026.ics
+```
+
+</details>
+
+<details>
 <summary>Gamers Club Liga Série A</summary>
 
 ### Full Schedule
