@@ -324,7 +324,7 @@ SUMMARY:Grand final: OG vs MZP
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639470@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dollarcastclub
 DURATION:PT2H
 DTSTART:20260828T233000Z
 SUMMARY:Upper bracket round 1 match 1: REGAIN vs Lan Crasher
@@ -1353,9 +1353,9 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650535@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floofys
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floofys
 DURATION:PT2H
-DTSTART:20260828T234500Z
+DTSTART:20260828T234009Z
 SUMMARY:Lower bracket round 2 match 2: Lotus 2.0 vs Lingering Souls
 UID:cs-go-frag-midwest-st-louis-2026-1657243@tournamentics
 END:VEVENT
@@ -3469,8 +3469,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260828T234500Z
-SUMMARY:Lower bracket round 2 match 2: For Fun v4 vs TBD
+DTSTART:20260829T004500Z
+SUMMARY:Lower bracket round 2 match 2: TBD vs For Fun v4
 UID:cs-go-frag-midwest-st-louis-2026-1657229@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5892,7 +5892,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260829T210000Z
-SUMMARY:Lower bracket quarterfinal 2: SHIN vs TBD
+SUMMARY:Lower bracket quarterfinal 2: SHIN vs ISG
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650503@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7156,8 +7156,8 @@ SUMMARY:FAST LAYNERS vs A Great Chaos
 UID:cs-go-esea-advanced-europe-58-2026-1619100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tr3jou
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Turma do Pagode: 1 | Isurus: 2\nStream: https://www.twitch.tv/tr3jou
+DTEND:20260828T234608Z
 DTSTART:20260828T210855Z
 SUMMARY:Lower bracket round 3 match 2: TdP vs ISG
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650501@tournamentics
@@ -7499,7 +7499,7 @@ SUMMARY:Decider match: PERM vs G2.A
 UID:cs-go-nodwin-clutch-series-11-2026-1640216@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
 DURATION:PT2H
 DTSTART:20260828T233000Z
 SUMMARY:Upper bracket round 1 match 2: AURA vs Friendly Fire
