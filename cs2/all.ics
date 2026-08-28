@@ -809,7 +809,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
-DTSTART:20260828T140000Z
+DTSTART:20260828T143000Z
 SUMMARY:Lower bracket quarterfinal 2: NAVI vs paiN
 UID:cs-go-blast-open-porto-fall-2026-1640195@tournamentics
 END:VEVENT
@@ -2070,7 +2070,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260830T163000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: TS vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640193@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3369,8 +3369,8 @@ SUMMARY:Grand final: ALKA vs BST.A
 UID:cs-go-gamers-club-liga-serie-a-august-2026-1651149@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: G2: 0 | Spirit: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260828T135343Z
 DTSTART:20260828T115547Z
 SUMMARY:Upper bracket semifinal 1: G2 vs TS
 UID:cs-go-blast-open-porto-fall-2026-1640191@tournamentics
@@ -6991,7 +6991,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260830T113000Z
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: G2 vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640197@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7387,7 +7387,7 @@ SUMMARY:Round 2: HOTU vs Black Phoenix
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648073@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/clutchzonetv1
 DURATION:PT2H
 DTSTART:20260828T210000Z
 SUMMARY:Lower bracket round 3 match 1: ODK vs ex-MIBR Academy
