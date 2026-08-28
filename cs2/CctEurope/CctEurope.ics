@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260829T170000Z
-SUMMARY:Quarterfinal 4: NEMI vs TBD
+SUMMARY:Quarterfinal 4: NEMI vs PHA
 UID:cs-go-cct-europe-series-7-2026-1630722@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1122,8 +1122,8 @@ SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651407@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nResult: Phantom: 2 | Leo Team: 1\nStream: https://kick.com/cct_cs
+DTEND:20260828T164358Z
 DTSTART:20260828T140800Z
 SUMMARY:Round of 16 match 7: PHA vs Leo
 UID:cs-go-cct-europe-series-7-2026-1630717@tournamentics
