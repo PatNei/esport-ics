@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Rare Atom: 2 | Vitalem Aerem: 1\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260823T090335Z
+DTSTART:20260823T062704Z
+SUMMARY:Winners match: RA vs VA
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645132@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: ex-RUBY: 1 | Black Phoenix: 2\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260823T222614Z
 DTSTART:20260823T203301Z
@@ -77,6 +84,27 @@ DTEND:20260824T105822Z
 DTSTART:20260824T092138Z
 SUMMARY:Round 2: NTR vs FORZE.R
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648072@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: 5star: 1 | Alter Ego: 2\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260823T165650Z
+DTSTART:20260823T141937Z
+SUMMARY:Winners match: 5S vs AE
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645137@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: 5star: 2 | Kaleido Gaming: 1\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260822T111507Z
+DTSTART:20260822T090559Z
+SUMMARY:5S vs KG
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645134@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 2 | Chinggis Warriors: 1\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260823T060721Z
+DTSTART:20260823T031313Z
+SUMMARY:Elimination match: THE vs CW
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: HOTU: 2 | CYBERSHOKE Prospects: 1\nStream: https://www.twitch.tv/gluck_esports
@@ -168,6 +196,34 @@ DURATION:PT2H
 DTSTART:20260831T180000Z
 SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648100@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Kaleido Gaming: 2 | NEXVOID: 1\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260823T104928Z
+DTSTART:20260823T085027Z
+SUMMARY:Elimination match: KG vs NEXVOID
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645136@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 2 | Vitalem Aerem: 1\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260824T090226Z
+DTSTART:20260824T061455Z
+SUMMARY:Decider match: THE vs VA
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645133@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 0 | Rare Atom: 2\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260822T050026Z
+DTSTART:20260822T033920Z
+SUMMARY:THE vs RA
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645129@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 0 | Vitalem Aerem: 2\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260822T075439Z
+DTSTART:20260822T062011Z
+SUMMARY:CW vs VA
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645130@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
@@ -266,5 +322,19 @@ DTEND:20260824T134908Z
 DTSTART:20260824T120831Z
 SUMMARY:Round 2: HOTU vs Black Phoenix
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648073@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Kaleido Gaming: 1 | 5star: 2\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260824T145548Z
+DTSTART:20260824T124240Z
+SUMMARY:Decider match: KG vs 5S
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645138@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - Asian Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 0 | Alter Ego: 2\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260822T143418Z
+DTSTART:20260822T121107Z
+SUMMARY:NEXVOID vs AE
+UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645135@tournamentics
 END:VEVENT
 END:VCALENDAR
