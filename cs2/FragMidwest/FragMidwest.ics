@@ -12,13 +12,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
 DURATION:PT2H
 DTSTART:20260828T223000Z
-SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 1: TF vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657242@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260828T190000Z
+DTSTART:20260828T210000Z
 SUMMARY:Upper bracket round 1 match 3: NFE vs Lingering Souls
 UID:cs-go-frag-midwest-st-louis-2026-1657238@tournamentics
 END:VEVENT
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
 DURATION:PT2H
-DTSTART:20260828T190000Z
+DTSTART:20260828T214500Z
 SUMMARY:Upper bracket round 1 match 3: Without a Roof vs SOB
 UID:cs-go-frag-midwest-st-louis-2026-1657218@tournamentics
 END:VEVENT
@@ -149,7 +149,7 @@ SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260828T201500Z
 SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
@@ -317,10 +317,10 @@ SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657243@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260828T201500Z
-SUMMARY:Upper bracket round 2 match 1: LAG vs TBD
+SUMMARY:Upper bracket round 2 match 1: LAG vs Lotus 2.0
 UID:cs-go-frag-midwest-st-louis-2026-1657239@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -331,15 +331,15 @@ SUMMARY:Upper bracket round 1 match 8: TBD vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657295@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260828T201500Z
 SUMMARY:Upper bracket round 2 match 2: TBD vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657240@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Team Factor: 0 | Lotus 2.0: 1\nStream: https://www.twitch.tv/iamfusiion
+DTEND:20260828T210204Z
 DTSTART:20260828T194605Z
 SUMMARY:Upper bracket round 1 match 1: TF vs Lotus 2.0
 UID:cs-go-frag-midwest-st-louis-2026-1657236@tournamentics

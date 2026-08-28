@@ -19,12 +19,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
 DURATION:PT2H
 DTSTART:20260829T123000Z
-SUMMARY:Lower bracket quarterfinal 1: TRICKS vs TBD
+SUMMARY:Lower bracket quarterfinal 1: TRICKS vs DNT
 UID:cs-go-kibertochka-2-2026-1656231@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nResult: FORZE Reload: 2 | Donstu Esports: 0\nStream: https://www.twitch.tv/kibertochkaofficial
+DTEND:20260828T205436Z
 DTSTART:20260828T191602Z
 SUMMARY:Upper bracket semifinal 2: FORZE.R vs DNT
 UID:cs-go-kibertochka-2-2026-1656198@tournamentics
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
 DURATION:PT2H
 DTSTART:20260829T150000Z
-SUMMARY:Upper bracket final: ex-RUSTEC vs TBD
+SUMMARY:Upper bracket final: ex-RUSTEC vs FORZE.R
 UID:cs-go-kibertochka-2-2026-1656238@tournamentics
 END:VEVENT
 END:VCALENDAR
