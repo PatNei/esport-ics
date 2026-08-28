@@ -852,7 +852,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
 DTSTART:20260829T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: STA vs TBD
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648249@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5801,7 +5801,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
 DTSTART:20260828T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: G2.A vs TBD
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7331,8 +7331,8 @@ SUMMARY:OLDBOYS PL vs PG
 UID:cs-go-esea-advanced-europe-58-2026-1640375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nResult: STATE: 0 | G2 Ares: 2\nStream: https://www.twitch.tv/connect_en
+DTEND:20260828T133204Z
 DTSTART:20260828T113850Z
 SUMMARY:STA vs G2.A
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648239@tournamentics
