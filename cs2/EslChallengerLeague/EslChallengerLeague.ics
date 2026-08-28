@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260829T010000Z
-SUMMARY:Lower bracket round 3 match 2: ELU vs TBD
+SUMMARY:Lower bracket round 3 match 2: ELU vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650531@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260829T010000Z
-SUMMARY:Lower bracket round 3 match 1: IOWA vs TBD
+SUMMARY:Lower bracket round 3 match 1: IOWA vs EMP
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650530@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -744,8 +744,8 @@ SUMMARY:Upper bracket round 1 match 1: THE vs NAS
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650446@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JTMythic
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: FarmVille: 0 | Zomblers: 2\nStream: https://www.twitch.tv/JTMythic
+DTEND:20260828T031309Z
 DTSTART:20260828T011144Z
 SUMMARY:Lower bracket round 2 match 4: FV vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650529@tournamentics
@@ -758,8 +758,8 @@ SUMMARY:Upper bracket quarterfinal 2: RSTR vs MandL
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sv_theunknown
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: EMPIRE: 2 | New Legends: 1\nStream: https://www.twitch.tv/sv_theunknown
+DTEND:20260828T035934Z
 DTSTART:20260828T010411Z
 SUMMARY:Lower bracket round 2 match 1: EMP vs New Legends
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650526@tournamentics
