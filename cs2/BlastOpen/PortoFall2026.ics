@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260830T113000Z
-SUMMARY:Lower bracket semifinal 2: G2 vs TBD
+SUMMARY:Lower bracket semifinal 2: G2 vs NAVI
 UID:cs-go-blast-open-porto-fall-2026-1640197@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260830T090000Z
-SUMMARY:Lower bracket semifinal 1: AUR vs TBD
+SUMMARY:Lower bracket semifinal 1: TBD vs AUR
 UID:cs-go-blast-open-porto-fall-2026-1640196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -149,8 +149,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | paiN: 0\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260828T162913Z
 DTSTART:20260828T143309Z
 SUMMARY:Lower bracket quarterfinal 2: NAVI vs paiN
 UID:cs-go-blast-open-porto-fall-2026-1640195@tournamentics
@@ -158,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
-DTSTART:20260828T163000Z
+DTSTART:20260828T171000Z
 SUMMARY:Upper bracket semifinal 2: M80 vs FURIA
 UID:cs-go-blast-open-porto-fall-2026-1640192@tournamentics
 END:VEVENT
