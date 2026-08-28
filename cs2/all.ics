@@ -3950,13 +3950,6 @@ SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643651@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260828T183000Z
-SUMMARY:MISA vs WAVE
-UID:cs-go-esea-advanced-europe-58-2026-1652179@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260829T160000Z
@@ -6092,9 +6085,9 @@ SUMMARY:Lower bracket round 2 match 3: NT vs ELU
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650528@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
 DURATION:PT2H
-DTSTART:20260828T190000Z
+DTSTART:20260828T194605Z
 SUMMARY:Upper bracket round 1 match 1: TF vs Lotus 2.0
 UID:cs-go-frag-midwest-st-louis-2026-1657236@tournamentics
 END:VEVENT
@@ -6862,8 +6855,8 @@ SUMMARY:Round 1: Honvéd vs Noir Verse
 UID:cs-go-exort-fiesta-1-2026-1632616@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: UPGRADE: 1 | Black Phoenix: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260828T195041Z
 DTSTART:20260828T170738Z
 SUMMARY:Round 4: UPGRADE vs Black Phoenix
 UID:cs-go-nodwin-clutch-series-11-2026-1633262@tournamentics
