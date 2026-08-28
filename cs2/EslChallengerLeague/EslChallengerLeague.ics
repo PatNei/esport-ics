@@ -355,7 +355,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260829T010000Z
-SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 1: IOWA vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650530@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -457,8 +457,8 @@ SUMMARY:Upper bracket round 1 match 2: VA vs Banzai
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Iowa Stormboar: 2 | Villainous: 0\nStream: https://www.twitch.tv/iamfusiion
+DTEND:20260828T025354Z
 DTSTART:20260828T010426Z
 SUMMARY:Lower bracket round 2 match 2: IOWA vs VIL
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650527@tournamentics
