@@ -326,7 +326,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
 DURATION:PT2H
-DTSTART:20260828T213000Z
+DTSTART:20260828T233000Z
 SUMMARY:Upper bracket round 1 match 1: REGAIN vs Lan Crasher
 UID:cs-go-frag-midwest-st-louis-2026-1657256@tournamentics
 END:VEVENT
@@ -1355,7 +1355,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floofys
 DURATION:PT2H
-DTSTART:20260828T233000Z
+DTSTART:20260828T234500Z
 SUMMARY:Lower bracket round 2 match 2: Lotus 2.0 vs Lingering Souls
 UID:cs-go-frag-midwest-st-louis-2026-1657243@tournamentics
 END:VEVENT
@@ -1465,8 +1465,8 @@ SUMMARY:Upper bracket round 1 match 7: ZOMB vs EMP
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650512@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Kodex Esports: 0 | Without a Roof: 1\nStream: https://www.twitch.tv/fragadelphia
+DTEND:20260828T233132Z
 DTSTART:20260828T222134Z
 SUMMARY:Upper bracket round 2 match 2: Kodex Esports vs Without a Roof
 UID:cs-go-frag-midwest-st-louis-2026-1657220@tournamentics
@@ -2027,7 +2027,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260828T233000Z
+DTSTART:20260828T234500Z
 SUMMARY:Lower bracket round 2 match 1: NFE vs TF
 UID:cs-go-frag-midwest-st-louis-2026-1657242@tournamentics
 END:VEVENT
@@ -3469,7 +3469,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260828T233000Z
+DTSTART:20260828T234500Z
 SUMMARY:Lower bracket round 2 match 2: For Fun v4 vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657229@tournamentics
 END:VEVENT
@@ -4680,7 +4680,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260828T234500Z
+DTSTART:20260829T004500Z
 SUMMARY:Upper bracket round 2 match 2: TBD vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657261@tournamentics
 END:VEVENT
@@ -4806,8 +4806,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260828T233000Z
-SUMMARY:Lower bracket round 2 match 1: Sassy Sunshines vs TBD
+DTSTART:20260828T234500Z
+SUMMARY:Lower bracket round 2 match 1: Kodex Esports vs Sassy Sunshines
 UID:cs-go-frag-midwest-st-louis-2026-1657227@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5303,7 +5303,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260828T234500Z
+DTSTART:20260829T004500Z
 SUMMARY:Upper bracket round 2 match 1: TBD vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657260@tournamentics
 END:VEVENT
@@ -6178,7 +6178,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dollarcastclub
 DURATION:PT2H
-DTSTART:20260828T213000Z
+DTSTART:20260828T233000Z
 SUMMARY:Upper bracket round 1 match 4: ELU vs Redliners
 UID:cs-go-frag-midwest-st-louis-2026-1657259@tournamentics
 END:VEVENT
@@ -6850,7 +6850,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ynotcs2
 DURATION:PT2H
-DTSTART:20260828T213000Z
+DTSTART:20260828T233000Z
 SUMMARY:Upper bracket round 1 match 3: DTN vs BodyBuilderClub
 UID:cs-go-frag-midwest-st-louis-2026-1657258@tournamentics
 END:VEVENT
@@ -7501,7 +7501,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260828T213000Z
+DTSTART:20260828T233000Z
 SUMMARY:Upper bracket round 1 match 2: AURA vs Friendly Fire
 UID:cs-go-frag-midwest-st-louis-2026-1657257@tournamentics
 END:VEVENT
