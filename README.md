@@ -364,6 +364,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/BeijingGlobalOp
 </details>
 
 <details>
+<summary>Kibertochka</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Kibertochka/Kibertochka.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Kibertochka/Kibertochka.ics
+```
+
+---
+
+### Season 2 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Kibertochka/Season22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Kibertochka/Season22026.ics
+```
+
+</details>
+
+<details>
 <summary>Logitech G Play Connect</summary>
 
 ### Full Schedule
