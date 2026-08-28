@@ -215,7 +215,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260830T090000Z
-SUMMARY:Lower bracket semifinal 1: TBD vs AUR
+SUMMARY:Lower bracket semifinal 1: M80 vs AUR
 UID:cs-go-blast-open-porto-fall-2026-1640196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -301,6 +301,13 @@ DTEND:20260820T210317Z
 DTSTART:20260820T171411Z
 SUMMARY:Grand final: OG vs MZP
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639470@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260828T213000Z
+SUMMARY:Upper bracket round 1 match 1: REGAIN vs Lan Crasher
+UID:cs-go-frag-midwest-st-louis-2026-1657256@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Kaleido Gaming: 0 | Just Swing: 2\nStream: https://kick.com/dutchboycasts
@@ -1850,6 +1857,13 @@ SUMMARY:Semifinal 1: OG vs SPARTA
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639468@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260829T024500Z
+SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
+UID:cs-go-frag-midwest-st-louis-2026-1657265@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 2 | TEAM XDM: 0\nStream: https://www.twitch.tv/mgfongabe
 DTEND:20260826T143904Z
 DTSTART:20260826T130538Z
@@ -2091,7 +2105,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260830T163000Z
-SUMMARY:Upper bracket final: TS vs TBD
+SUMMARY:Upper bracket final: TS vs FURIA
 UID:cs-go-blast-open-porto-fall-2026-1640193@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2536,6 +2550,13 @@ SUMMARY:Quarterfinal 4: EAC vs Color
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639467@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260829T024500Z
+SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
+UID:cs-go-frag-midwest-st-louis-2026-1657264@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: NEXVOID: 2 | Alter Ego: 1\nStream: https://kick.com/mominpk
 DTEND:20260826T152635Z
 DTSTART:20260826T130656Z
@@ -2739,9 +2760,9 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-cct-europe-series-8-2026-1651791@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
+DESCRIPTION:🔴 LIVE NOW\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
 DURATION:PT2H
-DTSTART:20260828T183000Z
+DTSTART:20260828T191602Z
 SUMMARY:Upper bracket semifinal 2: FORZE.R vs DNT
 UID:cs-go-kibertochka-2-2026-1656198@tournamentics
 END:VEVENT
@@ -2774,8 +2795,8 @@ SUMMARY:BW vs ESB
 UID:cs-go-esea-advanced-europe-58-2026-1611830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: M80: 0 | FURIA: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260828T191639Z
 DTSTART:20260828T171024Z
 SUMMARY:Upper bracket semifinal 2: M80 vs FURIA
 UID:cs-go-blast-open-porto-fall-2026-1640192@tournamentics
@@ -3178,6 +3199,13 @@ DURATION:PT2H
 DTSTART:20260829T220000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645100@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260829T000000Z
+SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+UID:cs-go-frag-midwest-st-louis-2026-1657263@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Just Swing: 0 | Rare Atom: 2\nStream: No official stream linked
@@ -3838,6 +3866,13 @@ SUMMARY:Upper bracket quarterfinal 1: THE vs VA
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650454@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260829T000000Z
+SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+UID:cs-go-frag-midwest-st-louis-2026-1657262@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260902T140000Z
@@ -4482,6 +4517,13 @@ SUMMARY:LDP vs RAC
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648313@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260828T224500Z
+SUMMARY:Upper bracket round 2 match 2: TBD vs TBD
+UID:cs-go-frag-midwest-st-louis-2026-1657261@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: TEAM XDM: 2 | 5star: 1\nStream: No official stream linked
 DTEND:20260825T153427Z
 DTSTART:20260825T130844Z
@@ -5075,6 +5117,13 @@ DURATION:PT2H
 DTSTART:20260830T110000Z
 SUMMARY:OG vs EF
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648312@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260828T224500Z
+SUMMARY:Upper bracket round 2 match 1: TBD vs TBD
+UID:cs-go-frag-midwest-st-louis-2026-1657260@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 2 | Haunted House: 1\nStream: https://www.twitch.tv/mgfongabe
@@ -5910,6 +5959,13 @@ SUMMARY:FOR vs MTX
 UID:cs-go-esea-advanced-europe-58-2026-1622140@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260828T213000Z
+SUMMARY:Upper bracket round 1 match 4: ELU vs Redliners
+UID:cs-go-frag-midwest-st-louis-2026-1657259@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Donstu Esports: 1 | Banger Gang: 0\nStream: No official stream linked
 DTEND:20260728T192420Z
 DTSTART:20260728T185232Z
@@ -6547,6 +6603,13 @@ SUMMARY:Decider match: ex-ZT vs ex-RUSTEC
 UID:cs-go-nodwin-clutch-series-11-2026-1640217@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260828T213000Z
+SUMMARY:Upper bracket round 1 match 3: DTN vs BodyBuilderClub
+UID:cs-go-frag-midwest-st-louis-2026-1657258@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 1 | Glitchtech Esports: 0\nStream: No official stream linked
 DTEND:20260728T193327Z
 DTSTART:20260728T185656Z
@@ -7168,6 +7231,13 @@ DTEND:20260818T101148Z
 DTSTART:20260818T081403Z
 SUMMARY:Decider match: PERM vs G2.A
 UID:cs-go-nodwin-clutch-series-11-2026-1640216@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260828T213000Z
+SUMMARY:Upper bracket round 1 match 2: AURA vs Friendly Fire
+UID:cs-go-frag-midwest-st-louis-2026-1657257@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: LEGAM: 0 | Rare Atom: 2\nStream: No official stream linked
