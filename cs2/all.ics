@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260828T141500Z
+DTSTART:20260828T143000Z
 SUMMARY:Winners match: ex-ZT vs HAVU
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651276@tournamentics
 END:VEVENT
@@ -5329,9 +5329,9 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640212@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
-DTSTART:20260828T141500Z
+DTSTART:20260828T141356Z
 SUMMARY:Round of 16 match 8: INOX vs LVKD
 UID:cs-go-exort-fiesta-1-2026-1632652@tournamentics
 END:VEVENT
@@ -6430,7 +6430,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
-DTSTART:20260828T141000Z
+DTSTART:20260828T142000Z
 SUMMARY:RE vs 9INE
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648240@tournamentics
 END:VEVENT
@@ -6862,8 +6862,8 @@ SUMMARY:Upper bracket round 1 match 7: DENDELE CS vs EYE
 UID:cs-go-iem-beijing-global-qualifier-2026-1643635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | ALKA GAMING: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260828T141714Z
 DTSTART:20260828T130329Z
 SUMMARY:Round 2: ODK vs ALKA
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645093@tournamentics
