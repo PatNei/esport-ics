@@ -751,7 +751,7 @@ SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-11-2026-1633294@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260828T201500Z
 SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
@@ -1283,18 +1283,25 @@ SUMMARY:Lower bracket semifinal: Noir Verse vs BW
 UID:cs-go-cct-europe-challengers-series-5-2026-1634750@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260901T010000Z
-SUMMARY:Lower bracket final: TBD vs TBD
-UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650535@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nResult: MARKandLARRY: 2 | Orgless: 0\nStream: No official stream linked
 DTEND:20260828T104448Z
 DTSTART:20260828T090642Z
 SUMMARY:Lower bracket round 1 match 1: MandL vs Orgless
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650135@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260828T223000Z
+SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
+UID:cs-go-frag-midwest-st-louis-2026-1657243@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260901T010000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650535@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Team Falcons: 1 | K27: 0\nStream: https://www.twitch.tv/EWC_plus_en
@@ -1395,7 +1402,7 @@ SUMMARY:Upper bracket round 1 match 7: ZOMB vs EMP
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650512@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260828T201500Z
 SUMMARY:Upper bracket round 2 match 2: TBD vs TBD
@@ -1920,6 +1927,13 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260828T223000Z
+SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
+UID:cs-go-frag-midwest-st-louis-2026-1657242@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: JiJieHao: 0 | Aurora Gaming: 2\nStream: https://www.twitch.tv/EWC_Plus_EN2
 DTEND:20260815T183302Z
 DTSTART:20260815T165002Z
@@ -2347,7 +2361,7 @@ SUMMARY:Upper bracket round 1 match 5: Honvéd vs mellren
 UID:cs-go-cct-europe-challengers-series-5-2026-1634726@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260828T201500Z
 SUMMARY:Upper bracket round 2 match 1: SportsBetExpert vs TBD
@@ -2590,6 +2604,13 @@ DURATION:PT2H
 DTSTART:20260830T010000Z
 SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650533@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260828T201500Z
+SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+UID:cs-go-frag-midwest-st-louis-2026-1657241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -3243,18 +3264,25 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645099@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260830T010000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
-UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650532@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Rooster: 0 | Ground Zero: 2\nStream: https://www.twitch.tv/ngsabyts
 DTEND:20260828T111749Z
 DTSTART:20260828T090658Z
 SUMMARY:Upper bracket semifinal 2: RSTR vs GZ
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650132@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260828T201500Z
+SUMMARY:Upper bracket round 2 match 2: TBD vs TBD
+UID:cs-go-frag-midwest-st-louis-2026-1657240@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260830T010000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650532@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esports World Cup - 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | M80: 0\nStream: https://www.twitch.tv/EWC_plus_en
@@ -4195,9 +4223,16 @@ SUMMARY:Lower bracket round 3 match 1: ex-Sashi Academy vs Noir Verse
 UID:cs-go-cct-europe-challengers-series-5-2026-1634746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
 DURATION:PT2H
-DTSTART:20260828T183000Z
+DTSTART:20260828T201500Z
+SUMMARY:Upper bracket round 2 match 1: Life A Game vs TBD
+UID:cs-go-frag-midwest-st-louis-2026-1657239@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260828T184447Z
 SUMMARY:Winners match: PERM vs Mai Tai
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651281@tournamentics
 END:VEVENT
@@ -4776,6 +4811,13 @@ SUMMARY:Lower bracket round 2 match 4: SAW.Y vs ex-MANA
 UID:cs-go-cct-europe-challengers-series-5-2026-1634745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260828T190000Z
+SUMMARY:Upper bracket round 1 match 3: NFE vs Lingering Souls
+UID:cs-go-frag-midwest-st-louis-2026-1657238@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nResult: Mai Tai: 2 | ex-MANA eSports: 0\nStream: https://kick.com/cct_cs2
 DTEND:20260827T185921Z
 DTSTART:20260827T171117Z
@@ -5320,6 +5362,13 @@ DTEND:20260828T031309Z
 DTSTART:20260828T011144Z
 SUMMARY:Lower bracket round 2 match 4: FV vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650529@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260828T190000Z
+SUMMARY:Upper bracket round 1 match 2: Unreal Nightmare  vs YIPPIEEEEEE
+UID:cs-go-frag-midwest-st-louis-2026-1657237@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Rooster: 2 | MARKandLARRY: 0\nStream: https://www.twitch.tv/reservewolf
@@ -5931,6 +5980,13 @@ SUMMARY:Lower bracket round 2 match 3: NT vs ELU
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650528@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
+DURATION:PT2H
+DTSTART:20260828T190000Z
+SUMMARY:Upper bracket round 1 match 1: TF vs Lotus 2.0
+UID:cs-go-frag-midwest-st-louis-2026-1657236@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Arcade Esports: 1 | Mindfreak: 2\nStream: https://www.twitch.tv/ngsabyts
 DTEND:20260826T115848Z
 DTSTART:20260826T092108Z
@@ -5938,18 +5994,18 @@ SUMMARY:Upper bracket quarterfinal 1: ARC vs MF
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650128@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: K27: 2 | Rune Eaters: 0\nStream: https://www.twitch.tv/gluck_esports
-DTEND:20260823T135941Z
-DTSTART:20260823T121859Z
-SUMMARY:Round 1: K27 vs RE
-UID:cs-go-moscow-cyber-games-european-qualifier-2026-1643105@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: OldBoys: 0 | KUUSAMO.gg: 1\nStream: https://www.twitch.tv/kuusamogg
 DTEND:20260811T163609Z
 DTSTART:20260811T154627Z
 SUMMARY:OBOYS vs KSM
 UID:cs-go-esea-advanced-europe-58-2026-1630173@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: K27: 2 | Rune Eaters: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260823T135941Z
+DTSTART:20260823T121859Z
+SUMMARY:Round 1: K27 vs RE
+UID:cs-go-moscow-cyber-games-european-qualifier-2026-1643105@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: The Last Resort: 0 | Honvéd: 2\nStream: https://kick.com/nodwin_cs2
