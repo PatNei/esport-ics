@@ -5609,9 +5609,9 @@ SUMMARY:Lower bracket round 2 match 4: FV vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floofys
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floofys
 DURATION:PT2H
-DTSTART:20260828T190000Z
+DTSTART:20260828T200711Z
 SUMMARY:Upper bracket round 1 match 2: Unreal Nightmare  vs YIPPIEEEEEE
 UID:cs-go-frag-midwest-st-louis-2026-1657237@tournamentics
 END:VEVENT
@@ -6148,8 +6148,8 @@ SUMMARY:BG vs NoTime
 UID:cs-go-esea-advanced-europe-58-2026-1654128@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | Rune Eaters: 2\nStream: https://www.twitch.tv/connect_en
+DTEND:20260828T200323Z
 DTSTART:20260828T170557Z
 SUMMARY:Winners match: G2.A vs RE
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648241@tournamentics
@@ -7754,7 +7754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
 DTSTART:20260829T170000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: G2.A vs TBD
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648250@tournamentics
 END:VEVENT
 BEGIN:VEVENT
