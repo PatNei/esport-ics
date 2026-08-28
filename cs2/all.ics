@@ -788,7 +788,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260828T201500Z
+DTSTART:20260828T213000Z
 SUMMARY:Lower bracket round 1 match 1: 30yo talents vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657221@tournamentics
 END:VEVENT
@@ -1467,7 +1467,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260828T201500Z
+DTSTART:20260828T213000Z
 SUMMARY:Upper bracket round 2 match 2: Kodex Esports vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657220@tournamentics
 END:VEVENT
@@ -2487,7 +2487,7 @@ SUMMARY:Upper bracket round 1 match 5: Honvéd vs mellren
 UID:cs-go-cct-europe-challengers-series-5-2026-1634726@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ynotcs2
 DURATION:PT2H
 DTSTART:20260828T213000Z
 SUMMARY:Upper bracket round 2 match 1: SportsBetExpert vs For Fun v4
@@ -2741,8 +2741,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260828T201500Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+DTSTART:20260828T213000Z
+SUMMARY:Lower bracket round 1 match 1: YIPPIEEEEEE vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3434,8 +3434,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260828T201500Z
-SUMMARY:Upper bracket round 2 match 2: TBD vs TBD
+DTSTART:20260828T213000Z
+SUMMARY:Upper bracket round 2 match 2: Unreal Nightmare  vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657240@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5035,7 +5035,7 @@ SUMMARY:Lower bracket round 2 match 4: SAW.Y vs ex-MANA
 UID:cs-go-cct-europe-challengers-series-5-2026-1634745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dollarcastclub
 DURATION:PT2H
 DTSTART:20260828T210447Z
 SUMMARY:Upper bracket round 1 match 3: NFE vs Lingering Souls
@@ -5609,8 +5609,8 @@ SUMMARY:Lower bracket round 2 match 4: FV vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floofys
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Unreal Nightmare : 1 | YIPPIEEEEEE: 0\nStream: https://www.twitch.tv/floofys
+DTEND:20260828T211515Z
 DTSTART:20260828T200711Z
 SUMMARY:Upper bracket round 1 match 2: Unreal Nightmare  vs YIPPIEEEEEE
 UID:cs-go-frag-midwest-st-louis-2026-1657237@tournamentics
@@ -7821,9 +7821,9 @@ SUMMARY:Round 2: HOTU vs Black Phoenix
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648073@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ten_caster
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ten_caster
 DURATION:PT2H
-DTSTART:20260828T210000Z
+DTSTART:20260828T211708Z
 SUMMARY:Lower bracket round 3 match 1: ODK vs ex-MIBR Academy
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650500@tournamentics
 END:VEVENT
