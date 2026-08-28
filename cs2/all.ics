@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
 DURATION:PT2H
-DTSTART:20260828T123000Z
+DTSTART:20260828T130000Z
 SUMMARY:Lower bracket round 1 match 2: TS.A vs WING
 UID:cs-go-kibertochka-2-2026-1656203@tournamentics
 END:VEVENT
@@ -1955,8 +1955,8 @@ SUMMARY:Lower bracket quarterfinal 1: VIT vs 9z
 UID:cs-go-blast-open-porto-fall-2026-1640206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nResult: Team Tricksters: 2 | VP.Future: 1\nStream: https://www.twitch.tv/kibertochkaofficial
+DTEND:20260828T124247Z
 DTSTART:20260828T103902Z
 SUMMARY:Lower bracket round 1 match 1: TRICKS vs VP.F
 UID:cs-go-kibertochka-2-2026-1656200@tournamentics
@@ -3561,7 +3561,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260829T110000Z
-SUMMARY:Quarterfinal 2: EJ vs TBD
+SUMMARY:Quarterfinal 2: EJ vs BW
 UID:cs-go-exort-fiesta-1-2026-1632655@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4121,7 +4121,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
 DURATION:PT2H
 DTSTART:20260829T123000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: TRICKS vs TBD
 UID:cs-go-kibertochka-2-2026-1656231@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5945,8 +5945,8 @@ SUMMARY:YL vs FF
 UID:cs-go-esea-advanced-europe-58-2026-1586806@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: Metizport: 0 | Bushido Wildcats: 2\nStream: https://kick.com/fiesta_cs
+DTEND:20260828T124919Z
 DTSTART:20260828T110520Z
 SUMMARY:Round of 16 match 3: MZP vs BW
 UID:cs-go-exort-fiesta-1-2026-1632651@tournamentics
