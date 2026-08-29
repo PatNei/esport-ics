@@ -74,8 +74,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260829T182000Z
-SUMMARY:Lower bracket round 2 match 2: penazoid vs TBD
+DTSTART:20260829T183000Z
+SUMMARY:Lower bracket round 2 match 2: penazoid vs makeSHIFT
 UID:cs-go-frag-midwest-st-louis-2026-1657281@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -219,15 +219,15 @@ SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657308@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dollarcastclub
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: makeSHIFT: 2 | UltimateDarklordWizardz: 0\nStream: https://www.twitch.tv/dollarcastclub
+DTEND:20260829T181807Z
 DTSTART:20260829T160007Z
 SUMMARY:Lower bracket round 1 match 2: makeSHIFT vs UltimateDarklordWizardz
 UID:cs-go-frag-midwest-st-louis-2026-1657279@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Wanted Goons: 2 | Village: 0\nStream: https://www.twitch.tv/fragadelphia
+DTEND:20260829T182333Z
 DTSTART:20260829T174007Z
 SUMMARY:Lower bracket round 2 match 1: WG vs Village
 UID:cs-go-frag-midwest-st-louis-2026-1657280@tournamentics
@@ -268,8 +268,8 @@ SUMMARY:Upper bracket round 1 match 2: Kodex Esports vs 30yo talents
 UID:cs-go-frag-midwest-st-louis-2026-1657217@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: BodyBuilderClub: 1 | Redliners: 2\nStream: No official stream linked
+DTEND:20260829T182159Z
 DTSTART:20260829T152939Z
 SUMMARY:Lower bracket round 1 match 2: BodyBuilderClub vs Redliners
 UID:cs-go-frag-midwest-st-louis-2026-1657263@tournamentics
@@ -438,8 +438,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bonamant
 DURATION:PT2H
-DTSTART:20260829T182000Z
-SUMMARY:Lower bracket round 2 match 2: AURA vs TBD
+DTSTART:20260829T183000Z
+SUMMARY:Lower bracket round 2 match 2: AURA vs Redliners
 UID:cs-go-frag-midwest-st-louis-2026-1657265@tournamentics
 END:VEVENT
 BEGIN:VEVENT
