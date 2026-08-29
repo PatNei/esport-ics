@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
 DURATION:PT2H
 DTSTART:20260829T233000Z
 SUMMARY:Upper bracket quarterfinal 2: NT vs WG
@@ -93,7 +93,7 @@ SUMMARY:Upper bracket round 1 match 3: Without a Roof vs SOB
 UID:cs-go-frag-midwest-st-louis-2026-1657218@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floofys
 DURATION:PT2H
 DTSTART:20260829T233000Z
 SUMMARY:Lower bracket round 1 match 4: ELU vs NFE
@@ -142,9 +142,9 @@ SUMMARY:Upper bracket quarterfinal 4: REGAIN vs DTN
 UID:cs-go-frag-midwest-st-louis-2026-1657299@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
 DURATION:PT2H
-DTSTART:20260829T233000Z
+DTSTART:20260829T231334Z
 SUMMARY:Upper bracket quarterfinal 1: SportsBetExpert vs Without a Roof
 UID:cs-go-frag-midwest-st-louis-2026-1657296@tournamentics
 END:VEVENT
