@@ -803,7 +803,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260830T140000Z
-SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+SUMMARY:Lower bracket semifinal 1: VIT vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2200,8 +2200,8 @@ SUMMARY:Upper bracket round 1 match 3: MGC vs K27
 UID:cs-go-iem-beijing-global-qualifier-2026-1643631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: Vitality: 2 | 9z: 0\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260829T103120Z
 DTSTART:20260829T090308Z
 SUMMARY:Lower bracket quarterfinal 1: VIT vs 9z
 UID:cs-go-blast-open-porto-fall-2026-1640206@tournamentics
@@ -3444,13 +3444,6 @@ DTEND:20260729T184316Z
 DTSTART:20260729T181147Z
 SUMMARY:NEXORA vs FAST LAYNERS
 UID:cs-go-esea-advanced-europe-58-2026-1610254@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260829T110000Z
-SUMMARY:Round 5: ex-RUBY vs BTF
-UID:cs-go-nodwin-clutch-series-11-2026-1633268@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | Black Phoenix: 0\nStream: https://kick.com/cct_cs
