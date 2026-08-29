@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260830T163000Z
-SUMMARY:Lower bracket semifinal 2: ICE vs TBD
+SUMMARY:Lower bracket semifinal 2: ICE vs FUT
 UID:cs-go-blast-open-porto-fall-2026-1640209@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -184,8 +184,8 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640211@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | Lynn Vision: 1\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260829T160847Z
 DTSTART:20260829T133222Z
 SUMMARY:Lower bracket quarterfinal 2: FUT vs LVG
 UID:cs-go-blast-open-porto-fall-2026-1640207@tournamentics
