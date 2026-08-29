@@ -326,7 +326,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dollarcastclub
 DURATION:PT2H
-DTSTART:20260828T233000Z
+DTSTART:20260829T003000Z
 SUMMARY:Upper bracket round 1 match 1: REGAIN vs Lan Crasher
 UID:cs-go-frag-midwest-st-louis-2026-1657256@tournamentics
 END:VEVENT
@@ -2025,9 +2025,9 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dollarcastclub
 DURATION:PT2H
-DTSTART:20260828T234500Z
+DTSTART:20260828T235500Z
 SUMMARY:Lower bracket round 2 match 1: NFE vs TF
 UID:cs-go-frag-midwest-st-louis-2026-1657242@tournamentics
 END:VEVENT
@@ -4806,7 +4806,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260828T234500Z
+DTSTART:20260829T000000Z
 SUMMARY:Lower bracket round 2 match 1: Kodex Esports vs Sassy Sunshines
 UID:cs-go-frag-midwest-st-louis-2026-1657227@tournamentics
 END:VEVENT
@@ -6178,7 +6178,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dollarcastclub
 DURATION:PT2H
-DTSTART:20260828T233000Z
+DTSTART:20260829T003000Z
 SUMMARY:Upper bracket round 1 match 4: ELU vs Redliners
 UID:cs-go-frag-midwest-st-louis-2026-1657259@tournamentics
 END:VEVENT
@@ -6529,7 +6529,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260829T210000Z
-SUMMARY:Lower bracket quarterfinal 1: FXW7 vs TBD
+SUMMARY:Lower bracket quarterfinal 1: FXW7 vs ex-MIBR Academy
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650502@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6850,7 +6850,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ynotcs2
 DURATION:PT2H
-DTSTART:20260828T233000Z
+DTSTART:20260829T003000Z
 SUMMARY:Upper bracket round 1 match 3: DTN vs BodyBuilderClub
 UID:cs-go-frag-midwest-st-louis-2026-1657258@tournamentics
 END:VEVENT
@@ -7501,7 +7501,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
 DURATION:PT2H
-DTSTART:20260828T233000Z
+DTSTART:20260829T003000Z
 SUMMARY:Upper bracket round 1 match 2: AURA vs Friendly Fire
 UID:cs-go-frag-midwest-st-louis-2026-1657257@tournamentics
 END:VEVENT
@@ -7821,8 +7821,8 @@ SUMMARY:Round 2: HOTU vs Black Phoenix
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648073@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ten_caster
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: ODDIK: 1 | ex-MIBR Academy: 2\nStream: https://www.twitch.tv/ten_caster
+DTEND:20260828T235546Z
 DTSTART:20260828T211708Z
 SUMMARY:Lower bracket round 3 match 1: ODK vs ex-MIBR Academy
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650500@tournamentics
