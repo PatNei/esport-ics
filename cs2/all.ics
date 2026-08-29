@@ -600,7 +600,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
 DTSTART:20260829T140000Z
-SUMMARY:Decider match: BMB vs TBD
+SUMMARY:Decider match: BMB vs EAC
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648238@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1083,7 +1083,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260830T140000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: ex-RUSTEC vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651286@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1304,8 +1304,8 @@ SUMMARY:XI vs LPH
 UID:cs-go-esea-advanced-europe-58-2026-1599207@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nResult: Lavked: 1 | Esport Academy Copenhagen: 2\nStream: https://www.twitch.tv/connect_en
+DTEND:20260829T110635Z
 DTSTART:20260829T080942Z
 SUMMARY:Elimination match: LVKD vs EAC
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648237@tournamentics
@@ -2564,8 +2564,8 @@ SUMMARY:NXS vs BW
 UID:cs-go-nodwin-clutch-series-11-2026-1630930@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nResult: ex-RUSTEC: 2 | Entropy: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260829T110820Z
 DTSTART:20260829T081006Z
 SUMMARY:ex-RUSTEC vs Entropy
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651284@tournamentics
@@ -4349,9 +4349,9 @@ SUMMARY:Upper bracket semifinal 2: mellren vs BW
 UID:cs-go-cct-europe-challengers-series-5-2026-1634735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260829T111500Z
+DTSTART:20260829T111400Z
 SUMMARY:Lower bracket round 1 match 2: FaZe UN vs PHTM.Ac
 UID:cs-go-united21-54-2026-1654200@tournamentics
 END:VEVENT
@@ -4384,9 +4384,9 @@ SUMMARY:Lower bracket quarterfinal 2: WC vs paiN
 UID:cs-go-esports-world-cup-2026-1624326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
-DTSTART:20260829T111000Z
+DTSTART:20260829T111245Z
 SUMMARY:Upper bracket semifinal 1: ICE vs MOUZ
 UID:cs-go-blast-open-porto-fall-2026-1640203@tournamentics
 END:VEVENT
@@ -4729,7 +4729,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
-DTSTART:20260829T110000Z
+DTSTART:20260829T111500Z
 SUMMARY:Quarterfinal 1: NPG vs WAL
 UID:cs-go-exort-fiesta-1-2026-1632654@tournamentics
 END:VEVENT
@@ -5800,7 +5800,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260829T110000Z
+DTSTART:20260829T112000Z
 SUMMARY:Quarterfinal 2: ex-RUSTEC vs INOX
 UID:cs-go-cct-europe-series-7-2026-1630720@tournamentics
 END:VEVENT
@@ -7971,7 +7971,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260830T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Entropy vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651288@tournamentics
 END:VEVENT
 BEGIN:VEVENT
