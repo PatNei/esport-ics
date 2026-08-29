@@ -117,12 +117,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
 DURATION:PT2H
 DTSTART:20260829T044500Z
-SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 1: ELU vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657264@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Detonate: 1 | Elusive: 0\nStream: https://www.twitch.tv/fragadelphia
+DTEND:20260829T025559Z
 DTSTART:20260829T022217Z
 SUMMARY:Upper bracket round 2 match 2: DTN vs ELU
 UID:cs-go-frag-midwest-st-louis-2026-1657261@tournamentics
@@ -366,7 +366,7 @@ SUMMARY:Upper bracket round 1 match 1: TBD vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657288@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bonamant
 DURATION:PT2H
 DTSTART:20260829T030000Z
 SUMMARY:Lower bracket round 2 match 2: For Fun v4 vs 30yo talents
