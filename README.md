@@ -291,6 +291,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/E
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/RegularSeason62026.ics
 ```
 
+### Series 10 Play-In 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series10PlayIn2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series10PlayIn2026.ics
+```
+
 </details>
 
 <details>
@@ -373,6 +380,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Iem.ics
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/BeijingAsianOpenQualifier2026.ics
+```
+
+### Beijing: Asian Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/BeijingAsianQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/BeijingAsianQualifier2026.ics
 ```
 
 ### Beijing: Global Open Qualifier 2026
