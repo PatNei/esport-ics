@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260829T233000Z
-SUMMARY:Lower bracket round 1 match 4: ELU vs TBD
+SUMMARY:Lower bracket round 1 match 4: ELU vs NFE
 UID:cs-go-frag-midwest-st-louis-2026-1657303@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1573,7 +1573,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260829T233000Z
-SUMMARY:Lower bracket round 1 match 2: Kodex Esports vs TBD
+SUMMARY:Lower bracket round 1 match 2: Lotus 2.0 vs Kodex Esports
 UID:cs-go-frag-midwest-st-louis-2026-1657301@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1976,8 +1976,8 @@ SUMMARY:Upper bracket quarterfinal 4: PHTM.Ac vs QUB
 UID:cs-go-united21-54-2026-1653642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: NuTorious: 1 | Lotus 2.0: 0\nStream: https://www.twitch.tv/fragadelphia
+DTEND:20260829T230900Z
 DTSTART:20260829T215258Z
 SUMMARY:Upper bracket round 1 match 1: NT vs Lotus 2.0
 UID:cs-go-frag-midwest-st-louis-2026-1657288@tournamentics
@@ -2270,9 +2270,9 @@ SUMMARY:Decider match: ??? vs CHAMA
 UID:cs-go-gamers-club-liga-serie-a-august-2026-1647517@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260829T233000Z
+DTSTART:20260829T231155Z
 SUMMARY:Lower bracket round 1 match 1: Redliners vs Skyline
 UID:cs-go-frag-midwest-st-louis-2026-1657300@tournamentics
 END:VEVENT
@@ -2329,7 +2329,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260829T233000Z
-SUMMARY:Upper bracket quarterfinal 4: REGAIN vs TBD
+SUMMARY:Upper bracket quarterfinal 4: REGAIN vs DTN
 UID:cs-go-frag-midwest-st-louis-2026-1657299@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3813,7 +3813,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260829T233000Z
-SUMMARY:Upper bracket quarterfinal 2: WG vs TBD
+SUMMARY:Upper bracket quarterfinal 2: NT vs WG
 UID:cs-go-frag-midwest-st-louis-2026-1657297@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5210,8 +5210,8 @@ SUMMARY:LFO UK vs RGG
 UID:cs-go-esea-advanced-europe-58-2026-1650630@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ynotcs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Detonate: 1 | NineFly Esports: 0\nStream: https://www.twitch.tv/ynotcs2
+DTEND:20260829T230325Z
 DTSTART:20260829T220253Z
 SUMMARY:Upper bracket round 1 match 8: DTN vs NFE
 UID:cs-go-frag-midwest-st-louis-2026-1657295@tournamentics
