@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bowser0
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bowser0
 DURATION:PT2H
-DTSTART:20260829T091500Z
+DTSTART:20260829T093446Z
 SUMMARY:Lower bracket quarterfinal 2: RSTR vs MandL
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650137@tournamentics
 END:VEVENT
@@ -1839,7 +1839,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260830T110000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: BW vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4034,8 +4034,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640215@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: Endless Journey: 0 | Bushido Wildcats: 2\nStream: https://kick.com/fiesta_cs
+DTEND:20260829T093519Z
 DTSTART:20260829T080613Z
 SUMMARY:Quarterfinal 2: EJ vs BW
 UID:cs-go-exort-fiesta-1-2026-1632655@tournamentics

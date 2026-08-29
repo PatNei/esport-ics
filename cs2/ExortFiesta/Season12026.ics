@@ -110,12 +110,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260830T110000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: BW vs TBD
 UID:cs-go-exort-fiesta-1-2026-1632658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: Endless Journey: 0 | Bushido Wildcats: 2\nStream: https://kick.com/fiesta_cs
+DTEND:20260829T093519Z
 DTSTART:20260829T080613Z
 SUMMARY:Quarterfinal 2: EJ vs BW
 UID:cs-go-exort-fiesta-1-2026-1632655@tournamentics
