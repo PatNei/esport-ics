@@ -284,8 +284,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260829T151500Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+DTSTART:20260829T160000Z
+SUMMARY:Lower bracket round 1 match 2: makeSHIFT vs UltimateDarklordWizardz
 UID:cs-go-frag-midwest-st-louis-2026-1657279@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -973,13 +973,6 @@ DTEND:20260721T191903Z
 DTSTART:20260721T184335Z
 SUMMARY:B8.A vs GBC
 UID:cs-go-esea-advanced-europe-58-2026-1597636@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260829T154500Z
-SUMMARY:Lower bracket round 1 match 1: Village vs TenToesDown
-UID:cs-go-frag-midwest-st-louis-2026-1657278@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
@@ -1684,8 +1677,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260829T154500Z
-SUMMARY:Upper bracket round 2 match 2: TBD vs TBD
+DTSTART:20260829T160000Z
+SUMMARY:Upper bracket round 2 match 2: WG vs Skyline
 UID:cs-go-frag-midwest-st-louis-2026-1657277@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3152,8 +3145,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645112@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dollarcastclub
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Skyline: 1 | UltimateDarklordWizardz: 0\nStream: https://www.twitch.tv/dollarcastclub
+DTEND:20260829T154936Z
 DTSTART:20260829T143259Z
 SUMMARY:Upper bracket round 1 match 4: Skyline vs UltimateDarklordWizardz
 UID:cs-go-frag-midwest-st-louis-2026-1657275@tournamentics
@@ -3852,8 +3845,8 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ynotcs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Wanted Goons: 1 | makeSHIFT: 0\nStream: https://www.twitch.tv/ynotcs2
+DTEND:20260829T154250Z
 DTSTART:20260829T143301Z
 SUMMARY:Upper bracket round 1 match 3: WG vs makeSHIFT
 UID:cs-go-frag-midwest-st-louis-2026-1657274@tournamentics
@@ -4314,7 +4307,7 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658137@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_cs_ru5
 DURATION:PT2H
 DTSTART:20260829T160000Z
 SUMMARY:Round 3: MEIA NOITE vs BK
@@ -5679,7 +5672,7 @@ SUMMARY:NoTime vs VP.P
 UID:cs-go-esea-advanced-europe-58-2026-1652177@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/ESLCS
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260831T130000Z
 SUMMARY:Decider match: TBD vs TBD
@@ -7530,7 +7523,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260829T173000Z
-SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 1: Village vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
