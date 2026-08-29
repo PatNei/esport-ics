@@ -149,6 +149,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup4Season522026.ics
 ```
 
+### Europe Cup #5 season 52 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup5Season522026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup5Season522026.ics
+```
+
 ### North America Cup #1 season 52 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/NorthAmericaCup1Season522026.ics)
 
@@ -187,6 +194,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/BeijingGlobalQu
 </details>
 
 ## D Tier
+
+<details>
+<summary>BRO CYBER LEAGUE</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BroCyberLeague/BroCyberLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BroCyberLeague/BroCyberLeague.ics
+```
+
+---
+
+### PRO Division season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BroCyberLeague/ProDivisionSeason12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BroCyberLeague/ProDivisionSeason12026.ics
+```
+
+</details>
 
 <details>
 <summary>CCT Europe</summary>
