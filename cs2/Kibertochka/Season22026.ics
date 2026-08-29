@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
 DURATION:PT2H
 DTSTART:20260830T120000Z
-SUMMARY:Lower bracket final: ex-RUSTEC vs TBD
+SUMMARY:Lower bracket final: ex-RUSTEC vs TS.A
 UID:cs-go-kibertochka-2-2026-1656239@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -51,8 +51,8 @@ SUMMARY:Grand final: FORZE.R vs TBD
 UID:cs-go-kibertochka-2-2026-1656240@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nResult: Spirit Academy: 2 | Donstu Esports: 0\nStream: https://www.twitch.tv/kibertochkaofficial
+DTEND:20260829T204829Z
 DTSTART:20260829T184811Z
 SUMMARY:Lower bracket semifinal: TS.A vs DNT
 UID:cs-go-kibertochka-2-2026-1656233@tournamentics
