@@ -495,7 +495,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260830T130000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: ex-ZT vs TBD
 UID:cs-go-cct-europe-series-7-2026-1630724@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -506,8 +506,8 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-cct-europe-series-8-2026-1651791@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nResult: Sinners: 0 | ex-Zero Tenacity: 2\nStream: https://kick.com/cct_cs
+DTEND:20260829T095807Z
 DTSTART:20260829T080742Z
 SUMMARY:Quarterfinal 3: SIN vs ex-ZT
 UID:cs-go-cct-europe-series-7-2026-1630721@tournamentics

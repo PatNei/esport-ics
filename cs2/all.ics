@@ -3050,7 +3050,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260830T130000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: ex-ZT vs TBD
 UID:cs-go-cct-europe-series-7-2026-1630724@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4153,8 +4153,8 @@ SUMMARY:B8.A vs Spirit Academy Green
 UID:cs-go-esea-advanced-europe-58-2026-1610253@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: UPGRADE: 2 | HyperSpirit: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260829T095819Z
 DTSTART:20260829T080338Z
 SUMMARY:Round 5: UPGRADE vs HS
 UID:cs-go-nodwin-clutch-series-11-2026-1633267@tournamentics
@@ -5168,8 +5168,8 @@ SUMMARY:YL vs BG
 UID:cs-go-esea-advanced-europe-58-2026-1611839@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nResult: Sinners: 0 | ex-Zero Tenacity: 2\nStream: https://kick.com/cct_cs
+DTEND:20260829T095807Z
 DTSTART:20260829T080742Z
 SUMMARY:Quarterfinal 3: SIN vs ex-ZT
 UID:cs-go-cct-europe-series-7-2026-1630721@tournamentics
