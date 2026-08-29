@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floppyacs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 1 | Just Swing: 2\nStream: https://www.twitch.tv/floppyacs
+DTEND:20260829T151942Z
 DTSTART:20260829T130540Z
 SUMMARY:Lower bracket quarterfinal 2: CW vs JS
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650473@tournamentics
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T130000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: JS vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650474@tournamentics
 END:VEVENT
 BEGIN:VEVENT
