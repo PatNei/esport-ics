@@ -1104,7 +1104,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260830T140000Z
-SUMMARY:Semifinal 2: ex-ZT vs TBD
+SUMMARY:Semifinal 2: ex-ZT vs INOX
 UID:cs-go-exort-fiesta-1-2026-1632659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2599,8 +2599,8 @@ SUMMARY:Round 1: PCIFIC vs JustP
 UID:cs-go-cct-europe-series-7-2026-1630678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: Sashi Esport: 1 | INOX Division: 2\nStream: https://kick.com/fiesta_cs
+DTEND:20260829T201136Z
 DTSTART:20260829T170908Z
 SUMMARY:Quarterfinal 4: SASHI vs INOX
 UID:cs-go-exort-fiesta-1-2026-1632657@tournamentics
@@ -3649,8 +3649,8 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658138@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 2 | Zetta Games: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260829T200852Z
 DTSTART:20260829T190456Z
 SUMMARY:Round 3: PCY vs Zetta Games
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645099@tournamentics
@@ -6883,8 +6883,8 @@ SUMMARY:KSM vs WAVE
 UID:cs-go-esea-advanced-europe-58-2026-1640377@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dollarcastclub
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: penazoid: 0 | makeSHIFT: 2\nStream: https://www.twitch.tv/dollarcastclub
+DTEND:20260829T200755Z
 DTSTART:20260829T182929Z
 SUMMARY:Lower bracket round 2 match 2: penazoid vs makeSHIFT
 UID:cs-go-frag-midwest-st-louis-2026-1657281@tournamentics
