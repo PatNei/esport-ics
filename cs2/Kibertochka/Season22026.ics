@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nResult: Spirit Academy: 2 | Just Players: 1\nStream: https://www.twitch.tv/kibertochkaofficial
+DTEND:20260829T125245Z
 DTSTART:20260829T100635Z
 SUMMARY:Lower bracket quarterfinal 2: TS.A vs JustP
 UID:cs-go-kibertochka-2-2026-1656232@tournamentics
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
 DURATION:PT2H
 DTSTART:20260829T173000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: TS.A vs TBD
 UID:cs-go-kibertochka-2-2026-1656233@tournamentics
 END:VEVENT
 BEGIN:VEVENT

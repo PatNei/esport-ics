@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bowser0
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Rooster: 2 | MARKandLARRY: 1\nStream: https://www.twitch.tv/bowser0
+DTEND:20260829T125224Z
 DTSTART:20260829T093446Z
 SUMMARY:Lower bracket quarterfinal 2: RSTR vs MandL
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650137@tournamentics
@@ -705,7 +705,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T090000Z
-SUMMARY:Lower bracket semifinal: ARC vs TBD
+SUMMARY:Lower bracket semifinal: ARC vs RSTR
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650138@tournamentics
 END:VEVENT
 BEGIN:VEVENT

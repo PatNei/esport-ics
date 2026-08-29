@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260830T163000Z
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: ICE vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640209@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Lower bracket quarterfinal 1: VIT vs 9z
 UID:cs-go-blast-open-porto-fall-2026-1640206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 0 | MOUZ: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260829T124944Z
 DTSTART:20260829T111245Z
 SUMMARY:Upper bracket semifinal 1: ICE vs MOUZ
 UID:cs-go-blast-open-porto-fall-2026-1640203@tournamentics
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260831T140000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: MOUZ vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640205@tournamentics
 END:VEVENT
 BEGIN:VEVENT

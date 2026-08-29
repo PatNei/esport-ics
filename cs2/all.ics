@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bowser0
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Rooster: 2 | MARKandLARRY: 1\nStream: https://www.twitch.tv/bowser0
+DTEND:20260829T125224Z
 DTSTART:20260829T093446Z
 SUMMARY:Lower bracket quarterfinal 2: RSTR vs MandL
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650137@tournamentics
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260830T163000Z
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: ICE vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640209@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -516,7 +516,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: SAW.Y vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651403@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1955,13 +1955,6 @@ SUMMARY:THE vs RA
 UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260829T140000Z
-SUMMARY:Atreides vs SAW.Y
-UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651401@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | Spirit Academy: 0\nStream: https://www.twitch.tv/fyflo
 DTEND:20260824T170525Z
 DTSTART:20260824T161631Z
@@ -2987,7 +2980,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260831T140000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: MOUZ vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640205@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3232,7 +3225,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
 DURATION:PT2H
 DTSTART:20260829T173000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: TS.A vs TBD
 UID:cs-go-kibertochka-2-2026-1656233@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3943,8 +3936,8 @@ SUMMARY:NAVI.J vs TRAIN
 UID:cs-go-european-pro-league-series-10-play-in-2026-1658044@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nResult: Spirit Academy: 2 | Just Players: 1\nStream: https://www.twitch.tv/kibertochkaofficial
+DTEND:20260829T125245Z
 DTSTART:20260829T100635Z
 SUMMARY:Lower bracket quarterfinal 2: TS.A vs JustP
 UID:cs-go-kibertochka-2-2026-1656232@tournamentics
@@ -4384,8 +4377,8 @@ SUMMARY:Lower bracket quarterfinal 2: WC vs paiN
 UID:cs-go-esports-world-cup-2026-1624326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 0 | MOUZ: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260829T124944Z
 DTSTART:20260829T111245Z
 SUMMARY:Upper bracket semifinal 1: ICE vs MOUZ
 UID:cs-go-blast-open-porto-fall-2026-1640203@tournamentics
@@ -7635,7 +7628,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T090000Z
-SUMMARY:Lower bracket semifinal: ARC vs TBD
+SUMMARY:Lower bracket semifinal: ARC vs RSTR
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650138@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8139,7 +8132,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260830T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Atreides vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651404@tournamentics
 END:VEVENT
 BEGIN:VEVENT
