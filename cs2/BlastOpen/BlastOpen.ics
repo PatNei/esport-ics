@@ -124,14 +124,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260830T140000Z
-SUMMARY:Lower bracket semifinal 1: VIT vs TBD
+SUMMARY:Lower bracket semifinal 1: VIT vs LGC
 UID:cs-go-blast-open-porto-fall-2026-1640208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260831T140000Z
-SUMMARY:Upper bracket final: MOUZ vs TBD
+SUMMARY:Upper bracket final: MOUZ vs FAL
 UID:cs-go-blast-open-porto-fall-2026-1640205@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -191,8 +191,8 @@ SUMMARY:Lower bracket quarterfinal 2: FUT vs LVG
 UID:cs-go-blast-open-porto-fall-2026-1640207@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: Legacy: 1 | Team Falcons: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260829T193430Z
 DTSTART:20260829T165034Z
 SUMMARY:Upper bracket semifinal 2: LGC vs FAL
 UID:cs-go-blast-open-porto-fall-2026-1640204@tournamentics

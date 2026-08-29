@@ -810,7 +810,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260830T140000Z
-SUMMARY:Lower bracket semifinal 1: VIT vs TBD
+SUMMARY:Lower bracket semifinal 1: VIT vs LGC
 UID:cs-go-blast-open-porto-fall-2026-1640208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2914,7 +2914,7 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658139@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260830T010000Z
 SUMMARY:Lower bracket quarterfinal 2: ZOMB vs CCE
@@ -2935,7 +2935,7 @@ SUMMARY:Round 1 match 1: FNC vs Mai Tai
 UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659240@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
 DURATION:PT2H
 DTSTART:20260830T090000Z
 SUMMARY:Upper bracket final: TdU vs GZ
@@ -2987,7 +2987,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260831T140000Z
-SUMMARY:Upper bracket final: MOUZ vs TBD
+SUMMARY:Upper bracket final: MOUZ vs FAL
 UID:cs-go-blast-open-porto-fall-2026-1640205@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3656,7 +3656,7 @@ SUMMARY:Round 3: PCY vs Zetta Games
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645099@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/teamempiretv
 DURATION:PT2H
 DTSTART:20260830T010000Z
 SUMMARY:Lower bracket quarterfinal 1: EMP vs OT
@@ -3719,8 +3719,8 @@ SUMMARY:Lower bracket round 1 match 3: ALKA vs TdP
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650494@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: Legacy: 1 | Team Falcons: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260829T193430Z
 DTSTART:20260829T165034Z
 SUMMARY:Upper bracket semifinal 2: LGC vs FAL
 UID:cs-go-blast-open-porto-fall-2026-1640204@tournamentics
@@ -5357,7 +5357,7 @@ SUMMARY:Lower bracket round 2 match 4: SAW.Y vs ex-MANA
 UID:cs-go-cct-europe-challengers-series-5-2026-1634745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/luffastream
 DURATION:PT2H
 DTSTART:20260830T140000Z
 SUMMARY:Round 2 match 2: SNG vs PURE
