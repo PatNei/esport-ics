@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260829T230000Z
-SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 2: WG vs SportsBetExpert
 UID:cs-go-frag-midwest-st-louis-2026-1657297@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -37,8 +37,8 @@ SUMMARY:Upper bracket round 1 match 3: DTN vs BodyBuilderClub
 UID:cs-go-frag-midwest-st-louis-2026-1657258@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bonamant
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Wanted Goons: 1 | Kodex Esports: 0\nStream: https://www.twitch.tv/bonamant
+DTEND:20260829T224519Z
 DTSTART:20260829T220119Z
 SUMMARY:Upper bracket round 1 match 4: WG vs Kodex Esports
 UID:cs-go-frag-midwest-st-louis-2026-1657291@tournamentics
@@ -191,8 +191,8 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657315@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: SportsBetExpert: 1 | Redliners: 0\nStream: No official stream linked
+DTEND:20260829T225036Z
 DTSTART:20260829T221450Z
 SUMMARY:Upper bracket round 1 match 3: SportsBetExpert vs Redliners
 UID:cs-go-frag-midwest-st-louis-2026-1657290@tournamentics
@@ -418,7 +418,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260829T230000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: Kodex Esports vs Redliners
 UID:cs-go-frag-midwest-st-louis-2026-1657301@tournamentics
 END:VEVENT
 BEGIN:VEVENT
