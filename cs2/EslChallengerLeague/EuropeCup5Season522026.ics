@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Elimination match: Azuolas vs TBD
+SUMMARY:Elimination match: Azuolas vs BERG
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: MOUZ.N vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658124@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Winners match: PERM vs TBD
+SUMMARY:Winners match: PERM vs WBT
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658133@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: Entropy vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658123@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -163,8 +163,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658135@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nResult: Esport BERG: 1 | WBT: 2\nStream: No official stream linked
+DTEND:20260830T153512Z
 DTSTART:20260830T131107Z
 SUMMARY:BERG vs WBT
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658132@tournamentics
@@ -184,8 +184,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658125@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nagu_fr
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nResult: Entropy: 2 | MOUZ NXT: 1\nStream: https://www.twitch.tv/nagu_fr
+DTEND:20260830T153258Z
 DTSTART:20260830T130827Z
 SUMMARY:Entropy vs MOUZ.N
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658122@tournamentics
