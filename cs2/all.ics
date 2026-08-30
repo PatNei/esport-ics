@@ -425,7 +425,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T160000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: DTN vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657314@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1132,7 +1132,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T160000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: WG vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657313@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4386,7 +4386,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260830T021500Z
+DTSTART:20260830T024500Z
 SUMMARY:Lower bracket round 2 match 3: NT vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657309@tournamentics
 END:VEVENT
@@ -6437,8 +6437,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260830T030000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+DTSTART:20260830T150000Z
+SUMMARY:Upper bracket final: Without a Roof vs LAG
 UID:cs-go-frag-midwest-st-louis-2026-1657306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7128,8 +7128,8 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-11-2026-1633297@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://kick.com/frag2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: LAG Gaming: 1 | Detonate: 0\nStream: https://kick.com/frag2
+DTEND:20260830T021045Z
 DTSTART:20260830T014122Z
 SUMMARY:Upper bracket semifinal 2: LAG vs DTN
 UID:cs-go-frag-midwest-st-louis-2026-1657305@tournamentics
@@ -7828,8 +7828,8 @@ SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-11-2026-1633296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Without a Roof: 1 | Wanted Goons: 0\nStream: https://www.twitch.tv/fragadelphia
+DTEND:20260830T020929Z
 DTSTART:20260830T014118Z
 SUMMARY:Upper bracket semifinal 1: Without a Roof vs WG
 UID:cs-go-frag-midwest-st-louis-2026-1657304@tournamentics
