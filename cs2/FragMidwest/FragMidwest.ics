@@ -61,13 +61,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T010000Z
-SUMMARY:Lower bracket round 2 match 4: SportsBetExpert vs TBD
+SUMMARY:Lower bracket round 2 match 4: SportsBetExpert vs ELU
 UID:cs-go-frag-midwest-st-louis-2026-1657310@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260830T010000Z
+DTSTART:20260830T030000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657306@tournamentics
 END:VEVENT
@@ -93,8 +93,8 @@ SUMMARY:Upper bracket round 1 match 3: Without a Roof vs SOB
 UID:cs-go-frag-midwest-st-louis-2026-1657218@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floofys
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Elusive: 2 | NineFly Esports: 0\nStream: https://www.twitch.tv/floofys
+DTEND:20260830T005630Z
 DTSTART:20260829T233659Z
 SUMMARY:Lower bracket round 1 match 4: ELU vs NFE
 UID:cs-go-frag-midwest-st-louis-2026-1657303@tournamentics
@@ -135,8 +135,8 @@ SUMMARY:Upper bracket round 1 match 2: AURA vs Friendly Fire
 UID:cs-go-frag-midwest-st-louis-2026-1657257@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ynotcs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: regain: 0 | Detonate: 1\nStream: https://www.twitch.tv/ynotcs2
+DTEND:20260830T005802Z
 DTSTART:20260830T001304Z
 SUMMARY:Upper bracket quarterfinal 4: REGAIN vs DTN
 UID:cs-go-frag-midwest-st-louis-2026-1657299@tournamentics
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T010000Z
-SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 2: For Fun v4 vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657308@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T010000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: LAG vs DTN
 UID:cs-go-frag-midwest-st-louis-2026-1657305@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -296,8 +296,8 @@ SUMMARY:Upper bracket round 1 match 1: REGAIN vs Lan Crasher
 UID:cs-go-frag-midwest-st-louis-2026-1657256@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://kick.com/frag2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: LAG Gaming: 1 | For Fun v4: 0\nStream: https://kick.com/frag2
+DTEND:20260830T005755Z
 DTSTART:20260830T002028Z
 SUMMARY:Upper bracket quarterfinal 3: LAG vs For Fun v4
 UID:cs-go-frag-midwest-st-louis-2026-1657298@tournamentics
@@ -383,7 +383,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T010000Z
-SUMMARY:Lower bracket round 2 match 1: Skyline vs TBD
+SUMMARY:Lower bracket round 2 match 1: REGAIN vs Skyline
 UID:cs-go-frag-midwest-st-louis-2026-1657307@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -396,7 +396,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260830T010000Z
+DTSTART:20260830T011500Z
 SUMMARY:Upper bracket semifinal 1: Without a Roof vs WG
 UID:cs-go-frag-midwest-st-louis-2026-1657304@tournamentics
 END:VEVENT
