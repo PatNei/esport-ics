@@ -4891,7 +4891,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260831T210000Z
-SUMMARY:Lower bracket final: IMP vs TBD
+SUMMARY:Lower bracket final: IMP vs SHIN
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650505@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5588,8 +5588,8 @@ SUMMARY:HEC vs WAVE
 UID:cs-go-esea-advanced-europe-58-2026-1599201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/locomas
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 1 | ShindeN: 2\nStream: https://kick.com/locomas
+DTEND:20260830T235226Z
 DTSTART:20260830T212057Z
 SUMMARY:Lower bracket semifinal: FXW7 vs SHIN
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650504@tournamentics
@@ -6004,7 +6004,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260831T003000Z
-SUMMARY:Grand final: LAG vs TBD
+SUMMARY:Grand final: LAG vs SportsBetExpert
 UID:cs-go-frag-midwest-st-louis-2026-1657318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6701,8 +6701,8 @@ SUMMARY:OBOYS vs KSM
 UID:cs-go-esea-advanced-europe-58-2026-1630173@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Without a Roof: 0 | SportsBetExpert: 2\nStream: https://www.twitch.tv/fragadelphia
+DTEND:20260830T235443Z
 DTSTART:20260830T222308Z
 SUMMARY:Lower bracket final: Without a Roof vs SportsBetExpert
 UID:cs-go-frag-midwest-st-louis-2026-1657317@tournamentics

@@ -173,7 +173,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260831T003000Z
-SUMMARY:Grand final: LAG vs TBD
+SUMMARY:Grand final: LAG vs SportsBetExpert
 UID:cs-go-frag-midwest-st-louis-2026-1657318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -345,8 +345,8 @@ SUMMARY:Upper bracket round 1 match 5: LAG vs makeSHIFT
 UID:cs-go-frag-midwest-st-louis-2026-1657292@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Without a Roof: 0 | SportsBetExpert: 2\nStream: https://www.twitch.tv/fragadelphia
+DTEND:20260830T235443Z
 DTSTART:20260830T222308Z
 SUMMARY:Lower bracket final: Without a Roof vs SportsBetExpert
 UID:cs-go-frag-midwest-st-louis-2026-1657317@tournamentics
