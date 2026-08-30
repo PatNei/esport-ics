@@ -1061,15 +1061,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260830T140000Z
-SUMMARY:Winners match: ex-RUSTEC vs UNiTY
-UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651286@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
 DTSTART:20260831T140000Z
-SUMMARY:Decider match: BW vs TBD
+SUMMARY:Decider match: BW vs ex-RUSTEC
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651367@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4799,7 +4792,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en
 DURATION:PT2H
-DTSTART:20260830T140000Z
+DTSTART:20260830T141000Z
 SUMMARY:LDP vs RAC
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648313@tournamentics
 END:VEVENT
