@@ -100,9 +100,9 @@ SUMMARY:Upper bracket round 1 match 6: HOTU vs paiN
 UID:cs-go-iem-beijing-global-qualifier-2026-1643634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
-DTSTART:20260830T144000Z
+DTSTART:20260830T144205Z
 SUMMARY:Lower bracket semifinal 2: ICE vs FUT
 UID:cs-go-blast-open-porto-fall-2026-1640209@tournamentics
 END:VEVENT
@@ -1797,7 +1797,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: PCIFIC vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2525,7 +2525,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: FOR vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658128@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3901,8 +3901,8 @@ SUMMARY:Quarterfinal 2: EJ vs BW
 UID:cs-go-exort-fiesta-1-2026-1632655@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nResult: WRAITH PCIFIC: 0 | Fortress: 2\nStream: https://www.twitch.tv/theeb1ye
+DTEND:20260830T144311Z
 DTSTART:20260830T130626Z
 SUMMARY:PCIFIC vs FOR
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658126@tournamentics
@@ -6067,7 +6067,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
 DURATION:PT2H
 DTSTART:20260830T150000Z
-SUMMARY:Grand final: FORZE.R vs TBD
+SUMMARY:Grand final: FORZE.R vs ex-RUSTEC
 UID:cs-go-kibertochka-2-2026-1656240@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7079,8 +7079,8 @@ SUMMARY:RE vs 9INE
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648240@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kibertochkaofficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Kibertochka - Season 2 2026\nMatch Type: Best Of\nResult: ex-RUSTEC: 2 | Spirit Academy: 0\nStream: https://www.twitch.tv/kibertochkaofficial
+DTEND:20260830T144641Z
 DTSTART:20260830T124954Z
 SUMMARY:Lower bracket final: ex-RUSTEC vs TS.A
 UID:cs-go-kibertochka-2-2026-1656239@tournamentics
