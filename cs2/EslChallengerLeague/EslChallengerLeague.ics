@@ -537,7 +537,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260901T130000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: NEXVOID vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650461@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -635,7 +635,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260831T130000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: RA vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650475@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -849,8 +849,8 @@ SUMMARY:3rd place match: SPARTA vs Color
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639471@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Rare Atom: 0 | NEXVOID: 2\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260830T151650Z
 DTSTART:20260830T133149Z
 SUMMARY:Upper bracket final: RA vs NEXVOID
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650460@tournamentics
@@ -1010,7 +1010,7 @@ SUMMARY:MZP vs DNT
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639319@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sv_theunknown
 DURATION:PT2H
 DTSTART:20260830T131136Z
 SUMMARY:Lower bracket semifinal: AE vs JS
