@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
-DTSTART:20260830T143000Z
+DTSTART:20260830T144000Z
 SUMMARY:Lower bracket semifinal 2: ICE vs FUT
 UID:cs-go-blast-open-porto-fall-2026-1640209@tournamentics
 END:VEVENT
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
 DTSTART:20260830T180000Z
-SUMMARY:Grand final: ex-ZT vs TBD
+SUMMARY:Grand final: ex-ZT vs BW
 UID:cs-go-exort-fiesta-1-2026-1632660@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -233,8 +233,8 @@ SUMMARY:SNG vs FRT
 UID:cs-go-esea-advanced-europe-58-2026-1611834@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: M80: 0 | Aurora Gaming: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260830T135831Z
 DTSTART:20260830T122426Z
 SUMMARY:Lower bracket semifinal 1: M80 vs AUR
 UID:cs-go-blast-open-porto-fall-2026-1640196@tournamentics
@@ -1787,8 +1787,8 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643643@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: Nordic Partners Gaming : 1 | Bushido Wildcats: 2\nStream: https://kick.com/fiesta_cs
+DTEND:20260830T140609Z
 DTSTART:20260830T110953Z
 SUMMARY:Semifinal 1: NPG vs BW
 UID:cs-go-exort-fiesta-1-2026-1632658@tournamentics
@@ -3050,7 +3050,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
 DTSTART:20260901T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: EF vs RAC
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3722,7 +3722,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: OG vs LDP
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4790,13 +4790,6 @@ SUMMARY:Quarterfinal 1: PCIFIC vs SPARTA
 UID:cs-go-esl-challenger-league-europe-cup-4-52-2026-1639464@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en
-DURATION:PT2H
-DTSTART:20260830T141000Z
-SUMMARY:LDP vs RAC
-UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648313@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Detonate: 1 | Elusive: 0\nStream: https://www.twitch.tv/fragadelphia
 DTEND:20260829T025559Z
 DTSTART:20260829T022217Z
@@ -5441,8 +5434,8 @@ SUMMARY:Lower bracket semifinal: FXW7 vs SHIN
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650504@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nResult: OG: 2 | Eternal Fire: 1\nStream: https://www.twitch.tv/connect_en
+DTEND:20260830T135639Z
 DTSTART:20260830T112023Z
 SUMMARY:OG vs EF
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648312@tournamentics
@@ -7019,7 +7012,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260831T113000Z
-SUMMARY:Lower bracket final: G2 vs TBD
+SUMMARY:Lower bracket final: G2 vs AUR
 UID:cs-go-blast-open-porto-fall-2026-1640198@tournamentics
 END:VEVENT
 BEGIN:VEVENT

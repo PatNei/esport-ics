@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
-DTSTART:20260830T143000Z
+DTSTART:20260830T144000Z
 SUMMARY:Lower bracket semifinal 2: ICE vs FUT
 UID:cs-go-blast-open-porto-fall-2026-1640209@tournamentics
 END:VEVENT
@@ -79,8 +79,8 @@ SUMMARY:Upper bracket quarterfinal 1: VIT vs ICE
 UID:cs-go-blast-open-porto-fall-2026-1640199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: M80: 0 | Aurora Gaming: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260830T135831Z
 DTSTART:20260830T122426Z
 SUMMARY:Lower bracket semifinal 1: M80 vs AUR
 UID:cs-go-blast-open-porto-fall-2026-1640196@tournamentics
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260831T113000Z
-SUMMARY:Lower bracket final: G2 vs TBD
+SUMMARY:Lower bracket final: G2 vs AUR
 UID:cs-go-blast-open-porto-fall-2026-1640198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
