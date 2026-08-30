@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: IC.A vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658117@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: S-B vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658119@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -128,8 +128,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658120@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/virtuspro_2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nResult: Strael-Bora: 0 | Inner Circle Academy: 2\nStream: https://www.twitch.tv/virtuspro_2
+DTEND:20260830T145047Z
 DTSTART:20260830T130531Z
 SUMMARY:S-B vs IC.A
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658116@tournamentics
