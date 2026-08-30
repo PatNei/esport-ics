@@ -810,7 +810,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Elimination match: S-B vs FF
+SUMMARY:Elimination match: FF vs S-B
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658119@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2175,7 +2175,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Winners match: IC.A vs VP
+SUMMARY:Winners match: VP vs IC.A
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658117@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4524,8 +4524,8 @@ SUMMARY:Lower bracket round 3 match 1: ex-Sashi Academy vs Noir Verse
 UID:cs-go-cct-europe-challengers-series-5-2026-1634746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/arhavalcom
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: Eternal Fire: 2 | ENCE: 0\nStream: https://kick.com/arhavalcom
+DTEND:20260830T155429Z
 DTSTART:20260830T142223Z
 SUMMARY:Round 2 match 3: EF vs ENCE
 UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659238@tournamentics
