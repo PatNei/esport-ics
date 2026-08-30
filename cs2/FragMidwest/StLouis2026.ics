@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: NuTorious: 0 | Wanted Goons: 1\nStream: https://www.twitch.tv/iamfusiion
+DTEND:20260830T004838Z
 DTSTART:20260830T001132Z
 SUMMARY:Upper bracket quarterfinal 2: NT vs WG
 UID:cs-go-frag-midwest-st-louis-2026-1657297@tournamentics
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T010000Z
-SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 3: NT vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657309@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T010000Z
-SUMMARY:Upper bracket semifinal 1: Without a Roof vs TBD
+SUMMARY:Upper bracket semifinal 1: Without a Roof vs WG
 UID:cs-go-frag-midwest-st-louis-2026-1657304@tournamentics
 END:VEVENT
 BEGIN:VEVENT
