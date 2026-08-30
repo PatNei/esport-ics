@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nResult: SAW Youngsters: 0 | Noir Verse: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260830T185819Z
 DTSTART:20260830T170411Z
 SUMMARY:Winners match: SAW.Y vs Noir Verse
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651403@tournamentics
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260831T170000Z
-SUMMARY:Decider match: Honvéd vs TBD
+SUMMARY:Decider match: Honvéd vs SAW.Y
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651405@tournamentics
 END:VEVENT
 BEGIN:VEVENT
