@@ -6703,8 +6703,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260830T213000Z
-SUMMARY:Lower bracket final: Without a Roof vs TBD
+DTSTART:20260830T220000Z
+SUMMARY:Lower bracket final: Without a Roof vs SportsBetExpert
 UID:cs-go-frag-midwest-st-louis-2026-1657317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7177,7 +7177,7 @@ SUMMARY:FOR vs ZOTIX
 UID:cs-go-esea-advanced-europe-58-2026-1643120@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
+DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en
 DURATION:PT2H
 DTSTART:20260831T110000Z
 SUMMARY:MZP vs PCIFIC
@@ -8094,8 +8094,8 @@ SUMMARY:Lower bracket round 1 match 4: ex-MANA vs FOR
 UID:cs-go-cct-europe-challengers-series-5-2026-1634741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: For Fun v4: 1 | SportsBetExpert: 2\nStream: https://www.twitch.tv/fragadelphia
+DTEND:20260830T213217Z
 DTSTART:20260830T185855Z
 SUMMARY:Lower bracket semifinal: For Fun v4 vs SportsBetExpert
 UID:cs-go-frag-midwest-st-louis-2026-1657315@tournamentics
