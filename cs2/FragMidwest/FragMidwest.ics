@@ -53,13 +53,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260830T024500Z
+DTSTART:20260830T031000Z
 SUMMARY:Lower bracket round 2 match 3: NT vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657309@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floofys
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: SportsBetExpert: 2 | Elusive: 0\nStream: https://www.twitch.tv/floofys
+DTEND:20260830T024410Z
 DTSTART:20260830T014701Z
 SUMMARY:Lower bracket round 2 match 4: SportsBetExpert vs ELU
 UID:cs-go-frag-midwest-st-louis-2026-1657310@tournamentics
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T040000Z
-SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 2: SportsBetExpert vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657312@tournamentics
 END:VEVENT
 BEGIN:VEVENT
