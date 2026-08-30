@@ -364,6 +364,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/Season1
 </details>
 
 <details>
+<summary>FISSURE PLAYGROUND</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FissurePlayground/FissurePlayground.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FissurePlayground/FissurePlayground.ics
+```
+
+---
+
+### Asian Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FissurePlayground/AsianQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FissurePlayground/AsianQualifier2026.ics
+```
+
+</details>
+
+<details>
 <summary>FRAG Midwest</summary>
 
 ### Full Schedule
