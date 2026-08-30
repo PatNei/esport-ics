@@ -775,7 +775,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260831T130000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Noir Verse vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658130@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1794,7 +1794,7 @@ SUMMARY:Semifinal 1: NPG vs BW
 UID:cs-go-exort-fiesta-1-2026-1632658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sv_theunknown
 DURATION:PT2H
 DTSTART:20260830T170000Z
 SUMMARY:Elimination match: PCIFIC vs Atreides
@@ -2522,13 +2522,6 @@ SUMMARY:Quarterfinal 4: SASHI vs INOX
 UID:cs-go-exort-fiesta-1-2026-1632657@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/virtuspro_2
-DURATION:PT2H
-DTSTART:20260830T170000Z
-SUMMARY:Winners match: FOR vs Noir Verse
-UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658128@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: banda chuya: 1 | ROUNDS: 0\nStream: https://www.twitch.tv/roundsgg
 DTEND:20260824T175029Z
 DTSTART:20260824T171307Z
@@ -2536,18 +2529,18 @@ SUMMARY:banda chuya vs RGG
 UID:cs-go-esea-advanced-europe-58-2026-1649039@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: New Legends: 2 | Club 333: 1\nStream: https://www.twitch.tv/sv_theunknown
-DTEND:20260827T030449Z
-DTSTART:20260827T010430Z
-SUMMARY:Lower bracket round 1 match 1: New Legends vs C333
-UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650522@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nResult: MEIA NOITE: 2 | Semente do Mal: 0\nStream: https://kick.com/cct_cs3
 DTEND:20260827T172626Z
 DTSTART:20260827T161428Z
 SUMMARY:Round 2: MEIA NOITE vs Semente do Mal
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645089@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: New Legends: 2 | Club 333: 1\nStream: https://www.twitch.tv/sv_theunknown
+DTEND:20260827T030449Z
+DTSTART:20260827T010430Z
+SUMMARY:Lower bracket round 1 match 1: New Legends vs C333
+UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650522@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
@@ -5234,7 +5227,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Elimination match: MOUZ.N vs TBD
+SUMMARY:Elimination match: BAKS vs MOUZ.N
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658124@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5885,7 +5878,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Winners match: Entropy vs TBD
+SUMMARY:Winners match: Entropy vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658123@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6848,7 +6841,7 @@ SUMMARY:Decider match: HAVU vs SSins
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651278@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/terlonv1
 DURATION:PT2H
 DTSTART:20260830T170000Z
 SUMMARY:Winners match: PERM vs WBT
@@ -7205,8 +7198,8 @@ SUMMARY:Upper bracket quarterfinal 4: YL vs IMHOWeRGOAT
 UID:cs-go-cct-europe-contenders-8-2026-1639148@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floppyacs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nResult: BakS eSports: 1 | Misa Esports: 2\nStream: https://www.twitch.tv/floppyacs
+DTEND:20260830T164315Z
 DTSTART:20260830T132108Z
 SUMMARY:BAKS vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658121@tournamentics

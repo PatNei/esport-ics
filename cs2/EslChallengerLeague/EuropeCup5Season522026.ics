@@ -33,12 +33,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Elimination match: MOUZ.N vs TBD
+SUMMARY:Elimination match: BAKS vs MOUZ.N
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658124@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floppyacs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nResult: BakS eSports: 1 | Misa Esports: 2\nStream: https://www.twitch.tv/floppyacs
+DTEND:20260830T164315Z
 DTSTART:20260830T132108Z
 SUMMARY:BAKS vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658121@tournamentics
@@ -79,14 +79,14 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658136@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/terlonv1
 DURATION:PT2H
 DTSTART:20260830T170000Z
 SUMMARY:Winners match: PERM vs WBT
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658133@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sv_theunknown
 DURATION:PT2H
 DTSTART:20260830T170000Z
 SUMMARY:Elimination match: PCIFIC vs Atreides
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260831T130000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Noir Verse vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658130@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Winners match: Entropy vs TBD
+SUMMARY:Winners match: Entropy vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658123@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -168,13 +168,6 @@ DTEND:20260830T153512Z
 DTSTART:20260830T131107Z
 SUMMARY:BERG vs WBT
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658132@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/virtuspro_2
-DURATION:PT2H
-DTSTART:20260830T170000Z
-SUMMARY:Winners match: FOR vs Noir Verse
-UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658128@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
