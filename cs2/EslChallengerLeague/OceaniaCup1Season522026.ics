@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260901T090000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: TdU vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260831T090000Z
-SUMMARY:Lower bracket final: ARC vs TBD
+SUMMARY:Lower bracket final: ARC vs GZ
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650139@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -37,8 +37,8 @@ SUMMARY:Lower bracket quarterfinal 1: MF vs ARC
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650136@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 2 | Ground Zero: 1\nStream: https://www.twitch.tv/eslcs
+DTEND:20260830T115542Z
 DTSTART:20260830T090924Z
 SUMMARY:Upper bracket final: TdU vs GZ
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650133@tournamentics
