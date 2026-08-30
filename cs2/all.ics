@@ -1871,10 +1871,10 @@ SUMMARY:Lower bracket round 1 match 2: VIL vs DTN
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650523@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
 DURATION:PT2H
-DTSTART:20260830T043000Z
-SUMMARY:Lower bracket round 3 match 2: SportsBetExpert vs TBD
+DTSTART:20260830T045000Z
+SUMMARY:Lower bracket round 3 match 2: NT vs SportsBetExpert
 UID:cs-go-frag-midwest-st-louis-2026-1657312@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2650,8 +2650,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260830T043000Z
-SUMMARY:Lower bracket round 3 match 1: For Fun v4 vs TBD
+DTSTART:20260830T045000Z
+SUMMARY:Lower bracket round 3 match 1: REGAIN vs For Fun v4
 UID:cs-go-frag-midwest-st-louis-2026-1657311@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4384,8 +4384,8 @@ SUMMARY:Lower bracket round 2 match 3: Spirit Academy Green vs TrafficPills Espo
 UID:cs-go-cct-europe-contenders-8-2026-1640170@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: NuTorious: 2 | Unreal Nightmare : 0\nStream: https://www.twitch.tv/iamfusiion
+DTEND:20260830T042321Z
 DTSTART:20260830T030418Z
 SUMMARY:Lower bracket round 2 match 3: NT vs Unreal Nightmare 
 UID:cs-go-frag-midwest-st-louis-2026-1657309@tournamentics
@@ -5770,8 +5770,8 @@ SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-11-2026-1633299@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: regain: 2 | Skyline: 1\nStream: https://www.twitch.tv/fragadelphia
+DTEND:20260830T042413Z
 DTSTART:20260830T014723Z
 SUMMARY:Lower bracket round 2 match 1: REGAIN vs Skyline
 UID:cs-go-frag-midwest-st-louis-2026-1657307@tournamentics
