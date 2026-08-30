@@ -2147,7 +2147,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260831T010000Z
-SUMMARY:Lower bracket semifinal: CCE vs TBD
+SUMMARY:Lower bracket semifinal: CCE vs OT
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3663,8 +3663,8 @@ SUMMARY:Round 3: PCY vs Zetta Games
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645099@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/teamempiretv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: EMPIRE: 0 | Overtake Sector: 2\nStream: https://www.twitch.tv/teamempiretv
+DTEND:20260830T025923Z
 DTSTART:20260830T011351Z
 SUMMARY:Lower bracket quarterfinal 1: EMP vs OT
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650532@tournamentics
@@ -4384,9 +4384,9 @@ SUMMARY:Lower bracket round 2 match 3: Spirit Academy Green vs TrafficPills Espo
 UID:cs-go-cct-europe-contenders-8-2026-1640170@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
 DURATION:PT2H
-DTSTART:20260830T031000Z
+DTSTART:20260830T030418Z
 SUMMARY:Lower bracket round 2 match 3: NT vs Unreal Nightmare 
 UID:cs-go-frag-midwest-st-louis-2026-1657309@tournamentics
 END:VEVENT
@@ -5133,7 +5133,7 @@ SUMMARY:Lower bracket round 1 match 1: Peak Agency vs YAW
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650492@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://kick.com/frag2
 DURATION:PT2H
 DTSTART:20260830T020308Z
 SUMMARY:Lower bracket round 2 match 2: For Fun v4 vs Kodex Esports
@@ -5770,7 +5770,7 @@ SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-11-2026-1633299@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
 DURATION:PT2H
 DTSTART:20260830T014723Z
 SUMMARY:Lower bracket round 2 match 1: REGAIN vs Skyline
