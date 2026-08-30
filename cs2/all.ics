@@ -1104,7 +1104,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260831T140000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: BW vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651367@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3700,7 +3700,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260830T080000Z
+DTSTART:20260830T081000Z
 SUMMARY:Upper bracket semifinal 1: TTBS vs INF
 UID:cs-go-united21-54-2026-1654201@tournamentics
 END:VEVENT
@@ -8029,13 +8029,6 @@ DTEND:20260821T193552Z
 DTSTART:20260821T170846Z
 SUMMARY:Round 2: HS vs JustP
 UID:cs-go-cct-europe-series-7-2026-1630693@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260830T080000Z
-SUMMARY:Elimination match: Entropy vs BW
-UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651288@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Dark Moon: 1 | Strael-Bora: 0\nStream: No official stream linked
