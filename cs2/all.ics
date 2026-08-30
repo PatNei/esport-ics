@@ -7026,7 +7026,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260831T113000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: G2 vs TBD
 UID:cs-go-blast-open-porto-fall-2026-1640198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7695,8 +7695,8 @@ SUMMARY:Winners match: RA vs VA
 UID:cs-go-moscow-cyber-games-asian-qualifier-2026-1645132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: G2: 2 | Natus Vincere: 0\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260830T114201Z
 DTSTART:20260830T090649Z
 SUMMARY:Lower bracket semifinal 2: G2 vs NAVI
 UID:cs-go-blast-open-porto-fall-2026-1640197@tournamentics
