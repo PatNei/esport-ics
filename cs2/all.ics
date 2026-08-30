@@ -858,7 +858,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260829T235500Z
+DTSTART:20260830T001500Z
 SUMMARY:Lower bracket round 1 match 3: makeSHIFT vs Unreal Nightmare 
 UID:cs-go-frag-midwest-st-louis-2026-1657302@tournamentics
 END:VEVENT
@@ -1572,7 +1572,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260829T235500Z
+DTSTART:20260830T001500Z
 SUMMARY:Lower bracket round 1 match 2: Lotus 2.0 vs Kodex Esports
 UID:cs-go-frag-midwest-st-louis-2026-1657301@tournamentics
 END:VEVENT
@@ -2326,9 +2326,9 @@ SUMMARY:FRT vs GamerZ Esports
 UID:cs-go-esea-advanced-europe-58-2026-1650634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ynotcs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ynotcs2
 DURATION:PT2H
-DTSTART:20260830T000500Z
+DTSTART:20260830T001304Z
 SUMMARY:Upper bracket quarterfinal 4: REGAIN vs DTN
 UID:cs-go-frag-midwest-st-louis-2026-1657299@tournamentics
 END:VEVENT
@@ -3105,7 +3105,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://kick.com/frag2
 DURATION:PT2H
-DTSTART:20260830T000500Z
+DTSTART:20260830T001500Z
 SUMMARY:Upper bracket quarterfinal 3: LAG vs For Fun v4
 UID:cs-go-frag-midwest-st-louis-2026-1657298@tournamentics
 END:VEVENT
@@ -3386,7 +3386,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T003000Z
-SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 4: SportsBetExpert vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657310@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3810,9 +3810,9 @@ SUMMARY:ex-Sangal ALTERS vs Honvéd
 UID:cs-go-esea-advanced-europe-58-2026-1650632@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iamfusiion
 DURATION:PT2H
-DTSTART:20260830T000500Z
+DTSTART:20260830T001132Z
 SUMMARY:Upper bracket quarterfinal 2: NT vs WG
 UID:cs-go-frag-midwest-st-louis-2026-1657297@tournamentics
 END:VEVENT
@@ -4496,8 +4496,8 @@ SUMMARY:JUMBO vs FAL.F
 UID:cs-go-esea-advanced-europe-58-2026-1650631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: SportsBetExpert: 0 | Without a Roof: 1\nStream: https://www.twitch.tv/fragadelphia
+DTEND:20260830T001312Z
 DTSTART:20260829T231334Z
 SUMMARY:Upper bracket quarterfinal 1: SportsBetExpert vs Without a Roof
 UID:cs-go-frag-midwest-st-louis-2026-1657296@tournamentics
@@ -5640,7 +5640,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T210000Z
-SUMMARY:Lower bracket semifinal: SHIN vs TBD
+SUMMARY:Lower bracket semifinal: SHIN vs FXW7
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650504@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6981,8 +6981,8 @@ SUMMARY:BJNG vs RGG
 UID:cs-go-esea-advanced-europe-58-2026-1654116@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 2 | ex-MIBR Academy: 1\nStream: https://www.twitch.tv/eslcs
+DTEND:20260830T000826Z
 DTSTART:20260829T211703Z
 SUMMARY:Lower bracket quarterfinal 1: FXW7 vs ex-MIBR Academy
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650502@tournamentics
@@ -7830,8 +7830,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260830T000000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+DTSTART:20260830T010000Z
+SUMMARY:Upper bracket semifinal 1: Without a Roof vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657304@tournamentics
 END:VEVENT
 BEGIN:VEVENT
