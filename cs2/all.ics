@@ -107,9 +107,9 @@ SUMMARY:Lower bracket semifinal 2: ICE vs FUT
 UID:cs-go-blast-open-porto-fall-2026-1640209@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
-DTSTART:20260830T181500Z
+DTSTART:20260830T181758Z
 SUMMARY:Grand final: ex-ZT vs BW
 UID:cs-go-exort-fiesta-1-2026-1632660@tournamentics
 END:VEVENT
@@ -5822,7 +5822,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T233000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: LAG vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6211,8 +6211,8 @@ SUMMARY:Round of 16 match 6: 1WIN vs INOX
 UID:cs-go-nodwin-clutch-series-11-2026-1633298@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nResult: Without a Roof: 0 | LAG Gaming: 2\nStream: https://www.twitch.tv/fragadelphia
+DTEND:20260830T181937Z
 DTSTART:20260830T164011Z
 SUMMARY:Upper bracket final: Without a Roof vs LAG
 UID:cs-go-frag-midwest-st-louis-2026-1657306@tournamentics
@@ -6487,7 +6487,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T213000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: Without a Roof vs TBD
 UID:cs-go-frag-midwest-st-louis-2026-1657317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7842,7 +7842,7 @@ SUMMARY:Lower bracket round 1 match 4: ex-MANA vs FOR
 UID:cs-go-cct-europe-challengers-series-5-2026-1634741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG Midwest - St. Louis 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fragadelphia
 DURATION:PT2H
 DTSTART:20260830T183000Z
 SUMMARY:Lower bracket semifinal: For Fun v4 vs SportsBetExpert
