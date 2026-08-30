@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Azuolas vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -51,8 +51,8 @@ SUMMARY:Lower bracket round 2 match 4: Keyd vs ISG
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650499@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sv_theunknown
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nResult: Azuolas: 0 | Permitta Esports: 2\nStream: https://www.twitch.tv/sv_theunknown
+DTEND:20260830T145820Z
 DTSTART:20260830T130541Z
 SUMMARY:Azuolas vs PERM
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658131@tournamentics
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Winners match: FOR vs TBD
+SUMMARY:Winners match: FOR vs Noir Verse
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658128@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -432,7 +432,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: PERM vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658133@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -569,8 +569,8 @@ SUMMARY:Lower bracket round 1 match 3: ELU vs SHIM
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650524@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nResult: Atreides: 0 | Noir Verse: 2\nStream: No official stream linked
+DTEND:20260830T145935Z
 DTSTART:20260830T131327Z
 SUMMARY:Atreides vs Noir Verse
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658127@tournamentics
@@ -929,7 +929,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260830T170000Z
-SUMMARY:Elimination match: PCIFIC vs TBD
+SUMMARY:Elimination match: PCIFIC vs Atreides
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
