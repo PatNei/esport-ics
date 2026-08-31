@@ -2126,7 +2126,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260901T090000Z
-SUMMARY:Grand final: TdU vs TBD
+SUMMARY:Grand final: TdU vs GZ
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2312,8 +2312,8 @@ SUMMARY:PG vs B8.A
 UID:cs-go-esea-advanced-europe-58-2026-1611831@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: Spirit: 2 | FURIA: 0\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260831T104558Z
 DTSTART:20260831T090229Z
 SUMMARY:Upper bracket final: TS vs FURIA
 UID:cs-go-blast-open-porto-fall-2026-1640193@tournamentics
@@ -4737,7 +4737,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260901T090000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: HOTU vs TBD
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648102@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7009,8 +7009,8 @@ SUMMARY:Upper bracket round 1 match 5: NEXVOID vs The KnockoutX
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650450@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Arcade Esports: 0\nStream: https://www.twitch.tv/eslcs
+DTEND:20260831T104553Z
 DTSTART:20260831T090716Z
 SUMMARY:Lower bracket final: GZ vs ARC
 UID:cs-go-esl-challenger-league-oceania-cup-1-52-2026-1650139@tournamentics
@@ -7576,8 +7576,8 @@ SUMMARY:Quarterfinal 2: ACE vs NEMI
 UID:cs-go-iem-beijing-global-open-qualifier-2026-1649028@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: HOTU: 2 | SPARTA: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260831T104621Z
 DTSTART:20260831T090819Z
 SUMMARY:Quarterfinal 1: HOTU vs SPARTA
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648097@tournamentics
