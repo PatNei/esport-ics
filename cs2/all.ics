@@ -376,7 +376,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260901T130000Z
-SUMMARY:Semifinal 2: IC.A vs TBD
+SUMMARY:Semifinal 2: IC.A vs Entropy
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658142@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2858,8 +2858,8 @@ SUMMARY:FF vs mellren
 UID:cs-go-european-pro-league-series-10-play-in-2026-1658034@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/terlonv1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Azuolas: 1\nStream: https://www.twitch.tv/terlonv1
+DTEND:20260831T193248Z
 DTSTART:20260831T170449Z
 SUMMARY:Quarterfinal 4: Entropy vs Azuolas
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658139@tournamentics
@@ -6704,7 +6704,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/21622808
 DURATION:PT2H
 DTSTART:20260901T123000Z
-SUMMARY:Upper bracket semifinal 2: RA vs 5S
+SUMMARY:Upper bracket semifinal 2: 5S vs NEXVOID
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661700@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6795,7 +6795,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/21622808
 DURATION:PT2H
 DTSTART:20260901T100000Z
-SUMMARY:Upper bracket semifinal 1: THE vs NEXVOID
+SUMMARY:Upper bracket semifinal 1: THE vs RA
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661699@tournamentics
 END:VEVENT
 BEGIN:VEVENT
