@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fyflo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nResult: WBT: 2 | BakS eSports: 1\nStream: https://www.twitch.tv/fyflo
+DTEND:20260831T195523Z
 DTSTART:20260831T170654Z
 SUMMARY:Quarterfinal 2: WBT vs BAKS
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658137@tournamentics
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260901T130000Z
-SUMMARY:Semifinal 1: VP vs TBD
+SUMMARY:Semifinal 1: VP vs WBT
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658140@tournamentics
 END:VEVENT
 BEGIN:VEVENT
