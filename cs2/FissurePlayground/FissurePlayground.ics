@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/21622808
 DURATION:PT2H
-DTSTART:20260831T133000Z
+DTSTART:20260831T140000Z
 SUMMARY:Upper bracket quarterfinal 4: 5S vs CW
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661695@tournamentics
 END:VEVENT
@@ -86,10 +86,10 @@ SUMMARY:Upper bracket quarterfinal 4: BIG vs BB
 UID:cs-go-fissure-playground-3-2026-1660048@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/21622808
 DURATION:PT2H
 DTSTART:20260901T050000Z
-SUMMARY:Lower bracket round 1 match 1: Staqued vs TBD
+SUMMARY:Lower bracket round 1 match 1: Staqued vs KG
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661697@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -121,10 +121,10 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661703@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/21622808
 DURATION:PT2H
 DTSTART:20260901T123000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: RA vs TBD
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661700@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -149,8 +149,8 @@ SUMMARY:Upper bracket quarterfinal 3: PRV vs TYLOO
 UID:cs-go-fissure-playground-3-2026-1660044@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/21622808
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Rare Atom: 2 | Kaleido Gaming: 1\nStream: https://live.bilibili.com/21622808
+DTEND:20260831T133535Z
 DTSTART:20260831T111715Z
 SUMMARY:Upper bracket quarterfinal 2: RA vs KG
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661689@tournamentics
