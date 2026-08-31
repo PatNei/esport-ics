@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260831T170000Z
-SUMMARY:Quarterfinal 2: TBD vs WBT
+SUMMARY:Quarterfinal 2: WBT vs BAKS
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658137@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -313,7 +313,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260831T170000Z
-SUMMARY:Quarterfinal 4: TBD vs Entropy
+SUMMARY:Quarterfinal 4: Entropy vs Azuolas
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658139@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -814,8 +814,8 @@ SUMMARY:Upper bracket semifinal 1: FXW7 vs GLS
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650488@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 2 | Fire Flux Esports: 1\nStream: https://www.twitch.tv/eslcs
+DTEND:20260831T163825Z
 DTSTART:20260831T130622Z
 SUMMARY:Decider match: IC.A vs FF
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658120@tournamentics
