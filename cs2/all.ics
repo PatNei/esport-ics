@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260901T103000Z
-SUMMARY:Lower bracket semifinal: EACE vs TBD
+SUMMARY:Lower bracket semifinal: EACE vs FaZe UN
 UID:cs-go-united21-54-2026-1654206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -779,7 +779,7 @@ SUMMARY:Upper bracket quarterfinal 2: MIBR vs AST
 UID:cs-go-esports-world-cup-2026-1624088@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/virtuspro
 DURATION:PT2H
 DTSTART:20260831T130000Z
 SUMMARY:Decider match: Noir Verse vs Atreides
@@ -1458,8 +1458,8 @@ SUMMARY:Lower bracket quarterfinal 1: NV vs IMHOWeRGOAT
 UID:cs-go-cct-europe-contenders-8-2026-1640174@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 0 | FaZe Up Next: 2\nStream: https://kick.com/united21_en
+DTEND:20260831T124534Z
 DTSTART:20260831T110527Z
 SUMMARY:Lower bracket quarterfinal 2: INF vs FaZe UN
 UID:cs-go-united21-54-2026-1654204@tournamentics
@@ -4965,7 +4965,7 @@ SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643650@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/virtuspro
 DURATION:PT2H
 DTSTART:20260831T170000Z
 SUMMARY:Quarterfinal 1: VP vs TBD
