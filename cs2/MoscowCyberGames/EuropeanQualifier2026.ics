@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260901T120000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: NTR vs TBD
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -163,8 +163,8 @@ SUMMARY:Quarterfinal 4: 1WIN vs ex-RUBY
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: Team Nemesis: 1 | Nuclear TigeRES: 2\nStream: https://kick.com/dutchboycasts
+DTEND:20260831T161531Z
 DTSTART:20260831T120607Z
 SUMMARY:Quarterfinal 3: NEM vs NTR
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648099@tournamentics

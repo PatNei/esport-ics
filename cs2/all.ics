@@ -4044,7 +4044,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260901T120000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: NTR vs TBD
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4961,7 +4961,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #5 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/virtuspro
 DURATION:PT2H
 DTSTART:20260831T170000Z
-SUMMARY:Quarterfinal 1: VP vs TBD
+SUMMARY:Quarterfinal 1: VP vs Atreides
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658136@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6176,8 +6176,8 @@ SUMMARY:Honvéd vs WAVE
 UID:cs-go-esea-advanced-europe-58-2026-1650629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: Team Nemesis: 1 | Nuclear TigeRES: 2\nStream: https://kick.com/dutchboycasts
+DTEND:20260831T161531Z
 DTSTART:20260831T120607Z
 SUMMARY:Quarterfinal 3: NEM vs NTR
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648099@tournamentics
