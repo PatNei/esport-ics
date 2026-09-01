@@ -96,12 +96,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260903T080000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: TTBS vs TBD
 UID:cs-go-united21-54-2026-1654208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nResult: Teletubisie: 2 | QUB: 0\nStream: https://kick.com/united21_en
+DTEND:20260901T103240Z
 DTSTART:20260901T083715Z
 SUMMARY:Upper bracket final: TTBS vs QUB
 UID:cs-go-united21-54-2026-1654205@tournamentics
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260902T080000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: QUB vs TBD
 UID:cs-go-united21-54-2026-1654207@tournamentics
 END:VEVENT
 BEGIN:VEVENT
