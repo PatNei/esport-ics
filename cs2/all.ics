@@ -691,7 +691,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260902T170000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: EAC vs BW
 UID:cs-go-cct-europe-series-8-2026-1651573@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1103,7 +1103,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260902T140000Z
+DTSTART:20260902T110000Z
 SUMMARY:Quarterfinal 3: NEM vs 1WIN
 UID:cs-go-nodwin-clutch-series-11-2026-1633302@tournamentics
 END:VEVENT
@@ -2231,7 +2231,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260903T140000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: LVKD vs HAVU
 UID:cs-go-cct-europe-series-8-2026-1651576@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3015,7 +3015,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260902T140000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: INOX vs UNiTY
 UID:cs-go-cct-europe-series-8-2026-1651572@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3490,7 +3490,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260902T110000Z
+DTSTART:20260902T140000Z
 SUMMARY:Quarterfinal 2: Black Phoenix vs INF
 UID:cs-go-nodwin-clutch-series-11-2026-1633301@tournamentics
 END:VEVENT
@@ -3712,9 +3712,9 @@ SUMMARY:Upper bracket quarterfinal 4: MISA vs BW
 UID:cs-go-cct-europe-challengers-series-5-2026-1634733@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/eslcs
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #1 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/eslcs
 DURATION:PT2H
-DTSTART:20260901T210000Z
+DTSTART:20260901T210716Z
 SUMMARY:Grand final: GLS vs IMP
 UID:cs-go-esl-challenger-league-south-america-cup-1-52-2026-1650491@tournamentics
 END:VEVENT
@@ -4681,7 +4681,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260903T110000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: Leo vs TLR
 UID:cs-go-cct-europe-series-8-2026-1651575@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5521,7 +5521,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260902T110000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: Black Phoenix vs ex-ZT
 UID:cs-go-cct-europe-series-8-2026-1651571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5961,7 +5961,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260902T080000Z
+DTSTART:20260902T170000Z
 SUMMARY:Quarterfinal 1: 3DMAX vs WAL
 UID:cs-go-nodwin-clutch-series-11-2026-1633300@tournamentics
 END:VEVENT
@@ -7131,7 +7131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260903T080000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: G2.A vs PF
 UID:cs-go-cct-europe-series-8-2026-1651574@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7578,7 +7578,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260902T170000Z
+DTSTART:20260902T080000Z
 SUMMARY:Quarterfinal 4: HOTU vs NTR
 UID:cs-go-nodwin-clutch-series-11-2026-1633303@tournamentics
 END:VEVENT
@@ -7880,7 +7880,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260902T080000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: SPARTA vs JustP
 UID:cs-go-cct-europe-series-8-2026-1651570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8769,7 +8769,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260903T170000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: MOUZ.N vs PCIFIC
 UID:cs-go-cct-europe-series-8-2026-1651577@tournamentics
 END:VEVENT
 BEGIN:VEVENT
