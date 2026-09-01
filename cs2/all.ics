@@ -1104,7 +1104,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260902T140000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: NEM vs TBD
 UID:cs-go-nodwin-clutch-series-11-2026-1633302@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1223,7 +1223,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/21622808
 DURATION:PT2H
 DTSTART:20260902T100000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: RA vs TBD
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661703@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1985,7 +1985,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260901T103000Z
+DTSTART:20260901T110000Z
 SUMMARY:MISA vs EP
 UID:cs-go-european-pro-league-series-10-play-in-2026-1658039@tournamentics
 END:VEVENT
@@ -2167,7 +2167,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260901T103000Z
+DTSTART:20260901T130000Z
 SUMMARY:Lower bracket semifinal: EACE vs FaZe UN
 UID:cs-go-united21-54-2026-1654206@tournamentics
 END:VEVENT
@@ -3603,7 +3603,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/21622808
 DURATION:PT2H
 DTSTART:20260902T073000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: THE vs TBD
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661702@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3992,8 +3992,8 @@ SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
 UID:cs-go-esea-advanced-europe-58-2026-1664505@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 1 | Rare Atom: 2\nStream: https://kick.com/dutchboycasts
+DTEND:20260901T102314Z
 DTSTART:20260901T071559Z
 SUMMARY:Upper bracket semifinal 1: THE vs RA
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661699@tournamentics
@@ -8738,8 +8738,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-united21-54-2026-1654207@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | SPARTA: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260901T102515Z
 DTSTART:20260901T080817Z
 SUMMARY:Round of 16 match 5: NEM vs SPARTA
 UID:cs-go-nodwin-clutch-series-11-2026-1633296@tournamentics
