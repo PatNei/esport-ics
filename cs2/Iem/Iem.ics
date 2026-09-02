@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T120000Z
-SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 4: HERO vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643651@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -82,12 +82,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T150000Z
-SUMMARY:Upper bracket semifinal 1: NTR vs TBD
+SUMMARY:Upper bracket semifinal 1: NTR vs EF
 UID:cs-go-iem-beijing-global-qualifier-2026-1643641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nResult: Eternal Fire: 2 | Heroic: 1\nStream: https://www.twitch.tv/eslcs
+DTEND:20260902T185017Z
 DTSTART:20260902T160413Z
 SUMMARY:Upper bracket quarterfinal 1: EF vs HERO
 UID:cs-go-iem-beijing-global-qualifier-2026-1643637@tournamentics
