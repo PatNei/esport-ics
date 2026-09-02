@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T120000Z
-SUMMARY:Lower bracket round 2 match 2: K27 vs TBD
+SUMMARY:Lower bracket round 2 match 2: K27 vs NEMI
 UID:cs-go-iem-beijing-global-qualifier-2026-1643649@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -219,8 +219,8 @@ SUMMARY:Round of 16 match 4: QUA vs NEMI
 UID:cs-go-iem-beijing-global-open-qualifier-2026-1649022@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nResult: HOTU: 2 | Nemiga: 0\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260902T203806Z
 DTSTART:20260902T182345Z
 SUMMARY:Upper bracket quarterfinal 3: HOTU vs NEMI
 UID:cs-go-iem-beijing-global-qualifier-2026-1643639@tournamentics
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T150000Z
-SUMMARY:Upper bracket semifinal 2: B8 vs TBD
+SUMMARY:Upper bracket semifinal 2: B8 vs HOTU
 UID:cs-go-iem-beijing-global-qualifier-2026-1643642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
