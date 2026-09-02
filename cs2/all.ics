@@ -866,7 +866,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260903T060000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: LVG vs TBD
 UID:cs-go-iem-beijing-asian-qualifier-2026-1658101@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -900,7 +900,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
-DTSTART:20260902T110000Z
+DTSTART:20260902T111500Z
 SUMMARY:Round of 16 match 5: INF vs EF
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1651261@tournamentics
 END:VEVENT
@@ -1181,7 +1181,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
 DTSTART:20260904T170000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: SIN vs TBD
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1651271@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3264,8 +3264,8 @@ SUMMARY:Lower bracket round 1 match 1: Lan Crasher vs Friendly Fire
 UID:cs-go-frag-midwest-st-louis-2026-1657262@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nResult: Sinners: 2 | Esport Academy Copenhagen: 1\nStream: https://www.twitch.tv/connect_en
+DTEND:20260902T110102Z
 DTSTART:20260902T080718Z
 SUMMARY:Round of 16 match 7: SIN vs EAC
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1651260@tournamentics
@@ -4902,8 +4902,8 @@ SUMMARY:Lower bracket round 3 match 2: NT vs SportsBetExpert
 UID:cs-go-frag-midwest-st-louis-2026-1657312@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=iX1dPlivqmk
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 0 | Lynn Vision: 2\nStream: https://www.youtube.com/watch?v=iX1dPlivqmk
+DTEND:20260902T105322Z
 DTSTART:20260902T090530Z
 SUMMARY:Lower bracket round 1 match 2: NEXVOID vs LVG
 UID:cs-go-iem-beijing-asian-qualifier-2026-1658103@tournamentics
@@ -6326,7 +6326,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260903T080000Z
-SUMMARY:Grand final: TTBS vs TBD
+SUMMARY:Grand final: TTBS vs EACE
 UID:cs-go-united21-54-2026-1654208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8703,8 +8703,8 @@ SUMMARY:Lower bracket round 2 match 1: WG vs Village
 UID:cs-go-frag-midwest-st-louis-2026-1657280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nResult: QUB: 1 | EAC Extra: 2\nStream: https://kick.com/united21_en
+DTEND:20260902T110157Z
 DTSTART:20260902T081814Z
 SUMMARY:Lower bracket final: QUB vs EACE
 UID:cs-go-united21-54-2026-1654207@tournamentics

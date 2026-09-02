@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260903T080000Z
-SUMMARY:Grand final: TTBS vs TBD
+SUMMARY:Grand final: TTBS vs EACE
 UID:cs-go-united21-54-2026-1654208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -163,8 +163,8 @@ SUMMARY:B8.A vs EF.A
 UID:cs-go-united21-54-2026-1640072@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 54 2026\nMatch Type: Best Of\nResult: QUB: 1 | EAC Extra: 2\nStream: https://kick.com/united21_en
+DTEND:20260902T110157Z
 DTSTART:20260902T081814Z
 SUMMARY:Lower bracket final: QUB vs EACE
 UID:cs-go-united21-54-2026-1654207@tournamentics
