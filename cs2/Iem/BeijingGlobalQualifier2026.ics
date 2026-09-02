@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVc
 DURATION:PT2H
 DTSTART:20260902T150000Z
-SUMMARY:Lower bracket round 1 match 1: 3DMAX vs TBD
+SUMMARY:Lower bracket round 1 match 1: 3DMAX vs MIBR
 UID:cs-go-iem-beijing-global-qualifier-2026-1643644@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTV
 DURATION:PT2H
 DTSTART:20260902T150000Z
-SUMMARY:Upper bracket quarterfinal 1: HERO vs TBD
+SUMMARY:Upper bracket quarterfinal 1: HERO vs EF
 UID:cs-go-iem-beijing-global-qualifier-2026-1643637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,9 +107,9 @@ SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/leniniw
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/leniniw
 DURATION:PT2H
-DTSTART:20260902T122500Z
+DTSTART:20260902T122534Z
 SUMMARY:Upper bracket round 1 match 8: Color vs B8
 UID:cs-go-iem-beijing-global-qualifier-2026-1643636@tournamentics
 END:VEVENT
@@ -121,8 +121,8 @@ SUMMARY:Upper bracket round 1 match 5: BIG vs NEMI
 UID:cs-go-iem-beijing-global-qualifier-2026-1643633@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nResult: MIBR: 1 | Eternal Fire: 2\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260902T123351Z
 DTSTART:20260902T091656Z
 SUMMARY:Upper bracket round 1 match 1: MIBR vs EF
 UID:cs-go-iem-beijing-global-qualifier-2026-1643629@tournamentics
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
 DURATION:PT2H
-DTSTART:20260902T122000Z
+DTSTART:20260902T124000Z
 SUMMARY:Upper bracket round 1 match 7: DENDELE CS vs EYE
 UID:cs-go-iem-beijing-global-qualifier-2026-1643635@tournamentics
 END:VEVENT
