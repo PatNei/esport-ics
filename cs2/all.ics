@@ -998,7 +998,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
-DTSTART:20260902T180000Z
+DTSTART:20260902T183000Z
 SUMMARY:Upper bracket quarterfinal 4: B8 vs EYE
 UID:cs-go-iem-beijing-global-qualifier-2026-1643640@tournamentics
 END:VEVENT
@@ -1451,9 +1451,9 @@ SUMMARY:Round 4: 1WIN vs SPARTA
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648088@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260902T174000Z
+DTSTART:20260902T174825Z
 SUMMARY:Upper bracket round 1 match 14: BG vs LFO UK
 UID:cs-go-esea-advanced-europe-58-2026-1664482@tournamentics
 END:VEVENT
@@ -2095,9 +2095,9 @@ SUMMARY:STA vs G2.A
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648239@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pako_cs
 DURATION:PT2H
-DTSTART:20260902T174000Z
+DTSTART:20260902T174737Z
 SUMMARY:Upper bracket round 1 match 6: banda chuya vs B8.A
 UID:cs-go-esea-advanced-europe-58-2026-1664479@tournamentics
 END:VEVENT
@@ -2837,9 +2837,9 @@ SUMMARY:EAC vs QUA
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648235@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sovushkka
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sovushkka
 DURATION:PT2H
-DTSTART:20260902T174000Z
+DTSTART:20260902T174606Z
 SUMMARY:Upper bracket round 1 match 4: FF vs YL
 UID:cs-go-esea-advanced-europe-58-2026-1664475@tournamentics
 END:VEVENT
@@ -3096,8 +3096,8 @@ SUMMARY:ex-Sangal ALTERS vs Honvéd
 UID:cs-go-esea-advanced-europe-58-2026-1650632@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Falcons Force: 2 | Fraternity: 0\nStream: No official stream linked
+DTEND:20260902T174406Z
 DTSTART:20260902T161851Z
 SUMMARY:Upper bracket round 1 match 11: FAL.F vs FRT
 UID:cs-go-esea-advanced-europe-58-2026-1664485@tournamentics
@@ -5646,7 +5646,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
 DURATION:PT2H
-DTSTART:20260902T180000Z
+DTSTART:20260902T183000Z
 SUMMARY:Upper bracket quarterfinal 3: HOTU vs NEMI
 UID:cs-go-iem-beijing-global-qualifier-2026-1643639@tournamentics
 END:VEVENT
@@ -5934,7 +5934,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T120000Z
-SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 2: K27 vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643649@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6248,7 +6248,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/spyhiddentv
 DURATION:PT2H
-DTSTART:20260902T174000Z
+DTSTART:20260902T175000Z
 SUMMARY:Upper bracket round 1 match 5: DM vs MISA
 UID:cs-go-esea-advanced-europe-58-2026-1664480@tournamentics
 END:VEVENT
@@ -6571,7 +6571,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260905T173000Z
-SUMMARY:Lower bracket round 1 match 6: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 6: FRT vs TBD
 UID:cs-go-esea-advanced-europe-58-2026-1664514@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6638,8 +6638,8 @@ SUMMARY:Semifinal 2: IC.A vs Entropy
 UID:cs-go-esl-challenger-league-europe-cup-5-52-2026-1658142@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nResult: K27: 2 | GamerLegion: 1\nStream: https://www.twitch.tv/Trottah
+DTEND:20260902T175010Z
 DTSTART:20260902T151234Z
 SUMMARY:Lower bracket round 1 match 2: K27 vs GL
 UID:cs-go-iem-beijing-global-qualifier-2026-1643645@tournamentics
@@ -6855,9 +6855,9 @@ SUMMARY:Elimination match: LVKD vs EAC
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648237@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/triborgg1_1
 DURATION:PT2H
-DTSTART:20260902T174000Z
+DTSTART:20260902T174746Z
 SUMMARY:Upper bracket round 1 match 7: VP.P vs KSM
 UID:cs-go-esea-advanced-europe-58-2026-1664477@tournamentics
 END:VEVENT
@@ -7012,7 +7012,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260905T173000Z
-SUMMARY:Upper bracket round 2 match 6: TBD vs TBD
+SUMMARY:Upper bracket round 2 match 6: FAL.F vs TBD
 UID:cs-go-esea-advanced-europe-58-2026-1664500@tournamentics
 END:VEVENT
 BEGIN:VEVENT

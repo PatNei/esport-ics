@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T120000Z
-SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 2: K27 vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643649@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -95,14 +95,14 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
 DURATION:PT2H
-DTSTART:20260902T180000Z
+DTSTART:20260902T183000Z
 SUMMARY:Upper bracket quarterfinal 3: HOTU vs NEMI
 UID:cs-go-iem-beijing-global-qualifier-2026-1643639@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
-DTSTART:20260902T180000Z
+DTSTART:20260902T183000Z
 SUMMARY:Upper bracket quarterfinal 4: B8 vs EYE
 UID:cs-go-iem-beijing-global-qualifier-2026-1643640@tournamentics
 END:VEVENT
@@ -156,8 +156,8 @@ SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nResult: K27: 2 | GamerLegion: 1\nStream: https://www.twitch.tv/Trottah
+DTEND:20260902T175010Z
 DTSTART:20260902T151234Z
 SUMMARY:Lower bracket round 1 match 2: K27 vs GL
 UID:cs-go-iem-beijing-global-qualifier-2026-1643645@tournamentics
