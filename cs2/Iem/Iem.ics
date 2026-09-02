@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T120000Z
-SUMMARY:Lower bracket round 2 match 3: MGC vs TBD
+SUMMARY:Lower bracket round 2 match 3: MGC vs BIG
 UID:cs-go-iem-beijing-global-qualifier-2026-1643650@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -163,8 +163,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-iem-beijing-asian-qualifier-2026-1658094@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nResult: paiN: 0 | BIG: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260902T210156Z
 DTSTART:20260902T192123Z
 SUMMARY:Lower bracket round 1 match 3: paiN vs BIG
 UID:cs-go-iem-beijing-global-qualifier-2026-1643646@tournamentics
