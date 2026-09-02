@@ -68,12 +68,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/21622808
 DURATION:PT2H
 DTSTART:20260902T123000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: NEXVOID vs TBD
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661704@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/21622808
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 2 | Kaleido Gaming: 0\nStream: https://live.bilibili.com/21622808
+DTEND:20260902T050018Z
 DTSTART:20260902T031302Z
 SUMMARY:Lower bracket quarterfinal 1: NEXVOID vs KG
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661701@tournamentics
