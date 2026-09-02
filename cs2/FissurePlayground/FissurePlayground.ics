@@ -12,13 +12,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/21622808
 DURATION:PT2H
 DTSTART:20260903T070000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: RA vs TBD
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661705@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=_LiATawabJc
 DURATION:PT2H
-DTSTART:20260902T120000Z
+DTSTART:20260902T121500Z
 SUMMARY:Lower bracket quarterfinal 2: THE vs CW
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661702@tournamentics
 END:VEVENT
@@ -110,12 +110,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/21622808
 DURATION:PT2H
 DTSTART:20260903T103000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: 5S vs TBD
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661706@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=_LiATawabJc
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Rare Atom: 1 | 5star: 2\nStream: https://www.youtube.com/watch?v=_LiATawabJc
+DTEND:20260902T120912Z
 DTSTART:20260902T092410Z
 SUMMARY:Upper bracket final: RA vs 5S
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661703@tournamentics
