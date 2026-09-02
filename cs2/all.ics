@@ -250,7 +250,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260905T173000Z
-SUMMARY:Lower bracket round 1 match 5: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 5: LPH vs TBD
 UID:cs-go-esea-advanced-europe-58-2026-1664513@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2609,7 +2609,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260905T173000Z
-SUMMARY:Upper bracket round 2 match 5: TBD vs TBD
+SUMMARY:Upper bracket round 2 match 5: XI vs TBD
 UID:cs-go-esea-advanced-europe-58-2026-1664499@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7128,8 +7128,8 @@ SUMMARY:Round of 16 match 1: G2 vs AST
 UID:cs-go-esports-world-cup-2026-1624397@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sanyxxcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: XI Esport: 2 | LPH Gaming: 1\nStream: https://www.twitch.tv/sanyxxcs
+DTEND:20260902T172548Z
 DTSTART:20260902T145005Z
 SUMMARY:Upper bracket round 1 match 10: XI vs LPH
 UID:cs-go-esea-advanced-europe-58-2026-1664487@tournamentics
