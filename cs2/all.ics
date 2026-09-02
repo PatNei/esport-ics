@@ -4345,7 +4345,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T120000Z
-SUMMARY:Lower bracket round 2 match 4: HERO vs TBD
+SUMMARY:Lower bracket round 2 match 4: HERO vs Color
 UID:cs-go-iem-beijing-global-qualifier-2026-1643651@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7464,8 +7464,8 @@ SUMMARY:Diamant Esports vs FOR
 UID:cs-go-esea-advanced-europe-58-2026-1638625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVd
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nResult: Color: 2 | DENDELE CS: 1\nStream: https://www.twitch.tv/watchfulTVd
+DTEND:20260902T205208Z
 DTSTART:20260902T182022Z
 SUMMARY:Lower bracket round 1 match 4: Color vs DENDELE CS
 UID:cs-go-iem-beijing-global-qualifier-2026-1643647@tournamentics
