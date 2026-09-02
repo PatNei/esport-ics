@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260903T060000Z
-SUMMARY:Lower bracket quarterfinal 1: KG vs TBD
+SUMMARY:Lower bracket quarterfinal 1: KG vs FLY
 UID:cs-go-iem-beijing-asian-qualifier-2026-1658100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260903T090000Z
-SUMMARY:Upper bracket final: TYLOO vs TBD
+SUMMARY:Upper bracket final: TYLOO vs RA
 UID:cs-go-iem-beijing-asian-qualifier-2026-1658092@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -51,8 +51,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-iem-beijing-asian-qualifier-2026-1658094@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nResult: FlyQuest: 1 | Rare Atom: 2\nStream: https://kick.com/dutchboycasts
+DTEND:20260902T154920Z
 DTSTART:20260902T122239Z
 SUMMARY:Upper bracket semifinal 2: FLY vs RA
 UID:cs-go-iem-beijing-asian-qualifier-2026-1658091@tournamentics
