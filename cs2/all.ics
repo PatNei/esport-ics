@@ -250,7 +250,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260905T173000Z
-SUMMARY:Lower bracket round 1 match 5: LPH vs TBD
+SUMMARY:Lower bracket round 1 match 5: LPH vs MORROW
 UID:cs-go-esea-advanced-europe-58-2026-1664513@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -961,8 +961,8 @@ SUMMARY:Round 3: G1 vs ex-RUSTEC
 UID:cs-go-cct-europe-series-7-2026-1630700@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nResult: Grêmio Esports: 1 | MEIA NOITE: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260902T191306Z
 DTSTART:20260902T160741Z
 SUMMARY:Round 5: GRE vs MEIA NOITE
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645111@tournamentics
@@ -2609,7 +2609,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260905T173000Z
-SUMMARY:Upper bracket round 2 match 5: XI vs TBD
+SUMMARY:Upper bracket round 2 match 5: XI vs BERG
 UID:cs-go-esea-advanced-europe-58-2026-1664499@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4232,7 +4232,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
-DTSTART:20260902T184500Z
+DTSTART:20260902T191500Z
 SUMMARY:Lower bracket round 1 match 3: paiN vs BIG
 UID:cs-go-iem-beijing-global-qualifier-2026-1643646@tournamentics
 END:VEVENT
@@ -4755,8 +4755,8 @@ SUMMARY:ESB vs FRT
 UID:cs-go-esea-advanced-europe-58-2026-1597635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: MORROW: 0 | Esport BERG: 2\nStream: No official stream linked
+DTEND:20260902T191011Z
 DTSTART:20260902T174244Z
 SUMMARY:Upper bracket round 1 match 9: MORROW vs BERG
 UID:cs-go-esea-advanced-europe-58-2026-1664488@tournamentics
