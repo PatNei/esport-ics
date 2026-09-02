@@ -3204,7 +3204,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260903T060000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: KG vs TBD
 UID:cs-go-iem-beijing-asian-qualifier-2026-1658100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5518,9 +5518,9 @@ SUMMARY:Round 1: Black Phoenix vs ex-ZT
 UID:cs-go-cct-europe-series-8-2026-1651571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260902T103000Z
+DTSTART:20260902T104503Z
 SUMMARY:NAVI.J vs TRAIN
 UID:cs-go-european-pro-league-series-10-play-in-2026-1658044@tournamentics
 END:VEVENT
@@ -6788,7 +6788,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVd
 DURATION:PT2H
 DTSTART:20260902T150000Z
-SUMMARY:Lower bracket round 1 match 2: GL vs TBD
+SUMMARY:Lower bracket round 1 match 2: GL vs K27
 UID:cs-go-iem-beijing-global-qualifier-2026-1643645@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7240,8 +7240,8 @@ SUMMARY:Lower bracket round 3 match 4: TBD vs TBD
 UID:cs-go-esea-advanced-europe-58-2026-1664534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Mikotohero
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nResult: magic: 2 | K27: 0\nStream: https://www.twitch.tv/Mikotohero
+DTEND:20260902T104557Z
 DTSTART:20260902T090631Z
 SUMMARY:Upper bracket round 1 match 3: MGC vs K27
 UID:cs-go-iem-beijing-global-qualifier-2026-1643631@tournamentics
@@ -7331,8 +7331,8 @@ SUMMARY:Round 2: MEIA NOITE vs Semente do Mal
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645089@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nResult: Kaleido Gaming: 2 | The Huns Esports: 0\nStream: No official stream linked
+DTEND:20260902T104247Z
 DTSTART:20260902T090946Z
 SUMMARY:Lower bracket round 1 match 1: KG vs THE
 UID:cs-go-iem-beijing-asian-qualifier-2026-1658102@tournamentics
@@ -8146,7 +8146,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
 DURATION:PT2H
 DTSTART:20260902T150000Z
-SUMMARY:Upper bracket quarterfinal 2: NTR vs TBD
+SUMMARY:Upper bracket quarterfinal 2: NTR vs MGC
 UID:cs-go-iem-beijing-global-qualifier-2026-1643638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
