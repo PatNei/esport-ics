@@ -12,13 +12,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVd
 DURATION:PT2H
 DTSTART:20260902T180000Z
-SUMMARY:Lower bracket round 1 match 4: Color vs TBD
+SUMMARY:Lower bracket round 1 match 4: Color vs DENDELE CS
 UID:cs-go-iem-beijing-global-qualifier-2026-1643647@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
 DURATION:PT2H
-DTSTART:20260902T153000Z
+DTSTART:20260902T160000Z
 SUMMARY:Lower bracket round 1 match 1: MIBR vs 3DMAX
 UID:cs-go-iem-beijing-global-qualifier-2026-1643644@tournamentics
 END:VEVENT
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
 DURATION:PT2H
 DTSTART:20260902T180000Z
-SUMMARY:Upper bracket quarterfinal 4: B8 vs TBD
+SUMMARY:Upper bracket quarterfinal 4: B8 vs EYE
 UID:cs-go-iem-beijing-global-qualifier-2026-1643640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:Upper bracket quarterfinal 2: MGC vs NTR
 UID:cs-go-iem-beijing-global-qualifier-2026-1643638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nResult: DENDELE CS: 1 | EYEBALLERS: 2\nStream: https://www.twitch.tv/esportstudion
+DTEND:20260902T155750Z
 DTSTART:20260902T131032Z
 SUMMARY:Upper bracket round 1 match 7: DENDELE CS vs EYE
 UID:cs-go-iem-beijing-global-qualifier-2026-1643635@tournamentics
