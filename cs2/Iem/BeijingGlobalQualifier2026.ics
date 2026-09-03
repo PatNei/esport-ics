@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T150000Z
-SUMMARY:Lower bracket round 3 match 2: HERO vs TBD
+SUMMARY:Lower bracket round 3 match 2: HERO vs MGC
 UID:cs-go-iem-beijing-global-qualifier-2026-1643653@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Lower bracket round 2 match 2: K27 vs NEMI
 UID:cs-go-iem-beijing-global-qualifier-2026-1643649@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nResult: magic: 2 | BIG: 0\nStream: https://www.twitch.tv/eslcs
+DTEND:20260903T141633Z
 DTSTART:20260903T120613Z
 SUMMARY:Lower bracket round 2 match 3: MGC vs BIG
 UID:cs-go-iem-beijing-global-qualifier-2026-1643650@tournamentics
@@ -145,12 +145,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T150000Z
-SUMMARY:Lower bracket round 3 match 1: K27 vs TBD
+SUMMARY:Lower bracket round 3 match 1: K27 vs MIBR
 UID:cs-go-iem-beijing-global-qualifier-2026-1643652@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nResult: MIBR: 2 | EYEBALLERS: 0\nStream: https://www.twitch.tv/Trottah
+DTEND:20260903T141237Z
 DTSTART:20260903T120433Z
 SUMMARY:Lower bracket round 2 match 1: MIBR vs EYE
 UID:cs-go-iem-beijing-global-qualifier-2026-1643648@tournamentics
