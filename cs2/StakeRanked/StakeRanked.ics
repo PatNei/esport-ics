@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260903T174500Z
+DTSTART:20260903T180000Z
 SUMMARY:Round of 16 match 4: VP vs FNC
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1663805@tournamentics
 END:VEVENT
@@ -128,8 +128,8 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1664400@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 4: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Closed Qualifier 2026\nMatch Type: Best Of\nResult: NIP: 2 | Sangal: 1\nStream: https://kick.com/starladder
+DTEND:20260903T174802Z
 DTSTART:20260903T145218Z
 SUMMARY:Round of 16 match 1: NIP vs SNG
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1663798@tournamentics
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260905T090000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: NIP vs TBD
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1664393@tournamentics
 END:VEVENT
 END:VCALENDAR
