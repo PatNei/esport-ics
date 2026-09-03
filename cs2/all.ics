@@ -613,7 +613,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en
 DURATION:PT2H
-DTSTART:20260903T110000Z
+DTSTART:20260903T111500Z
 SUMMARY:Round of 16 match 4: SASHI vs ASTR
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1651265@tournamentics
 END:VEVENT
@@ -1290,8 +1290,8 @@ SUMMARY:Semifinal 1: OMG vs TD
 UID:cs-go-bro-cyber-league-pro-division-1-2026-1658166@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_pl
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nResult: Phantom: 2 | OG: 1\nStream: https://kick.com/connect_pl
+DTEND:20260903T110116Z
 DTSTART:20260903T080251Z
 SUMMARY:Round of 16 match 6: PHA vs OG
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1651264@tournamentics
@@ -5010,7 +5010,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
 DTSTART:20260904T140000Z
-SUMMARY:Quarterfinal 3: INF vs TBD
+SUMMARY:Quarterfinal 3: INF vs PHA
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1651270@tournamentics
 END:VEVENT
 BEGIN:VEVENT
