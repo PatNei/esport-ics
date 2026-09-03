@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sneakybeakyttv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nResult: Heroic: 2 | Color: 0\nStream: https://www.twitch.tv/sneakybeakyttv
+DTEND:20260903T135632Z
 DTSTART:20260903T120617Z
 SUMMARY:Lower bracket round 2 match 4: HERO vs Color
 UID:cs-go-iem-beijing-global-qualifier-2026-1643651@tournamentics
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260903T150000Z
-SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 2: HERO vs TBD
 UID:cs-go-iem-beijing-global-qualifier-2026-1643653@tournamentics
 END:VEVENT
 BEGIN:VEVENT
