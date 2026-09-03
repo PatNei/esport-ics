@@ -1923,7 +1923,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260905T220000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: IMP vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645125@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2480,8 +2480,8 @@ SUMMARY:Round 1: PCIFIC vs JustP
 UID:cs-go-cct-europe-series-7-2026-1630678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/21622808
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: 5star: 2 | Chinggis Warriors: 0\nStream: https://live.bilibili.com/21622808
+DTEND:20260903T144017Z
 DTSTART:20260903T125358Z
 SUMMARY:Grand final: 5S vs CW
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661706@tournamentics
@@ -4734,8 +4734,8 @@ SUMMARY:Round of 16 match 2: INF vs NTR
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1663800@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nResult: Imperial: 2 | BESTIA Academy: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260903T143751Z
 DTSTART:20260903T130334Z
 SUMMARY:Round of 16 match 8: IMP vs BST.A
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645121@tournamentics
