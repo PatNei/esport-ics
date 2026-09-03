@@ -1272,7 +1272,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260903T140000Z
-SUMMARY:Grand final: 3DMAX vs TBD
+SUMMARY:Grand final: 3DMAX vs HOTU
 UID:cs-go-nodwin-clutch-series-11-2026-1633306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1969,8 +1969,8 @@ SUMMARY:IC.A vs OBOYS
 UID:cs-go-esea-advanced-europe-58-2026-1622135@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Team Nemesis: 0 | HOTU: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260903T125622Z
 DTSTART:20260903T110334Z
 SUMMARY:Semifinal 2: NEM vs HOTU
 UID:cs-go-nodwin-clutch-series-11-2026-1633305@tournamentics
@@ -4629,9 +4629,9 @@ SUMMARY:Round of 16 match 2: INF vs NTR
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1663800@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260903T130000Z
+DTSTART:20260903T130334Z
 SUMMARY:Round of 16 match 8: IMP vs BST.A
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645121@tournamentics
 END:VEVENT

@@ -264,7 +264,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260903T140000Z
-SUMMARY:Grand final: 3DMAX vs TBD
+SUMMARY:Grand final: 3DMAX vs HOTU
 UID:cs-go-nodwin-clutch-series-11-2026-1633306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -408,8 +408,8 @@ SUMMARY:Round 5: SPARTA vs Honvéd
 UID:cs-go-nodwin-clutch-series-11-2026-1633280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Team Nemesis: 0 | HOTU: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260903T125622Z
 DTSTART:20260903T110334Z
 SUMMARY:Semifinal 2: NEM vs HOTU
 UID:cs-go-nodwin-clutch-series-11-2026-1633305@tournamentics
