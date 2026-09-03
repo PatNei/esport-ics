@@ -2,10 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 11 2026\nMatch Type: Best Of\nResult: Ryvex: 2 | Coalesce: 0\nStream: https://www.twitch.tv/UKICircuit2
+DTEND:20260820T191948Z
+DTSTART:20260820T180324Z
+SUMMARY:Lower bracket semifinal: Ryvex vs CLS
+UID:cs-go-ukic-masters-division-11-2026-1644110@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
 DURATION:PT2H
 DTSTART:20260919T150000Z
 SUMMARY:Grand final: TLR vs Ryvex
 UID:cs-go-ukic-masters-division-11-2026-1651259@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 11 2026\nMatch Type: Best Of\nResult: Ryvex: 2 | Privateer Gaming: 1\nStream: https://www.twitch.tv/UKICircuit
+DTEND:20260825T210000Z
+DTSTART:20260825T180000Z
+SUMMARY:Lower bracket final: Ryvex vs PG
+UID:cs-go-ukic-masters-division-11-2026-1644122@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 11 2026\nMatch Type: Best Of\nResult: The Last Resort: 2 | Privateer Gaming: 0\nStream: https://www.twitch.tv/UKICircuit
+DTEND:20260820T200230Z
+DTSTART:20260820T180738Z
+SUMMARY:Upper bracket final: TLR vs PG
+UID:cs-go-ukic-masters-division-11-2026-1644111@tournamentics
 END:VEVENT
 END:VCALENDAR
