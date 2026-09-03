@@ -2,25 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
-DURATION:PT2H
-DTSTART:20260908T030000Z
-SUMMARY:Upper bracket quarterfinal 1: 9z vs TBD
-UID:cs-go-fissure-playground-3-2026-1654283@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Rare Atom: 1 | Chinggis Warriors: 2\nStream: https://live.bilibili.com/21622808
-DTEND:20260903T115242Z
-DTSTART:20260903T090758Z
-SUMMARY:Lower bracket final: RA vs CW
-UID:cs-go-fissure-playground-asian-qualifier-2026-1661705@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 1 | Chinggis Warriors: 2\nStream: https://www.youtube.com/watch?v=_LiATawabJc
-DTEND:20260902T151024Z
-DTSTART:20260902T123443Z
-SUMMARY:Lower bracket quarterfinal 2: THE vs CW
-UID:cs-go-fissure-playground-asian-qualifier-2026-1661702@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Rare Atom: 1 | 5star: 2\nStream: https://www.youtube.com/watch?v=_LiATawabJc
+DTEND:20260902T120912Z
+DTSTART:20260902T092410Z
+SUMMARY:Upper bracket final: RA vs 5S
+UID:cs-go-fissure-playground-asian-qualifier-2026-1661703@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 2 | Just Swing: 0\nStream: https://kick.com/dutchboycasts
@@ -30,11 +16,11 @@ SUMMARY:Lower bracket round 1 match 2: CW vs JS
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661698@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
-DURATION:PT2H
-DTSTART:20260908T053000Z
-SUMMARY:Upper bracket quarterfinal 2: MIBR vs MGLZ
-UID:cs-go-fissure-playground-3-2026-1660046@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: 5star: 2 | NEXVOID: 1\nStream: https://kick.com/dutchboycasts
+DTEND:20260901T132700Z
+DTSTART:20260901T105544Z
+SUMMARY:Upper bracket semifinal 2: 5S vs NEXVOID
+UID:cs-go-fissure-playground-asian-qualifier-2026-1661700@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: 5star: 2 | Chinggis Warriors: 0\nStream: https://live.bilibili.com/21622808
@@ -44,11 +30,11 @@ SUMMARY:Upper bracket quarterfinal 4: 5S vs CW
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661695@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
-DURATION:PT2H
-DTSTART:20260908T080000Z
-SUMMARY:Upper bracket quarterfinal 2: ALL vs FaZe
-UID:cs-go-fissure-playground-3-2026-1660043@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Rare Atom: 1 | Chinggis Warriors: 2\nStream: https://live.bilibili.com/21622808
+DTEND:20260903T115242Z
+DTSTART:20260903T090758Z
+SUMMARY:Lower bracket final: RA vs CW
+UID:cs-go-fissure-playground-asian-qualifier-2026-1661705@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 2 | Just Swing: 1\nStream: https://live.bilibili.com/21622808
@@ -65,25 +51,11 @@ SUMMARY:Upper bracket quarterfinal 1: THE vs Staqued
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661688@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 0 | Chinggis Warriors: 2\nStream: https://live.bilibili.com/21622808
-DTEND:20260903T082003Z
-DTSTART:20260903T061224Z
-SUMMARY:Lower bracket semifinal: NEXVOID vs CW
-UID:cs-go-fissure-playground-asian-qualifier-2026-1661704@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 2 | Kaleido Gaming: 0\nStream: https://live.bilibili.com/21622808
-DTEND:20260902T050018Z
-DTSTART:20260902T031302Z
-SUMMARY:Lower bracket quarterfinal 1: NEXVOID vs KG
-UID:cs-go-fissure-playground-asian-qualifier-2026-1661701@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
-DURATION:PT2H
-DTSTART:20260908T080000Z
-SUMMARY:Upper bracket quarterfinal 4: BIG vs BB
-UID:cs-go-fissure-playground-3-2026-1660048@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 1 | Chinggis Warriors: 2\nStream: https://www.youtube.com/watch?v=_LiATawabJc
+DTEND:20260902T151024Z
+DTSTART:20260902T123443Z
+SUMMARY:Lower bracket quarterfinal 2: THE vs CW
+UID:cs-go-fissure-playground-asian-qualifier-2026-1661702@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Staqued: 0 | Kaleido Gaming: 2\nStream: https://kick.com/dutchboycasts
@@ -93,39 +65,11 @@ SUMMARY:Lower bracket round 1 match 1: Staqued vs KG
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661697@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
-DURATION:PT2H
-DTSTART:20260908T053000Z
-SUMMARY:Upper bracket quarterfinal 4: GL vs FURIA
-UID:cs-go-fissure-playground-3-2026-1660045@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
-DURATION:PT2H
-DTSTART:20260908T030000Z
-SUMMARY:Upper bracket quarterfinal 1: LGC vs MGC
-UID:cs-go-fissure-playground-3-2026-1660042@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: 5star: 2 | Chinggis Warriors: 0\nStream: https://live.bilibili.com/21622808
-DTEND:20260903T144017Z
-DTSTART:20260903T125358Z
-SUMMARY:Grand final: 5S vs CW
-UID:cs-go-fissure-playground-asian-qualifier-2026-1661706@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Rare Atom: 1 | 5star: 2\nStream: https://www.youtube.com/watch?v=_LiATawabJc
-DTEND:20260902T120912Z
-DTSTART:20260902T092410Z
-SUMMARY:Upper bracket final: RA vs 5S
-UID:cs-go-fissure-playground-asian-qualifier-2026-1661703@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: 5star: 2 | NEXVOID: 1\nStream: https://kick.com/dutchboycasts
-DTEND:20260901T132700Z
-DTSTART:20260901T105544Z
-SUMMARY:Upper bracket semifinal 2: 5S vs NEXVOID
-UID:cs-go-fissure-playground-asian-qualifier-2026-1661700@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 0 | Chinggis Warriors: 2\nStream: https://live.bilibili.com/21622808
+DTEND:20260903T082003Z
+DTSTART:20260903T061224Z
+SUMMARY:Lower bracket semifinal: NEXVOID vs CW
+UID:cs-go-fissure-playground-asian-qualifier-2026-1661704@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 1 | Rare Atom: 2\nStream: https://kick.com/dutchboycasts
@@ -135,18 +79,18 @@ SUMMARY:Upper bracket semifinal 1: THE vs RA
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661699@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
-DURATION:PT2H
-DTSTART:20260908T103000Z
-SUMMARY:Upper bracket quarterfinal 3: G2 vs AST
-UID:cs-go-fissure-playground-3-2026-1660047@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 2 | Kaleido Gaming: 0\nStream: https://live.bilibili.com/21622808
+DTEND:20260902T050018Z
+DTSTART:20260902T031302Z
+SUMMARY:Lower bracket quarterfinal 1: NEXVOID vs KG
+UID:cs-go-fissure-playground-asian-qualifier-2026-1661701@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
-DURATION:PT2H
-DTSTART:20260908T103000Z
-SUMMARY:Upper bracket quarterfinal 3: PRV vs TYLOO
-UID:cs-go-fissure-playground-3-2026-1660044@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: 5star: 2 | Chinggis Warriors: 0\nStream: https://live.bilibili.com/21622808
+DTEND:20260903T144017Z
+DTSTART:20260903T125358Z
+SUMMARY:Grand final: 5S vs CW
+UID:cs-go-fissure-playground-asian-qualifier-2026-1661706@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Rare Atom: 2 | Kaleido Gaming: 1\nStream: https://live.bilibili.com/21622808
