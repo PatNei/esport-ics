@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260904T120000Z
-SUMMARY:Grand final: TYLOO vs TBD
+SUMMARY:Grand final: TYLOO vs FLY
 UID:cs-go-iem-beijing-asian-qualifier-2026-1658094@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -86,8 +86,8 @@ SUMMARY:Upper bracket quarterfinal 4: RA vs LVG
 UID:cs-go-iem-beijing-asian-qualifier-2026-1658086@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Beijing: Asian Qualifier 2026\nMatch Type: Best Of\nResult: Rare Atom: 1 | FlyQuest: 2\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260903T155940Z
 DTSTART:20260903T121119Z
 SUMMARY:Lower bracket final: RA vs FLY
 UID:cs-go-iem-beijing-asian-qualifier-2026-1658098@tournamentics
