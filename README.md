@@ -551,6 +551,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 </details>
 
 <details>
+<summary>NSTLGA League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NstlgaLeague/NstlgaLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NstlgaLeague/NstlgaLeague.ics
+```
+
+---
+
+### Season 2 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NstlgaLeague/Season22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NstlgaLeague/Season22026.ics
+```
+
+</details>
+
+<details>
 <summary>Stake Ranked</summary>
 
 ### Full Schedule
