@@ -565,6 +565,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NstlgaLeague/Season
 </details>
 
 <details>
+<summary>PGL Masters</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/PglMasters.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/PglMasters.ics
+```
+
+---
+
+### European Open Qualifier #1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/EuropeanOpenQualifier12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/EuropeanOpenQualifier12026.ics
+```
+
+</details>
+
+<details>
 <summary>Stake Ranked</summary>
 
 ### Full Schedule
