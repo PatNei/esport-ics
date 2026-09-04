@@ -509,7 +509,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260905T220000Z
-SUMMARY:Quarterfinal 4: IMP vs TBD
+SUMMARY:Quarterfinal 4: IMP vs PLD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645125@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2475,7 +2475,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260904T160000Z
+DTSTART:20260904T161500Z
 SUMMARY:Round of 16 match 2: MW vs ODK
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645114@tournamentics
 END:VEVENT
@@ -3463,7 +3463,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260905T140000Z
-SUMMARY:Semifinal 1: TS vs TBD
+SUMMARY:Semifinal 1: TS vs FAL
 UID:cs-go-blast-open-porto-fall-2026-1640213@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3495,8 +3495,8 @@ SUMMARY:BIG.A vs REV
 UID:cs-go-dach-cs-masters-6-2026-1661620@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nResult: Isurus: 1 | Peladona: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260904T160549Z
 DTSTART:20260904T130422Z
 SUMMARY:Round of 16 match 7: ISG vs PLD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645120@tournamentics
@@ -8234,8 +8234,8 @@ SUMMARY:Upper bracket semifinal 2: 5S vs NEXVOID
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661700@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: Team Falcons: 2 | G2: 0\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260904T160424Z
 DTSTART:20260904T140810Z
 SUMMARY:Quarterfinal 1: FAL vs G2
 UID:cs-go-blast-open-porto-fall-2026-1640211@tournamentics
