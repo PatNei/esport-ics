@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nResult: ILLYRIANS: 1 | Fire Flux Esports: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260904T104410Z
 DTSTART:20260904T081112Z
 SUMMARY:Elimination match: ILLYR vs FF
 UID:cs-go-european-pro-league-series-10-play-in-2026-1658035@tournamentics
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260909T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: FF vs TBD
 UID:cs-go-european-pro-league-series-10-play-in-2026-1658037@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260904T103000Z
+DTSTART:20260904T110000Z
 SUMMARY:Winners match: SINQU vs mellren
 UID:cs-go-european-pro-league-series-10-play-in-2026-1658036@tournamentics
 END:VEVENT

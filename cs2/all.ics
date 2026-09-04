@@ -382,7 +382,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260904T103000Z
+DTSTART:20260904T110000Z
 SUMMARY:Winners match: SINQU vs mellren
 UID:cs-go-european-pro-league-series-10-play-in-2026-1658036@tournamentics
 END:VEVENT
@@ -1136,8 +1136,8 @@ SUMMARY:BW vs PHTM.Ac
 UID:cs-go-esea-advanced-europe-58-2026-1608777@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nResult: Sinners: 1 | QUAZAR: 2\nStream: https://www.twitch.tv/connect_en
+DTEND:20260904T104134Z
 DTSTART:20260904T081018Z
 SUMMARY:Quarterfinal 4: SIN vs QUA
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1651271@tournamentics
@@ -2592,8 +2592,8 @@ SUMMARY:NEXORA vs ZOTIX
 UID:cs-go-esea-advanced-europe-58-2026-1638632@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nResult: ILLYRIANS: 1 | Fire Flux Esports: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260904T104410Z
 DTSTART:20260904T081112Z
 SUMMARY:Elimination match: ILLYR vs FF
 UID:cs-go-european-pro-league-series-10-play-in-2026-1658035@tournamentics
@@ -5101,7 +5101,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/connect_en
 DURATION:PT2H
 DTSTART:20260905T170000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: QUA vs TBD
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1651273@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6683,7 +6683,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260909T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: FF vs TBD
 UID:cs-go-european-pro-league-series-10-play-in-2026-1658037@tournamentics
 END:VEVENT
 BEGIN:VEVENT
