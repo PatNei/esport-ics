@@ -68,6 +68,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 
 ---
 
+### Series #7 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series72026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series72026.ics
+```
+
 ### Series #8 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series82026.ics)
 
@@ -315,6 +322,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/E
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series10PlayIn2026.ics
+```
+
+</details>
+
+<details>
+<summary>Exort Fiesta</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/ExortFiesta.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/ExortFiesta.ics
+```
+
+---
+
+### Season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/Season12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/Season12026.ics
 ```
 
 </details>
