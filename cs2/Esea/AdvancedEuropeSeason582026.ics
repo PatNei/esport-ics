@@ -1160,7 +1160,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260905T173000Z
-SUMMARY:Lower bracket round 1 match 1: ESB vs TBD
+SUMMARY:Lower bracket round 1 match 1: ESB vs ENRAGE
 UID:cs-go-esea-advanced-europe-58-2026-1664509@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1234,8 +1234,8 @@ SUMMARY:OLDBOYS PL vs NoTime
 UID:cs-go-esea-advanced-europe-58-2026-1631164@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgfbailey
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Drama eSports: 2 | ENRAGE: 0\nStream: https://www.twitch.tv/pgfbailey
+DTEND:20260904T184320Z
 DTSTART:20260904T171653Z
 SUMMARY:Upper bracket round 1 match 1: DRAMA vs ENRAGE
 UID:cs-go-esea-advanced-europe-58-2026-1664473@tournamentics
@@ -1412,7 +1412,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260905T173000Z
-SUMMARY:Upper bracket round 2 match 1: NEXORA vs TBD
+SUMMARY:Upper bracket round 2 match 1: NEXORA vs DRAMA
 UID:cs-go-esea-advanced-europe-58-2026-1664495@tournamentics
 END:VEVENT
 BEGIN:VEVENT
