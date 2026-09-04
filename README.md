@@ -583,6 +583,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/PglMaste
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/EuropeanOpenQualifier12026.ics
 ```
 
+### South American Open Qualifier #1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/SouthAmericanOpenQualifier12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/SouthAmericanOpenQualifier12026.ics
+```
+
 </details>
 
 <details>
