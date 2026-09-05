@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260906T180000Z
-SUMMARY:Semifinal 2: BHE vs TBD
+SUMMARY:Semifinal 2: BHE vs IMP
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645127@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -191,16 +191,16 @@ SUMMARY:Round 3: PCY vs Zetta Games
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645099@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nResult: Peladona: 1 | Imperial: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260905T220947Z
 DTSTART:20260905T190301Z
 SUMMARY:Quarterfinal 4: PLD vs IMP
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645125@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260905T223000Z
+DTSTART:20260905T222405Z
 SUMMARY:Quarterfinal 1: GLS vs ODK
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645122@tournamentics
 END:VEVENT

@@ -625,6 +625,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/PglMaste
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/BucharestEuropeanOpenQualifier12026.ics
 ```
 
+### Bucharest: European Open Qualifier #2 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/BucharestEuropeanOpenQualifier22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/BucharestEuropeanOpenQualifier22026.ics
+```
+
 ### Bucharest: North American Open Qualifier #1 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/BucharestNorthAmericanOpenQualifier12026.ics)
 
@@ -637,13 +644,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/Buchares
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/BucharestSouthAmericanOpenQualifier12026.ics
-```
-
-### European Open Qualifier #2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/EuropeanOpenQualifier22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/EuropeanOpenQualifier22026.ics
 ```
 
 </details>
