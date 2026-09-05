@@ -2,6 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
+DURATION:PT2H
+DTSTART:20260907T170000Z
+SUMMARY:RGG vs REV
+UID:cs-go-exort-fiesta-closed-qualifier-series-2-2026-1673546@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
+DURATION:PT2H
+DTSTART:20260907T110000Z
+SUMMARY:A Great Chaos vs DNK
+UID:cs-go-exort-fiesta-closed-qualifier-series-2-2026-1673543@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 2 | INOX Division: 0\nStream: https://kick.com/fiesta_cs
 DTEND:20260830T091225Z
 DTSTART:20260830T071209Z
@@ -98,6 +112,13 @@ DTEND:20260818T185551Z
 DTSTART:20260818T171220Z
 SUMMARY:Round 1: Honvéd vs Noir Verse
 UID:cs-go-exort-fiesta-1-2026-1632616@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
+DURATION:PT2H
+DTSTART:20260907T080000Z
+SUMMARY:Morrow Esports vs KSM
+UID:cs-go-exort-fiesta-closed-qualifier-series-2-2026-1673545@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: ENCE: 2 | Mai Tai: 1\nStream: https://kick.com/fiesta_cs
@@ -203,6 +224,13 @@ DTEND:20260818T161522Z
 DTSTART:20260818T142950Z
 SUMMARY:Round 1: ex-ZT vs VEX
 UID:cs-go-exort-fiesta-1-2026-1632615@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
+DURATION:PT2H
+DTSTART:20260907T140000Z
+SUMMARY:BIG.A vs TrafficPills Esports
+UID:cs-go-exort-fiesta-closed-qualifier-series-2-2026-1673544@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 1 2026\nMatch Type: Best Of\nResult: Sashi Esport: 1 | INOX Division: 2\nStream: https://kick.com/fiesta_cs
