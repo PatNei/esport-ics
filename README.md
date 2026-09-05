@@ -604,6 +604,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/Buchares
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/BucharestSouthAmericanOpenQualifier12026.ics
 ```
 
+### European Open Qualifier #2 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/EuropeanOpenQualifier22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/EuropeanOpenQualifier22026.ics
+```
+
 </details>
 
 <details>
