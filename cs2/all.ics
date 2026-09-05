@@ -555,9 +555,9 @@ SUMMARY:Lower bracket quarterfinal 1: K27 vs EF
 UID:cs-go-iem-beijing-global-qualifier-2026-1643654@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nutorious_gg
+DESCRIPTION:🔴 LIVE NOW\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nutorious_gg
 DURATION:PT2H
-DTSTART:20260905T000000Z
+DTSTART:20260905T000917Z
 SUMMARY:Round 2: NT vs Beyond Limits
 UID:cs-go-nstlga-league-2-2026-1669700@tournamentics
 END:VEVENT
@@ -711,7 +711,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260905T003000Z
+DTSTART:20260905T010000Z
 SUMMARY:Semifinal 2: IMP vs TBD
 UID:cs-go-pgl-masters-bucharest-south-american-open-qualifier-1-2026-1670353@tournamentics
 END:VEVENT
@@ -2923,7 +2923,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260905T003000Z
+DTSTART:20260905T010000Z
 SUMMARY:Semifinal 1: FXW7 vs TBD
 UID:cs-go-pgl-masters-bucharest-south-american-open-qualifier-1-2026-1670352@tournamentics
 END:VEVENT
@@ -5581,8 +5581,8 @@ SUMMARY:Upper bracket quarterfinal 4: FAL vs LVG
 UID:cs-go-blast-open-porto-fall-2026-1640202@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JTMythic
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nResult: LAG Gaming: 1 | Detonate: 0\nStream: https://www.twitch.tv/JTMythic
+DTEND:20260905T001121Z
 DTSTART:20260904T231135Z
 SUMMARY:Round 2: LAG vs DTN
 UID:cs-go-nstlga-league-2-2026-1669695@tournamentics
@@ -7212,9 +7212,9 @@ SUMMARY:UUST vs GE
 UID:cs-go-esea-advanced-europe-58-2026-1633152@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nstlga_gg
+DESCRIPTION:🔴 LIVE NOW\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nstlga_gg
 DURATION:PT2H
-DTSTART:20260905T000000Z
+DTSTART:20260905T001225Z
 SUMMARY:Round 2: VIL vs OT
 UID:cs-go-nstlga-league-2-2026-1669698@tournamentics
 END:VEVENT
