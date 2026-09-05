@@ -1628,7 +1628,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
 DURATION:PT2H
-DTSTART:20260908T053000Z
+DTSTART:20260908T120000Z
 SUMMARY:Upper bracket quarterfinal 4: GL vs FURIA
 UID:cs-go-fissure-playground-3-2026-1660045@tournamentics
 END:VEVENT
@@ -2749,7 +2749,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260909T173000Z
-SUMMARY:Lower bracket round 2 match 6: JUMBO vs TBD
+SUMMARY:Lower bracket round 2 match 6: JUMBO vs banda chuya
 UID:cs-go-esea-advanced-europe-58-2026-1664522@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3259,7 +3259,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
 DURATION:PT2H
-DTSTART:20260908T080000Z
+DTSTART:20260908T090000Z
 SUMMARY:Upper bracket quarterfinal 4: BIG vs BB
 UID:cs-go-fissure-playground-3-2026-1660048@tournamentics
 END:VEVENT
@@ -4015,7 +4015,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
 DURATION:PT2H
-DTSTART:20260908T103000Z
+DTSTART:20260908T090000Z
 SUMMARY:Upper bracket quarterfinal 3: PRV vs TYLOO
 UID:cs-go-fissure-playground-3-2026-1660044@tournamentics
 END:VEVENT
@@ -5730,7 +5730,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
 DURATION:PT2H
-DTSTART:20260908T103000Z
+DTSTART:20260908T120000Z
 SUMMARY:Upper bracket quarterfinal 3: G2 vs AST
 UID:cs-go-fissure-playground-3-2026-1660047@tournamentics
 END:VEVENT
@@ -6347,7 +6347,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260909T173000Z
-SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 2: DM vs TBD
 UID:cs-go-esea-advanced-europe-58-2026-1664504@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6493,7 +6493,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
 DURATION:PT2H
-DTSTART:20260908T080000Z
+DTSTART:20260908T060000Z
 SUMMARY:Upper bracket quarterfinal 2: ALL vs FaZe
 UID:cs-go-fissure-playground-3-2026-1660043@tournamentics
 END:VEVENT
@@ -7408,8 +7408,8 @@ SUMMARY:NEXORA vs FAST LAYNERS
 UID:cs-go-esea-advanced-europe-58-2026-1610254@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pako_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: banda chuya: 0 | Dark Moon: 2\nStream: https://www.twitch.tv/pako_cs
+DTEND:20260905T164415Z
 DTSTART:20260905T152157Z
 SUMMARY:Upper bracket round 2 match 3: banda chuya vs DM
 UID:cs-go-esea-advanced-europe-58-2026-1664497@tournamentics
@@ -8068,7 +8068,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
 DURATION:PT2H
-DTSTART:20260908T053000Z
+DTSTART:20260908T060000Z
 SUMMARY:Upper bracket quarterfinal 2: MIBR vs MGLZ
 UID:cs-go-fissure-playground-3-2026-1660046@tournamentics
 END:VEVENT
