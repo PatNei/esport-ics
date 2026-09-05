@@ -87,6 +87,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series820
 ## C Tier
 
 <details>
+<summary>1win</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/1win/1win.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/1win/1win.ics
+```
+
+---
+
+### Private Club #1: Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/1win/PrivateClub1ClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/1win/PrivateClub1ClosedQualifier2026.ics
+```
+
+</details>
+
+<details>
 <summary>CCT South America</summary>
 
 ### Full Schedule
