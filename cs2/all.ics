@@ -1314,7 +1314,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260909T103000Z
-SUMMARY:Decider match: EP vs TBD
+SUMMARY:Decider match: EP vs FAL.F
 UID:cs-go-european-pro-league-series-10-play-in-2026-1658042@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3635,8 +3635,8 @@ SUMMARY:Round 3: Leo vs HAVU
 UID:cs-go-cct-europe-series-7-2026-1630696@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 10 Play-In 2026\nMatch Type: Best Of\nResult: Falcons Force: 0 | Misa Esports: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260905T125440Z
 DTSTART:20260905T105026Z
 SUMMARY:Winners match: FAL.F vs MISA
 UID:cs-go-european-pro-league-series-10-play-in-2026-1658041@tournamentics
