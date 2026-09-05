@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL Masters - Bucharest: North American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL Masters - Bucharest: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Marsborne: 2 | The Homies: 0\nStream: No official stream linked
+DTEND:20260905T020438Z
 DTSTART:20260905T011237Z
 SUMMARY:Quarterfinal 1: MARS vs The Homies
 UID:cs-go-pgl-masters-bucharest-north-american-open-qualifier-1-2026-1670354@tournamentics
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: North American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260905T033000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: MARS vs TBD
 UID:cs-go-pgl-masters-bucharest-north-american-open-qualifier-1-2026-1670358@tournamentics
 END:VEVENT
 BEGIN:VEVENT
