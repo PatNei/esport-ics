@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL Masters - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/raixt84
 DURATION:PT2H
-DTSTART:20260905T003000Z
+DTSTART:20260905T004116Z
 SUMMARY:Semifinal 2: IMP vs BHE
 UID:cs-go-pgl-masters-bucharest-south-american-open-qualifier-1-2026-1670353@tournamentics
 END:VEVENT
@@ -81,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260905T003000Z
+DTSTART:20260905T004000Z
 SUMMARY:Semifinal 1: FXW7 vs TdP
 UID:cs-go-pgl-masters-bucharest-south-american-open-qualifier-1-2026-1670352@tournamentics
 END:VEVENT
