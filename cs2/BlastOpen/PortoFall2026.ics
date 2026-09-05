@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260906T140000Z
-SUMMARY:Grand final: TS vs TBD
+SUMMARY:Grand final: TS vs MOUZ
 UID:cs-go-blast-open-porto-fall-2026-1640215@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +170,8 @@ SUMMARY:Upper bracket quarterfinal 2: TS vs DENDELE CS
 UID:cs-go-blast-open-porto-fall-2026-1640188@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: MOUZ: 2 | Vitality: 0\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260905T184345Z
 DTSTART:20260905T165252Z
 SUMMARY:Semifinal 2: MOUZ vs VIT
 UID:cs-go-blast-open-porto-fall-2026-1640214@tournamentics
