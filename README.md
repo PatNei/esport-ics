@@ -520,13 +520,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MoscowCyberGames/Mo
 
 ---
 
-### Asian Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MoscowCyberGames/AsianQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MoscowCyberGames/AsianQualifier2026.ics
-```
-
 ### European Qualifier 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MoscowCyberGames/EuropeanQualifier2026.ics)
 
