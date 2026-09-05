@@ -1538,7 +1538,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260909T173000Z
-SUMMARY:Upper bracket quarterfinal 4: NAVI.J vs TBD
+SUMMARY:Upper bracket quarterfinal 4: NAVI.J vs OLDBOYS PL
 UID:cs-go-esea-advanced-europe-58-2026-1664506@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2284,8 +2284,8 @@ SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-dach-cs-masters-6-2026-1661661@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/byalli
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: OLDBOYS PL: 2 | WBT Academy: 0\nStream: https://www.twitch.tv/byalli
+DTEND:20260905T201223Z
 DTSTART:20260905T174839Z
 SUMMARY:Upper bracket round 2 match 8: OLDBOYS PL vs WBT.A
 UID:cs-go-esea-advanced-europe-58-2026-1664502@tournamentics
@@ -8419,7 +8419,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260909T173000Z
-SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 1: WBT.A vs TBD
 UID:cs-go-esea-advanced-europe-58-2026-1664517@tournamentics
 END:VEVENT
 BEGIN:VEVENT
