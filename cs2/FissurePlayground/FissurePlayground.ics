@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
+DURATION:PT2H
+DTSTART:20260908T030000Z
+SUMMARY:Upper bracket quarterfinal 1: 9z vs 5S
+UID:cs-go-fissure-playground-3-2026-1654283@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Asian Qualifier 2026\nMatch Type: Best Of\nResult: Rare Atom: 1 | Chinggis Warriors: 2\nStream: https://live.bilibili.com/21622808
 DTEND:20260903T115242Z
 DTSTART:20260903T090758Z
