@@ -681,18 +681,18 @@ SUMMARY:Round 2: PCIFIC vs Drip Too Hard
 UID:cs-go-cct-europe-series-7-2026-1630688@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #9 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
-DURATION:PT2H
-DTSTART:20260906T182317Z
-SUMMARY:Upper Bracket Round 1 Match 5: TitanFlow vs valarmorghulis
-UID:cs-go-cct-europe-contenders-9-2026-1672278@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260912T134500Z
 SUMMARY:Lower Bracket Semifinal: TBD vs TBD
 UID:cs-go-cct-europe-challengers-series-6-2026-1669130@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #9 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DURATION:PT2H
+DTSTART:20260906T182317Z
+SUMMARY:Upper Bracket Round 1 Match 5: TitanFlow vs valarmorghulis
+UID:cs-go-cct-europe-contenders-9-2026-1672278@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #7 2026\nMatch Type: Best Of\nResult: Drip Too Hard: 0 | HyperSpirit: 2\nStream: https://kick.com/cct_cs
@@ -907,7 +907,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #9 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs7
 DURATION:PT2H
-DTSTART:20260906T181500Z
+DTSTART:20260906T190000Z
 SUMMARY:Upper Bracket Round 1 Match 7: M33 vs DINERO
 UID:cs-go-cct-europe-contenders-9-2026-1672280@tournamentics
 END:VEVENT
@@ -933,6 +933,13 @@ SUMMARY:Round 1: MSC vs BBP
 UID:cs-go-cct-europe-series-7-2026-1630679@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260907T134500Z
+SUMMARY:Upper Bracket Quarterfinal 1: BW vs NAVI.J
+UID:cs-go-cct-europe-challengers-series-6-2026-1669121@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260907T080000Z
@@ -945,13 +952,6 @@ DTEND:20260828T144521Z
 DTSTART:20260828T112235Z
 SUMMARY:Elimination match: MISA vs ILLYR
 UID:cs-go-cct-europe-closed-qualifier-series-8-2026-1651282@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260907T134500Z
-SUMMARY:Upper Bracket Quarterfinal 1: BW vs NAVI.J
-UID:cs-go-cct-europe-challengers-series-6-2026-1669121@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2

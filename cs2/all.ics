@@ -877,7 +877,7 @@ SUMMARY:Upper bracket round 1 match 12: ZOTIX vs JUMBO
 UID:cs-go-esea-advanced-europe-58-2026-1664486@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nstlga_gg
 DURATION:PT2H
 DTSTART:20260906T190000Z
 SUMMARY:Round 4: WG vs WaR
@@ -1717,18 +1717,18 @@ SUMMARY:Upper bracket round 1 match 6: Unreal Nightmare  vs For Fun v4
 UID:cs-go-frag-midwest-st-louis-2026-1657293@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Not A Squad Esports: 2 | Banzai: 0\nStream: No official stream linked
-DTEND:20260826T151100Z
-DTSTART:20260826T130735Z
-SUMMARY:Lower bracket round 1 match 1: NAS vs Banzai
-UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650462@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260908T110000Z
 SUMMARY:Lower Bracket Round 1 Match 4: S-B vs FF
 UID:cs-go-cct-europe-challengers-series-6-2026-1669146@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Not A Squad Esports: 2 | Banzai: 0\nStream: No official stream linked
+DTEND:20260826T151100Z
+DTSTART:20260826T130735Z
+SUMMARY:Lower bracket round 1 match 1: NAS vs Banzai
+UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650462@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2305,8 +2305,8 @@ SUMMARY:Round 2: PERM vs VEX
 UID:cs-go-exort-fiesta-1-2026-1632626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/snagshotxdd
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nResult: Permitta Esports: 2 | A Great Chaos: 0\nStream: https://www.twitch.tv/snagshotxdd
+DTEND:20260906T184405Z
 DTSTART:20260906T170941Z
 SUMMARY:Winners Match: PERM vs A Great Chaos
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672212@tournamentics
@@ -2522,7 +2522,7 @@ SUMMARY:Lower Bracket Round 2 Match 2: TBD vs TBD
 UID:cs-go-cct-europe-challengers-series-6-2026-1669142@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/byndlimits
 DURATION:PT2H
 DTSTART:20260906T190000Z
 SUMMARY:Round 4: IOWA vs Beyond Limits
@@ -2884,13 +2884,6 @@ DTEND:20260806T191809Z
 DTSTART:20260806T184325Z
 SUMMARY:NV vs DNT
 UID:cs-go-esea-advanced-europe-58-2026-1622146@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nResult: WRAITH PCIFIC: 3 | gothboiclique: 1\nStream: https://www.twitch.tv/monsternotebook
-DTEND:20260827T184453Z
-DTSTART:20260827T152137Z
-SUMMARY:Grand final: PCIFIC vs GBC
-UID:cs-go-monsters-reloaded-2026-1651258@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
@@ -3301,7 +3294,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #9 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs7
 DURATION:PT2H
-DTSTART:20260906T181500Z
+DTSTART:20260906T190000Z
 SUMMARY:Upper Bracket Round 1 Match 7: M33 vs DINERO
 UID:cs-go-cct-europe-contenders-9-2026-1672280@tournamentics
 END:VEVENT
@@ -3355,18 +3348,18 @@ SUMMARY:Quarterfinal 4: Unreal Nightmare  vs antivalue
 UID:cs-go-pgl-masters-bucharest-north-american-open-qualifier-2-2026-1673562@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ex-RUBY: 1 | Black Phoenix: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260825T112234Z
-DTSTART:20260825T080838Z
-SUMMARY:Round 3: ex-RUBY vs Black Phoenix
-UID:cs-go-nodwin-clutch-series-11-2026-1633244@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: Nemiga: 0 | Nuclear TigeRES: 2\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260828T170457Z
 DTSTART:20260828T150527Z
 SUMMARY:Round 4: NEMI vs NTR
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648090@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ex-RUBY: 1 | Black Phoenix: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260825T112234Z
+DTSTART:20260825T080838Z
+SUMMARY:Round 3: ex-RUBY vs Black Phoenix
+UID:cs-go-nodwin-clutch-series-11-2026-1633244@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nResult: Esport Academy Copenhagen: 0 | WRAITH PCIFIC: 2\nStream: https://kick.com/cct_cs2
@@ -4181,13 +4174,6 @@ SUMMARY:Round 4: MM vs Semente do Mal
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645107@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nResult: Chaos Enforcers: 2 | Royal Foxes Esports: 0\nStream: No official stream linked
-DTEND:20260826T165227Z
-DTSTART:20260826T151446Z
-SUMMARY:Quarterfinal 4: CE vs RFE
-UID:cs-go-monsters-reloaded-2026-1646572@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: BOJONG: 1 | ROUNDS: 0\nStream: https://www.twitch.tv/robujohnson
 DTEND:20260827T160810Z
 DTSTART:20260827T150945Z
@@ -4594,18 +4580,18 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-nstlga-league-2-2026-1669726@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Color: 0 | SPARTA: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260823T104911Z
-DTSTART:20260823T080506Z
-SUMMARY:Round 2: Color vs SPARTA
-UID:cs-go-nodwin-clutch-series-11-2026-1633227@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: HOTU: 2 | Black Phoenix: 0\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260824T134908Z
 DTSTART:20260824T120831Z
 SUMMARY:Round 2: HOTU vs Black Phoenix
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648073@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Color: 0 | SPARTA: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260823T104911Z
+DTSTART:20260823T080506Z
+SUMMARY:Round 2: Color vs SPARTA
+UID:cs-go-nodwin-clutch-series-11-2026-1633227@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: 1win - Private Club #1: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/1win_cs
@@ -4879,13 +4865,6 @@ DTEND:20260826T224939Z
 DTSTART:20260826T180945Z
 SUMMARY:Round 3: NEM vs 1WIN
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648083@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nResult: WRAITH PCIFIC: 2 | Bad Beavers Blue: 0\nStream: No official stream linked
-DTEND:20260826T163351Z
-DTSTART:20260826T151441Z
-SUMMARY:Quarterfinal 1: PCIFIC vs BBB
-UID:cs-go-monsters-reloaded-2026-1646569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nResult: Leo Team: 2 | The Last Resort: 0\nStream: https://kick.com/cct_cs2
@@ -5245,18 +5224,18 @@ SUMMARY:Lower bracket semifinal: OT vs CCE
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: Teletubisie: 1 | HAVU: 0\nStream: No official stream linked
-DTEND:20260829T162000Z
-DTSTART:20260829T153500Z
-SUMMARY:Round 1 match 2: TTBS vs HAVU
-UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659241@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 6 2026\nMatch Type: Best Of\nResult: SAW Youngsters: 1 | Misa Esports: 2\nStream: https://kick.com/cct_cs4
 DTEND:20260906T133502Z
 DTSTART:20260906T111107Z
 SUMMARY:Upper Bracket Round 1 Match 6: SAW.Y vs MISA
 UID:cs-go-cct-europe-challengers-series-6-2026-1669118@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: Teletubisie: 1 | HAVU: 0\nStream: No official stream linked
+DTEND:20260829T162000Z
+DTSTART:20260829T153500Z
+SUMMARY:Round 1 match 2: TTBS vs HAVU
+UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: Vitality: 2 | 9z: 0\nStream: https://www.twitch.tv/blastpremier
@@ -5565,13 +5544,6 @@ DTEND:20260829T204829Z
 DTSTART:20260829T184811Z
 SUMMARY:Lower bracket semifinal: TS.A vs DNT
 UID:cs-go-kibertochka-2-2026-1656233@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nResult: gothboiclique: 2 | Chaos Enforcers: 0\nStream: No official stream linked
-DTEND:20260826T191049Z
-DTSTART:20260826T175710Z
-SUMMARY:Semifinal 2: GBC vs CE
-UID:cs-go-monsters-reloaded-2026-1651257@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
@@ -6781,7 +6753,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260907T130000Z
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: A Great Chaos vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672214@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6874,13 +6846,6 @@ DTEND:20260831T202712Z
 DTSTART:20260831T190423Z
 SUMMARY:Round 4: Damajuana vs Zetta Games
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645106@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nResult: gothboiclique: 2 | Team Phoenix: 1\nStream: No official stream linked
-DTEND:20260826T174848Z
-DTSTART:20260826T153034Z
-SUMMARY:Quarterfinal 3: GBC vs PHX
-UID:cs-go-monsters-reloaded-2026-1646571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: WBT: 1 | B8 Academy: 0\nStream: https://www.twitch.tv/wbtgg
@@ -7002,7 +6967,7 @@ SUMMARY:Upper bracket final: RA vs NEXVOID
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650460@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JTMythic
 DURATION:PT2H
 DTSTART:20260906T190000Z
 SUMMARY:Round 4: LAG vs For Fun
@@ -7793,18 +7758,18 @@ SUMMARY:Round 2Round of 16 match 3: FOKUS vs ASTR
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673440@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Color: 2 | Butterfly: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260825T154026Z
-DTSTART:20260825T140013Z
-SUMMARY:Round 3: Color vs BTF
-UID:cs-go-nodwin-clutch-series-11-2026-1633246@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: UPGRADE: 2 | X-CITY: 1\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260829T144104Z
 DTSTART:20260829T121423Z
 SUMMARY:Round 4: UPGRADE vs X-CITY
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648092@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Color: 2 | Butterfly: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260825T154026Z
+DTSTART:20260825T140013Z
+SUMMARY:Round 3: Color vs BTF
+UID:cs-go-nodwin-clutch-series-11-2026-1633246@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nResult: Lavked: 2 | Just Players: 1\nStream: https://kick.com/cct_cs2
@@ -8106,13 +8071,6 @@ DTEND:20260829T125245Z
 DTSTART:20260829T100635Z
 SUMMARY:Lower bracket quarterfinal 2: TS.A vs JustP
 UID:cs-go-kibertochka-2-2026-1656232@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nResult: Misa Esports: 0 | WRAITH PCIFIC: 2\nStream: https://www.twitch.tv/spyhiddentv
-DTEND:20260826T185217Z
-DTSTART:20260826T165216Z
-SUMMARY:Semifinal 1: MISA vs PCIFIC
-UID:cs-go-monsters-reloaded-2026-1651256@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
@@ -8647,18 +8605,18 @@ SUMMARY:Upper bracket round 1 match 7: REGAIN vs ELU
 UID:cs-go-frag-midwest-st-louis-2026-1657294@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Kaleido Gaming: 2 | LEGAM: 1\nStream: No official stream linked
-DTEND:20260826T163443Z
-DTSTART:20260826T130737Z
-SUMMARY:Lower bracket round 1 match 2: KG vs LEGAM
-UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650463@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260907T110000Z
 SUMMARY:Lower Bracket Round 1 Match 2: ex-ZT vs PG
 UID:cs-go-cct-europe-challengers-series-6-2026-1669147@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia Cup #1 season 52 2026\nMatch Type: Best Of\nResult: Kaleido Gaming: 2 | LEGAM: 1\nStream: No official stream linked
+DTEND:20260826T163443Z
+DTSTART:20260826T130737Z
+SUMMARY:Lower bracket round 1 match 2: KG vs LEGAM
+UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650463@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -9025,18 +8983,18 @@ SUMMARY:Lower bracket quarterfinal 2: CW vs JS
 UID:cs-go-esl-challenger-league-asia-cup-1-52-2026-1650473@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Honvéd: 0 | Inner Circle Academy: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260823T154659Z
-DTSTART:20260823T141437Z
-SUMMARY:Round 2: Honvéd vs IC.A
-UID:cs-go-nodwin-clutch-series-11-2026-1633229@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Moscow Cyber Games - European Qualifier 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | X-CITY: 0\nStream: https://www.twitch.tv/gluck_esports
 DTEND:20260824T163938Z
 DTSTART:20260824T151844Z
 SUMMARY:Round 2: NEM vs X-CITY
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648075@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Honvéd: 0 | Inner Circle Academy: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260823T154659Z
+DTSTART:20260823T141437Z
+SUMMARY:Round 2: Honvéd vs IC.A
+UID:cs-go-nodwin-clutch-series-11-2026-1633229@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: Glitchtech Esports: 0 | Subtop De France: 1\nStream: No official stream linked
@@ -9380,13 +9338,6 @@ DTEND:20260831T164221Z
 DTSTART:20260831T160037Z
 SUMMARY:Round 4: BST.A vs BK
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645105@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | Eternal Fire Academy: 0\nStream: https://www.twitch.tv/spyhiddentv
-DTEND:20260826T162254Z
-DTSTART:20260826T150916Z
-SUMMARY:Quarterfinal 2: MISA vs EF.A
-UID:cs-go-monsters-reloaded-2026-1646570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit

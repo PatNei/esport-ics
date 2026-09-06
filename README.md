@@ -516,27 +516,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LogitechGPlayConnec
 </details>
 
 <details>
-<summary>Monsters Reloaded</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MonstersReloaded/MonstersReloaded.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MonstersReloaded/MonstersReloaded.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MonstersReloaded/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MonstersReloaded/2026.ics
-```
-
-</details>
-
-<details>
 <summary>Moscow Cyber Games</summary>
 
 ### Full Schedule
