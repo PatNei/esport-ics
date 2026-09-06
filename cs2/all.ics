@@ -662,7 +662,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: South American Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260906T220000Z
+DTSTART:20260906T224000Z
 SUMMARY:Quarterfinal 1: BHE vs RED.A
 UID:cs-go-pgl-masters-bucharest-south-american-open-qualifier-2-2026-1673553@tournamentics
 END:VEVENT
@@ -2158,8 +2158,8 @@ SUMMARY:Ducks vs BLUEJAYS.de
 UID:cs-go-dach-cs-masters-6-2026-1661628@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 0 | Galorys: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260906T220530Z
 DTSTART:20260906T205149Z
 SUMMARY:Grand final: BHE vs GLS
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645128@tournamentics
@@ -5084,8 +5084,8 @@ SUMMARY:Lower Bracket Round 2 Match 1: TBD vs TBD
 UID:cs-go-cct-europe-challengers-series-6-2026-1669141@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/truenorthstudio
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nResult: Villainous: 1 | FarmVille: 2\nStream: https://www.twitch.tv/truenorthstudio
+DTEND:20260906T215310Z
 DTSTART:20260906T190932Z
 SUMMARY:Round 4: VIL vs FV
 UID:cs-go-nstlga-league-2-2026-1669712@tournamentics
