@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: JiJieHao: 0 | Nordic Partners Gaming : 1\nStream: No official stream linked
+DTEND:20260906T150404Z
 DTSTART:20260906T141858Z
 SUMMARY:Round of 16 match 6: JJH vs NPG
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673443@tournamentics
@@ -16,8 +16,8 @@ SUMMARY:Round of 16 match 2: FNC vs DRAMA
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673439@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: FOKUS: 0 | ASTRAL: 1\nStream: No official stream linked
+DTEND:20260906T150603Z
 DTSTART:20260906T141920Z
 SUMMARY:Round 2Round of 16 match 3: FOKUS vs ASTR
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673440@tournamentics
@@ -102,8 +102,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260906T150000Z
-SUMMARY:Quarterfinal 3: K27 vs TBD
+DTSTART:20260906T151500Z
+SUMMARY:Quarterfinal 3: K27 vs NPG
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673448@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T150000Z
-SUMMARY:Quarterfinal 2: 1WIN vs TBD
+SUMMARY:Quarterfinal 2: 1WIN vs ASTR
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -261,8 +261,8 @@ SUMMARY:Quarterfinal 4: Unreal Nightmare  vs antivalue
 UID:cs-go-pgl-masters-bucharest-north-american-open-qualifier-2-2026-1673562@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: BBL: 1 | UPGRADE: 0\nStream: No official stream linked
+DTEND:20260906T150323Z
 DTSTART:20260906T141833Z
 SUMMARY:Round of 16 match 7: BBL vs UP
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673444@tournamentics
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T150000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: BBL vs TBD
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673449@tournamentics
 END:VEVENT
 BEGIN:VEVENT
