@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nstlga_gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nResult: Without a Roof: 0 | Beyond Limits: 1\nStream: https://www.twitch.tv/nstlga_gg
+DTEND:20260905T235224Z
 DTSTART:20260905T231031Z
 SUMMARY:Round 3: WaR vs Beyond Limits
 UID:cs-go-nstlga-league-2-2026-1669703@tournamentics
@@ -100,13 +100,6 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-nstlga-league-2-2026-1669712@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260906T003000Z
-SUMMARY:Round 3: CCE vs VIL
-UID:cs-go-nstlga-league-2-2026-1669708@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nResult: Marsborne: 1 | FarmVille: 0\nStream: https://www.twitch.tv/marsbornegaming
 DTEND:20260904T002530Z
 DTSTART:20260903T234052Z
@@ -128,8 +121,8 @@ SUMMARY:Round 1: SportsBetExpert vs Axial
 UID:cs-go-nstlga-league-2-2026-1669680@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lionheartzcs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nResult: Wanted Goons: 0 | For Fun: 1\nStream: https://www.twitch.tv/lionheartzcs2
+DTEND:20260905T235905Z
 DTSTART:20260905T232532Z
 SUMMARY:Round 3: WG vs For Fun
 UID:cs-go-nstlga-league-2-2026-1669702@tournamentics
