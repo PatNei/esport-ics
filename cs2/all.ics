@@ -2161,7 +2161,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260906T210000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: BHE vs TBD
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645128@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3299,7 +3299,7 @@ SUMMARY:Winners match: OG vs LDP
 UID:cs-go-logitech-g-play-connect-closed-qualifier-2026-1648326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #9 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #9 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs7
 DURATION:PT2H
 DTSTART:20260906T181500Z
 SUMMARY:Upper Bracket Round 1 Match 7: M33 vs DINERO
@@ -4741,8 +4741,8 @@ SUMMARY:Round 3: UPGRADE vs 33
 UID:cs-go-nodwin-clutch-series-11-2026-1633260@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | Imperial: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260906T180224Z
 DTSTART:20260906T150401Z
 SUMMARY:Semifinal 2: BHE vs IMP
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645127@tournamentics
@@ -8157,8 +8157,8 @@ SUMMARY:Lower bracket semifinal: NEXVOID vs CW
 UID:cs-go-fissure-playground-asian-qualifier-2026-1661704@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Porto Fall 2026\nMatch Type: Best Of\nResult: Spirit: 3 | MOUZ: 1\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260906T180500Z
 DTSTART:20260906T140355Z
 SUMMARY:Grand final: TS vs MOUZ
 UID:cs-go-blast-open-porto-fall-2026-1640215@tournamentics
