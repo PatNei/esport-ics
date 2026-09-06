@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T170000Z
-SUMMARY:Winners Match: TBD vs TBD
+SUMMARY:Winners Match: VEX vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672223@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -191,8 +191,8 @@ SUMMARY:Round 5: Black Phoenix vs SPARTA
 UID:cs-go-moscow-cyber-games-european-qualifier-2026-1648095@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nResult: Black Phoenix: 2 | HAVU: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260906T122610Z
 DTSTART:20260906T113357Z
 SUMMARY:Round 3: Black Phoenix vs HAVU
 UID:cs-go-cct-europe-series-8-2026-1651587@tournamentics
@@ -1773,7 +1773,7 @@ SUMMARY:FaZe UN vs RT
 UID:cs-go-united21-54-2026-1640077@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kuusamogg
 DURATION:PT2H
 DTSTART:20260906T130000Z
 SUMMARY:PCIFIC vs KSM
@@ -2548,13 +2548,6 @@ DTEND:20260821T110415Z
 DTSTART:20260821T080832Z
 SUMMARY:Winners match: LPH vs B8.A
 UID:cs-go-united21-54-2026-1640073@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260906T130000Z
-SUMMARY:VEX vs Noir Verse
-UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672222@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -5168,7 +5161,7 @@ SUMMARY:B8.A vs EF.A
 UID:cs-go-united21-54-2026-1640072@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/basementboys_cs
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ten_caster
 DURATION:PT2H
 DTSTART:20260906T130000Z
 SUMMARY:BMB vs DM
@@ -7040,7 +7033,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T170000Z
-SUMMARY:Elimination Match: TBD vs TBD
+SUMMARY:Elimination Match: Noir Verse vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672224@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7499,7 +7492,7 @@ SUMMARY:MISA vs BJNG
 UID:cs-go-esea-advanced-europe-58-2026-1637091@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mgfongabe
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T130000Z
 SUMMARY:Gothic vs A Great Chaos
@@ -8717,7 +8710,7 @@ SUMMARY:Winners match: RT vs INF
 UID:cs-go-united21-54-2026-1640078@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: https://kick.com/spyhiddentv
 DURATION:PT2H
 DTSTART:20260906T130000Z
 SUMMARY:MISA vs MOUZ.N
