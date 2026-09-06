@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #9 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs7
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #9 2026\nMatch Type: Best Of\nResult: BOJONG: 2 | MASQ: 1\nStream: https://kick.com/cct_cs7
+DTEND:20260906T182656Z
 DTSTART:20260906T153750Z
 SUMMARY:Upper Bracket Round 1 Match 8: BJNG vs MASQ
 UID:cs-go-cct-europe-contenders-9-2026-1672281@tournamentics
@@ -37,9 +37,9 @@ SUMMARY:Upper Bracket Round 1 Match 7: M33 vs DINERO
 UID:cs-go-cct-europe-contenders-9-2026-1672280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #9 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #9 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
-DTSTART:20260906T181500Z
+DTSTART:20260906T182317Z
 SUMMARY:Upper Bracket Round 1 Match 5: TitanFlow vs valarmorghulis
 UID:cs-go-cct-europe-contenders-9-2026-1672278@tournamentics
 END:VEVENT
