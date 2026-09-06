@@ -502,12 +502,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T170000Z
-SUMMARY:Elimination Match: PG vs TBD
+SUMMARY:Elimination Match: PG vs BERG
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672234@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lowskilll_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nResult: Esport BERG: 0 | mellren: 2\nStream: https://www.twitch.tv/lowskilll_
+DTEND:20260906T145958Z
 DTSTART:20260906T130843Z
 SUMMARY:BERG vs mellren
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672231@tournamentics
@@ -831,7 +831,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T170000Z
-SUMMARY:Winners Match: HAVU vs TBD
+SUMMARY:Winners Match: HAVU vs mellren
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672233@tournamentics
 END:VEVENT
 BEGIN:VEVENT
