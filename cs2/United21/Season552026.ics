@@ -89,12 +89,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260910T080000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: ASC vs TBD
 UID:cs-go-united21-55-2026-1673395@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: SINQU Rehti: 1 | TEAM ASCEND: 2\nStream: https://kick.com/united21_en
+DTEND:20260906T104059Z
 DTSTART:20260906T081555Z
 SUMMARY:SINQU Rehti vs ASC
 UID:cs-go-united21-55-2026-1673392@tournamentics
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260910T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: SINQU Rehti vs TBD
 UID:cs-go-united21-55-2026-1673394@tournamentics
 END:VEVENT
 END:VCALENDAR
