@@ -2161,7 +2161,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260906T210000Z
-SUMMARY:Grand final: BHE vs TBD
+SUMMARY:Grand final: BHE vs GLS
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645128@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6746,7 +6746,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260907T130000Z
-SUMMARY:Decider Match: A Great Chaos vs TBD
+SUMMARY:Decider Match: A Great Chaos vs WBT.A
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672214@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7324,8 +7324,8 @@ SUMMARY:R4G vs SSP
 UID:cs-go-dach-cs-masters-6-2026-1661626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series 5 2026\nMatch Type: Best Of\nResult: Galorys: 2 | ALKA GAMING: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260906T193946Z
 DTSTART:20260906T181710Z
 SUMMARY:Semifinal 1: GLS vs ALKA
 UID:cs-go-champion-of-champions-tour-series-5-2026-1645126@tournamentics
@@ -9228,8 +9228,8 @@ SUMMARY:Round 2: Black Phoenix vs BBP
 UID:cs-go-exort-fiesta-1-2026-1632627@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nResult: WBT Academy: 2 | Gothic: 1\nStream: No official stream linked
+DTEND:20260906T194222Z
 DTSTART:20260906T171216Z
 SUMMARY:Elimination Match: WBT.A vs Gothic
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672213@tournamentics

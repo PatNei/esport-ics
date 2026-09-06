@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nResult: WBT Academy: 2 | Gothic: 1\nStream: No official stream linked
+DTEND:20260906T194222Z
 DTSTART:20260906T171216Z
 SUMMARY:Elimination Match: WBT.A vs Gothic
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672213@tournamentics
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260907T130000Z
-SUMMARY:Decider Match: A Great Chaos vs TBD
+SUMMARY:Decider Match: A Great Chaos vs WBT.A
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672214@tournamentics
 END:VEVENT
 BEGIN:VEVENT
