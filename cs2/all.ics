@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T170000Z
-SUMMARY:Winners Match: VEX vs TBD
+SUMMARY:Winners Match: VEX vs BMB
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672223@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T170000Z
-SUMMARY:Winners Match: TBD vs TBD
+SUMMARY:Winners Match: HAVU vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672233@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1797,7 +1797,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T150000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: HERO vs TBD
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673446@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2830,8 +2830,8 @@ SUMMARY:Upper bracket round 1 match 6: SHIM vs IOWA
 UID:cs-go-esl-challenger-league-north-america-cup-1-52-2026-1650511@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/titaanitv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nResult: Privateer Gaming: 0 | HAVU: 2\nStream: https://www.twitch.tv/titaanitv
+DTEND:20260906T145107Z
 DTSTART:20260906T131219Z
 SUMMARY:PG vs HAVU
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672232@tournamentics
@@ -5182,15 +5182,15 @@ SUMMARY:B8.A vs EF.A
 UID:cs-go-united21-54-2026-1640072@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ten_caster
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 2 | Dark Moon: 0\nStream: https://www.twitch.tv/ten_caster
+DTEND:20260906T144123Z
 DTSTART:20260906T131419Z
 SUMMARY:BMB vs DM
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672221@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: 1WIN: 1 | GenOne: 0\nStream: No official stream linked
+DTEND:20260906T144847Z
 DTSTART:20260906T141802Z
 SUMMARY:Round of 16 match 4: 1WIN vs G1
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673441@tournamentics
@@ -5966,8 +5966,8 @@ SUMMARY:REV vs HUSK
 UID:cs-go-dach-cs-masters-6-2026-1661633@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Heroic: 1 | Esport Academy Copenhagen: 0\nStream: No official stream linked
+DTEND:20260906T144814Z
 DTSTART:20260906T141853Z
 SUMMARY:Round of 16 match 1: HERO vs EAC
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673438@tournamentics
@@ -7054,7 +7054,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T170000Z
-SUMMARY:Elimination Match: Noir Verse vs TBD
+SUMMARY:Elimination Match: Noir Verse vs DM
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672224@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7313,7 +7313,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #6 season 52 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T170000Z
-SUMMARY:Elimination Match: TBD vs TBD
+SUMMARY:Elimination Match: PG vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672234@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8755,7 +8755,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T150000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: 1WIN vs TBD
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
