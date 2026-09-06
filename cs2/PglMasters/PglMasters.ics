@@ -243,7 +243,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T180000Z
-SUMMARY:Semifinal 2: K27 vs TBD
+SUMMARY:Semifinal 2: K27 vs SIN
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -331,8 +331,8 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-pgl-masters-bucharest-south-american-open-qualifier-2-2026-1673557@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: BBL: 0 | Sinners: 2\nStream: No official stream linked
+DTEND:20260906T171224Z
 DTSTART:20260906T155640Z
 SUMMARY:Quarterfinal 4: BBL vs SIN
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673449@tournamentics
@@ -341,12 +341,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260906T180000Z
-SUMMARY:Semifinal 1: 1WIN vs TBD
+SUMMARY:Semifinal 1: HERO vs 1WIN
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673450@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL Masters - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Heroic: 2 | Drama eSports: 0\nStream: No official stream linked
+DTEND:20260906T171614Z
 DTSTART:20260906T154131Z
 SUMMARY:Quarterfinal 1: HERO vs DRAMA
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673446@tournamentics
