@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260911T103000Z
-SUMMARY:Elimination match: CTRL vs TBD
+SUMMARY:Elimination match: CTRL vs PRE
 UID:cs-go-united21-55-2026-1673400@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260911T080000Z
-SUMMARY:Winners match: INF vs TBD
+SUMMARY:Winners match: INF vs OldMix
 UID:cs-go-united21-55-2026-1673399@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -240,8 +240,8 @@ SUMMARY:B8.A vs EF.A
 UID:cs-go-united21-54-2026-1640072@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: OldMix: 2 | Prestige: 0\nStream: https://kick.com/united21_en
+DTEND:20260907T124302Z
 DTSTART:20260907T110557Z
 SUMMARY:OldMix vs PRE
 UID:cs-go-united21-55-2026-1673398@tournamentics
