@@ -210,6 +210,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/PglMaste
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/BucharestEuropeanQualifier2026.ics
 ```
 
+### Bucharest: North American Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/BucharestNorthAmericanQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/BucharestNorthAmericanQualifier2026.ics
+```
+
 </details>
 
 <details>
