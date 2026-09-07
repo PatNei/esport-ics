@@ -2938,7 +2938,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260911T080000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: INF vs TBD
 UID:cs-go-united21-55-2026-1673399@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5688,7 +5688,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260907T111500Z
+DTSTART:20260907T104000Z
 SUMMARY:OldMix vs PRE
 UID:cs-go-united21-55-2026-1673398@tournamentics
 END:VEVENT
@@ -7908,7 +7908,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260911T103000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: CTRL vs TBD
 UID:cs-go-united21-55-2026-1673400@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8290,8 +8290,8 @@ SUMMARY:Semifinal 1: HERO vs 1WIN
 UID:cs-go-pgl-masters-bucharest-european-open-qualifier-2-2026-1673450@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: CTRL Esports: 1 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260907T102754Z
 DTSTART:20260907T081916Z
 SUMMARY:CTRL vs INF
 UID:cs-go-united21-55-2026-1673397@tournamentics
