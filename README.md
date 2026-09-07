@@ -192,6 +192,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/BeijingGlobalQu
 </details>
 
 <details>
+<summary>PGL Masters</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/PglMasters.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/PglMasters.ics
+```
+
+---
+
+### Bucharest: European Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/BucharestEuropeanQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/PglMasters/BucharestEuropeanQualifier2026.ics
+```
+
+</details>
+
+<details>
 <summary>Stake Ranked</summary>
 
 ### Full Schedule
