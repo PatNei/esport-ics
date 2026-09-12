@@ -2,44 +2,30 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: Oceanic Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
-DTSTART:20260909T090000Z
-SUMMARY:Lower Bracket Semifinal: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: PGL Masters - Bucharest: Oceanic Qualifier 2026\nMatch Type: Best Of\nResult: Finishers: 2 | Devious: 0\nStream: No official stream linked
+DTEND:20260909T104452Z
+DTSTART:20260909T092642Z
+SUMMARY:Lower Bracket Semifinal: Finishers vs Devious
 UID:cs-go-pgl-masters-bucharest-oceanic-qualifier-2026-1676126@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: Oceanic Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
-DTSTART:20260909T060000Z
+DESCRIPTION:✅ FINISHED\nTournament: PGL Masters - Bucharest: Oceanic Qualifier 2026\nMatch Type: Best Of\nResult: FlyQuest: 2 | Finishers: 0\nStream: No official stream linked
+DTEND:20260910T103232Z
+DTSTART:20260910T092347Z
+SUMMARY:Grand Final: FLY vs Finishers
+UID:cs-go-pgl-masters-bucharest-oceanic-qualifier-2026-1676128@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL Masters - Bucharest: Oceanic Qualifier 2026\nMatch Type: Best Of\nResult: Orgless: 2 | Finishers: 0\nStream: No official stream linked
+DTEND:20260909T090401Z
+DTSTART:20260909T070016Z
 SUMMARY:Upper Bracket Semifinal 1: Orgless vs Finishers
 UID:cs-go-pgl-masters-bucharest-oceanic-qualifier-2026-1676123@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: Oceanic Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
-DTSTART:20260910T090000Z
-SUMMARY:Grand Final: TBD vs TBD
-UID:cs-go-pgl-masters-bucharest-oceanic-qualifier-2026-1676128@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: Oceanic Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
-DTSTART:20260909T090000Z
-SUMMARY:Upper Bracket Final: TBD vs TBD
-UID:cs-go-pgl-masters-bucharest-oceanic-qualifier-2026-1676125@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: Oceanic Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
-DTSTART:20260910T060000Z
-SUMMARY:Lower Bracket Final: TBD vs TBD
-UID:cs-go-pgl-masters-bucharest-oceanic-qualifier-2026-1676127@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL Masters - Bucharest: Oceanic Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
-DTSTART:20260909T060000Z
+DESCRIPTION:✅ FINISHED\nTournament: PGL Masters - Bucharest: Oceanic Qualifier 2026\nMatch Type: Best Of\nResult: FlyQuest: 2 | Devious: 0\nStream: https://www.twitch.tv/mgfongabe
+DTEND:20260909T072806Z
+DTSTART:20260909T063629Z
 SUMMARY:Upper Bracket Semifinal 2: FLY vs Devious
 UID:cs-go-pgl-masters-bucharest-oceanic-qualifier-2026-1676124@tournamentics
 END:VEVENT

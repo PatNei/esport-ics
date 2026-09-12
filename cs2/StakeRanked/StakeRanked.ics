@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: ASTRAL: 1 | B8 Academy: 0\nStream: No official stream linked
-DTEND:20260829T162000Z
-DTSTART:20260829T153000Z
-SUMMARY:Round 1 match 7: ASTR vs B8.A
-UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659247@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261003T100000Z
+SUMMARY:Lower Bracket Quarterfinal 1: TBD vs TBD
+UID:cs-go-stake-ranked-episode-4-2026-1682125@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | ASTRAL: 1\nStream: https://kick.com/starladder
@@ -14,6 +14,20 @@ DTEND:20260904T205545Z
 DTSTART:20260904T181627Z
 SUMMARY:Round of 16 match 8: NEM vs ASTR
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1663809@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261003T150000Z
+SUMMARY:Upper Bracket Final: TBD vs TBD
+UID:cs-go-stake-ranked-episode-4-2026-1682122@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261001T123000Z
+SUMMARY:Upper Bracket Quarterfinal 4: BIG vs FNC
+UID:cs-go-stake-ranked-episode-4-2026-1682118@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Closed Qualifier 2026\nMatch Type: Best Of\nResult: HOTU: 2 | Eternal Fire: 0\nStream: https://kick.com/starladder
@@ -30,20 +44,6 @@ SUMMARY:Quarterfinal 3: HOTU vs FOKUS
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1664395@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: Teletubisie: 1 | HAVU: 0\nStream: No official stream linked
-DTEND:20260829T162000Z
-DTSTART:20260829T153500Z
-SUMMARY:Round 1 match 2: TTBS vs HAVU
-UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659241@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: Sangal: 2 | PURE: 1\nStream: https://www.twitch.tv/sneakybeakyttv
-DTEND:20260830T164025Z
-DTSTART:20260830T141734Z
-SUMMARY:Round 2 match 2: SNG vs PURE
-UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659237@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Infinite: 1 | Nuclear TigeRES: 2\nStream: https://kick.com/starladder
 DTEND:20260904T113700Z
 DTSTART:20260904T090549Z
@@ -58,11 +58,18 @@ SUMMARY:Semifinal 2: FOKUS vs NEMI
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1664401@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: ENCE: 1 | MOUZ NXT: 0\nStream: No official stream linked
-DTEND:20260829T155000Z
-DTSTART:20260829T145000Z
-SUMMARY:Round 1 match 6: ENCE vs MOUZ.N
-UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659246@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261003T173000Z
+SUMMARY:Lower Bracket Semifinal: TBD vs TBD
+UID:cs-go-stake-ranked-episode-4-2026-1682127@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261002T100000Z
+SUMMARY:Lower Round 1 Match 1: TBD vs TBD
+UID:cs-go-stake-ranked-episode-4-2026-1682124@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Iberian Soul: 1 | Nemiga: 2\nStream: https://kick.com/starladder
@@ -72,18 +79,18 @@ SUMMARY:Round of 16 match 7: IS vs NEMI
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1663808@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: PURE: 1 | XI Esport: 0\nStream: No official stream linked
-DTEND:20260829T163011Z
-DTSTART:20260829T154007Z
-SUMMARY:Round 1 match 4: PURE vs XI
-UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659243@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261002T150000Z
+SUMMARY:Upper Bracket Semifinal 1: TBD vs TBD
+UID:cs-go-stake-ranked-episode-4-2026-1682121@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: ASTRAL: 2 | Insiders Esport: 0\nStream: No official stream linked
-DTEND:20260830T154139Z
-DTSTART:20260830T141232Z
-SUMMARY:Round 2 match 4: ASTR vs Insiders Esport
-UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659239@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261001T150000Z
+SUMMARY:Upper Bracket Quarterfinal 2: AST vs ALL
+UID:cs-go-stake-ranked-episode-4-2026-1682117@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Virtus.pro: 1 | fnatic: 2\nStream: https://kick.com/starladder
@@ -100,20 +107,6 @@ SUMMARY:Quarterfinal 2: FNC vs BBL
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1664394@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: fnatic: 1 | Mai Tai: 0\nStream: No official stream linked
-DTEND:20260829T164000Z
-DTSTART:20260829T153500Z
-SUMMARY:Round 1 match 1: FNC vs Mai Tai
-UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659240@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: fnatic: 2 | Teletubisie: 1\nStream: https://www.twitch.tv/officialhyper
-DTEND:20260830T192942Z
-DTSTART:20260830T171451Z
-SUMMARY:Round 2 match 1: FNC vs TTBS
-UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659236@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Closed Qualifier 2026\nMatch Type: Best Of\nResult: NIP: 1 | fnatic: 2\nStream: https://kick.com/starladder
 DTEND:20260906T113259Z
 DTSTART:20260906T090421Z
@@ -128,18 +121,32 @@ SUMMARY:Round of 16 match 1: NIP vs SNG
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1663798@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: Insiders Esport: 1 | aimclub: 0\nStream: No official stream linked
-DTEND:20260829T162000Z
-DTSTART:20260829T153500Z
-SUMMARY:Round 1 match 8: Insiders Esport vs AIMC
-UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659248@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261004T153000Z
+SUMMARY:Grand Final: TBD vs TBD
+UID:cs-go-stake-ranked-episode-4-2026-1682129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: Eternal Fire: 1 | 6666: 0\nStream: No official stream linked
-DTEND:20260829T162000Z
-DTSTART:20260829T154000Z
-SUMMARY:Round 1 match 5: EF vs 6666
-UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659245@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261003T123000Z
+SUMMARY:Lower Bracket Quarterfinal 2: TBD vs TBD
+UID:cs-go-stake-ranked-episode-4-2026-1682126@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261002T123000Z
+SUMMARY:Lower Round 1 Match 2: TBD vs TBD
+UID:cs-go-stake-ranked-episode-4-2026-1682123@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261001T100000Z
+SUMMARY:Upper Bracket Quarterfinal 3: B8 vs LG
+UID:cs-go-stake-ranked-episode-4-2026-1682119@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Closed Qualifier 2026\nMatch Type: Best Of\nResult: FOKUS: 2 | Sinners: 0\nStream: https://kick.com/starladder
@@ -149,11 +156,11 @@ SUMMARY:Round of 16 match 6: FOKUS vs SIN
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1663807@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: Betclic Apogee Esports: 0 | Sangal: 1\nStream: No official stream linked
-DTEND:20260829T161000Z
-DTSTART:20260829T152500Z
-SUMMARY:Round 1 match 3: BCA vs SNG
-UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659242@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261002T173000Z
+SUMMARY:Upper Bracket Semifinal 2: TBD vs TBD
+UID:cs-go-stake-ranked-episode-4-2026-1682120@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | Team Nemesis: 0\nStream: https://kick.com/starladder
@@ -163,11 +170,11 @@ SUMMARY:Quarterfinal 4: NEMI vs NEM
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1664396@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Open Qualifier 2026\nMatch Type: Best Of\nResult: Eternal Fire: 2 | ENCE: 0\nStream: https://kick.com/arhavalcom
-DTEND:20260830T155429Z
-DTSTART:20260830T142223Z
-SUMMARY:Round 2 match 3: EF vs ENCE
-UID:cs-go-stake-ranked-episode-4-open-qualifier-2026-1659238@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261001T173000Z
+SUMMARY:Upper Bracket Quarterfinal 1: FaZe vs NEMI
+UID:cs-go-stake-ranked-episode-4-2026-1682116@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 4: Closed Qualifier 2026\nMatch Type: Best Of\nResult: NIP: 2 | Nuclear TigeRES: 0\nStream: https://kick.com/starladder
@@ -175,5 +182,12 @@ DTEND:20260905T165649Z
 DTSTART:20260905T151350Z
 SUMMARY:Quarterfinal 1: NIP vs NTR
 UID:cs-go-stake-ranked-episode-4-closed-qualifier-2026-1664393@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 4 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20261004T120000Z
+SUMMARY:Lower Bracket Final: TBD vs TBD
+UID:cs-go-stake-ranked-episode-4-2026-1682128@tournamentics
 END:VEVENT
 END:VCALENDAR

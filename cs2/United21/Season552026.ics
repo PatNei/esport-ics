@@ -2,53 +2,60 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🕒 POSTPONED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260913T080000Z
-SUMMARY:Winners match: TBD vs TBD
-UID:cs-go-united21-55-2026-1673409@tournamentics
+DTSTART:20260912T080000Z
+SUMMARY:Winners match: PHTM.Ac vs PSN.A
+UID:cs-go-united21-55-2026-1673404@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260913T103000Z
-SUMMARY:Elimination match: TBD vs TBD
-UID:cs-go-united21-55-2026-1673410@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260915T080000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-united21-55-2026-1673406@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260908T103000Z
-SUMMARY:MISA vs PSN.A
-UID:cs-go-united21-55-2026-1673403@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260911T103000Z
-SUMMARY:Elimination match: CTRL vs PRE
-UID:cs-go-united21-55-2026-1673400@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260911T080000Z
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 1 | OldMix: 2\nStream: https://kick.com/united21_en
+DTEND:20260911T112543Z
+DTSTART:20260911T081319Z
 SUMMARY:Winners match: INF vs OldMix
 UID:cs-go-united21-55-2026-1673399@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
+DTSTART:20260914T103000Z
+SUMMARY:Decider match: INF vs PRE
+UID:cs-go-united21-55-2026-1673401@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260913T080000Z
+SUMMARY:Winners match: GAT vs TTBS
+UID:cs-go-united21-55-2026-1673409@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
 DTSTART:20260914T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: ASC vs ENCE.P
 UID:cs-go-united21-55-2026-1673396@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: SINQU Rehti: 0 | ENCE Prospects: 2\nStream: https://kick.com/united21_en
+DTEND:20260910T120614Z
+DTSTART:20260910T104055Z
+SUMMARY:Elimination match: SINQU Rehti vs ENCE.P
+UID:cs-go-united21-55-2026-1673394@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260913T103000Z
+SUMMARY:Elimination match: EK vs EF.A
+UID:cs-go-united21-55-2026-1673410@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260915T080000Z
+SUMMARY:Decider match: EACE vs TBD
+UID:cs-go-united21-55-2026-1673406@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: Inner Circle Prospect: 2 | ENCE Prospects: 0\nStream: https://kick.com/united21_en
@@ -58,27 +65,6 @@ SUMMARY:IC.P vs ENCE.P
 UID:cs-go-united21-55-2026-1673393@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260909T103000Z
-SUMMARY:TTBS vs EF.A
-UID:cs-go-united21-55-2026-1673408@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260912T103000Z
-SUMMARY:Elimination match: TBD vs TBD
-UID:cs-go-united21-55-2026-1673405@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260908T080000Z
-SUMMARY:PHTM.Ac vs EACE
-UID:cs-go-united21-55-2026-1673402@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: OldMix: 2 | Prestige: 0\nStream: https://kick.com/united21_en
 DTEND:20260907T124302Z
 DTSTART:20260907T110557Z
@@ -86,9 +72,23 @@ SUMMARY:OldMix vs PRE
 UID:cs-go-united21-55-2026-1673398@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260910T080000Z
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: CTRL Esports: 0 | Prestige: 2\nStream: https://kick.com/united21_en
+DTEND:20260911T130806Z
+DTSTART:20260911T114303Z
+SUMMARY:Elimination match: CTRL vs PRE
+UID:cs-go-united21-55-2026-1673400@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: Teletubisie: 2 | Eternal Fire Academy: 0\nStream: https://kick.com/united21_en
+DTEND:20260909T115745Z
+DTSTART:20260909T104157Z
+SUMMARY:TTBS vs EF.A
+UID:cs-go-united21-55-2026-1673408@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: TEAM ASCEND: 0 | Inner Circle Prospect: 2\nStream: https://kick.com/united21_en
+DTEND:20260910T100216Z
+DTSTART:20260910T081211Z
 SUMMARY:Winners match: ASC vs IC.P
 UID:cs-go-united21-55-2026-1673395@tournamentics
 END:VEVENT
@@ -100,32 +100,11 @@ SUMMARY:SINQU Rehti vs ASC
 UID:cs-go-united21-55-2026-1673392@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260915T103000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-united21-55-2026-1673411@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260909T080000Z
-SUMMARY:GAT vs EK
-UID:cs-go-united21-55-2026-1673407@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260912T080000Z
-SUMMARY:Winners match: TBD vs TBD
-UID:cs-go-united21-55-2026-1673404@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260914T103000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-united21-55-2026-1673401@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 2 | EAC Extra: 0\nStream: https://kick.com/united21_en
+DTEND:20260908T092622Z
+DTSTART:20260908T081343Z
+SUMMARY:PHTM.Ac vs EACE
+UID:cs-go-united21-55-2026-1673402@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: CTRL Esports: 1 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
@@ -137,8 +116,15 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260910T080000Z
-SUMMARY:Elimination match: SINQU Rehti vs ENCE.P
-UID:cs-go-united21-55-2026-1673394@tournamentics
+DTSTART:20260915T103000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-united21-55-2026-1673411@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult:  Gatorian: 2 | Elite Klan: 0\nStream: https://kick.com/united21_en
+DTEND:20260909T095736Z
+DTSTART:20260909T083924Z
+SUMMARY:GAT vs EK
+UID:cs-go-united21-55-2026-1673407@tournamentics
 END:VEVENT
 END:VCALENDAR

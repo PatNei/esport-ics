@@ -2,74 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: Bebop: 0 | WBT Academy: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260912T125132Z
+DTSTART:20260912T112320Z
+SUMMARY:Decider Match: BBP vs WBT.A
+UID:cs-go-nodwin-clutch-series-12-2026-1685297@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260910T080000Z
+DTSTART:20260915T140000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684140@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: Drama eSports: 2 | SINQU: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260910T112233Z
+DTSTART:20260910T082048Z
 SUMMARY:DRAMA vs SINQU
 UID:cs-go-nodwin-clutch-series-12-2026-1673537@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Just Players: 0 | MOUZ NXT: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260813T101352Z
-DTSTART:20260813T081215Z
-SUMMARY:JustP vs MOUZ.N
-UID:cs-go-nodwin-clutch-series-11-2026-1630756@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Leo Team: 0 | Butterfly: 2\nStream: https://www.twitch.tv/milqka
-DTEND:20260827T155122Z
-DTSTART:20260827T140903Z
-SUMMARY:Round 4: Leo vs BTF
-UID:cs-go-nodwin-clutch-series-11-2026-1633263@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: ENCE: 1 | Entropy: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260907T163754Z
 DTSTART:20260907T141422Z
 SUMMARY:ENCE vs Entropy
 UID:cs-go-nodwin-clutch-series-12-2026-1673534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: GenOne: 2 | Nordic Partners Gaming : 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260826T165801Z
-DTSTART:20260826T144724Z
-SUMMARY:Round 3: G1 vs NPG
-UID:cs-go-nodwin-clutch-series-11-2026-1633259@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: UPGRADE: 1 | BET-M 33: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260826T202746Z
-DTSTART:20260826T172407Z
-SUMMARY:Round 3: UPGRADE vs 33
-UID:cs-go-nodwin-clutch-series-11-2026-1633260@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Just Players: 1 | ENCE: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260814T203252Z
-DTSTART:20260814T170735Z
-SUMMARY:Elimination match: JustP vs ENCE
-UID:cs-go-nodwin-clutch-series-11-2026-1634183@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: HyperSpirit: 2 | Bebop: 1\nStream: https://kick.com/nodwin_cs2
-DTEND:20260814T103801Z
-DTSTART:20260814T082539Z
-SUMMARY:Winners match: HS vs BBP
-UID:cs-go-nodwin-clutch-series-11-2026-1634180@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Color: 2 | Butterfly: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260825T154026Z
-DTSTART:20260825T140013Z
-SUMMARY:Round 3: Color vs BTF
-UID:cs-go-nodwin-clutch-series-11-2026-1633246@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | Permitta Esports: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260817T193355Z
-DTSTART:20260817T180713Z
-SUMMARY:Winners match: BW vs PERM
-UID:cs-go-nodwin-clutch-series-11-2026-1638607@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | 1WIN: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260902T125154Z
+DTSTART:20260902T110938Z
+SUMMARY:Quarterfinal 3: NEM vs 1WIN
+UID:cs-go-nodwin-clutch-series-11-2026-1633302@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | INOX Division: 1\nStream: https://kick.com/nodwin_cs2
@@ -93,11 +58,221 @@ SUMMARY:Round of 16 match 3: BBL vs Black Phoenix
 UID:cs-go-nodwin-clutch-series-11-2026-1633292@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: GenOne: 1 | Leo Team: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260824T164223Z
-DTSTART:20260824T141116Z
-SUMMARY:Round 2: G1 vs Leo
-UID:cs-go-nodwin-clutch-series-11-2026-1633233@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 1 | HyperSpirit: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260826T142144Z
+DTSTART:20260826T113735Z
+SUMMARY:Round 3: ex-ZT vs HS
+UID:cs-go-nodwin-clutch-series-11-2026-1633258@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Bebop: 1 | Honvéd: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260815T104608Z
+DTSTART:20260815T080940Z
+SUMMARY:Decider match: BBP vs Honvéd
+UID:cs-go-nodwin-clutch-series-11-2026-1635625@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | SPARTA: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260826T111148Z
+DTSTART:20260826T080712Z
+SUMMARY:Round 3: INOX vs SPARTA
+UID:cs-go-nodwin-clutch-series-11-2026-1633252@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260926T140000Z
+SUMMARY:Round of 16 Match 7: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684177@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: Fortress: 1 | ENCE: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260908T140920Z
+DTSTART:20260908T110640Z
+SUMMARY:Elimination match: FOR vs ENCE
+UID:cs-go-nodwin-clutch-series-12-2026-1677356@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | ENCE: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260815T132554Z
+DTSTART:20260815T110045Z
+SUMMARY:Decider match: MOUZ.N vs ENCE
+UID:cs-go-nodwin-clutch-series-11-2026-1635622@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260925T170000Z
+SUMMARY:Round of 16 Match 4: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684174@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260925T080000Z
+SUMMARY:Round of 16 Match 1: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684171@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | Butterfly: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260824T125813Z
+DTSTART:20260824T110742Z
+SUMMARY:Round 2: INOX vs BTF
+UID:cs-go-nodwin-clutch-series-11-2026-1633232@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260919T170000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684157@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 2 | MOUZ NXT: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260819T101518Z
+DTSTART:20260819T081223Z
+SUMMARY:Qualification match 1: IC.A vs MOUZ.N
+UID:cs-go-nodwin-clutch-series-11-2026-1640218@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260919T080000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684154@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260918T110000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684151@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ENCE: 1 | ENJOY: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260813T200059Z
+DTSTART:20260813T172541Z
+SUMMARY:ENCE vs ENJOY
+UID:cs-go-nodwin-clutch-series-11-2026-1630757@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Nexus: 0 | Bushido Wildcats: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260816T094128Z
+DTSTART:20260816T080840Z
+SUMMARY:NXS vs BW
+UID:cs-go-nodwin-clutch-series-11-2026-1630930@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: WBT Academy: 2 | Permitta Esports: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260911T162923Z
+DTSTART:20260911T141037Z
+SUMMARY:Elimination match: WBT.A vs PERM
+UID:cs-go-nodwin-clutch-series-12-2026-1683337@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: The Last Resort: 0 | Honvéd: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260814T162016Z
+DTSTART:20260814T141731Z
+SUMMARY:Elimination match: TLR vs Honvéd
+UID:cs-go-nodwin-clutch-series-11-2026-1634181@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: SPARTA: 2 | Honvéd: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260829T153343Z
+DTSTART:20260829T141113Z
+SUMMARY:Round 5: SPARTA vs Honvéd
+UID:cs-go-nodwin-clutch-series-11-2026-1633280@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: SPARTA: 1 | Inner Circle Academy: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260828T164656Z
+DTSTART:20260828T140447Z
+SUMMARY:Round 4: SPARTA vs IC.A
+UID:cs-go-nodwin-clutch-series-11-2026-1633266@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Leo Team: 0 | Butterfly: 2\nStream: https://www.twitch.tv/milqka
+DTEND:20260827T155122Z
+DTSTART:20260827T140903Z
+SUMMARY:Round 4: Leo vs BTF
+UID:cs-go-nodwin-clutch-series-11-2026-1633263@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: UPGRADE: 1 | BET-M 33: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260826T202746Z
+DTSTART:20260826T172407Z
+SUMMARY:Round 3: UPGRADE vs 33
+UID:cs-go-nodwin-clutch-series-11-2026-1633260@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260928T140000Z
+SUMMARY:Grand Final: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684185@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260927T170000Z
+SUMMARY:Quarterfinal 4: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684182@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Color: 2 | Butterfly: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260825T154026Z
+DTSTART:20260825T140013Z
+SUMMARY:Round 3: Color vs BTF
+UID:cs-go-nodwin-clutch-series-11-2026-1633246@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | Permitta Esports: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260817T193355Z
+DTSTART:20260817T180713Z
+SUMMARY:Winners match: BW vs PERM
+UID:cs-go-nodwin-clutch-series-11-2026-1638607@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260913T170000Z
+SUMMARY:Qualification Match 4: ex-RUSTEC vs MISA
+UID:cs-go-nodwin-clutch-series-12-2026-1685303@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260923T080000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684168@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260913T080000Z
+SUMMARY:Qualification Match 1: DRAMA vs ENCE
+UID:cs-go-nodwin-clutch-series-12-2026-1685300@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260922T080000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684165@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: Azuolas: 2 | Bushido Wildcats: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260909T123650Z
+DTSTART:20260909T111825Z
+SUMMARY:Decider match: Azuolas vs BW
+UID:cs-go-nodwin-clutch-series-12-2026-1679373@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260921T080000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684162@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Honvéd: 0 | Inner Circle Academy: 2\nStream: https://kick.com/nodwin_cs2
@@ -107,25 +282,11 @@ SUMMARY:Round 2: Honvéd vs IC.A
 UID:cs-go-nodwin-clutch-series-11-2026-1633229@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: HyperSpirit: 2 | Permitta Esports: 1\nStream: https://kick.com/nodwin_cs2
-DTEND:20260819T135205Z
-DTSTART:20260819T110855Z
-SUMMARY:Qualification match 2: HS vs PERM
-UID:cs-go-nodwin-clutch-series-11-2026-1640219@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ENJOY: 0 | ex-Zero Tenacity: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260819T155242Z
 DTSTART:20260819T140638Z
 SUMMARY:Qualification match 3: ENJOY vs ex-ZT
 UID:cs-go-nodwin-clutch-series-11-2026-1640220@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Permitta Esports: 2 | G2 Ares: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260818T101148Z
-DTSTART:20260818T081403Z
-SUMMARY:Decider match: PERM vs G2.A
-UID:cs-go-nodwin-clutch-series-11-2026-1640216@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: GenOne: 0 | ex-Zero Tenacity: 2\nStream: https://kick.com/nodwin_cs2
@@ -135,11 +296,11 @@ SUMMARY:Round 1: G1 vs ex-ZT
 UID:cs-go-nodwin-clutch-series-11-2026-1633223@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Nordic Partners Gaming : 1 | BET-M 33: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260821T104537Z
-DTSTART:20260821T080429Z
-SUMMARY:Round 1: NPG vs 33
-UID:cs-go-nodwin-clutch-series-11-2026-1633219@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260917T140000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684148@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: 3DMAX: 2 | Infinite: 0\nStream: https://kick.com/nodwin_cs2
@@ -163,11 +324,11 @@ SUMMARY:Honvéd vs BBP
 UID:cs-go-nodwin-clutch-series-11-2026-1631015@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Black Phoenix: 0 | Infinite: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260902T155947Z
-DTSTART:20260902T140805Z
-SUMMARY:Quarterfinal 2: Black Phoenix vs INF
-UID:cs-go-nodwin-clutch-series-11-2026-1633301@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260916T170000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684145@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: Azuolas: 2 | Bushido Wildcats: 0\nStream: https://kick.com/nodwin_cs2
@@ -177,39 +338,25 @@ SUMMARY:Azuolas vs BW
 UID:cs-go-nodwin-clutch-series-12-2026-1673539@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | Permitta Esports: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260816T165545Z
-DTSTART:20260816T141018Z
-SUMMARY:G2.A vs PERM
-UID:cs-go-nodwin-clutch-series-11-2026-1630931@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Black Phoenix: 0 | Infinite: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260902T155947Z
+DTSTART:20260902T140805Z
+SUMMARY:Quarterfinal 2: Black Phoenix vs INF
+UID:cs-go-nodwin-clutch-series-11-2026-1633301@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260907T170000Z
-SUMMARY:G2.A vs WAZ
-UID:cs-go-nodwin-clutch-series-12-2026-1673540@tournamentics
+DTSTART:20260916T080000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684142@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260910T170000Z
-SUMMARY:Honvéd vs PERM
-UID:cs-go-nodwin-clutch-series-12-2026-1673536@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Color: 2 | HyperSpirit: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260828T125520Z
-DTSTART:20260828T110538Z
-SUMMARY:Round 4: Color vs HS
-UID:cs-go-nodwin-clutch-series-11-2026-1633265@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: UPGRADE: 1 | Black Phoenix: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260828T195041Z
-DTSTART:20260828T170738Z
-SUMMARY:Round 4: UPGRADE vs Black Phoenix
-UID:cs-go-nodwin-clutch-series-11-2026-1633262@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: ReThink: 0 | Misa Esports: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260912T092711Z
+DTSTART:20260912T080727Z
+SUMMARY:Decider Match: RT vs MISA
+UID:cs-go-nodwin-clutch-series-12-2026-1685296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: ex-RUSTEC: 2 | Fortress: 0\nStream: https://kick.com/nodwin_cs2
@@ -217,48 +364,6 @@ DTEND:20260907T101245Z
 DTSTART:20260907T084010Z
 SUMMARY:ex-RUSTEC vs FOR
 UID:cs-go-nodwin-clutch-series-12-2026-1673533@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 1 | HyperSpirit: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260826T142144Z
-DTSTART:20260826T113735Z
-SUMMARY:Round 3: ex-ZT vs HS
-UID:cs-go-nodwin-clutch-series-11-2026-1633258@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Bebop: 1 | Honvéd: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260815T104608Z
-DTSTART:20260815T080940Z
-SUMMARY:Decider match: BBP vs Honvéd
-UID:cs-go-nodwin-clutch-series-11-2026-1635625@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | ENJOY: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260814T131943Z
-DTSTART:20260814T110620Z
-SUMMARY:Winners' match: MOUZ.N vs ENJOY
-UID:cs-go-nodwin-clutch-series-11-2026-1634182@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | SPARTA: 1\nStream: https://kick.com/nodwin_cs2
-DTEND:20260826T111148Z
-DTSTART:20260826T080712Z
-SUMMARY:Round 3: INOX vs SPARTA
-UID:cs-go-nodwin-clutch-series-11-2026-1633252@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | ENCE: 1\nStream: https://kick.com/nodwin_cs2
-DTEND:20260815T132554Z
-DTSTART:20260815T110045Z
-SUMMARY:Decider match: MOUZ.N vs ENCE
-UID:cs-go-nodwin-clutch-series-11-2026-1635622@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Nexus: 0 | G2 Ares: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260817T162742Z
-DTSTART:20260817T141131Z
-SUMMARY:Elimination match: NXS vs G2.A
-UID:cs-go-nodwin-clutch-series-11-2026-1638606@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Walczaki: 2 | BET-M 33: 1\nStream: https://kick.com/nodwin_cs2
@@ -275,11 +380,186 @@ SUMMARY:Round of 16 match 7: HOTU vs UPGRADE
 UID:cs-go-nodwin-clutch-series-11-2026-1633294@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | Butterfly: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260824T125813Z
-DTSTART:20260824T110742Z
-SUMMARY:Round 2: INOX vs BTF
-UID:cs-go-nodwin-clutch-series-11-2026-1633232@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260927T080000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684179@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: Azuolas: 0 | G2 Ares: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260908T185330Z
+DTSTART:20260908T171949Z
+SUMMARY:Winners match: Azuolas vs G2.A
+UID:cs-go-nodwin-clutch-series-12-2026-1677358@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260926T110000Z
+SUMMARY:Round of 16 Match 6: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684176@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260925T140000Z
+SUMMARY:Round of 16 Match 3: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684173@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260923T140000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684170@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | ex-Zero Tenacity: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260824T195948Z
+DTSTART:20260824T171046Z
+SUMMARY:Round 2: CSH.P vs ex-ZT
+UID:cs-go-nodwin-clutch-series-11-2026-1633234@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260920T110000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684159@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: BET-M 33: 2 | HyperSpirit: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260824T094104Z
+DTSTART:20260824T080317Z
+SUMMARY:Round 2: 33 vs HS
+UID:cs-go-nodwin-clutch-series-11-2026-1633231@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260919T140000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684156@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 2 | ex-RUSTEC: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260818T124412Z
+DTSTART:20260818T110804Z
+SUMMARY:Decider match: ex-ZT vs ex-RUSTEC
+UID:cs-go-nodwin-clutch-series-11-2026-1640217@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260918T170000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684153@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260918T080000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684150@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ex-RUSTEC: 0 | Inner Circle Academy: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260816T123649Z
+DTSTART:20260816T111252Z
+SUMMARY:ex-RUSTEC vs IC.A
+UID:cs-go-nodwin-clutch-series-11-2026-1630932@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260915T110000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684139@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Just Players: 0 | MOUZ NXT: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260813T101352Z
+DTSTART:20260813T081215Z
+SUMMARY:JustP vs MOUZ.N
+UID:cs-go-nodwin-clutch-series-11-2026-1630756@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: Bebop: 0 | Honvéd: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260911T130415Z
+DTSTART:20260911T112525Z
+SUMMARY:Winners match: BBP vs Honvéd
+UID:cs-go-nodwin-clutch-series-12-2026-1683336@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Just Players: 1 | ENCE: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260814T203252Z
+DTSTART:20260814T170735Z
+SUMMARY:Elimination match: JustP vs ENCE
+UID:cs-go-nodwin-clutch-series-11-2026-1634183@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: HyperSpirit: 2 | Bebop: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260814T103801Z
+DTSTART:20260814T082539Z
+SUMMARY:Winners match: HS vs BBP
+UID:cs-go-nodwin-clutch-series-11-2026-1634180@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Color: 2 | HyperSpirit: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260828T125520Z
+DTSTART:20260828T110538Z
+SUMMARY:Round 4: Color vs HS
+UID:cs-go-nodwin-clutch-series-11-2026-1633265@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: UPGRADE: 1 | Black Phoenix: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260828T195041Z
+DTSTART:20260828T170738Z
+SUMMARY:Round 4: UPGRADE vs Black Phoenix
+UID:cs-go-nodwin-clutch-series-11-2026-1633262@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260928T110000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684184@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260927T140000Z
+SUMMARY:Quarterfinal 3: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684181@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Nexus: 0 | G2 Ares: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260817T162742Z
+DTSTART:20260817T141131Z
+SUMMARY:Elimination match: NXS vs G2.A
+UID:cs-go-nodwin-clutch-series-11-2026-1638606@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260913T140000Z
+SUMMARY:Qualification Match 3: Honvéd vs Azuolas
+UID:cs-go-nodwin-clutch-series-12-2026-1685302@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260922T140000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684167@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260921T140000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684164@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Nordic Partners Gaming : 1 | Black Phoenix: 2\nStream: https://kick.com/nodwin_cs2
@@ -289,11 +569,11 @@ SUMMARY:Round 2: NPG vs Black Phoenix
 UID:cs-go-nodwin-clutch-series-11-2026-1633228@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 2 | MOUZ NXT: 1\nStream: https://kick.com/nodwin_cs2
-DTEND:20260819T101518Z
-DTSTART:20260819T081223Z
-SUMMARY:Qualification match 1: IC.A vs MOUZ.N
-UID:cs-go-nodwin-clutch-series-11-2026-1640218@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260920T170000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684161@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | Honvéd: 0\nStream: https://kick.com/nodwin_cs2
@@ -317,11 +597,25 @@ SUMMARY:Round 1: SPARTA vs Leo
 UID:cs-go-nodwin-clutch-series-11-2026-1633222@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260917T110000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684147@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: The Last Resort: 0 | HyperSpirit: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260813T125608Z
 DTSTART:20260813T110648Z
 SUMMARY:TLR vs HS
 UID:cs-go-nodwin-clutch-series-11-2026-1631014@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260916T140000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684144@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: 3DMAX: 2 | Walczaki: 0\nStream: https://kick.com/nodwin_cs2
@@ -331,53 +625,18 @@ SUMMARY:Quarterfinal 1: 3DMAX vs WAL
 UID:cs-go-nodwin-clutch-series-11-2026-1633300@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: UPGRADE: 2 | HyperSpirit: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260829T095819Z
-DTSTART:20260829T080338Z
-SUMMARY:Round 5: UPGRADE vs HS
-UID:cs-go-nodwin-clutch-series-11-2026-1633267@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260910T140000Z
-SUMMARY:RT vs MISA
-UID:cs-go-nodwin-clutch-series-12-2026-1673538@tournamentics
+DTSTART:20260915T170000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684141@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Nexus: 0 | Bushido Wildcats: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260816T094128Z
-DTSTART:20260816T080840Z
-SUMMARY:NXS vs BW
-UID:cs-go-nodwin-clutch-series-11-2026-1630930@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ENCE: 1 | ENJOY: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260813T200059Z
-DTSTART:20260813T172541Z
-SUMMARY:ENCE vs ENJOY
-UID:cs-go-nodwin-clutch-series-11-2026-1630757@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | GenOne: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260828T102303Z
-DTSTART:20260828T082000Z
-SUMMARY:Round 4: ex-RUBY vs G1
-UID:cs-go-nodwin-clutch-series-11-2026-1633264@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260910T110000Z
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: Bebop: 2 | WBT Academy: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260910T145925Z
+DTSTART:20260910T115420Z
 SUMMARY:BBP vs WBT.A
 UID:cs-go-nodwin-clutch-series-12-2026-1673535@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: The Last Resort: 0 | Honvéd: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260814T162016Z
-DTSTART:20260814T141731Z
-SUMMARY:Elimination match: TLR vs Honvéd
-UID:cs-go-nodwin-clutch-series-11-2026-1634181@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | Color: 1\nStream: https://kick.com/nodwin_cs2
@@ -385,20 +644,6 @@ DTEND:20260901T200104Z
 DTSTART:20260901T174459Z
 SUMMARY:Round of 16 match 8: NTR vs Color
 UID:cs-go-nodwin-clutch-series-11-2026-1633299@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ex-RUBY: 1 | Black Phoenix: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260825T112234Z
-DTSTART:20260825T080838Z
-SUMMARY:Round 3: ex-RUBY vs Black Phoenix
-UID:cs-go-nodwin-clutch-series-11-2026-1633244@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 2 | ex-Zero Tenacity: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260817T124720Z
-DTSTART:20260817T110727Z
-SUMMARY:Winners match: IC.A vs ex-ZT
-UID:cs-go-nodwin-clutch-series-11-2026-1638605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | SPARTA: 0\nStream: https://kick.com/nodwin_cs2
@@ -415,32 +660,200 @@ SUMMARY:Round of 16 match 1: 3DMAX vs BTF
 UID:cs-go-nodwin-clutch-series-11-2026-1633293@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | ex-Zero Tenacity: 1\nStream: https://kick.com/nodwin_cs2
-DTEND:20260824T195948Z
-DTSTART:20260824T171046Z
-SUMMARY:Round 2: CSH.P vs ex-ZT
-UID:cs-go-nodwin-clutch-series-11-2026-1633234@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: GenOne: 2 | Nordic Partners Gaming : 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260826T165801Z
+DTSTART:20260826T144724Z
+SUMMARY:Round 3: G1 vs NPG
+UID:cs-go-nodwin-clutch-series-11-2026-1633259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: BET-M 33: 2 | HyperSpirit: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260824T094104Z
-DTSTART:20260824T080317Z
-SUMMARY:Round 2: 33 vs HS
-UID:cs-go-nodwin-clutch-series-11-2026-1633231@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260926T170000Z
+SUMMARY:Round of 16 Match 8: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684178@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Honvéd: 2 | Bushido Wildcats: 1\nStream: https://kick.com/nodwin_cs2
-DTEND:20260819T192639Z
-DTSTART:20260819T170558Z
-SUMMARY:Qualification match 4: Honvéd vs BW
-UID:cs-go-nodwin-clutch-series-11-2026-1640221@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: ex-RUSTEC: 2 | Entropy: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260908T160141Z
+DTSTART:20260908T143901Z
+SUMMARY:Winners match: ex-RUSTEC vs Entropy
+UID:cs-go-nodwin-clutch-series-12-2026-1677357@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 2 | ex-RUSTEC: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260818T124412Z
-DTSTART:20260818T110804Z
-SUMMARY:Decider match: ex-ZT vs ex-RUSTEC
-UID:cs-go-nodwin-clutch-series-11-2026-1640217@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260926T080000Z
+SUMMARY:Round of 16 Match 5: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684175@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260925T110000Z
+SUMMARY:Round of 16 Match 2: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684172@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: GenOne: 1 | Leo Team: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260824T164223Z
+DTSTART:20260824T141116Z
+SUMMARY:Round 2: G1 vs Leo
+UID:cs-go-nodwin-clutch-series-11-2026-1633233@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: HyperSpirit: 2 | Permitta Esports: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260819T135205Z
+DTSTART:20260819T110855Z
+SUMMARY:Qualification match 2: HS vs PERM
+UID:cs-go-nodwin-clutch-series-11-2026-1640219@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260920T080000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684158@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260919T110000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684155@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Permitta Esports: 2 | G2 Ares: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260818T101148Z
+DTSTART:20260818T081403Z
+SUMMARY:Decider match: PERM vs G2.A
+UID:cs-go-nodwin-clutch-series-11-2026-1640216@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Nordic Partners Gaming : 1 | BET-M 33: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260821T104537Z
+DTSTART:20260821T080429Z
+SUMMARY:Round 1: NPG vs 33
+UID:cs-go-nodwin-clutch-series-11-2026-1633219@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260918T140000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684152@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | Permitta Esports: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260816T165545Z
+DTSTART:20260816T141018Z
+SUMMARY:G2.A vs PERM
+UID:cs-go-nodwin-clutch-series-11-2026-1630931@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260915T080000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684138@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 | WAZABI: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260907T183214Z
+DTSTART:20260907T170959Z
+SUMMARY:G2.A vs WAZ
+UID:cs-go-nodwin-clutch-series-12-2026-1673540@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: SINQU: 1 | Misa Esports: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260911T200329Z
+DTSTART:20260911T170823Z
+SUMMARY:Elimination match: SINQU vs MISA
+UID:cs-go-nodwin-clutch-series-12-2026-1683338@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: Drama eSports: 2 | ReThink: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260911T093416Z
+DTSTART:20260911T081155Z
+SUMMARY:Winners match: DRAMA vs RT
+UID:cs-go-nodwin-clutch-series-12-2026-1683335@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | ENJOY: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260814T131943Z
+DTSTART:20260814T110620Z
+SUMMARY:Winners' match: MOUZ.N vs ENJOY
+UID:cs-go-nodwin-clutch-series-11-2026-1634182@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: UPGRADE: 2 | HyperSpirit: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260829T095819Z
+DTSTART:20260829T080338Z
+SUMMARY:Round 5: UPGRADE vs HS
+UID:cs-go-nodwin-clutch-series-11-2026-1633267@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | GenOne: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260828T102303Z
+DTSTART:20260828T082000Z
+SUMMARY:Round 4: ex-RUBY vs G1
+UID:cs-go-nodwin-clutch-series-11-2026-1633264@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260928T080000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684183@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260927T110000Z
+SUMMARY:Quarterfinal 2: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684180@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ex-RUBY: 1 | Black Phoenix: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260825T112234Z
+DTSTART:20260825T080838Z
+SUMMARY:Round 3: ex-RUBY vs Black Phoenix
+UID:cs-go-nodwin-clutch-series-11-2026-1633244@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260923T110000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684169@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 2 | ex-Zero Tenacity: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260817T124720Z
+DTSTART:20260817T110727Z
+SUMMARY:Winners match: IC.A vs ex-ZT
+UID:cs-go-nodwin-clutch-series-11-2026-1638605@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260913T110000Z
+SUMMARY:Qualification Match 2: G2.A vs WBT.A
+UID:cs-go-nodwin-clutch-series-12-2026-1685301@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260922T110000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684166@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260921T110000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684163@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Color: 0 | SPARTA: 2\nStream: https://kick.com/nodwin_cs2
@@ -450,6 +863,20 @@ SUMMARY:Round 2: Color vs SPARTA
 UID:cs-go-nodwin-clutch-series-11-2026-1633227@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260920T140000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684160@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Honvéd: 2 | Bushido Wildcats: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260819T192639Z
+DTSTART:20260819T170558Z
+SUMMARY:Qualification match 4: Honvéd vs BW
+UID:cs-go-nodwin-clutch-series-11-2026-1640221@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Butterfly: 2 | Black Phoenix: 1\nStream: https://kick.com/nodwin_cs2
 DTEND:20260822T134848Z
 DTSTART:20260822T111210Z
@@ -457,11 +884,11 @@ SUMMARY:Round 1: BTF vs Black Phoenix
 UID:cs-go-nodwin-clutch-series-11-2026-1633224@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: SPARTA: 2 | Honvéd: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260829T153343Z
-DTSTART:20260829T141113Z
-SUMMARY:Round 5: SPARTA vs Honvéd
-UID:cs-go-nodwin-clutch-series-11-2026-1633280@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260917T170000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684149@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Team Nemesis: 0 | HOTU: 2\nStream: https://kick.com/nodwin_cs2
@@ -471,24 +898,17 @@ SUMMARY:Semifinal 2: NEM vs HOTU
 UID:cs-go-nodwin-clutch-series-11-2026-1633305@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | 1WIN: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260902T125154Z
-DTSTART:20260902T110938Z
-SUMMARY:Quarterfinal 3: NEM vs 1WIN
-UID:cs-go-nodwin-clutch-series-11-2026-1633302@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260917T080000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684146@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: ex-RUSTEC: 0 | Inner Circle Academy: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260816T123649Z
-DTSTART:20260816T111252Z
-SUMMARY:ex-RUSTEC vs IC.A
-UID:cs-go-nodwin-clutch-series-11-2026-1630932@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 11 2026\nMatch Type: Best Of\nResult: SPARTA: 1 | Inner Circle Academy: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260828T164656Z
-DTSTART:20260828T140447Z
-SUMMARY:Round 4: SPARTA vs IC.A
-UID:cs-go-nodwin-clutch-series-11-2026-1633266@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260916T110000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-12-2026-1684143@tournamentics
 END:VEVENT
 END:VCALENDAR
