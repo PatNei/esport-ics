@@ -1188,7 +1188,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260917T080000Z
-SUMMARY:Elimination match: G2.A vs TBD
+SUMMARY:Elimination match: G2.A vs MISA
 UID:cs-go-european-pro-league-series-9-2026-1683266@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2305,8 +2305,8 @@ SUMMARY:MASQ vs MSC
 UID:cs-go-dust2-dk-33-2026-1688005@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Fiesta - Season 2 2026\nMatch Type: Best Of\nResult: WRAITH PCIFIC: 2 | Honvéd: 0\nStream: https://kick.com/fiesta_cs
+DTEND:20260913T131658Z
 DTSTART:20260913T113927Z
 SUMMARY:Round 2: PCIFIC vs Honvéd
 UID:cs-go-exort-fiesta-2-2026-1683142@tournamentics
@@ -2595,7 +2595,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260913T133000Z
-SUMMARY:Decider match: FORZE.R vs TBD
+SUMMARY:Decider match: FORZE.R vs INOX
 UID:cs-go-cis-lan-championship-7-2026-1686068@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3957,8 +3957,8 @@ SUMMARY: MTX vs GBC
 UID:cs-go-roman-imperium-cup-8-2026-1681251@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nResult: Bebop: 2 | Misa Esports: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260913T131359Z
 DTSTART:20260913T111336Z
 SUMMARY:BBP vs MISA
 UID:cs-go-european-pro-league-series-9-2026-1683265@tournamentics
@@ -5483,8 +5483,8 @@ SUMMARY:Quarterfinal 2: VIL vs Incognito
 UID:cs-go-pgl-masters-bucharest-north-american-open-qualifier-1-2026-1670355@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | ex-RUBY: 1\nStream: https://www.twitch.tv/kartash0v
+DTEND:20260913T131637Z
 DTSTART:20260913T100417Z
 SUMMARY:Elimination match: INOX vs ex-RUBY
 UID:cs-go-cis-lan-championship-7-2026-1686067@tournamentics
@@ -8895,7 +8895,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260917T103000Z
-SUMMARY:Winners match: Honvéd vs TBD
+SUMMARY:Winners match: Honvéd vs BBP
 UID:cs-go-european-pro-league-series-9-2026-1683267@tournamentics
 END:VEVENT
 BEGIN:VEVENT
