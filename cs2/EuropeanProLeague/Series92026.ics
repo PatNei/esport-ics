@@ -131,12 +131,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260917T103000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: Honvéd vs TBD
 UID:cs-go-european-pro-league-series-9-2026-1683267@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | Honvéd: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260913T105910Z
 DTSTART:20260913T081902Z
 SUMMARY:G2.A vs Honvéd
 UID:cs-go-european-pro-league-series-9-2026-1683264@tournamentics
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260917T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: G2.A vs TBD
 UID:cs-go-european-pro-league-series-9-2026-1683266@tournamentics
 END:VEVENT
 BEGIN:VEVENT

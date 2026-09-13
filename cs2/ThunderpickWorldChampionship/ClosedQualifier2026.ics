@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260913T150000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: HOTU vs TBD
 UID:cs-go-thunderpick-world-championship-closed-qualifier-2026-1678045@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -135,8 +135,8 @@ SUMMARY:Winners match: HERO vs K27
 UID:cs-go-thunderpick-world-championship-closed-qualifier-2026-1678022@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - Closed Qualifier 2026\nMatch Type: Best Of\nResult: BBL: 1 | HOTU: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260913T110057Z
 DTSTART:20260913T080300Z
 SUMMARY:Semifinal 2: BBL vs HOTU
 UID:cs-go-thunderpick-world-championship-closed-qualifier-2026-1678044@tournamentics
