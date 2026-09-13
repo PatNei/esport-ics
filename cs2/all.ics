@@ -1517,7 +1517,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260913T150000Z
-SUMMARY:Grand final: HOTU vs TBD
+SUMMARY:Grand final: HOTU vs VP
 UID:cs-go-thunderpick-world-championship-closed-qualifier-2026-1678045@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6155,9 +6155,9 @@ SUMMARY:Decider match: BBP vs Noir Verse
 UID:cs-go-cct-europe-closed-qualifier-series-9-2026-1677991@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
-DTSTART:20260913T134500Z
+DTSTART:20260913T135314Z
 SUMMARY:Grand Final: MISA vs BW
 UID:cs-go-cct-europe-challengers-series-6-2026-1669128@tournamentics
 END:VEVENT
@@ -7394,8 +7394,8 @@ SUMMARY:Round 4: Leo vs BTF
 UID:cs-go-nodwin-clutch-series-11-2026-1633263@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - Closed Qualifier 2026\nMatch Type: Best Of\nResult: Virtus.pro: 2 | Heroic: 1\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260913T135719Z
 DTSTART:20260913T112530Z
 SUMMARY:Semifinal 1: VP vs HERO
 UID:cs-go-thunderpick-world-championship-closed-qualifier-2026-1678043@tournamentics

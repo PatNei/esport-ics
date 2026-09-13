@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - Closed Qualifier 2026\nMatch Type: Best Of\nResult: Virtus.pro: 2 | Heroic: 1\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260913T135719Z
 DTSTART:20260913T112530Z
 SUMMARY:Semifinal 1: VP vs HERO
 UID:cs-go-thunderpick-world-championship-closed-qualifier-2026-1678043@tournamentics
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260913T150000Z
-SUMMARY:Grand final: HOTU vs TBD
+SUMMARY:Grand final: HOTU vs VP
 UID:cs-go-thunderpick-world-championship-closed-qualifier-2026-1678045@tournamentics
 END:VEVENT
 BEGIN:VEVENT
