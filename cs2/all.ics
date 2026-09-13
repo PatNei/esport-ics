@@ -1811,7 +1811,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260915T080000Z
-SUMMARY:Decider match: EACE vs TBD
+SUMMARY:Decider match: EACE vs PHTM.Ac
 UID:cs-go-united21-55-2026-1673406@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5317,7 +5317,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #8 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260913T170000Z
+DTSTART:20260913T174500Z
 SUMMARY:Quarterfinal 4: INOX vs Color
 UID:cs-go-cct-europe-series-8-2026-1651794@tournamentics
 END:VEVENT
@@ -6148,8 +6148,8 @@ SUMMARY:Decider match: BBP vs Noir Verse
 UID:cs-go-cct-europe-closed-qualifier-series-9-2026-1677991@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 6 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | Bushido Wildcats: 1\nStream: https://kick.com/cct_cs4
+DTEND:20260913T164614Z
 DTSTART:20260913T135314Z
 SUMMARY:Grand Final: MISA vs BW
 UID:cs-go-cct-europe-challengers-series-6-2026-1669128@tournamentics
@@ -7679,13 +7679,6 @@ DTEND:20260902T155750Z
 DTSTART:20260902T131032Z
 SUMMARY:Upper bracket round 1 match 7: DENDELE CS vs EYE
 UID:cs-go-iem-beijing-global-qualifier-2026-1643635@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🕒 POSTPONED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260912T080000Z
-SUMMARY:Winners match: PHTM.Ac vs PSN.A
-UID:cs-go-united21-55-2026-1673404@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: 1win - Private Club #1 2026\nMatch Type: Best Of\nStream: No official stream linked
