@@ -2595,7 +2595,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260913T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: FORZE.R vs TBD
 UID:cs-go-cis-lan-championship-7-2026-1686068@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5948,7 +5948,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260915T103000Z
-SUMMARY:Decider match: GAT vs TBD
+SUMMARY:Decider match: GAT vs EF.A
 UID:cs-go-united21-55-2026-1673411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7366,8 +7366,8 @@ SUMMARY:OBOYS vs KSM
 UID:cs-go-esea-advanced-europe-58-2026-1630173@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fissure_cs_eng
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FISSURE PLAYGROUND - Season 3 2026\nMatch Type: Best Of\nResult: G2: 0 | Legacy: 3\nStream: https://www.twitch.tv/fissure_cs_eng
+DTEND:20260913T122633Z
 DTSTART:20260913T091348Z
 SUMMARY:Grand final: G2 vs LGC
 UID:cs-go-fissure-playground-3-2026-1674233@tournamentics
@@ -8402,8 +8402,8 @@ SUMMARY:Quarterfinal 1: MARS vs The Homies
 UID:cs-go-pgl-masters-bucharest-north-american-open-qualifier-1-2026-1670354@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nResult: FORZE Reload: 0 | BakS eSports: 2\nStream: https://www.twitch.tv/mpkbk
+DTEND:20260913T123100Z
 DTSTART:20260913T100733Z
 SUMMARY:Winners match: FORZE.R vs BAKS
 UID:cs-go-cis-lan-championship-7-2026-1686066@tournamentics
@@ -8808,8 +8808,8 @@ SUMMARY:Upper bracket semifinal 1: NTR vs EF
 UID:cs-go-iem-beijing-global-qualifier-2026-1643641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: Elite Klan: 0 | Eternal Fire Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260913T122740Z
 DTSTART:20260913T104503Z
 SUMMARY:Elimination match: EK vs EF.A
 UID:cs-go-united21-55-2026-1673410@tournamentics
