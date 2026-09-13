@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260913T205500Z
+DTSTART:20260913T225500Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cis-lan-championship-7-2026-1686087@tournamentics
 END:VEVENT
@@ -116,20 +116,20 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260913T200000Z
-SUMMARY:Elimination match: DOORDOM vs TBD
+DTSTART:20260913T204500Z
+SUMMARY:Elimination match: DOORDOM vs NTR
 UID:cs-go-cis-lan-championship-7-2026-1686086@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260913T200000Z
-SUMMARY:Winners match: CS vs TBD
+DTSTART:20260913T204500Z
+SUMMARY:Winners match: CS vs UP
 UID:cs-go-cis-lan-championship-7-2026-1686083@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | UPGRADE: 2\nStream: https://www.twitch.tv/mpkbk
+DTEND:20260913T202813Z
 DTSTART:20260913T163801Z
 SUMMARY:NTR vs UP
 UID:cs-go-cis-lan-championship-7-2026-1686080@tournamentics
