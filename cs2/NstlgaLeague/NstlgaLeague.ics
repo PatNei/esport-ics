@@ -19,12 +19,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260913T220000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: SportsBetExpert vs TBD
 UID:cs-go-nstlga-league-2-2026-1669738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nstlga_gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nResult: Without a Roof: 0 | SportsBetExpert: 2\nStream: https://www.twitch.tv/nstlga_gg
+DTEND:20260913T000728Z
 DTSTART:20260912T222404Z
 SUMMARY:Upper bracket final: WaR vs SportsBetExpert
 UID:cs-go-nstlga-league-2-2026-1669735@tournamentics
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260913T190000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: WaR vs LAG
 UID:cs-go-nstlga-league-2-2026-1669737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -212,9 +212,9 @@ SUMMARY:Round 2: REGAIN vs FV
 UID:cs-go-nstlga-league-2-2026-1669701@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nstlga_gg_b
-DURATION:PT2H
-DTSTART:20260912T222000Z
+DESCRIPTION:✅ FINISHED\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | Iowa Stormboar: 1\nStream: https://www.twitch.tv/nstlga_gg_b
+DTEND:20260913T003852Z
+DTSTART:20260912T222958Z
 SUMMARY:Lower bracket semifinal: LAG vs IOWA
 UID:cs-go-nstlga-league-2-2026-1669736@tournamentics
 END:VEVENT

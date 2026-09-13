@@ -488,6 +488,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Seaso
 </details>
 
 <details>
+<summary>Dust2.dk Ligaen</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Dust2DkLigaen.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Dust2DkLigaen.ics
+```
+
+---
+
+### Season 33 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Season332026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Season332026.ics
+```
+
+</details>
+
+<details>
 <summary>ESEA</summary>
 
 ### Full Schedule
