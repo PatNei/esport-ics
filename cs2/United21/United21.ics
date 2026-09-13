@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult:  Gatorian: 0 | Teletubisie: 2\nStream: https://kick.com/united21_en
+DTEND:20260913T092500Z
 DTSTART:20260913T081208Z
 SUMMARY:Winners match: GAT vs TTBS
 UID:cs-go-united21-55-2026-1673409@tournamentics
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260915T103000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: GAT vs TBD
 UID:cs-go-united21-55-2026-1673411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
