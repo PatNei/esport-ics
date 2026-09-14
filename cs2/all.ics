@@ -1208,7 +1208,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260914T080000Z
+DTSTART:20260914T081000Z
 SUMMARY:Decider match: ASC vs ENCE.P
 UID:cs-go-united21-55-2026-1673396@tournamentics
 END:VEVENT
@@ -1797,7 +1797,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
 DURATION:PT2H
 DTSTART:20260914T090000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: NEM vs BTF
 UID:cs-go-cis-lan-championship-7-2026-1686071@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4580,8 +4580,8 @@ SUMMARY:FF vs mellren
 UID:cs-go-european-pro-league-series-9-closed-qualifier-2026-1658034@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nResult: Butterfly: 2 | HyperSpace: 0\nStream: https://www.twitch.tv/kartash0v
+DTEND:20260914T080807Z
 DTSTART:20260914T070538Z
 SUMMARY:BTF vs HyperSpace
 UID:cs-go-cis-lan-championship-7-2026-1686070@tournamentics
@@ -9315,7 +9315,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
 DURATION:PT2H
 DTSTART:20260914T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: 33 vs HyperSpace
 UID:cs-go-cis-lan-championship-7-2026-1686072@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10033,8 +10033,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-9-2026-1681124@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | BET-M 33: 0\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260914T080853Z
 DTSTART:20260914T060854Z
 SUMMARY:NEM vs 33
 UID:cs-go-cis-lan-championship-7-2026-1686069@tournamentics
