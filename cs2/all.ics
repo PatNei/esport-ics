@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/byalli
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/byalli
 DURATION:PT2H
-DTSTART:20260914T173000Z
+DTSTART:20260914T175659Z
 SUMMARY:Lower bracket round 4 match 3: OLDBOYS PL vs LPH
 UID:cs-go-esea-advanced-europe-58-2026-1664537@tournamentics
 END:VEVENT
@@ -1332,8 +1332,8 @@ SUMMARY:Round 16 match 3: TBD vs TBD
 UID:cs-go-cct-europe-series-9-2026-1681140@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DACH CS Masters - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 6 2026\nMatch Type: Best Of\nResult: Pandaric eSports: 0 | Team LEISURE: 2\nStream: https://www.twitch.tv/dachcs
+DTEND:20260914T175407Z
 DTSTART:20260914T160654Z
 SUMMARY:Pandaric eSports vs LEI
 UID:cs-go-dach-cs-masters-6-2026-1661621@tournamentics
@@ -2592,9 +2592,9 @@ SUMMARY:BERG vs XI
 UID:cs-go-esea-advanced-europe-58-2026-1620635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
 DURATION:PT2H
-DTSTART:20260914T173000Z
+DTSTART:20260914T175657Z
 SUMMARY:Lower bracket round 4 match 2: DRAMA vs ZOTIX
 UID:cs-go-esea-advanced-europe-58-2026-1664536@tournamentics
 END:VEVENT
@@ -5413,9 +5413,9 @@ SUMMARY:Diamant Esports vs FAL.F
 UID:cs-go-esea-advanced-europe-58-2026-1620634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/r3s0luteee
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/r3s0luteee
 DURATION:PT2H
-DTSTART:20260914T173000Z
+DTSTART:20260914T175604Z
 SUMMARY:Lower bracket round 4 match 1: DM vs BG
 UID:cs-go-esea-advanced-europe-58-2026-1664535@tournamentics
 END:VEVENT
@@ -5721,7 +5721,7 @@ SUMMARY:PG vs B8.A
 UID:cs-go-esea-advanced-europe-58-2026-1611831@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
 DURATION:PT2H
 DTSTART:20260914T180000Z
 SUMMARY:Elimination match: WW vs TBD
@@ -7464,9 +7464,9 @@ SUMMARY:NoTime vs FAST LAYNERS
 UID:cs-go-esea-advanced-europe-58-2026-1620637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260914T173000Z
+DTSTART:20260914T174930Z
 SUMMARY:Lower bracket round 4 match 4: BERG vs NEXORA
 UID:cs-go-esea-advanced-europe-58-2026-1664538@tournamentics
 END:VEVENT
@@ -8549,7 +8549,7 @@ SUMMARY:BW vs ESB
 UID:cs-go-esea-advanced-europe-58-2026-1611830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
 DURATION:PT2H
 DTSTART:20260914T180000Z
 SUMMARY:Winners match: Young27 vs TBD
