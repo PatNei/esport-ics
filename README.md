@@ -816,6 +816,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season5520
 
 </details>
 
+<details>
+<summary>Urban Riga</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/UrbanRiga.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/UrbanRiga.ics
+```
+
+---
+
+### Open #7 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open72026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open72026.ics
+```
+
+</details>
+
 ## License
 
 ### Calendar Data (.ics files)
