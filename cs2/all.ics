@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/officialhyper
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nResult: OLDBOYS PL: 2 | LPH Gaming: 1\nStream: https://www.twitch.tv/officialhyper
+DTEND:20260914T200908Z
 DTSTART:20260914T175659Z
 SUMMARY:Lower bracket round 4 match 3: OLDBOYS PL vs LPH
 UID:cs-go-esea-advanced-europe-58-2026-1664537@tournamentics
@@ -9434,7 +9434,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260916T173000Z
-SUMMARY:Lower bracket round 5 match 2: BERG vs TBD
+SUMMARY:Lower bracket round 5 match 2: BERG vs OLDBOYS PL
 UID:cs-go-esea-advanced-europe-58-2026-1664540@tournamentics
 END:VEVENT
 BEGIN:VEVENT
