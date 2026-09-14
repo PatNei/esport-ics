@@ -425,6 +425,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Cha
 </details>
 
 <details>
+<summary>Circuit X</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CircuitX.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CircuitX.ics
+```
+
+---
+
+### Curitiba Fall 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CuritibaFall2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CuritibaFall2026.ics
+```
+
+</details>
+
+<details>
 <summary>Circuito Retake</summary>
 
 ### Full Schedule
