@@ -248,6 +248,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Ser
 </details>
 
 <details>
+<summary>Circuit X</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CircuitX.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CircuitX.ics
+```
+
+---
+
+### Curitiba Fall 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CuritibaFall2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CuritibaFall2026.ics
+```
+
+</details>
+
+<details>
 <summary>ESL Challenger League</summary>
 
 ### Full Schedule
@@ -420,27 +441,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Cct
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Challengers32026.ics
-```
-
-</details>
-
-<details>
-<summary>Circuit X</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CircuitX.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CircuitX.ics
-```
-
----
-
-### Curitiba Fall 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CuritibaFall2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CuritibaFall2026.ics
 ```
 
 </details>
