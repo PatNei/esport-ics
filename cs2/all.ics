@@ -2210,7 +2210,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260918T103000Z
-SUMMARY:Winners match: ex-RUSTEC vs TBD
+SUMMARY:Winners match: ex-RUSTEC vs NAVI.J
 UID:cs-go-european-pro-league-series-9-2026-1683272@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4996,7 +4996,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260918T080000Z
-SUMMARY:Elimination match: Azuolas vs TBD
+SUMMARY:Elimination match: Azuolas vs BW
 UID:cs-go-european-pro-league-series-9-2026-1683271@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5768,6 +5768,13 @@ DURATION:PT2H
 DTSTART:20260915T103000Z
 SUMMARY:Decider match: GAT vs EF.A
 UID:cs-go-united21-55-2026-1673411@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
+DURATION:PT2H
+DTSTART:20260917T173000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-circuit-x-curitiba-fall-2026-1690499@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
@@ -7870,8 +7877,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-9-2026-1681111@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 1 | NAVI Junior: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260914T140050Z
 DTSTART:20260914T105509Z
 SUMMARY:BW vs NAVI.J
 UID:cs-go-european-pro-league-series-9-2026-1683270@tournamentics
@@ -8540,6 +8547,13 @@ DTEND:20260913T122740Z
 DTSTART:20260913T104503Z
 SUMMARY:Elimination match: EK vs EF.A
 UID:cs-go-united21-55-2026-1673410@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
+DURATION:PT2H
+DTSTART:20260917T151500Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-circuit-x-curitiba-fall-2026-1690498@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
@@ -9947,6 +9961,13 @@ DTEND:20260906T194222Z
 DTSTART:20260906T171216Z
 SUMMARY:Elimination Match: WBT.A vs Gothic
 UID:cs-go-esl-challenger-league-europe-cup-6-52-2026-1672213@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
+DURATION:PT2H
+DTSTART:20260917T130000Z
+SUMMARY:SHIN vs EB
+UID:cs-go-circuit-x-curitiba-fall-2026-1690480@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NSTLGA League - Season 2 2026\nMatch Type: Best Of\nResult: SportsBetExpert: 3 | Without a Roof: 2\nStream: https://www.twitch.tv/nstlga_gg

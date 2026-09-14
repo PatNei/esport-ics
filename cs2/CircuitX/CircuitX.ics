@@ -4,6 +4,13 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
+DTSTART:20260917T130000Z
+SUMMARY:SHIN vs EB
+UID:cs-go-circuit-x-curitiba-fall-2026-1690480@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
+DURATION:PT2H
 DTSTART:20260916T151500Z
 SUMMARY:Winners' Match: TBD vs paiN
 UID:cs-go-circuit-x-curitiba-fall-2026-1690429@tournamentics
@@ -25,6 +32,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
+DTSTART:20260917T173000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-circuit-x-curitiba-fall-2026-1690499@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
+DURATION:PT2H
 DTSTART:20260916T130000Z
 SUMMARY:ALKA vs TdP
 UID:cs-go-circuit-x-curitiba-fall-2026-1690428@tournamentics
@@ -42,5 +56,12 @@ DURATION:PT2H
 DTSTART:20260917T003000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-circuit-x-curitiba-fall-2026-1690458@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
+DURATION:PT2H
+DTSTART:20260917T151500Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-circuit-x-curitiba-fall-2026-1690498@tournamentics
 END:VEVENT
 END:VCALENDAR
