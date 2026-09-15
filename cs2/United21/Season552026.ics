@@ -2,39 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 1 | OldMix: 2\nStream: https://kick.com/united21_en
-DTEND:20260911T112543Z
-DTSTART:20260911T081319Z
-SUMMARY:Winners match: INF vs OldMix
-UID:cs-go-united21-55-2026-1673399@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 0 | Prestige: 2\nStream: https://kick.com/united21_en
-DTEND:20260914T122150Z
-DTSTART:20260914T104826Z
-SUMMARY:Decider match: INF vs PRE
-UID:cs-go-united21-55-2026-1673401@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult:  Gatorian: 0 | Teletubisie: 2\nStream: https://kick.com/united21_en
 DTEND:20260913T092500Z
 DTSTART:20260913T081208Z
 SUMMARY:Winners match: GAT vs TTBS
 UID:cs-go-united21-55-2026-1673409@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: TEAM ASCEND: 0 | ENCE Prospects: 2\nStream: https://kick.com/united21_en
-DTEND:20260914T102942Z
-DTSTART:20260914T082004Z
-SUMMARY:Decider match: ASC vs ENCE.P
-UID:cs-go-united21-55-2026-1673396@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: SINQU Rehti: 0 | ENCE Prospects: 2\nStream: https://kick.com/united21_en
-DTEND:20260910T120614Z
-DTSTART:20260910T104055Z
-SUMMARY:Elimination match: SINQU Rehti vs ENCE.P
-UID:cs-go-united21-55-2026-1673394@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: Elite Klan: 0 | Eternal Fire Academy: 2\nStream: https://kick.com/united21_en
@@ -44,20 +16,6 @@ SUMMARY:Elimination match: EK vs EF.A
 UID:cs-go-united21-55-2026-1673410@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: Inner Circle Prospect: 2 | ENCE Prospects: 0\nStream: https://kick.com/united21_en
-DTEND:20260906T122822Z
-DTSTART:20260906T110049Z
-SUMMARY:IC.P vs ENCE.P
-UID:cs-go-united21-55-2026-1673393@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: OldMix: 2 | Prestige: 0\nStream: https://kick.com/united21_en
-DTEND:20260907T124302Z
-DTSTART:20260907T110557Z
-SUMMARY:OldMix vs PRE
-UID:cs-go-united21-55-2026-1673398@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: CTRL Esports: 0 | Prestige: 2\nStream: https://kick.com/united21_en
 DTEND:20260911T130806Z
 DTSTART:20260911T114303Z
@@ -65,11 +23,67 @@ SUMMARY:Elimination match: CTRL vs PRE
 UID:cs-go-united21-55-2026-1673400@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260917T103000Z
+SUMMARY:Upper Bracket Quarterfinal 4: TTBS vs ENCE.P
+UID:cs-go-united21-55-2026-1692978@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 1 | OldMix: 2\nStream: https://kick.com/united21_en
+DTEND:20260911T112543Z
+DTSTART:20260911T081319Z
+SUMMARY:Winners match: INF vs OldMix
+UID:cs-go-united21-55-2026-1673399@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260916T080000Z
+SUMMARY:Upper Bracket Quarterfinal 1: IC.P vs EF.A
+UID:cs-go-united21-55-2026-1692975@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: TEAM ASCEND: 0 | ENCE Prospects: 2\nStream: https://kick.com/united21_en
+DTEND:20260914T102942Z
+DTSTART:20260914T082004Z
+SUMMARY:Decider match: ASC vs ENCE.P
+UID:cs-go-united21-55-2026-1673396@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: Inner Circle Prospect: 2 | ENCE Prospects: 0\nStream: https://kick.com/united21_en
+DTEND:20260906T122822Z
+DTSTART:20260906T110049Z
+SUMMARY:IC.P vs ENCE.P
+UID:cs-go-united21-55-2026-1673393@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: Teletubisie: 2 | Eternal Fire Academy: 0\nStream: https://kick.com/united21_en
 DTEND:20260909T115745Z
 DTSTART:20260909T104157Z
 SUMMARY:TTBS vs EF.A
 UID:cs-go-united21-55-2026-1673408@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 2 | EAC Extra: 0\nStream: https://kick.com/united21_en
+DTEND:20260908T092622Z
+DTSTART:20260908T081343Z
+SUMMARY:PHTM.Ac vs EACE
+UID:cs-go-united21-55-2026-1673402@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260917T080000Z
+SUMMARY:Upper Bracket Quarterfinal 3: PSN.A vs PRE
+UID:cs-go-united21-55-2026-1692977@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: OldMix: 2 | Prestige: 0\nStream: https://kick.com/united21_en
+DTEND:20260907T124302Z
+DTSTART:20260907T110557Z
+SUMMARY:OldMix vs PRE
+UID:cs-go-united21-55-2026-1673398@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: TEAM ASCEND: 0 | Inner Circle Prospect: 2\nStream: https://kick.com/united21_en
@@ -86,20 +100,6 @@ SUMMARY:SINQU Rehti vs ASC
 UID:cs-go-united21-55-2026-1673392@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 2 | EAC Extra: 0\nStream: https://kick.com/united21_en
-DTEND:20260908T092622Z
-DTSTART:20260908T081343Z
-SUMMARY:PHTM.Ac vs EACE
-UID:cs-go-united21-55-2026-1673402@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: CTRL Esports: 1 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
-DTEND:20260907T102754Z
-DTSTART:20260907T081916Z
-SUMMARY:CTRL vs INF
-UID:cs-go-united21-55-2026-1673397@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult:  Gatorian: 1 | Eternal Fire Academy: 2\nStream: https://kick.com/united21_en
 DTEND:20260915T140313Z
 DTSTART:20260915T105114Z
@@ -112,5 +112,33 @@ DTEND:20260909T095736Z
 DTSTART:20260909T083924Z
 SUMMARY:GAT vs EK
 UID:cs-go-united21-55-2026-1673407@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 0 | Prestige: 2\nStream: https://kick.com/united21_en
+DTEND:20260914T122150Z
+DTSTART:20260914T104826Z
+SUMMARY:Decider match: INF vs PRE
+UID:cs-go-united21-55-2026-1673401@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260916T103000Z
+SUMMARY:Upper Bracket Quarterfinal 2: OldMix vs EACE
+UID:cs-go-united21-55-2026-1692976@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: CTRL Esports: 1 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260907T102754Z
+DTSTART:20260907T081916Z
+SUMMARY:CTRL vs INF
+UID:cs-go-united21-55-2026-1673397@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: SINQU Rehti: 0 | ENCE Prospects: 2\nStream: https://kick.com/united21_en
+DTEND:20260910T120614Z
+DTSTART:20260910T104055Z
+SUMMARY:Elimination match: SINQU Rehti vs ENCE.P
+UID:cs-go-united21-55-2026-1673394@tournamentics
 END:VEVENT
 END:VCALENDAR
