@@ -40,12 +40,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
 DURATION:PT2H
 DTSTART:20260916T100000Z
-SUMMARY:Semifinal 1: CS vs TBD
+SUMMARY:Semifinal 1: CS vs NEMI
 UID:cs-go-cis-lan-championship-7-2026-1686094@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | BET-M 33: 1\nStream: https://www.twitch.tv/mpkbk
+DTEND:20260915T222345Z
 DTSTART:20260915T185218Z
 SUMMARY:Quarterfinal 2: NEMI vs 33
 UID:cs-go-cis-lan-championship-7-2026-1686091@tournamentics
