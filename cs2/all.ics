@@ -1489,7 +1489,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
 DURATION:PT2H
 DTSTART:20260916T130000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: NEM vs TBD
 UID:cs-go-cis-lan-championship-7-2026-1686095@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4295,7 +4295,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #9 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260915T142000Z
+DTSTART:20260915T144000Z
 SUMMARY:Round 1: BAKS vs TS.A
 UID:cs-go-cct-europe-series-9-2026-1681045@tournamentics
 END:VEVENT
@@ -7023,8 +7023,8 @@ SUMMARY:Semifinal 2: ISG vs TdP
 UID:cs-go-pgl-masters-bucharest-south-american-open-qualifier-2-2026-1673558@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nResult: WW Team: 0 | Team Nemesis: 2\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260915T143745Z
 DTSTART:20260915T130844Z
 SUMMARY:Quarterfinal 4: WW vs NEM
 UID:cs-go-cis-lan-championship-7-2026-1686093@tournamentics
