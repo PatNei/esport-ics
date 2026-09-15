@@ -586,6 +586,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortFiesta/Season2
 </details>
 
 <details>
+<summary>Gamers Club Liga Série A</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/GamersClubLigaSRieA.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/GamersClubLigaSRieA.ics
+```
+
+---
+
+### September 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/September2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/September2026.ics
+```
+
+</details>
+
+<details>
 <summary>Logitech G Play Connect</summary>
 
 ### Full Schedule
