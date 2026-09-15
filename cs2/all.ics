@@ -2434,7 +2434,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260919T080000Z
-SUMMARY:Elimination match: DC vs TBD
+SUMMARY:Elimination match: DC vs VEX
 UID:cs-go-european-pro-league-series-9-2026-1683282@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4170,7 +4170,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
 DURATION:PT2H
 DTSTART:20260916T100000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: CS vs TBD
 UID:cs-go-cis-lan-championship-7-2026-1686094@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5028,8 +5028,8 @@ SUMMARY:Quarterfinal 3: ISG vs wachoskys
 UID:cs-go-pgl-masters-bucharest-south-american-open-qualifier-2-2026-1673555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nResult: BakS eSports: 0 | CYBERSHOKE Esports: 2\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260915T120415Z
 DTSTART:20260915T100541Z
 SUMMARY:Quarterfinal 1: BAKS vs CS
 UID:cs-go-cis-lan-championship-7-2026-1686090@tournamentics
@@ -5182,8 +5182,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-9-2026-1681122@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Vexar: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260915T120530Z
 DTSTART:20260915T103706Z
 SUMMARY:Entropy vs VEX
 UID:cs-go-european-pro-league-series-9-2026-1683281@tournamentics
@@ -9791,7 +9791,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260919T103000Z
-SUMMARY:Winners match: NXS vs TBD
+SUMMARY:Winners match: NXS vs Entropy
 UID:cs-go-european-pro-league-series-9-2026-1683283@tournamentics
 END:VEVENT
 BEGIN:VEVENT

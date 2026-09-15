@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
 DURATION:PT2H
 DTSTART:20260916T100000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: CS vs TBD
 UID:cs-go-cis-lan-championship-7-2026-1686094@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Quarterfinal 4: WW vs NEM
 UID:cs-go-cis-lan-championship-7-2026-1686093@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nResult: BakS eSports: 0 | CYBERSHOKE Esports: 2\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260915T120415Z
 DTSTART:20260915T100541Z
 SUMMARY:Quarterfinal 1: BAKS vs CS
 UID:cs-go-cis-lan-championship-7-2026-1686090@tournamentics
