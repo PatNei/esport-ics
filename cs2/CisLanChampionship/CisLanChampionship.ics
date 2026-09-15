@@ -166,12 +166,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
 DURATION:PT2H
 DTSTART:20260916T130000Z
-SUMMARY:Semifinal 2: NEM vs TBD
+SUMMARY:Semifinal 2: NEM vs UP
 UID:cs-go-cis-lan-championship-7-2026-1686095@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 7 2026\nMatch Type: Best Of\nResult: FORZE Reload: 1 | UPGRADE: 2\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260915T182459Z
 DTSTART:20260915T153840Z
 SUMMARY:Quarterfinal 3: FORZE.R vs UP
 UID:cs-go-cis-lan-championship-7-2026-1686092@tournamentics
