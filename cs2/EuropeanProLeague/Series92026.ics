@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260916T115000Z
+DTSTART:20260916T111500Z
 SUMMARY:Winners match: DRAMA vs mellren
 UID:cs-go-european-pro-league-series-9-2026-1683262@tournamentics
 END:VEVENT
@@ -142,8 +142,8 @@ SUMMARY:G2.A vs Honvéd
 UID:cs-go-european-pro-league-series-9-2026-1683264@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nResult: Lavked: 1 | Saint Sinners: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260916T105516Z
 DTSTART:20260916T080734Z
 SUMMARY:Elimination match: LVKD vs SSins
 UID:cs-go-european-pro-league-series-9-2026-1683261@tournamentics
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260921T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: SSins vs TBD
 UID:cs-go-european-pro-league-series-9-2026-1683263@tournamentics
 END:VEVENT
 BEGIN:VEVENT
