@@ -754,6 +754,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode
 </details>
 
 <details>
+<summary>Tipsport Cup</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TipsportCup/TipsportCup.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TipsportCup/TipsportCup.ics
+```
+
+---
+
+### Open #2 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TipsportCup/Open22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TipsportCup/Open22026.ics
+```
+
+</details>
+
+<details>
 <summary>UKIC</summary>
 
 ### Full Schedule
