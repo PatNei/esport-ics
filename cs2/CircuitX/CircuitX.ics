@@ -54,14 +54,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
 DTSTART:20260916T170000Z
-SUMMARY:Winners' Match: TBD vs paiN
+SUMMARY:Winners' Match: TdP vs paiN
 UID:cs-go-circuit-x-curitiba-fall-2026-1690429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
 DTSTART:20260916T173000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: ALKA vs TBD
 UID:cs-go-circuit-x-curitiba-fall-2026-1690430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-circuit-x-curitiba-fall-2026-1690930@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 1 | Turma do Pagode: 2\nStream: https://kick.com/dutchboycasts
+DTEND:20260916T171205Z
 DTSTART:20260916T132945Z
 SUMMARY:ALKA vs TdP
 UID:cs-go-circuit-x-curitiba-fall-2026-1690428@tournamentics
