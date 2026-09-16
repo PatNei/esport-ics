@@ -13,27 +13,6 @@ Subscribe to every tournament at once:
 ## A Tier
 
 <details>
-<summary>BLAST Open</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/BlastOpen.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/BlastOpen.ics
-```
-
----
-
-### Porto Fall 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/PortoFall2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/PortoFall2026.ics
-```
-
-</details>
-
-<details>
 <summary>FISSURE PLAYGROUND</summary>
 
 ### Full Schedule
