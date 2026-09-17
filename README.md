@@ -110,11 +110,11 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IbuypowerMasters/Ib
 
 ---
 
-### Fl0m's Mythical LAN 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IbuypowerMasters/Fl0mSMythicalLan2026.ics)
+### FML 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IbuypowerMasters/Fml2026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IbuypowerMasters/Fl0mSMythicalLan2026.ics
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IbuypowerMasters/Fml2026.ics
 ```
 
 </details>
