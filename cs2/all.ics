@@ -2644,7 +2644,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacs
 DURATION:PT2H
 DTSTART:20260917T210000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: maybe vs RBLS
 UID:cs-go-omen-retake-12-2026-1686112@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5329,8 +5329,8 @@ SUMMARY:Round 2: CCE vs Axial
 UID:cs-go-nstlga-league-2-2026-1669699@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nResult: WIMOK: 1 | maybe: 2\nStream: https://www.twitch.tv/rtparenacs
+DTEND:20260917T203432Z
 DTSTART:20260917T175021Z
 SUMMARY:Elimination match: WIMOK vs maybe
 UID:cs-go-omen-retake-12-2026-1686111@tournamentics
@@ -5441,8 +5441,8 @@ SUMMARY:Decider match: GAT vs EF.A
 UID:cs-go-united21-55-2026-1673411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nResult: EHISTO BASE: 0 | Fluxo W7M: 2\nStream: https://www.twitch.tv/circuitxofficial
+DTEND:20260917T203342Z
 DTSTART:20260917T191502Z
 SUMMARY:Decider match: EB vs FXW7
 UID:cs-go-circuit-x-curitiba-fall-2026-1690499@tournamentics
@@ -5546,8 +5546,8 @@ SUMMARY:Round 1: PERM vs Morrow Esports
 UID:cs-go-exort-fiesta-2-2026-1683138@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - September 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - September 2026\nMatch Type: Best Of\nResult: QUINTESSÊNCIA: 0 | Rush: 1\nStream: https://www.twitch.tv/gamersclubcs
+DTEND:20260917T203300Z
 DTSTART:20260917T194323Z
 SUMMARY:QUIN vs Rush
 UID:cs-go-gamers-club-liga-serie-a-september-2026-1692872@tournamentics
@@ -7940,8 +7940,8 @@ SUMMARY:GLS vs Elementals
 UID:cs-go-circuit-x-curitiba-fall-2026-1690764@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nResult: Eternal Fire: 2 | Rebels Gaming: 1\nStream: https://www.twitch.tv/rtparenacs
+DTEND:20260917T203656Z
 DTSTART:20260917T175917Z
 SUMMARY:Winners match: EF vs RBLS
 UID:cs-go-omen-retake-12-2026-1686110@tournamentics
