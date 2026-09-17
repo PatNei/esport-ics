@@ -32,13 +32,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en2
 DURATION:PT2H
-DTSTART:20260917T160000Z
+DTSTART:20260917T163000Z
 SUMMARY:LG vs M80
 UID:cs-go-logitech-g-play-connect-2026-1681384@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nResult: GamerLegion: 1 | NIP: 0\nStream: https://kick.com/connect_en
+DTEND:20260917T160128Z
 DTSTART:20260917T151704Z
 SUMMARY:GL vs NIP
 UID:cs-go-logitech-g-play-connect-2026-1681381@tournamentics
@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en2
 DURATION:PT2H
-DTSTART:20260917T170000Z
+DTSTART:20260917T173000Z
 SUMMARY:B8 vs M80
 UID:cs-go-logitech-g-play-connect-2026-1681386@tournamentics
 END:VEVENT
@@ -193,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en
 DURATION:PT2H
-DTSTART:20260917T163000Z
+DTSTART:20260917T173000Z
 SUMMARY:LG vs NIP
 UID:cs-go-logitech-g-play-connect-2026-1681385@tournamentics
 END:VEVENT
