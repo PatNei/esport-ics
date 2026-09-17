@@ -1285,7 +1285,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en2
 DURATION:PT2H
-DTSTART:20260917T100000Z
+DTSTART:20260917T103000Z
 SUMMARY:MZP vs LG
 UID:cs-go-logitech-g-play-connect-2026-1681376@tournamentics
 END:VEVENT
@@ -2728,7 +2728,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacsplus
 DURATION:PT2H
 DTSTART:20260917T110000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: WBT vs TBD
 UID:cs-go-omen-retake-12-2026-1686099@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3652,7 +3652,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260918T103000Z
-SUMMARY:Lower Bracket Round 1 match 2: TBD vs TBD
+SUMMARY:Lower Bracket Round 1 match 2: PSN.A vs TBD
 UID:cs-go-united21-55-2026-1695721@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4331,7 +4331,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260919T103000Z
-SUMMARY:Upper Bracket Semifinal 2: TBD vs TBD
+SUMMARY:Upper Bracket Semifinal 2: PRE vs TBD
 UID:cs-go-united21-55-2026-1695718@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6295,8 +6295,8 @@ SUMMARY:Morrow Esports vs PHTM.Ac
 UID:cs-go-cct-europe-closed-qualifier-series-9-2026-1677988@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: Passion Academy: 0 | Prestige: 2\nStream: https://kick.com/united21_en
+DTEND:20260917T094116Z
 DTSTART:20260917T080516Z
 SUMMARY:Upper Bracket Quarterfinal 3: PSN.A vs PRE
 UID:cs-go-united21-55-2026-1692977@tournamentics
@@ -7628,7 +7628,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacs
 DURATION:PT2H
 DTSTART:20260917T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: 7o7 eSports vs TBD
 UID:cs-go-omen-retake-12-2026-1686100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8003,8 +8003,8 @@ SUMMARY:Upper bracket round 2 match 3: banda chuya vs DM
 UID:cs-go-esea-advanced-europe-58-2026-1664497@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sinon__cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nResult: WBT: 2 | 7o7 eSports: 0\nStream: https://www.twitch.tv/sinon__cs
+DTEND:20260917T094604Z
 DTSTART:20260917T083819Z
 SUMMARY:WBT vs 7o7 eSports
 UID:cs-go-omen-retake-12-2026-1686097@tournamentics

@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260919T103000Z
-SUMMARY:Upper Bracket Semifinal 2: TBD vs TBD
+SUMMARY:Upper Bracket Semifinal 2: PRE vs TBD
 UID:cs-go-united21-55-2026-1695718@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -121,8 +121,8 @@ SUMMARY:PHTM.Ac vs EACE
 UID:cs-go-united21-55-2026-1673402@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nResult: Passion Academy: 0 | Prestige: 2\nStream: https://kick.com/united21_en
+DTEND:20260917T094116Z
 DTSTART:20260917T080516Z
 SUMMARY:Upper Bracket Quarterfinal 3: PSN.A vs PRE
 UID:cs-go-united21-55-2026-1692977@tournamentics
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 55 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260918T103000Z
-SUMMARY:Lower Bracket Round 1 match 2: TBD vs TBD
+SUMMARY:Lower Bracket Round 1 match 2: PSN.A vs TBD
 UID:cs-go-united21-55-2026-1695721@tournamentics
 END:VEVENT
 BEGIN:VEVENT
