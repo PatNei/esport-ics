@@ -99,6 +99,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series820
 </details>
 
 <details>
+<summary>iBUYPOWER Masters</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IbuypowerMasters/IbuypowerMasters.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IbuypowerMasters/IbuypowerMasters.ics
+```
+
+---
+
+### Fl0m's Mythical LAN 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IbuypowerMasters/Fl0mSMythicalLan2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IbuypowerMasters/Fl0mSMythicalLan2026.ics
+```
+
+</details>
+
+<details>
 <summary>Logitech G Play Connect</summary>
 
 ### Full Schedule
