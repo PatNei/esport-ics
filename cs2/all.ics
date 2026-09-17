@@ -2546,7 +2546,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260918T173000Z
-SUMMARY:Upper Bracket Semifinal 2: VIT vs TBD
+SUMMARY:Upper Bracket Semifinal 2: VIT vs FURIA
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685169@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2636,7 +2636,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacs
 DURATION:PT2H
-DTSTART:20260917T200000Z
+DTSTART:20260917T210000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-omen-retake-12-2026-1686112@tournamentics
 END:VEVENT
@@ -2909,7 +2909,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
-DTSTART:20260917T200000Z
+DTSTART:20260917T213000Z
 SUMMARY:BST vs CLANSBR
 UID:cs-go-circuit-x-curitiba-fall-2026-1690776@tournamentics
 END:VEVENT
@@ -3341,8 +3341,8 @@ SUMMARY:KSM vs NEXORA
 UID:cs-go-esea-advanced-europe-58-2026-1641634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nResult: FURIA: 2 | MIBR: 1\nStream: https://kick.com/starladder
+DTEND:20260917T195533Z
 DTSTART:20260917T170951Z
 SUMMARY:Upper Bracket Quarterfinal 4: FURIA vs MIBR
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685165@tournamentics
@@ -4645,7 +4645,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
-DTSTART:20260918T003000Z
+DTSTART:20260918T020000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-circuit-x-curitiba-fall-2026-1690883@tournamentics
 END:VEVENT
@@ -4993,9 +4993,9 @@ SUMMARY:Upper bracket round 2 match 7: NAVI.J vs BG
 UID:cs-go-esea-advanced-europe-58-2026-1664501@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacs
+DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sinon__cs
 DURATION:PT2H
-DTSTART:20260917T200000Z
+DTSTART:20260917T204500Z
 SUMMARY:Decider match: FaZe UN vs Nice Try
 UID:cs-go-omen-retake-12-2026-1686101@tournamentics
 END:VEVENT
@@ -7389,7 +7389,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
-DTSTART:20260917T221500Z
+DTSTART:20260917T234500Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-circuit-x-curitiba-fall-2026-1690882@tournamentics
 END:VEVENT
@@ -7641,7 +7641,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
-DTSTART:20260917T221500Z
+DTSTART:20260917T234500Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-circuit-x-curitiba-fall-2026-1690801@tournamentics
 END:VEVENT
@@ -7852,7 +7852,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260918T123000Z
-SUMMARY:Lower Bracket Round 1 Match 2: MGC vs TBD
+SUMMARY:Lower Bracket Round 1 Match 2: MGC vs MIBR
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685167@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7935,7 +7935,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
-DTSTART:20260917T200000Z
+DTSTART:20260917T213000Z
 SUMMARY:GLS vs Elementals
 UID:cs-go-circuit-x-curitiba-fall-2026-1690764@tournamentics
 END:VEVENT
