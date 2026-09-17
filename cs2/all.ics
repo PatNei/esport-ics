@@ -2727,7 +2727,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacsplus
 DURATION:PT2H
-DTSTART:20260917T110000Z
+DTSTART:20260917T103000Z
 SUMMARY:Winners match: WBT vs Nice Try
 UID:cs-go-omen-retake-12-2026-1686099@tournamentics
 END:VEVENT
@@ -6596,8 +6596,8 @@ SUMMARY:Winners match: BG vs REV
 UID:cs-go-exort-fiesta-closed-qualifier-series-2-2026-1677363@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nResult: NIP: 0 | M80: 1\nStream: https://kick.com/connect_en2
+DTEND:20260917T101952Z
 DTSTART:20260917T091537Z
 SUMMARY:NIP vs M80
 UID:cs-go-logitech-g-play-connect-2026-1681374@tournamentics
@@ -7625,9 +7625,9 @@ SUMMARY:Upper bracket round 2 match 6: FAL.F vs ZOTIX
 UID:cs-go-esea-advanced-europe-58-2026-1664500@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacs
+DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sinon__cs
 DURATION:PT2H
-DTSTART:20260917T110000Z
+DTSTART:20260917T103000Z
 SUMMARY:Elimination match: 7o7 eSports vs FaZe UN
 UID:cs-go-omen-retake-12-2026-1686100@tournamentics
 END:VEVENT
@@ -9046,8 +9046,8 @@ SUMMARY:Lower Bracket Semifinal: TBD vs TBD
 UID:cs-go-stake-ranked-episode-4-2026-1682127@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nResult: GamerLegion: 1 | Luminosity: 0\nStream: https://kick.com/connect_en
+DTEND:20260917T102049Z
 DTSTART:20260917T093558Z
 SUMMARY:GL vs LG
 UID:cs-go-logitech-g-play-connect-2026-1681373@tournamentics
