@@ -436,9 +436,9 @@ SUMMARY:Round 4: EAC vs JustP
 UID:cs-go-cct-europe-series-8-2026-1651678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #9 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #9 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260917T173000Z
+DTSTART:20260917T172332Z
 SUMMARY:Round 2: NXS vs TS.A
 UID:cs-go-cct-europe-series-9-2026-1681110@tournamentics
 END:VEVENT
@@ -1537,7 +1537,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en2
 DURATION:PT2H
-DTSTART:20260917T173000Z
+DTSTART:20260917T175000Z
 SUMMARY:B8 vs M80
 UID:cs-go-logitech-g-play-connect-2026-1681386@tournamentics
 END:VEVENT
@@ -3327,8 +3327,8 @@ SUMMARY:Lower bracket round 1 match 1: ESB vs ENRAGE
 UID:cs-go-esea-advanced-europe-58-2026-1664509@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nResult: maybe: 0 | Rebels Gaming: 2\nStream: https://kick.com/dutchboycasts
+DTEND:20260917T172001Z
 DTSTART:20260917T153800Z
 SUMMARY:maybe vs RBLS
 UID:cs-go-omen-retake-12-2026-1686109@tournamentics
@@ -4120,7 +4120,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en
 DURATION:PT2H
-DTSTART:20260917T173000Z
+DTSTART:20260917T174000Z
 SUMMARY:LG vs NIP
 UID:cs-go-logitech-g-play-connect-2026-1681385@tournamentics
 END:VEVENT
@@ -4202,8 +4202,8 @@ SUMMARY:BJNG vs RGG
 UID:cs-go-esea-advanced-europe-58-2026-1654116@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 12 2026\nMatch Type: Best Of\nResult: Black Phoenix: 2 | ex-RUSTEC: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260917T172316Z
 DTSTART:20260917T143646Z
 SUMMARY:Round 2: Black Phoenix vs ex-RUSTEC
 UID:cs-go-nodwin-clutch-series-12-2026-1684148@tournamentics
@@ -5318,7 +5318,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacs
 DURATION:PT2H
 DTSTART:20260917T180000Z
-SUMMARY:Elimination match: WIMOK vs TBD
+SUMMARY:Elimination match: WIMOK vs maybe
 UID:cs-go-omen-retake-12-2026-1686111@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5429,7 +5429,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
-DTSTART:20260917T173000Z
+DTSTART:20260917T180000Z
 SUMMARY:Decider match: EB vs TBD
 UID:cs-go-circuit-x-curitiba-fall-2026-1690499@tournamentics
 END:VEVENT
@@ -6484,9 +6484,9 @@ SUMMARY:ESB vs HEC
 UID:cs-go-esea-advanced-europe-58-2026-1654129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Fiesta - Season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Fiesta - Season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/fiesta_cs
 DURATION:PT2H
-DTSTART:20260917T173000Z
+DTSTART:20260917T172045Z
 SUMMARY:Round 4: ENCE vs KAMUI
 UID:cs-go-exort-fiesta-2-2026-1683168@tournamentics
 END:VEVENT
@@ -6911,8 +6911,8 @@ SUMMARY:Upper Bracket Final: 1WIN vs NEMI
 UID:cs-go-pgl-masters-bucharest-european-qualifier-2026-1676026@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nResult: Luminosity: 1 | M80: 0\nStream: https://kick.com/connect_en2
+DTEND:20260917T172225Z
 DTSTART:20260917T164522Z
 SUMMARY:LG vs M80
 UID:cs-go-logitech-g-play-connect-2026-1681384@tournamentics
@@ -7943,7 +7943,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacs
 DURATION:PT2H
 DTSTART:20260917T180000Z
-SUMMARY:Winners match: EF vs TBD
+SUMMARY:Winners match: EF vs RBLS
 UID:cs-go-omen-retake-12-2026-1686110@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9396,8 +9396,8 @@ SUMMARY:Upper Bracket Semifinal 2: SIN vs NEMI
 UID:cs-go-pgl-masters-bucharest-european-qualifier-2026-1676025@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nResult: Metizport: 1 | GamerLegion: 0\nStream: https://kick.com/connect_en
+DTEND:20260917T171505Z
 DTSTART:20260917T163303Z
 SUMMARY:MZP vs GL
 UID:cs-go-logitech-g-play-connect-2026-1681383@tournamentics
