@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
 DTSTART:20260917T034500Z
-SUMMARY:Decider match: YAW vs TBD
+SUMMARY:Decider match: YAW vs BHE
 UID:cs-go-circuit-x-curitiba-fall-2026-1690458@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -121,8 +121,8 @@ SUMMARY:BST vs CLANSBR
 UID:cs-go-circuit-x-curitiba-fall-2026-1690776@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Bounty Hunters Esports: 1\nStream: https://www.twitch.tv/circuitxofficial
+DTEND:20260917T033033Z
 DTSTART:20260917T005601Z
 SUMMARY:Winners' Match: IMP vs BHE
 UID:cs-go-circuit-x-curitiba-fall-2026-1690457@tournamentics
