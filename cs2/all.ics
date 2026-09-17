@@ -1556,9 +1556,9 @@ SUMMARY:B8.A vs JUMBO
 UID:cs-go-esea-advanced-europe-58-2026-1641631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260917T100000Z
+DTSTART:20260917T100102Z
 SUMMARY:Upper Bracket Quarterfinal 1: MOUZ vs NRG
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685162@tournamentics
 END:VEVENT
@@ -2728,7 +2728,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacsplus
 DURATION:PT2H
 DTSTART:20260917T110000Z
-SUMMARY:Winners match: WBT vs TBD
+SUMMARY:Winners match: WBT vs Nice Try
 UID:cs-go-omen-retake-12-2026-1686099@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5420,8 +5420,8 @@ SUMMARY:Upper bracket round 2 match 4: KSM vs Spirit Academy Green
 UID:cs-go-esea-advanced-europe-58-2026-1664498@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacsplus
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nResult: Nice Try: 2 | FaZe Up Next: 0\nStream: https://www.twitch.tv/rtparenacsplus
+DTEND:20260917T100525Z
 DTSTART:20260917T084026Z
 SUMMARY:Nice Try vs FaZe UN
 UID:cs-go-omen-retake-12-2026-1686098@tournamentics
@@ -7628,7 +7628,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacs
 DURATION:PT2H
 DTSTART:20260917T110000Z
-SUMMARY:Elimination match: 7o7 eSports vs TBD
+SUMMARY:Elimination match: 7o7 eSports vs FaZe UN
 UID:cs-go-omen-retake-12-2026-1686100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
