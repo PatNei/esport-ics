@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacs
 DURATION:PT2H
 DTSTART:20260917T200000Z
-SUMMARY:Decider match: FaZe UN vs TBD
+SUMMARY:Decider match: FaZe UN vs Nice Try
 UID:cs-go-omen-retake-12-2026-1686101@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -149,8 +149,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-omen-retake-12-2026-1686128@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacsplus
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nResult: WBT: 2 | Nice Try: 1\nStream: https://www.twitch.tv/rtparenacsplus
+DTEND:20260917T131200Z
 DTSTART:20260917T103924Z
 SUMMARY:Winners match: WBT vs Nice Try
 UID:cs-go-omen-retake-12-2026-1686099@tournamentics
