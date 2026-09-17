@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nResult: Natus Vincere: 0 | Aurora Gaming: 2\nStream: https://kick.com/starladder
+DTEND:20260917T165323Z
 DTSTART:20260917T150743Z
 SUMMARY:Upper Bracket Quarterfinal 2: NAVI vs AUR
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685163@tournamentics
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260918T150000Z
-SUMMARY:Upper Bracket Semifinal 1: NRG vs TBD
+SUMMARY:Upper Bracket Semifinal 1: NRG vs AUR
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685168@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260918T100000Z
-SUMMARY:Lower Bracket Round 1 Match 1: MOUZ vs TBD
+SUMMARY:Lower Bracket Round 1 Match 1: MOUZ vs NAVI
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685166@tournamentics
 END:VEVENT
 END:VCALENDAR
