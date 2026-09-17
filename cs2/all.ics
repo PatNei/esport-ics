@@ -873,7 +873,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260918T100000Z
-SUMMARY:Lower Bracket Round 1 Match 1: TBD vs TBD
+SUMMARY:Lower Bracket Round 1 Match 1: MOUZ vs TBD
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685166@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1577,8 +1577,8 @@ SUMMARY:B8.A vs JUMBO
 UID:cs-go-esea-advanced-europe-58-2026-1641631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nResult: MOUZ: 1 | NRG: 2\nStream: https://kick.com/starladder
+DTEND:20260917T125126Z
 DTSTART:20260917T100102Z
 SUMMARY:Upper Bracket Quarterfinal 1: MOUZ vs NRG
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685162@tournamentics
@@ -5213,7 +5213,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260918T150000Z
-SUMMARY:Upper Bracket Semifinal 1: TBD vs TBD
+SUMMARY:Upper Bracket Semifinal 1: NRG vs TBD
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685168@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6094,7 +6094,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260917T130000Z
+DTSTART:20260917T131000Z
 SUMMARY:Upper Bracket Quarterfinal 3: VIT vs MGC
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685164@tournamentics
 END:VEVENT
@@ -7690,7 +7690,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en2
 DURATION:PT2H
-DTSTART:20260917T130000Z
+DTSTART:20260917T133000Z
 SUMMARY:LG vs B8
 UID:cs-go-logitech-g-play-connect-2026-1681380@tournamentics
 END:VEVENT
@@ -8094,8 +8094,8 @@ SUMMARY:Elimination Match: TBD vs TBD
 UID:cs-go-stake-pulse-beat-ii-2026-1684021@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #9 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_cs_ru3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #9 2026\nMatch Type: Best Of\nResult: Permitta Esports: 0 | Just Players: 2\nStream: https://www.twitch.tv/betboom_cs_ru3
+DTEND:20260917T124956Z
 DTSTART:20260917T111019Z
 SUMMARY:Round 2: PERM vs JustP
 UID:cs-go-cct-europe-series-9-2026-1681108@tournamentics
