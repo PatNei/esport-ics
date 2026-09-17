@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
 DTSTART:20260917T234500Z
-SUMMARY:Winners match: BST vs TBD
+SUMMARY:Winners match: BST vs GLS
 UID:cs-go-circuit-x-curitiba-fall-2026-1690801@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
 DTSTART:20260917T234500Z
-SUMMARY:Elimination match: CLANSBR vs TBD
+SUMMARY:Elimination match: CLANSBR vs Elementals
 UID:cs-go-circuit-x-curitiba-fall-2026-1690882@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -86,8 +86,8 @@ SUMMARY:3rd place decider: TBD vs TBD
 UID:cs-go-circuit-x-curitiba-fall-2026-1690936@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nResult: Galorys: 2 | Elementals: 0\nStream: https://kick.com/dutchboycasts
+DTEND:20260917T230857Z
 DTSTART:20260917T213714Z
 SUMMARY:GLS vs Elementals
 UID:cs-go-circuit-x-curitiba-fall-2026-1690764@tournamentics
