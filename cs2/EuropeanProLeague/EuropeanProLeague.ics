@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260921T103000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: MISA vs TBD
 UID:cs-go-european-pro-league-series-9-2026-1683268@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -331,8 +331,8 @@ SUMMARY:BW vs NAVI.J
 UID:cs-go-european-pro-league-series-9-2026-1683270@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 9 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | Misa Esports: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260917T110026Z
 DTSTART:20260917T081035Z
 SUMMARY:Elimination match: G2.A vs MISA
 UID:cs-go-european-pro-league-series-9-2026-1683266@tournamentics
