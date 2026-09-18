@@ -99,27 +99,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series820
 </details>
 
 <details>
-<summary>iBUYPOWER Masters</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IbuypowerMasters/IbuypowerMasters.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IbuypowerMasters/IbuypowerMasters.ics
-```
-
----
-
-### FML 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IbuypowerMasters/Fml2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/IbuypowerMasters/Fml2026.ics
-```
-
-</details>
-
-<details>
 <summary>Logitech G Play Connect</summary>
 
 ### Full Schedule
@@ -565,27 +544,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 </details>
 
 <details>
-<summary>GLuck Yungstar</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/GluckYungstar.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/GluckYungstar.ics
-```
-
----
-
-### Closed Qualifier: Series #3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/ClosedQualifierSeries32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckYungstar/ClosedQualifierSeries32026.ics
-```
-
-</details>
-
-<details>
 <summary>NODWIN Clutch Series</summary>
 
 ### Full Schedule
@@ -728,27 +686,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TipsportCup/Tipspor
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/TipsportCup/Open22026.ics
-```
-
-</details>
-
-<details>
-<summary>UKIC</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Ukic/Ukic.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Ukic/Ukic.ics
-```
-
----
-
-### Masters Division season 11 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Ukic/MastersDivisionSeason112026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Ukic/MastersDivisionSeason112026.ics
 ```
 
 </details>
