@@ -1818,7 +1818,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260919T150000Z
-SUMMARY:Upper Bracket Final: TBD vs TBD
+SUMMARY:Upper Bracket Final: AUR vs TBD
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685172@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3750,7 +3750,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
 DTSTART:20260919T180000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: FXW7 vs TBD
 UID:cs-go-circuit-x-curitiba-fall-2026-1690934@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4436,7 +4436,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260919T100000Z
-SUMMARY:Lower Bracket Quarterfinal 2: MIBR vs TBD
+SUMMARY:Lower Bracket Quarterfinal 2: MIBR vs NRG
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685171@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4559,8 +4559,8 @@ SUMMARY:B8.A vs XI
 UID:cs-go-esea-advanced-europe-58-2026-1617666@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nResult: paiN: 1 | Fluxo W7M: 2\nStream: https://www.twitch.tv/circuitxofficial
+DTEND:20260918T182340Z
 DTSTART:20260918T152132Z
 SUMMARY:Quarterfinal 1: paiN vs FXW7
 UID:cs-go-circuit-x-curitiba-fall-2026-1690930@tournamentics
@@ -5196,8 +5196,8 @@ SUMMARY:M80 vs BST
 UID:cs-go-ibuypower-fml-2026-1696333@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nResult: NRG: 0 | Aurora Gaming: 2\nStream: https://kick.com/starladder
+DTEND:20260918T182338Z
 DTSTART:20260918T160816Z
 SUMMARY:Upper Bracket Semifinal 1: NRG vs AUR
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685168@tournamentics
