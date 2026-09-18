@@ -2686,7 +2686,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260919T210000Z
-SUMMARY:Upper Bracket Final: Rush vs TBD
+SUMMARY:Upper Bracket Final: Rush vs your end
 UID:cs-go-champion-of-champions-tour-challengers-3-2026-1693755@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7989,8 +7989,8 @@ SUMMARY:MSC vs EACE
 UID:cs-go-dust2-dk-33-2026-1688023@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Challengers #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #3 2026\nMatch Type: Best Of\nResult: underw0rld: 1 | your end: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260918T024707Z
 DTSTART:20260917T235907Z
 SUMMARY:Upper Bracket Semifinal 1: underw0rld vs your end
 UID:cs-go-champion-of-champions-tour-challengers-3-2026-1693753@tournamentics
@@ -8328,7 +8328,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260918T210000Z
-SUMMARY:Lower Bracket Quarterfinal 2: QUIN vs TBD
+SUMMARY:Lower Bracket Quarterfinal 2: QUIN vs underw0rld
 UID:cs-go-champion-of-champions-tour-challengers-3-2026-1693763@tournamentics
 END:VEVENT
 BEGIN:VEVENT
