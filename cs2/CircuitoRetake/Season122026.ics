@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacs
 DURATION:PT2H
 DTSTART:20260918T200000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: SAW.Y vs TBD
 UID:cs-go-omen-retake-12-2026-1686117@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:LDP vs GBC
 UID:cs-go-omen-retake-12-2026-1686118@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rtparenacs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuito Retake - Season 12 2026\nMatch Type: Best Of\nResult: SAW Youngsters: 0 | GenOne: 2\nStream: https://www.twitch.tv/rtparenacs
+DTEND:20260918T120518Z
 DTSTART:20260918T104258Z
 SUMMARY:Winners match: SAW.Y vs G1
 UID:cs-go-omen-retake-12-2026-1686115@tournamentics
