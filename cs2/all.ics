@@ -2531,7 +2531,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260918T180000Z
+DTSTART:20260918T182000Z
 SUMMARY:Upper Bracket Semifinal 2: VIT vs FURIA
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685169@tournamentics
 END:VEVENT
@@ -6239,9 +6239,9 @@ SUMMARY:Honvéd vs NAVI.J
 UID:cs-go-esea-advanced-europe-58-2026-1638628@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/peluso33
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 58 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/trisscary
 DURATION:PT2H
-DTSTART:20260918T173000Z
+DTSTART:20260918T174539Z
 SUMMARY:Lower bracket quarterfinal 1: NAVI.J vs BG
 UID:cs-go-esea-advanced-europe-58-2026-1664541@tournamentics
 END:VEVENT
@@ -6351,8 +6351,8 @@ SUMMARY:ENRAGE vs NV
 UID:cs-go-esea-advanced-europe-58-2026-1600658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nResult: Infinite: 0 | EYEBALLERS: 1\nStream: https://kick.com/connect_en
+DTEND:20260918T174642Z
 DTSTART:20260918T171709Z
 SUMMARY:INF vs EYE
 UID:cs-go-logitech-g-play-connect-2026-1681398@tournamentics
