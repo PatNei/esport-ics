@@ -1789,7 +1789,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en
 DURATION:PT2H
-DTSTART:20260918T160000Z
+DTSTART:20260918T161500Z
 SUMMARY:TL vs 3DMAX
 UID:cs-go-logitech-g-play-connect-2026-1681396@tournamentics
 END:VEVENT
@@ -3602,7 +3602,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en2
 DURATION:PT2H
-DTSTART:20260918T160000Z
+DTSTART:20260918T171500Z
 SUMMARY:BBL vs TL
 UID:cs-go-logitech-g-play-connect-2026-1681399@tournamentics
 END:VEVENT
@@ -4412,8 +4412,8 @@ SUMMARY:BJNG vs TEAM_COPH9K
 UID:cs-go-esea-advanced-europe-58-2026-1600655@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nResult: BBL: 0 | 3DMAX: 1\nStream: https://kick.com/connect_en2
+DTEND:20260918T154901Z
 DTSTART:20260918T143536Z
 SUMMARY:BBL vs 3DMAX
 UID:cs-go-logitech-g-play-connect-2026-1681395@tournamentics
@@ -4443,7 +4443,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260919T123000Z
-SUMMARY:Lower Bracket Quarterfinal 2: TBD vs TBD
+SUMMARY:Lower Bracket Quarterfinal 2: MIBR vs TBD
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685171@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5205,7 +5205,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260918T160000Z
+DTSTART:20260918T161000Z
 SUMMARY:Upper Bracket Semifinal 1: NRG vs AUR
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685168@tournamentics
 END:VEVENT
@@ -5905,7 +5905,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en2
 DURATION:PT2H
-DTSTART:20260918T170000Z
+DTSTART:20260918T183000Z
 SUMMARY:INF vs 3DMAX
 UID:cs-go-logitech-g-play-connect-2026-1681401@tournamentics
 END:VEVENT
@@ -7814,8 +7814,8 @@ SUMMARY:banda chuya vs RGG
 UID:cs-go-esea-advanced-europe-58-2026-1649039@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: StarLadder StarSeries - Fall 2026\nMatch Type: Best Of\nResult: magic: 1 | MIBR: 2\nStream: https://kick.com/starladder
+DTEND:20260918T155152Z
 DTSTART:20260918T131114Z
 SUMMARY:Lower Bracket Round 1 Match 2: MGC vs MIBR
 UID:cs-go-starladder-i-league-starseries-fall-2026-1685167@tournamentics
@@ -8887,7 +8887,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en2
 DURATION:PT2H
-DTSTART:20260918T160000Z
+DTSTART:20260918T161500Z
 SUMMARY:EYE vs BBL
 UID:cs-go-logitech-g-play-connect-2026-1681397@tournamentics
 END:VEVENT
