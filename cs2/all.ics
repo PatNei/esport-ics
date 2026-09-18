@@ -4660,7 +4660,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
 DTSTART:20260918T020000Z
-SUMMARY:Decider match: BST vs TBD
+SUMMARY:Decider match: BST vs CLANSBR
 UID:cs-go-circuit-x-curitiba-fall-2026-1690883@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7394,8 +7394,8 @@ SUMMARY:Lower Round 1 Match 1: TBD vs TBD
 UID:cs-go-stake-ranked-episode-4-2026-1682124@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nResult: CLANSBR: 2 | Elementals: 1\nStream: No official stream linked
+DTEND:20260918T014630Z
 DTSTART:20260917T233938Z
 SUMMARY:Elimination match: CLANSBR vs Elementals
 UID:cs-go-circuit-x-curitiba-fall-2026-1690882@tournamentics
