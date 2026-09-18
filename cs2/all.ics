@@ -4566,9 +4566,9 @@ SUMMARY:B8.A vs XI
 UID:cs-go-esea-advanced-europe-58-2026-1617666@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
+DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
-DTSTART:20260918T151500Z
+DTSTART:20260918T152132Z
 SUMMARY:Quarterfinal 1: paiN vs FXW7
 UID:cs-go-circuit-x-curitiba-fall-2026-1690930@tournamentics
 END:VEVENT
@@ -7198,8 +7198,8 @@ SUMMARY:banda chuya vs FRT
 UID:cs-go-esea-advanced-europe-58-2026-1600654@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nResult: Infinite: 0 | Inner Circle Esports: 1\nStream: https://kick.com/connect_en
+DTEND:20260918T151914Z
 DTSTART:20260918T143020Z
 SUMMARY:INF vs ICE
 UID:cs-go-logitech-g-play-connect-2026-1681394@tournamentics
@@ -8887,7 +8887,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Logitech G Play Connect - 2026\nMatch Type: Best Of\nStream: https://kick.com/connect_en2
 DURATION:PT2H
-DTSTART:20260918T153000Z
+DTSTART:20260918T160000Z
 SUMMARY:EYE vs BBL
 UID:cs-go-logitech-g-play-connect-2026-1681397@tournamentics
 END:VEVENT
