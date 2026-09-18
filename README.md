@@ -248,27 +248,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CircuitX/CuritibaFa
 </details>
 
 <details>
-<summary>ESL Challenger League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics
-```
-
----
-
-### Europe Cup #6 season 52 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup6Season522026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EuropeCup6Season522026.ics
-```
-
-</details>
-
-<details>
 <summary>PGL Masters</summary>
 
 ### Full Schedule
