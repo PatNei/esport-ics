@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/circuitxofficial
 DURATION:PT2H
 DTSTART:20260918T020000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: BST vs TBD
 UID:cs-go-circuit-x-curitiba-fall-2026-1690883@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -16,8 +16,8 @@ SUMMARY:SHIN vs EB
 UID:cs-go-circuit-x-curitiba-fall-2026-1690480@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nStream: https://kick.com/locomas
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Curitiba Fall 2026\nMatch Type: Best Of\nResult: BESTIA: 0 | Galorys: 2\nStream: https://kick.com/locomas
+DTEND:20260918T012105Z
 DTSTART:20260917T233854Z
 SUMMARY:Winners match: BST vs GLS
 UID:cs-go-circuit-x-curitiba-fall-2026-1690801@tournamentics
